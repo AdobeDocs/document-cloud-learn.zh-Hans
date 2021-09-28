@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,28 @@ ht-degree: 0%
     <a href="send-to-multiple-recipients.md"><strong>发送给多个收件人</strong></a>
     </div>
     <em>按照您想要的顺序将文档发送给多个人员进行电子签名</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="面向新发件人的Adobe Sign入门" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>面向新发件人的Adobe Sign入门</strong></a>
+    </div>
+    <em>本全面的教程是Adobe Sign中新发件人的绝佳入门</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

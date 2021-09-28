@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe SignTutorials
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '414'
 ht-degree: 6%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 6%
       + [快速浏览Adobe Sign](sign-beginner-tutorials/quick-tour.md)
       + [发送给单个收件人](sign-beginner-tutorials/send-to-single-recipient.md)
       + [发送给多个收件人](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [面向新发件人的Adobe Sign入门](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [以电子方式签署文档](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写和签名文档](sign-beginner-tutorials/fill-and-sign.md)
