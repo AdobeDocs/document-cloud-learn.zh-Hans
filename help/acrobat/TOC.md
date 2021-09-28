@@ -1,0 +1,93 @@
+---
+user-guide-title: AcrobatTutorials
+solution: Document Cloud, Acrobat DC
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/acrobat.html
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+tutorials-title: Tutorials
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+breadcrumb-title: AcrobatTutorials
+source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 13%
+
+---
+
+
+# Acrobat教程 {#acrobat-learning}
+
++ [概览](overview.md)
++ 快速入门 {#getting-started}
+   + [概览](getting-started/getting-started-overview.md)
+   + [了解 Acrobat DC 界面](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
+   + [将文件合并到 PDF](getting-started/combine-to-pdf.md)
+   + [创建PDF文件](getting-started/create-pdf.md)
+   + [在Acrobat DC中对PDF文件添加注释](getting-started/comment-on-pdf-files.md)
+   + [在Acrobat DC中编辑PDF](getting-started/edit-pdf.md)
+   + [将PDF导出为可编辑格式](getting-started/export-pdf.md)
+   + [创建可填写的表单](getting-started/create-fillable-forms.md)
+   + [扫描和OCR](getting-started/scan-and-ocr.md)
+   + [组织页面](getting-started/organize.md)
+   + [Protect带密码的PDF文件](getting-started/password-protect.md)
+   + [填写和签名PDF表单](getting-started/fill-and-sign.md)
++ 高级任务{#advanced-tasks}
+   + [概览](advanced-tasks/advanced-tasks-overview.md)
+   + [检测两个PDF之间的差异](advanced-tasks/compare.md)
+   + [Action Wizard](advanced-tasks/action.md)
+   + [标记密文并整理](advanced-tasks/redact.md)
+   + [减小文件大小并优化](advanced-tasks/reduce.md)
+   + [使用表单数据](advanced-tasks/formdata.md)
+   + [准备具有辅助工具的PDF文件](advanced-tasks/accessibility.md)
+   + Acrobat辅助功能系列{#accessibility-series}
+      + [概览](advanced-tasks/accessibility-series.md)
+      + [PDF辅助工具简介](advanced-tasks/accessibilitysession1.md)
+      + [修正无法访问的PDF](advanced-tasks/accessibilitysession2.md)
+      + [复杂表](advanced-tasks/accessibilitysession3.md)
+      + [扫描的文档和复杂列表](advanced-tasks/accessibilitysession4.md)
+      + [向加标签的PDF中添加表单域](advanced-tasks/accessibilitysession5.md)
+      + [向未加标签的PDF中添加表单域](advanced-tasks/accessibilitysession6.md)
++ 60秒Acrobat {#60-second}
+   + [概览](60-second/60-second-overview.md)
+   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
+   + [使用Acrobat Web编辑PDF](60-second/edit.md)
+   + [一次搜索多个PDF文件](60-second/search.md)
+   + [即时创建照片PDF](60-second/photo.md)
+   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
+   + [将PDF注释加载到InDesign](60-second/indesign.md)
++ 技能构建器{#skill-builders}
+   + [概览](skill-builder/skill-builder-overview.md)
+   + [网络研讨会](skill-builder/skill-builder-webinars.md)
++ 集成{#integrations}
+   + [概览](integrate/integrate-overview.md)
+   + [从 Microsoft Word 创建 PDF](integrate/createfromword.md)
+   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [使用SharePoint文件](integrate/acrobatandsp.md)
+   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
+   + [在Outlook中将电子邮件和附件转换为PDF](integrate/outlook.md)
++ 行业{#by-industry}
+   + [概览](industry/industry-overview.md)
+   + 政府{#gov}
+      + [概览](industry/gov/gov-overview.md)
+      + 使用Acrobat DC {#tips}随时随地工作的5个提示
+         + [随时随地使用Acrobat DC的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
+         + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
+         + [提示#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
+         + [提示#4 — 使用表单和签名](industry/gov/work-with-forms-and-signatures.md)
+         + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
+      + 辅助工具 {#pdfs}
+         + [使PDF具有辅助工具](industry/gov/making-pdfs-accessible.md)
+         + [#1 — 了解辅助功能](industry/gov/understanding-accessibility.md)
+         + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
+         + [#3 — 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
+         + [使PDF选票更易访问](industry/gov/making-pdf-ballots-accessible.md)
++ 开发{#develop}
+   + [概览](develop/develop-overview.md)
++ 部署{#deploy}
+   + [概览](deploy/deploy-overview.md)
+   + [重要的Acrobat DC产品更新针对ETLA客户](deploy/signentitlementchanges.md)
++ 移动设备 {#mobile}
+   + [概览](mobile/mobile-overview.md)
