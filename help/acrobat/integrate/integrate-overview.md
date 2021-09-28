@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 490175fbcac50fe1bd7abf8bbffad6fd97061660
+source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -69,8 +69,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <a href="edge.md">
+      <img alt="使用[!DNL Microsoft Edge]浏览时创建PDF内容" src="../assets/Edge_1280.png" />
+    </a>
     <div>
+    <a href="edge.md"><strong>使用[!DNL Microsoft Edge]浏览时创建PDF内容</strong></a>
+    </div>
+    <em>了解如何使用[!DNL Microsoft Edge]的Adobe Acrobat扩展程序将网页动态存档为PDF</em>
     <br>
   </td>
   <td>
