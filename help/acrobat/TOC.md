@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 13%
+source-wordcount: '281'
+ht-degree: 12%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 13%
 + 快速入门 {#getting-started}
    + [概览](getting-started/getting-started-overview.md)
    + [了解 Acrobat DC 界面](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
+   + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [将文件合并到 PDF](getting-started/combine-to-pdf.md)
    + [创建PDF文件](getting-started/create-pdf.md)
    + [在Acrobat DC中对PDF文件添加注释](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 13%
    + [组织页面](getting-started/organize.md)
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [填写和签名PDF表单](getting-started/fill-and-sign.md)
+   + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务{#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)
    + [检测两个PDF之间的差异](advanced-tasks/compare.md)

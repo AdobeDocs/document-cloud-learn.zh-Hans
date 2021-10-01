@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 3%
 
 ---
@@ -34,13 +34,13 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="随时随地使用Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
+    <a href="acrobatweb.md"><strong>随时随地使用Acrobat Web</strong></a>
     </div>
-    <em>了解PDF的来源及其用途</em>
+    <em>了解如何使用浏览器中的Acrobat Web工具随时随地处理业务文档请求</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ ht-degree: 3%
     <a href="fill-and-sign.md"><strong>填写和签名PDF表单</strong></a>
     </div>
     <em>快速填写和签署PDF表单</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
+    </div>
+    <em>了解PDF的来源及其用途</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
