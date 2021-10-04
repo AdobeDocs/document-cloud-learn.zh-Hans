@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 10%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 10%
    + [概览](integrate/integrate-overview.md)
    + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
    + [使用SharePoint文件](integrate/acrobatandsp.md)
    + [在Outlook中将电子邮件和附件转换为PDF](integrate/outlook.md)
    + [使用Microsoft Edge浏览时创建PDF内容](integrate/edge.md)
