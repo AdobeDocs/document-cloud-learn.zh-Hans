@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="在[!DNL Office]中为Web创建PDF" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>在[!DNL Office]中为Web创建PDF</strong></a>
+    </div>
+    <em>了解如何在不离开[!DNL Microsoft Office]的Web应用程序的情况下创建PDF文件</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="使用[!DNL SharePoint]文件" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ ht-degree: 1%
     <em>使用[!DNL SharePoint]和Acrobat DC简化文档工作流程</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="[!DNLMicrosoft Teams]中的PDF协作" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ ht-degree: 1%
     <em>通过查看、批注和审阅PDF与同事协作和工作，无需离开[!DNLMicrosoft Teams]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="在Outlook中将电子邮件和附件转换为PDF" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ ht-degree: 1%
     <a href="edge.md"><strong>使用[!DNL Microsoft Edge]浏览时创建PDF内容</strong></a>
     </div>
     <em>了解如何使用[!DNL Microsoft Edge]的Adobe Acrobat扩展程序将网页动态存档为PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔符" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
