@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
+source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '366'
 ht-degree: 3%
 
 ---
@@ -44,6 +44,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="collaborate.md">
+      <img alt="实时协作" src="../assets/Collaborate_1280.png" />
+    </a>
+    <div>
+     <a href="collaborate.md"><strong>实时协作</strong></a>
+    </div>
+    <em>通过收集注释、协作处理响应和跟踪文档进度，随时随地实时推进项目</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files到PDF" src="../assets/Combine.jpg" />
     </a>
@@ -53,8 +65,6 @@ ht-degree: 3%
     <em>将多种不同类型的文件合并为一个PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="创建PDF文件" src="../assets/Create.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 3%
     <em>向PDF文件添加注释，然后与他人共享</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="在Acrobat DC中编辑PDF" src="../assets/Edit.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 3%
     <em>编辑PDF文件中的文本和图像</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="export-pdf.md">
       <img alt="将PDF导出为可编辑格式" src="../assets/Export.jpg" />
     </a>
@@ -106,7 +116,9 @@ ht-degree: 3%
     </div>
     <em>将在其他应用程序中创建的文档转换为可填写的PDF表单</em>
     <br>
-  </td>  
+  </td>
+</tr>
+<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="扫描和OCR" src="../assets/Scan.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>减少大文件并优化PDF，同时保持共享、发布或归档的质量</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="organize.md">
       <img alt="组织页面" src="../assets/Organize.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 3%
     <em>为PDF添加密码以保护其他人不打开或编辑文件</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填写和签名PDF表单" src="../assets/FillSign.jpg" />
@@ -149,9 +161,7 @@ ht-degree: 3%
     <em>快速填写和签署PDF表单</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -159,11 +169,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
