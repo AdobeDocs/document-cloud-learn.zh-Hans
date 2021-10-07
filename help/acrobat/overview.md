@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat是Adobe Document Cloud的一个解决方案，它通过转换、编辑、共享和签署PDF，帮助保持业务不断发展。 在此，您将发现各种旨在快速使初学者和高级用户了解Adobe Acrobat的学习体验。
+Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑、共享和签署PDF来帮助保持业务发展。 在此，您将发现各种旨在快速使初学者和高级用户了解Adobe Acrobat的学习体验。
 
 ## 学习路径
 
@@ -62,7 +62,7 @@ Adobe Acrobat是Adobe Document Cloud的一个解决方案，它通过转换、�
     <div>
     <a href="integrate/integrate-overview.md"><strong>集成</strong></a>
     </div>
-    <em>将Acrobat添加到现有系统、流程和应用程序</em>
+    <em>将Acrobat添加到现有的业务系统、流程和应用程序</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat是Adobe Document Cloud的一个解决方案，它通过转换、�
     <div>
     <a href="mobile/mobile-overview.md"><strong>移动设备</strong></a>
     </div>
-    <em>在移动设备上创建、填写和签名PDF</em>
+    <em>在移动设备上创建、填写和签署PDF</em>
     <br>
   </td>  
   <td>
