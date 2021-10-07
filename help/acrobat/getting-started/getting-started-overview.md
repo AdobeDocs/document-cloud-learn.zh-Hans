@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 3%
+source-wordcount: '382'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="了解Acrobat DC接口" src="../assets/Interface.jpg" />
+      <img alt="了解Acrobat DC界面" src="../assets/Interface.jpg" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>了解 Acrobat DC 界面</strong></a>
@@ -44,6 +44,18 @@ ht-degree: 3%
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="使用Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用Microsoft 365</strong></a>
+    </div>
+    <em>借助Acrobat和[!DNL Microsoft 365]提高工作效率和业务文档工作流程</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="实时协作" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,8 +65,6 @@ ht-degree: 3%
     <em>通过收集注释、协作处理响应和跟踪文档进度，随时随地实时推进项目</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files到PDF" src="../assets/Combine.jpg" />
@@ -62,7 +72,7 @@ ht-degree: 3%
     <div>
      <a href="combine-to-pdf.md"><strong>将文件合并为PDF</strong></a>
     </div>
-    <em>将多种不同类型的文件合并为一个PDF</em>
+    <em>将多种不同类型的文件组合到一个PDF中</em>
     <br>
   </td>
   <td>
@@ -75,18 +85,18 @@ ht-degree: 3%
     <em>从各种不同类型的文档创建PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="在Acrobat DC中对PDF文件添加注释" src="../assets/Comment.jpg" />
+      <img alt="对Acrobat DC中的PDF文件添加注释" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>在Acrobat DC中对PDF文件添加注释</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>对Acrobat DC中的PDF文件添加注释</strong></a>
     </div>
     <em>向PDF文件添加注释，然后与他人共享</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="在Acrobat DC中编辑PDF" src="../assets/Edit.jpg" />
@@ -107,6 +117,8 @@ ht-degree: 3%
     <em>了解如何将PDF文件导出为可编辑格式</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="创建可填写的表单" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 3%
     <em>将在其他应用程序中创建的文档转换为可填写的PDF表单</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="扫描和OCR" src="../assets/Scan.jpg" />
@@ -126,7 +136,7 @@ ht-degree: 3%
     <div>
     <a href="scan-and-ocr.md"><strong>扫描和OCR</strong></a>
     </div>
-    <em>减少大文件并优化PDF，同时保持共享、发布或归档的质量</em>
+    <em>在不影响共享、发布或归档质量的情况下减少大文件并优化PDF</em>
     <br>
   </td>
   <td>
@@ -139,6 +149,8 @@ ht-degree: 3%
     <em>在PDF中添加、替换、提取、旋转、删除和移动页面</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect带密码的PDF文件" src="../assets/Protect.jpg" />
@@ -146,11 +158,9 @@ ht-degree: 3%
     <div>
     <a href="password-protect.md"><strong>Protect带密码的PDF文件</strong></a>
     </div>
-    <em>为PDF添加密码以保护其他人不打开或编辑文件</em>
+    <em>向PDF添加密码以保护其他人不打开或编辑文件</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填写和签名PDF表单" src="../assets/FillSign.jpg" />
@@ -161,19 +171,14 @@ ht-degree: 3%
     <em>快速填写和签署PDF表单</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
+      <img alt="PDF从哪里来？" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>PDF从哪里来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
