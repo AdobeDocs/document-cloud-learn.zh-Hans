@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 10%
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [实时协作](getting-started/collaborate.md)
    + [将文件合并到 PDF](getting-started/combine-to-pdf.md)
-   + [创建PDF文件](getting-started/create-pdf.md)
-   + [对Acrobat DC中的PDF文件添加注释](getting-started/comment-on-pdf-files.md)
-   + [在Acrobat DC中编辑PDF](getting-started/edit-pdf.md)
+   + [创建 PDF](getting-started/create-pdf.md)
+   + [注释PDF](getting-started/comment-on-pdf-files.md)
+   + [编辑 PDF](getting-started/edit-pdf.md)
    + [将PDF导出为可编辑格式](getting-started/export-pdf.md)
    + [创建可填写的表单](getting-started/create-fillable-forms.md)
    + [扫描和OCR](getting-started/scan-and-ocr.md)
    + [组织页面](getting-started/organize.md)
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
-   + [填写和签名PDF表单](getting-started/fill-and-sign.md)
+   + [填写和签名 PDF 表单](getting-started/fill-and-sign.md)
    + [PDF从哪里来？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务{#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)

@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 2%
+source-wordcount: '375'
+ht-degree: 5%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 2%
       <img alt="创建PDF文件" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>创建PDF文件</strong></a>
+    <a href="create-pdf.md"><strong>创建 PDF</strong></a>
     </div>
     <em>从各种不同类型的文档创建PDF</em>
     <br>
@@ -92,7 +92,7 @@ ht-degree: 2%
       <img alt="对Acrobat DC中的PDF文件添加注释" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>对Acrobat DC中的PDF文件添加注释</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>注释PDF</strong></a>
     </div>
     <em>向PDF文件添加注释，然后与他人共享</em>
     <br>
@@ -102,7 +102,7 @@ ht-degree: 2%
       <img alt="在Acrobat DC中编辑PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>在Acrobat DC中编辑PDF</strong></a>
+    <a href="edit-pdf.md"><strong>编辑 PDF</strong></a>
     </div>
     <em>编辑PDF文件中的文本和图像</em>
     <br>
@@ -166,7 +166,7 @@ ht-degree: 2%
       <img alt="填写和签名PDF表单" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>填写和签名PDF表单</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
     </div>
     <em>快速填写和签署PDF表单</em>
     <br>
