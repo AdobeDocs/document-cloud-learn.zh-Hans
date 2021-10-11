@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 5%
 
 ---
 
@@ -25,4 +25,5 @@ ht-degree: 6%
 
 ## Adobe Document Services API
 
-[用于嵌入式查看和处理PDF的](https://www.adobe.io/apis/documentcloud/dcsdk/)API{target=&quot;_blank&quot;}
+[用于嵌入查看和操作PDF](https://www.adobe.io/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;} 
+[Adobe文档服务教程](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}的API
