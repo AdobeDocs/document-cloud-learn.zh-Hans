@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
 source-wordcount: '295'
-ht-degree: 14%
+ht-degree: 12%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 14%
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [实时协作](getting-started/collaborate.md)
-   + [将文件合并到 PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files到PDF](getting-started/combine-to-pdf.md)
    + [创建 PDF](getting-started/create-pdf.md)
    + [注释PDF](getting-started/comment-on-pdf-files.md)
    + [编辑 PDF](getting-started/edit-pdf.md)
@@ -36,7 +36,7 @@ ht-degree: 14%
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [填写和签名 PDF 表单](getting-started/fill-and-sign.md)
    + [PDF从哪里来？](getting-started/where-do-pdfs-come-from.md)
-+ 高级任务{#advanced-tasks}
++ 高级任务 {#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)
    + [检测两个PDF之间的差异](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)
@@ -44,7 +44,7 @@ ht-degree: 14%
    + [减小文件大小并优化](advanced-tasks/reduce.md)
    + [使用表单数据](advanced-tasks/formdata.md)
    + [准备具有辅助工具的PDF文件](advanced-tasks/accessibility.md)
-   + Acrobat辅助功能系列{#accessibility-series}
+   + Acrobat辅助功能系列 {#accessibility-series}
       + [概览](advanced-tasks/accessibility-series.md)
       + [PDF辅助功能简介](advanced-tasks/accessibilitysession1.md)
       + [修正无法访问的PDF](advanced-tasks/accessibilitysession2.md)
@@ -60,23 +60,23 @@ ht-degree: 14%
    + [即时创建照片PDF](60-second/photo.md)
    + [将PPT文件转换为手机上的PDF](60-second/phone.md)
    + [将PDF注释加载到InDesign](60-second/indesign.md)
-+ 技能构建器{#skill-builders}
++ 技能构建器 {#skill-builders}
    + [概览](skill-builder/skill-builder-overview.md)
    + [网络研讨会](skill-builder/skill-builder-webinars.md)
-+ 集成{#integrations}
++ 集成 {#integrations}
    + [概览](integrate/integrate-overview.md)
-   + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
-   + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
+   + [创建PDF [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [创建PDF [!DNL Office] 对于Web](integrate/createofficeweb.md)
    + [PDF协作 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [使用SharePoint文件](integrate/acrobatandsp.md)
    + [在Outlook中将电子邮件和附件转换为PDF](integrate/outlook.md)
    + [使用Microsoft Edge浏览时创建PDF内容](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ 行业{#by-industry}
++ 行业 {#by-industry}
    + [概览](industry/industry-overview.md)
-   + 政府{#gov}
+   + 政府 {#gov}
       + [概览](industry/gov/gov-overview.md)
-      + 使用Acrobat DC{#tips}随时随地工作的5个提示
+      + 随时随地使用Acrobat DC的5个提示 {#tips}
          + [随时随地使用Acrobat DC的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
@@ -89,9 +89,9 @@ ht-degree: 14%
          + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
          + [#3 — 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
          + [使PDF选票更易获得](industry/gov/making-pdf-ballots-accessible.md)
-+ 开发{#develop}
++ 开发 {#develop}
    + [概览](develop/develop-overview.md)
-+ 部署{#deploy}
++ 部署 {#deploy}
    + [概览](deploy/deploy-overview.md)
    + [重要的Acrobat DC产品更新针对ETLA客户](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
