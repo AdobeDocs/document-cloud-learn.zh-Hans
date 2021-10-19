@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 12%
+source-wordcount: '290'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 12%
 + [概览](overview.md)
 + 快速入门 {#getting-started}
    + [概览](getting-started/getting-started-overview.md)
-   + [了解 Acrobat DC 界面](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [工作区基础](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [实时协作](getting-started/collaborate.md)

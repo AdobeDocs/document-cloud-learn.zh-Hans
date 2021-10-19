@@ -1,20 +1,20 @@
 ---
-title: 了解Acrobat DC接口
+title: 工作区基础知识
 description: 了解Acrobat DC如何使跨桌面、Web和移动设备访问文件和工具变得轻松
 role: User
 product: adobe acrobat
 level: Beginner
-thumbnail: 23590.jpg
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
-# 了解 Acrobat DC 界面
+# 工作区基础知识
 
-了解Adobe Acrobat DC界面如何通过一致的主页视图体验轻松访问桌面、Web和移动设备上的文件和工具。
+了解Acrobat DC界面如何通过一致的工作区体验，跨桌面、Web和移动设备轻松访问文件和工具。
 
->[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
