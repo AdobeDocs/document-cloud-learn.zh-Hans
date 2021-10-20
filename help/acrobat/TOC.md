@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 10%
+source-wordcount: '295'
+ht-degree: 9%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 10%
    + [概览](getting-started/getting-started-overview.md)
    + [工作区基础](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
+   + [随时随地提高工作效率](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [实时协作](getting-started/collaborate.md)
    + [Combine Files到PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 10%
    + [扫描和OCR](getting-started/scan-and-ocr.md)
    + [组织页面](getting-started/organize.md)
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
-   + [填写和签名 PDF 表单](getting-started/fill-and-sign.md)
+   + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
    + [PDF从哪里来？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务 {#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)
@@ -72,7 +73,7 @@ ht-degree: 10%
    + [在Outlook中将电子邮件和附件转换为PDF](integrate/outlook.md)
    + [使用Microsoft Edge浏览时创建PDF内容](integrate/edge.md)
    + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ 行业 {#by-industry}
++ 行业和部门 {#by-industry}
    + [概览](industry/industry-overview.md)
    + 政府 {#gov}
       + [概览](industry/gov/gov-overview.md)

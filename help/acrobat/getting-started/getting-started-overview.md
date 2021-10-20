@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 5%
+source-wordcount: '377'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat快速入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简短（1-2分钟）的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护PDF文件，此内容旨在简化您进入PDF工作流程。
+通过这些简短的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护PDF文件，此内容旨在简化您进入PDF工作流程。
 
 ## Acrobat教程
 
@@ -56,6 +56,16 @@ ht-degree: 5%
 </tr>
 <tr>
    <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="使用Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用Microsoft 365</strong></a>
+    </div>
+    <em>借助Acrobat和 [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+  <td>
     <a href="collaborate.md">
       <img alt="实时协作" src="../assets/Collaborate_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 5%
     <em>将多种不同类型的文件组合到一个PDF中</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-pdf.md">
       <img alt="创建PDF文件" src="../assets/Create.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 5%
     <em>从各种不同类型的文档创建PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="comment-on-pdf-files.md">
       <img alt="对Acrobat DC中的PDF文件添加注释" src="../assets/Comment.jpg" />
     </a>
@@ -107,7 +117,9 @@ ht-degree: 5%
     <em>编辑PDF文件中的文本和图像</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="export-pdf.md">
       <img alt="将PDF导出为可编辑格式" src="../assets/Export.jpg" />
     </a>
@@ -117,11 +129,9 @@ ht-degree: 5%
     <em>了解如何将PDF文件导出为可编辑格式</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="创建可填写的表单" src="../assets/Form.jpg" />
+      <img alt="创建可填写的表单" src="../assets/Form_1280.png" />
     </a>
     <div>
     <a href="create-fillable-forms.md"><strong>创建可填写的表单</strong></a>
@@ -139,7 +149,9 @@ ht-degree: 5%
     <em>在不影响共享、发布或归档质量的情况下减少大文件并优化PDF</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="organize.md">
       <img alt="组织页面" src="../assets/Organize.jpg" />
     </a>
@@ -149,8 +161,6 @@ ht-degree: 5%
     <em>在PDF中添加、替换、提取、旋转、删除和移动页面</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="password-protect.md">
       <img alt="Protect带密码的PDF文件" src="../assets/Protect.jpg" />
@@ -163,14 +173,16 @@ ht-degree: 5%
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填写和签名PDF表单" src="../assets/FillSign.jpg" />
+      <img alt="填写并签署PDF表单" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill and sign PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill &amp; SignPDF forms</strong></a>
     </div>
     <em>快速填写和签署PDF表单</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF从哪里来？" src="../assets/WherePDFs.jpg" />
@@ -179,6 +191,16 @@ ht-degree: 5%
     <a href="where-do-pdfs-come-from.md"><strong>PDF从哪里来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
