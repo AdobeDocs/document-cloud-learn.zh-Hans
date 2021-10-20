@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
