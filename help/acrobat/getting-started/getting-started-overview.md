@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '385'
 ht-degree: 3%
 
 ---
@@ -44,13 +44,13 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-    <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="使用Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    <a href="productivity.md">
+      <img alt="随时随地提高工作效率" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../integrate/integrate-overview.md#microsoft"><strong>使用Microsoft 365</strong></a>
+     <a href="productivity.md"><strong>随时随地提高工作效率</strong></a>
     </div>
-    <em>借助Acrobat和 [!DNL Microsoft 365]</em>
+    <em>借助Acrobat Reader移动应用程序，直接在平板电脑或手机上完成更多工作</em>
     <br>
   </td>
 </tr>

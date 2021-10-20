@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -49,10 +49,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="在SharePoint Online中发送以供签名" src="../assets/Sending-in-SP.png" />
+      <img alt="在SharePoint Online中发送以请求签名" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>在SharePoint Online中发送以供签名</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>在SharePoint Online中发送以请求签名</strong></a>
     </div>
     <em>直接在Sharepoint Online中发送文档以请求签名</em>
     <br>
@@ -66,25 +66,25 @@ ht-degree: 0%
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>在SharePoint Online中跟踪</strong></a>
     </div>
-    <em>直接在Microsoft Sharepoint中跟踪协议的进度</em>
+    <em>直接在Microsoft Sharepoint中跟踪协议进度</em>
     <br>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="在[!DNLMicrosoft Teams]中发送文档以请求签名" src="../assets/teamsmortgage.png" />
+      <img alt="在中发送文档以供签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>在[!DNLMicrosoft Teams]中发送文档以请求签名</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>在中发送文档以供签名 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>直接在[!DNLMicrosoft Teams]中发送文档以请求签名</em>
+    <em>直接在中发送文档以供签名 [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="使用Adobe Sign for Microsoft Power Platform实现文档自动化" src="../assets/SF-Button.png" />
+      <img alt="Adobe Sign for Microsoft Power Platform实现文档自动化" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>使用Adobe Sign for Microsoft Power Platform实现文档自动化</strong></a>
+    <a href="documentautomation.md"><strong>Adobe Sign for Microsoft Power Platform实现文档自动化</strong></a>
     </div>
     <em>了解如何激活和使用Adobe Sign和Adobe PDF Tools的Microsoft Power Apps连接器</em>
     <br>

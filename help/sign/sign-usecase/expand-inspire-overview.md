@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 5418e505275fb8c9d889e8928278dad69179cdc1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
