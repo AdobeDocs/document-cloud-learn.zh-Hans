@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Sign是Adobe Document Cloud的解决方案，它通过集成、API、高�
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>行业和部门</strong></a>
     </div>
-    <em>探索真实行业和部门使用案例和方法，重新定义电子签名的可能性</em>
+    <em>探索真实的行业和部门使用案例和方法，了解电子签名的可能性</em>
     <br>
   </td>
 </tr>
