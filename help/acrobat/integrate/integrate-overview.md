@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 1%
 
 ![Acrobat集成图像](../assets/Hero-Integrate.png)
 
-将Acrobat与[!DNL Box]、[!DNL Dropbox]、[!DNL Google Drive]、[!DNL OneDrive]和[!DNL Microsoft]应用程序集成。
+将Acrobat与 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]和 [!DNL Microsoft] 应用程序。
 
 ## Microsoft
 
-了解您团队中的每个人都如何直接在[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)中无缝地处理PDF文件。
+了解您团队中的每个人都如何直接在内部无缝地处理PDF文件 [Microsoft365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,41 +31,41 @@ ht-degree: 1%
       <img alt="从Microsoft Word创建PDF文件" src="../assets/CreateWord.png" />
     </a>
     <div>
-    <a href="createfromword.md"><strong>从[!DNL Microsoft Word]创建PDF文件</strong></a>
+    <a href="createfromword.md"><strong>创建PDF文件 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>直接从[!DNL Microsoft Word]创建具有超链接的目录和交叉引用、书签、甚至附件的丰富、强大的PDF文件</em>
+    <em>使用超链接的目录和交叉引用、书签甚至附件直接从创建丰富、强大的PDF文件 [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="在[!DNL Office]中为Web创建PDF" src="../assets/Officeweb_1280.png" />
+      <img alt="创建PDF [!DNL Office] 对于Web" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>在[!DNL Office]中为Web创建PDF</strong></a>
+    <a href="createofficeweb.md"><strong>创建PDF [!DNL Office] 对于Web</strong></a>
     </div>
-    <em>了解如何在不离开[!DNL Microsoft Office]的Web应用程序的情况下创建PDF文件</em>
+    <em>了解如何创建PDF文件，而无需离开 [!DNL Microsoft Office] 针对web应用程序</em>
     <br>
   </td>  
   <td>
     <a href="acrobatandsp.md">
-      <img alt="使用[!DNL SharePoint]文件" src="../assets/SharePoint.png" />
+      <img alt="使用 [!DNL SharePoint] 文件" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>使用[!DNL SharePoint]文件</strong></a>
+    <a href="acrobatandsp.md"><strong>使用 [!DNL SharePoint] 文件</strong></a>
     </div>
-    <em>使用[!DNL SharePoint]和Acrobat DC简化文档工作流程</em>
+    <em>简化文档工作流程 [!DNL SharePoint] 和Acrobat DC</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="[!DNLMicrosoft Teams]中的PDF协作" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF协作 [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
-    <a href="acrobatandteams.md"><strong>[!DNLMicrosoft Teams]中的PDF协作</strong></a>
+    <a href="acrobatandteams.md"><strong>PDF协作 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>通过查看、批注和审阅PDF与同事协作和工作，无需离开[!DNLMicrosoft Teams]</em>
+    <em>通过查看、批注和审阅PDF，与同事协作和工作，无需离开 [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -73,19 +73,19 @@ ht-degree: 1%
       <img alt="在Outlook中将电子邮件和附件转换为PDF" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>在[!DNL Outlook]中将电子邮件和附件转换为PDF</strong></a>
+    <a href="outlook.md"><strong>将电子邮件和附件转换为PDF [!DNL Outlook]</strong></a>
     </div>
-    <em>了解如何在[!DNL Outlook]中以更专业、更安全的方式提供信息</em>
+    <em>了解如何在 [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="使用[!DNL Microsoft Edge]浏览时创建PDF内容" src="../assets/Edge_1280.png" />
+      <img alt="浏览时创建PDF内容 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>使用[!DNL Microsoft Edge]浏览时创建PDF内容</strong></a>
+    <a href="edge.md"><strong>浏览时创建PDF内容 [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>了解如何使用[!DNL Microsoft Edge]的Adobe Acrobat扩展程序将网页动态存档为PDF</em>
+    <em>了解如何使用Adobe Acrobat扩展动态存档网页以PDF [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ ht-degree: 1%
 
 ## Google Drive
 
-了解如何使用[!DNL Google Drive]内的基本PDF和电子签名工具在更短的时间内完成更多工作。
+了解如何借助内部的基本PDF和电子签名工具，在更短的时间内完成更多工作 [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -102,9 +102,9 @@ ht-degree: 1%
       <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat for [!DNL Google Drive]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
     </div>
-    <em>直接在[!DNL Google Drive]应用程序中访问节省时间的PDF工具和电子签名工作流程</em>
+    <em>直接在 [!DNL Google Drive] app</em>
     <br>
   </td>
   <td>
@@ -122,8 +122,8 @@ ht-degree: 1%
 
 ## 产品包装盒
 
-了解Acrobat DC和[Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}如何使组织中的每个人都能更轻松地保持业务发展。
+了解Acrobat DC和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}使组织内的每个人都能更轻松地保持业务发展。
 
 ## Dropbox
 
-了解访问和处理存储在[Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}中的PDF有多轻松。
+了解访问和使用存储在 [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。
