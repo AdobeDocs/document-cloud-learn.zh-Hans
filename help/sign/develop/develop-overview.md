@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 12%
 
 ---
 
@@ -24,17 +24,17 @@ Adobe Sign中40%的协议是使用API创建的。 使用API为您的团队、合
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="开始" src="../assets/Develop_Getting-Started.png" />
+      <img alt="创建开发人员帐户" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>快速入门</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>创建开发人员帐户</strong></a>
     </div>
-    <em>立即创建开发人员帐户以开始使用</em>
+    <em>了解如何开始使用开发人员帐户</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="学习" src="../assets/Develop_Learn.png" />
+      <img alt="了解您可以做什么" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>了解您可以做什么</strong></a>
