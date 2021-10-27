@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 8%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 8%
    + [一次搜索多个PDF文件](60-second/search.md)
    + [即时创建照片PDF](60-second/photo.md)
    + [将PPT文件转换为手机上的PDF](60-second/phone.md)
+   + [以电子方式对纸质文档进行签名](60-second/sign.md)
    + [将PDF注释加载到InDesign](60-second/indesign.md)
    + [在PDF中编辑照片](60-second/editphoto.md)
    + [在PDF中编辑图形](60-second/editgraphic.md)
