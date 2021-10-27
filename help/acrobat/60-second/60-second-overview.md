@@ -1,15 +1,15 @@
 ---
 title: 60秒Acrobat概述
-description: 60秒的Acrobat可为您提供小小的教程，帮助您在一分钟或更短的时间内学习Acrobat DC中的新技巧
+description: 60秒的Acrobat为您提供小小的教程，帮助您在一分钟或更短的时间内在Acrobat DC学习新技巧
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: a81b5f4f9c60ecdcf95e4d5555c32e98b031a6ed
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![60秒Acrobat图像](../assets/Hero-60sec.png)
 
-60秒的Acrobat可为您提供小型教程，帮助您在一分钟或更短的时间内学习Acrobat DC中的新技巧。 这些基于任务的提示可帮助您解锁Acrobat的一些隐藏功能，从而掌握处理PDF文件的新技能。 您可以观看其中一个视频以快速获得答案，或观看五个视频以提高文档的工作效率 — 并且仍有时间享受咖啡休息。
+60秒的Acrobat为您提供大小小的教程，帮助您在一分钟或更短的时间内在Acrobat DC学习新技巧。 这些基于任务的提示可帮助您通过解锁Acrobat的一些隐藏功能，掌握处理PDF文件的新技能。 您可以观看其中一个视频以快速获得答案，或观看五个视频以提高文档的工作效率 — 并且仍有时间享受咖啡休息。
 
 ## 60秒Acrobat教程
 
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="combine-to-one-pdf.md">
-      <img alt="将多个文件合并为一个PDF" src="../assets/60sec_Combine_1280.jpg" />
+      <img alt="将文件合并为一个PDF" src="../assets/60sec_Combine_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>将多个文件合并为一个PDF</strong></a>
+    <a href="combine-to-one-pdf.md"><strong>将文件合并为一个PDF</strong></a>
     </div>
-    <em>通过将多种不同类型的文件合并到单个PDF中，快速创建新文档</em>
+    <em>通过将几种不同类型的文件组合到一个PDF中，快速创建新文档</em>
     <br>
   </td>
   <td>
@@ -41,7 +41,7 @@ ht-degree: 0%
     <div>
     <a href="edit.md"><strong>使用Acrobat Web编辑PDF</strong></a>
     </div>
-    <em>无需下载PDF即可对文本和图像进行简单编辑</em>
+    <em>无需下载PDF，即可对文本和图像进行简单编辑</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 0%
     <div>
      <a href="search.md"><strong>一次搜索多个PDF文件</strong></a>
     </div>
-    <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件文件夹</em>
+    <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件夹</em>
     <br>
   </td>
 </tr>
@@ -63,15 +63,15 @@ ht-degree: 0%
     <div>
     <a href="photo.md"><strong>即时创建照片PDF</strong></a>
     </div>
-    <em>了解如何将一串JPG拖放到Acrobat图标上以创建PDF</em>
+    <em>了解如何将一组JPG拖放到Acrobat图标上以创建PDF</em>
     <br>
   </td>
   <td>
     <a href="phone.md">
-      <img alt="在手机上将PPT文件转换为PDF" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="将PPT文件转换为手机上的PDF" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>在手机上将PPT文件转换为PDF</strong></a>
+    <a href="phone.md"><strong>将PPT文件转换为手机上的PDF</strong></a>
     </div>
     <em>了解如何在手机上将电子邮件PowerPoint附件转换为PDF</em>
     <br>
@@ -84,6 +84,38 @@ ht-degree: 0%
     <a href="indesign.md"><strong>将PDF注释加载到InDesign</strong></a>
     </div>
     <em>了解如何在Acrobat共享审阅后将PDF注释加载回InDesign</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="editphoto.md">
+      <img alt="在PDF中编辑照片" src="../assets/60sec_Editphoto_1280.jpg" />
+    </a>
+    <div>
+    <a href="editphoto.md"><strong>在PDF中编辑照片</strong></a>
+    </div>
+    <em>了解如何使用Photoshop对PDF中的照片进行高级编辑</em>
+    <br>
+  </td>
+  <td>
+    <a href="editgraphic.md">
+      <img alt="在PDF中编辑图形" src="../assets/60sec_Editgraphic_1280.jpg" />
+    </a>
+    <div>
+    <a href="editgraphic.md"><strong>在PDF中编辑图形</strong></a>
+    </div>
+    <em>了解如何使用Illustrator对PDF中的图形进行高级编辑</em>
+    <br>
+  </td>  
+ <td>
+    <a href="organize.md">
+      <img alt="快速组织页面" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>快速组织页面</strong></a>
+    </div>
+    <em>了解如何使用“组织页面”工具鸟瞰您的PDF</em>
     <br>
   </td>  
 </tr>

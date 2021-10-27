@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 9%
+source-wordcount: '312'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 9%
    + [即时创建照片PDF](60-second/photo.md)
    + [将PPT文件转换为手机上的PDF](60-second/phone.md)
    + [将PDF注释加载到InDesign](60-second/indesign.md)
+   + [在PDF中编辑照片](60-second/editphoto.md)
+   + [在PDF中编辑图形](60-second/editgraphic.md)
+   + [快速组织页面](60-second/organize.md)
 + 技能构建器 {#skill-builders}
    + [概览](skill-builder/skill-builder-overview.md)
    + [网络研讨会](skill-builder/skill-builder-webinars.md)
