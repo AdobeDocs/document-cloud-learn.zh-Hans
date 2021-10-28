@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc80361b5910f8d6b41ca1e9b6b982e774687bc5
+source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -184,6 +184,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+    <a href="signatures.md">
+      <img alt="获取签名" src="../assets/Signatures_1280.png" />
+    </a>
+    <div>
+    <a href="signatures.md"><strong>获取签名</strong></a>
+    </div>
+    <em>从任何地方收集他人具有法律约束力的电子签名，从而保持业务发展</em>
+    <br>
+  </td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF从哪里来？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -191,11 +201,6 @@ ht-degree: 3%
     <a href="where-do-pdfs-come-from.md"><strong>PDF从哪里来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔符" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
