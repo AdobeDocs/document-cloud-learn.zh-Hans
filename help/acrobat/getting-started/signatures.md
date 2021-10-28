@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 7db57badff0e39d003ec39b6b8ad7b615db71fd5
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
