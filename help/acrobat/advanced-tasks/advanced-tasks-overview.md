@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Acrobat快速入门图像](../assets/Hero-AdvancedTasks.png)
 
-使用Acrobat DC中的这些高级工具超越基础知识。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大文件、快速收集表单数据以及创建普遍可访问的PDF文件。
+使用Acrobat DC中的这些高级工具超越基础。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大文件、快速收集表单数据以及创建通用的可访问PDF文件。
 
 ## Acrobat教程
 
@@ -40,7 +40,7 @@ ht-degree: 3%
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>创建动作以自动将一组命令应用于一个或多个文件</em>
+    <em>使用动作自动将一组命令应用于一个或多个命令，从而节省时间和按键次数</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 3%
     <div>
     <a href="redact.md"><strong>标记密文并整理</strong></a>
     </div>
-    <em>从PDF中永久删除私人或敏感信息</em>
+    <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ ht-degree: 3%
     <div>
     <a href="reduce.md"><strong>减小文件大小并优化</strong></a>
     </div>
-    <em>减少大文件并优化PDF，同时保持共享、发布或归档的质量</em>
+    <em>在不影响共享、发布或归档质量的情况下减少大文件并优化PDF</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ ht-degree: 3%
     <div>
     <a href="accessibility.md"><strong>准备具有辅助工具的PDF文件</strong></a>
     </div>
-    <em>创建具有普遍辅助工具的PDF文件</em>
+    <em>创建可普遍访问的PDF文件</em>
     <br>
   </td>
 </tr>
