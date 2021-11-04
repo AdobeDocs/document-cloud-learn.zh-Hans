@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 2%
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>使用动作自动将一组命令应用于一个或多个命令，从而节省时间和按键次数</em>
+    <em>使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ ht-degree: 2%
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="准备具有辅助工具的PDF文件" src="../assets/PreparingAccessible.jpg" />
+      <img alt="检查PDF辅助功能" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>准备具有辅助工具的PDF文件</strong></a>
+    <a href="accessibility.md"><strong>检查PDF辅助功能</strong></a>
     </div>
-    <em>创建可普遍访问的PDF文件</em>
+    <em>了解如何检查残障人士是否可以普遍访问您的PDF</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ ht-degree: 2%
     <div>
     <a href="accessibility-series.md"><strong>Acrobat辅助功能系列</strong></a>
     </div>
-    <em>在这个由六部分组成的点播网络研讨会系列中，从“辅助工具”的基础知识到为PDF文件加标签的深入研究</em>
+    <em>在这个由六部分组成的点播网络研讨会系列中，从辅助功能基础知识到为PDF文件加标签的深入研究</em>
     <br>
   </td>
   <td>

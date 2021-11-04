@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '318'
 ht-degree: 8%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 8%
    + [标记密文并整理](advanced-tasks/redact.md)
    + [减小文件大小并优化](advanced-tasks/reduce.md)
    + [使用表单数据](advanced-tasks/formdata.md)
-   + [准备具有辅助工具的PDF文件](advanced-tasks/accessibility.md)
+   + [检查PDF辅助功能](advanced-tasks/accessibility.md)
    + Acrobat辅助功能系列 {#accessibility-series}
       + [概览](advanced-tasks/accessibility-series.md)
       + [PDF辅助功能简介](advanced-tasks/accessibilitysession1.md)

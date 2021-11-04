@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -15,26 +15,27 @@ ht-degree: 0%
 
 # 使用表单数据
 
-如果您有一组已完成的表单，并且需要编译数据，则可以使用Acrobat DC将响应合并到单个电子表格中。
+如果您有一组已完成的表单，并且需要编译数据，则可以使用Acrobat将响应合并到单个电子表格中。
 
-1. 首先，将所有PDF文件放入计算机上的文件夹。
+1. 首先，将所有已完成的PDF forms放入计算机上的文件夹。
 
    ![表单数据步骤1](../assets/FormData_1.png)
 
-1. 在Acrobat DC中为表单文件打开一个文件，然后从“工具”中心或窗格中选择&#x200B;**[!UICONTROL Prepare Form]**。
+1. 打开一个已完成的表单文件，然后选择 **[!UICONTROL Prepare Form]** 或右侧窗格。
 
    ![表单数据步骤2](../assets/FormData_2.png)
 
-1. 在右侧窗格中，选择“更多，合并数据文件到电子表格&#x200B;]**”。**[!UICONTROL 
+1. 选择 **[!UICONTROL 更多]** **>** **[!UICONTROL 将数据文件合并到电子表格]** 的双曲余切值。
 
    ![表单数据步骤3](../assets/FormData_3.png)
 
-1. 选择用表单响应创建的文件夹。
+1. 选择您用已完成的表单创建的文件夹。
+
+   Acrobat从每个表单提取数据，并创建所有数据的电子表格。
 
    ![表单数据步骤4](../assets/FormData_4.png)
 
-   Acrobat从每个数据中提取数据，并创建所有数据的电子表格。
 
-单击以下载“使用表单数据”教程的&#x200B;*PDF。*
+选择PDF图标以下载 *使用表单数据* 教程。
 
-[![下载使用表单数据教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf)。
+[![下载使用表单数据教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCFormData.pdf).
