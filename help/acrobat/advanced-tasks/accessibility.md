@@ -7,16 +7,16 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # 检查PDF辅助功能
 
-了解如何检查残障人士是否可以普遍访问您的PDF。 这包括行动不便、失明、视力低下、失聪、听力障碍或认知障碍的人。
+了解如何检查您的PDF是否对残障人士（包括行动不便、盲人、视力不佳、聋、听力不佳或有认知障碍的人）普遍可用。
 
 >[!NOTE]
 >
