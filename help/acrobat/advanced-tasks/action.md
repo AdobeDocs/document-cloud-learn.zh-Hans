@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 2%
 
 ---
 
 # Action Wizard
 
-使用动作自动将一组命令应用于一个或多个命令，从而节省时间和按键次数。
+使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数。
 
 >[!NOTE]
 >
