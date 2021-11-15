@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="管理和跟踪文档" src="../assets/Managing.png" />
+      <img alt="管理和跟踪协议" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>管理和跟踪文档</strong></a>
+    <a href="manage-and-track.md"><strong>管理和跟踪协议</strong></a>
     </div>
-    <em>管理并跟踪已发送以供签名的协议</em>
+    <em>了解如何管理和跟踪发送以供签名的协议</em>
     <br>
   </td>
   <td>

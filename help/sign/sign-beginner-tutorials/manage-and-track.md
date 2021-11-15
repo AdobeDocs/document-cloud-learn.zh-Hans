@@ -1,25 +1,25 @@
 ---
-title: 管理和跟踪文档
-description: 了解如何管理和跟踪已发送以供签名的协议
+title: 管理和跟踪协议
+description: 了解如何在Adobe Sign中管理和跟踪发送以供签名的协议
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 管理和跟踪文档
+# 管理和跟踪协议
 
-了解如何在Adobe Sign中管理和跟踪您发送以供签名的文档。
+了解如何在Adobe Sign中管理和跟踪发送以供签名的文档。 获取您处理的每个文档的实时状态更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->此视频是[Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)快速入门课程的一部分，该课程在Experience League上免费提供！
+>此视频是课程的一部分 [Adobe Sign入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 在Experience League上免费提供！

@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe SignTutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [什么是数字签名？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [使用图章签名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
-      + [管理和跟踪文档](sign-beginner-tutorials/manage-and-track.md)
+      + [管理和跟踪协议](sign-beginner-tutorials/manage-and-track.md)
       + [创建文档模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [修改已发送以请求签名的文档](sign-beginner-tutorials/modify-in-flight.md)
 + 高级任务 {#advanced-tasks}
