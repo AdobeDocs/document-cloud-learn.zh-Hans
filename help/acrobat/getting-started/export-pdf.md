@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要将多个PDF文件导出为其它格式，请尝试使用[Action Wizard](../advanced-tasks/action.md)。
+>要将多个PDF文件导出为其它格式，请尝试使用 [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,4 +27,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->全面了解如何使用[Acrobat和Microsoft 365](../integrate/integrate-overview.md)。
+>全面了解如何使用 [Acrobat和Microsoft365](../integrate/integrate-overview.md).
+
+>[!TIP]
+>
+>此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！

@@ -8,9 +8,9 @@ topic-revisit: Integrations
 thumbnail: KT-8497.jpg
 kt: 8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: b924af71abccea63f50cf27fb7ee2eafbacc0656
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,7 @@ ht-degree: 0%
 >Adobe Acrobat [!DNL Microsoft 365] 包括可供所有用户使用的免费功能(如在PDF中查看和搜索)。 其他功能(如创建和合并PDF)需要为团队购买Acrobat DC或为企业订阅购买Acrobat DC。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
+
+>[!TIP]
+>
+>此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！

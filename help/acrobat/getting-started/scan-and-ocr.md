@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
@@ -48,3 +48,7 @@ ht-degree: 1%
 单击以下载PDF *扫描和OCR* 教程。
 
 [![下载扫描和OCR教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+
+>[!TIP]
+>
+>此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！

@@ -6,9 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
 kt: 8496
-source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -22,3 +23,7 @@ ht-degree: 0%
 >仅在Acrobat Pro DC中可用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337211?hidetitle=true)
+
+>[!TIP]
+>
+>此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！

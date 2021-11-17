@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![标记密文步骤5b](../assets/Redact_5.png)
 
-1. 选择 **[!UICONTROL 应用]** 中 [!UICONTROL 密文] 上面的菜单，可应用标记的密文并保存密文文件。
+1. 选择 **[!UICONTROL 应用]** 中 [!UICONTROL 密文] 上面的菜单，应用标记的密文并保存密文文件。
 
    ![标记密文步骤6](../assets/Redact_6.png)
 
@@ -68,3 +68,7 @@ ht-degree: 0%
 选择PDF图标以下载 *标记密文并整理* 教程。
 
 [![下载密文并清理教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
+
+>[!TIP]
+>
+>此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！
