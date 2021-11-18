@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 在本动手教程中，了解如何通过添加图形增强和自动编号来转换PDF。
 
-<br> 
-
-## 您需要的
-
-[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
-对要练习的文件进行范例(ZIP， 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
+> 下载这些范例文件以练习(ZIP， 342 KB)
 
 ## 了解如何添加背景图形
 
@@ -39,7 +35,7 @@ ht-degree: 0%
 1. 打开 *Altura Technology Employee Handbook.pdf* 从范例文件中。
 1. 选择 **编辑PDF** 的双曲余切值。
 1. 选择 **更多>背景>添加**.
-1. 选择 **页面范围选项……** 并在“Creative Cloud” **页面来源：** 选项，然后选择 **确定**.
+1. 选择 **页面范围选项……**，然后选择“ **页面来源** 选项，然后选择 **确定**.
 1. 在“源”选项下选择 **文件** 选择 **浏览** 添加 *背景图形.pdf* 示例文件。
 1. 选择 **确定** 添加背景图形。
 
