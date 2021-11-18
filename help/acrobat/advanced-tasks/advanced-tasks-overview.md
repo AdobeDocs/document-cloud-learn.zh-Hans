@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cf207a5bda859635de879758aae307689b708678
+source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '224'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ ht-degree: 2%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="enhance.md">
+      <img alt="增强PDF" src="../assets/Enhance_1280.png" />
+    </a>
+    <div>
+    <a href="enhance.md"><strong>增强PDF</strong></a>
+    </div>
+    <em>通过添加图形修饰和自动编号来改变PDF</em>
+    <br>
+  </td>
   <td>
     <a href="compare.md">
       <img alt="检测两个PDF之间的差异" src="../assets/Compare_1280.png" />
@@ -42,7 +52,9 @@ ht-degree: 2%
     </div>
     <em>使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数</em>
     <br>
-  </td>
+  </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="标记密文并整理" src="../assets/Redact.jpg" />
@@ -52,9 +64,7 @@ ht-degree: 2%
     </div>
     <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="reduce.md">
       <img alt="减小文件大小并优化" src="../assets/Reduce.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 2%
     <em>将表单数据编译为单个电子表格</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility.md">
       <img alt="检查PDF辅助功能" src="../assets/Checkingaccessible_1280.jpg" />
@@ -85,8 +97,6 @@ ht-degree: 2%
     <em>了解如何检查残障人士是否可以普遍访问您的PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="准备具有辅助工具的PDF文件" src="../assets/Accessibilityseries_1280.png" />
@@ -95,11 +105,6 @@ ht-degree: 2%
     <a href="accessibility-series.md"><strong>Acrobat辅助功能系列</strong></a>
     </div>
     <em>在这个由六部分组成的点播网络研讨会系列中，从辅助功能基础知识到为PDF文件加标签的深入研究</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
