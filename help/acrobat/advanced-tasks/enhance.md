@@ -1,27 +1,28 @@
 ---
 title: 增强PDF
-description: 了解如何通过添加图形修饰和自动编号来改变PDF
+description: 了解如何通过添加图形增强和自动编号来改变PDF
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # 增强PDF
 
-了解如何通过添加图形修饰和自动编号来改变PDF。
+在本动手教程中，了解如何通过添加图形增强和自动编号来转换PDF。
 
 <br> 
 
 ## 您需要的
 
-[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)   对要练习的文件进行范例(ZIP， 342 KB)
+[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
+对要练习的文件进行范例(ZIP， 342 KB)
 
 <br> 
 
