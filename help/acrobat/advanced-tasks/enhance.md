@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 364a521c1114cb89e781c07386634a9464676bc3
+source-git-commit: e1238d1dd61aea9a5b209d802d92b0b5a96d18a5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,13 @@ ht-degree: 0%
 
 了解如何通过添加图形修饰和自动编号来改变PDF。
 
+&amp;nbsp
+
 ## 您需要的
 
-[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip) 对要练习的文件进行范例(ZIP， 342 KB)
+[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)   对要练习的文件进行范例(ZIP， 342 KB)
+
+&amp;nbsp
 
 ## 了解如何添加背景图形
 
@@ -27,15 +31,15 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
-你学到的是：使用“编辑”工具向PDF添加背景图形。
+**你学到的是：使用“编辑”工具向PDF添加背景图形。**
 
 添加背景使您可以向PDF添加视觉元素，而无需返回原始源文件或应用程序。
 
-1. 从示例文件中打开Altura Technology Employee Handbook.pdf。
+1. 打开 *Altura Technology Employee Handbook.pdf* 从范例文件中。
 1. 选择 **编辑PDF** 的双曲余切值。
 1. 选择 **更多>背景>添加**.
 1. 选择 **页面范围选项……** 并在“Creative Cloud” **页面来源：** 选项，然后选择 **确定**.
-1. 选择 **文件** 在“源”选项下，选择 **浏览** 添加背景图形.pdf范例文件。
+1. 在“源”选项下选择 **文件** 选择 **浏览** 添加 *背景图形.pdf* 示例文件。
 1. 选择 **确定** 添加背景图形。
 
 ## 了解如何添加新的页脚
@@ -44,13 +48,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
-你学到的是：向PDF添加新页脚。
+**你学到的是：向PDF添加新页脚。**
 
 添加新的页眉或页脚允许您构建统一的PDF文件，从而改进查看体验。
 
 1. 选择 **页眉和页脚>添加>添加新**.
-1. 选择2英寸 **预览页** 框中。
-1. 在下面选择Calibri粗体 **名称：**,12 **大小：**，然后在“字体”部分中选择一种白色。
+1. 在 **预览页** 框中选择2。
+1. 在 **名称** 选择Calibri Bold，在 **大小** 选择12，然后在“字体”部分中选择一种白色。
 1. Type Altura Technology Confidential in **左页脚文本** 框中。
 1. 选择 **插入页码** 中 **页脚文本居中** 框中。
 1. 在 **右页脚文本** 框中。
