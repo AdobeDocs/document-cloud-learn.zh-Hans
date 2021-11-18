@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
+source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
-> 下载这些范例文件以练习(ZIP， 342 KB)
+>下载这些范例文件以练习(ZIP， 342 KB)
+
+[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
 
 ## 了解如何添加背景图形
 
