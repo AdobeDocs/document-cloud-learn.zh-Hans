@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 >[!TIP]
 >
->下载这些范例文件以练习(ZIP， 342 KB)
+>[下载这些范例文件](../assets/Enhance.zip) 练习(ZIP， 342 KB)
 
-[![获取文件](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![获取文件](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## 了解如何添加背景图形
 
@@ -61,5 +62,3 @@ ht-degree: 0%
 1. 在 **底部** 框。
 1. 选择 **存储设置**，在框中键入Revision 3.0并选择 **确定**.
 1. 选择 **确定** 将新页脚应用于PDF。
-
-
