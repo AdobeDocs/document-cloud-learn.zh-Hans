@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 869364fb68d20c7333bee25513dbdf19632a64ed
+source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 在本动手教程中，了解如何通过添加图形增强和自动编号来转换PDF。
 
+<br> 
+
 ## 您需要的
 
 [![获取文件](../assets/Getfiles.svg)](../assets/Enhance.zip)
-下载这些范例文件以练习(ZIP， 342 KB)
+对要练习的文件进行范例(ZIP， 342 KB)
 
 <br> 
 
