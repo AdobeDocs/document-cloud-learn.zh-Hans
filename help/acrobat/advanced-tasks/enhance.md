@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 在本动手教程中，了解如何通过添加图形增强和自动编号来转换PDF。
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="获取文件" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    下载这些范例文件以练习(ZIP， 342 KB)
-  </td>
-</tr>
-</table>
+[![获取文件](../assets/Getfiles.svg)](../assets/Enhance.zip)   下载这些范例文件以练习(ZIP， 342 KB)
+
+<br> 
 
 ## 了解如何添加背景图形
 
@@ -65,14 +58,14 @@ ht-degree: 0%
 1. 在 **预览页** 框中。
 1. 在“字体”部分，选择 **名称** 下拉菜单。
 在 **大小** 下拉菜单，然后选择一种白色。
-1. Type Altura Technology Confidential in **左页脚文本** 框中。
+1. 文字 *Altura Technology Confidential* 中 **左页脚文本** 框中。
 1. 选择 **插入页码** 中 **页脚文本居中** 框中。
-1. 在 **右页脚文本** 框中。
+1. 文字 *修订版3.0* 中 **右页脚文本** 框中。
 1. 选择 **页码和日期格式**.
 输入2 **起始页码** 选择 **确定**.
 1. 选择 **页面范围选项……**.
 在 **页面来源：** ，然后选择 **确定**.
 1. 在 **底部** 框。
 1. 选择 **存储设置**.
-在框中键入Revision 3.0并选择 **确定**.
+文字 *修订版3.0* ，然后选择 **确定**.
 1. 选择 **确定** 将新页脚应用于PDF。
