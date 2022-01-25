@@ -1,23 +1,23 @@
 ---
 title: 高级任务概述
-description: 使用Acrobat中的这些高级工具超越基础知识
+description: 在Acrobat中使用这些高级工具，超越基础知识
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
 
 # 高级任务概述
 
-![Acrobat快速入门图像](../assets/Hero-AdvancedTasks.png)
+![Acrobat入门图像](../assets/Hero-AdvancedTasks.png)
 
-使用Acrobat DC中的这些高级工具超越基础。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大文件、快速收集表单数据以及创建通用的可访问PDF文件。
+借助Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。
 
 ## Acrobat教程
 
@@ -25,12 +25,12 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="enhance.md">
-      <img alt="增强PDF" src="../assets/Enhance_1280.png" />
+      <img alt="增强您的PDF" src="../assets/Enhance_1280.png" />
     </a>
     <div>
-    <a href="enhance.md"><strong>增强PDF</strong></a>
+    <a href="enhance.md"><strong>增强您的PDF</strong></a>
     </div>
-    <em>通过添加图形增强和自动编号功能来改变PDF</em>
+    <em>通过添加图形增强PDF和自动编号功能转变字体</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 2%
     <div>
     <a href="compare.md"><strong>检测两个PDF之间的差异</strong></a>
     </div>
-    <em>快速、准确地检测两个PDF文件之间的差异，以改进文档审阅工作流程</em>
+    <em>快速准确地检测两个PDF文件之间的差异，以改进文档审阅工作流程</em>
     <br>
   </td>
   <td>
@@ -50,17 +50,17 @@ ht-degree: 2%
     <div>
     <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
-    <em>使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数</em>
+    <em>通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="redact.md">
-      <img alt="标记密文并整理" src="../assets/Redact.jpg" />
+      <img alt="标记密文和整理" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>标记密文并整理</strong></a>
+    <a href="redact.md"><strong>标记密文和整理</strong></a>
     </div>
     <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
@@ -72,7 +72,7 @@ ht-degree: 2%
     <div>
     <a href="reduce.md"><strong>减小文件大小并优化</strong></a>
     </div>
-    <em>在不影响共享、发布或归档质量的情况下减少大文件并优化PDF</em>
+    <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ ht-degree: 2%
     <div>
     <a href="formdata.md"><strong>使用表单数据</strong></a>
     </div>
-    <em>将表单数据编译为单个电子表格</em>
+    <em>将表单数据编译成单个电子表格</em>
     <br>
   </td>
 </tr>
@@ -94,21 +94,21 @@ ht-degree: 2%
     <div>
     <a href="accessibility.md"><strong>检查PDF辅助功能</strong></a>
     </div>
-    <em>了解如何检查残障人士是否可以普遍访问您的PDF</em>
+    <em>了解如何检查是否残障人士能够普遍访问PDF</em>
     <br>
   </td>
   <td>
     <a href="accessibility-series.md">
-      <img alt="准备具有辅助工具的PDF文件" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="准备可访问的PDF文件" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Acrobat辅助功能系列</strong></a>
+    <a href="accessibility-series.md"><strong>Acrobat Accessibility系列</strong></a>
     </div>
-    <em>在这个由六部分组成的点播网络研讨会系列中，从辅助功能基础知识到为PDF文件加标签的深入研究</em>
+    <em>在这个六部分点播网络研讨会系列中，从辅助功能的基础知识到为PDF文件添加标签的深入探索</em>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

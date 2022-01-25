@@ -7,22 +7,22 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
 
 # 集成概述
 
-![Acrobat集成图像](../assets/Hero-Integrate.png)
+![Acrobat Integrated Image](../assets/Hero-Integrate.png)
 
 将Acrobat与 [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]和 [!DNL Microsoft] 应用程序。
 
 ## Microsoft
 
-了解您团队中的每个人都如何直接在内部无缝地处理PDF文件 [Microsoft365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+了解您团队中的每个人都可以如何直接在内部无缝处理PDF文件 [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)的
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,17 +33,17 @@ ht-degree: 1%
     <div>
     <a href="createfromword.md"><strong>创建PDF文件 [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>使用超链接的目录和交叉引用、书签甚至附件直接从创建丰富、强大的PDF文件 [!DNL Microsoft Word]</em>
+    <em>使用超链接目录、交叉引用、书签甚至直接来自的附件来创建丰富、可靠的PDF文件 [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="创建PDF [!DNL Office] 对于Web" src="../assets/Officeweb_1280.png" />
+      <img alt="创建PDF [!DNL Office] 面向Web" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>创建PDF [!DNL Office] 对于Web</strong></a>
+    <a href="createofficeweb.md"><strong>创建PDF [!DNL Office] 面向Web</strong></a>
     </div>
-    <em>了解如何创建PDF文件，而无需离开 [!DNL Microsoft Office] 针对web应用程序</em>
+    <em>了解如何创建PDF文件，而无需离开 [!DNL Microsoft Office] 对于web应用程序</em>
     <br>
   </td>  
   <td>
@@ -53,7 +53,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandsp.md"><strong>使用 [!DNL SharePoint] 文件</strong></a>
     </div>
-    <em>简化文档工作流程 [!DNL SharePoint] 和Acrobat DC</em>
+    <em>简化文档工作流程 [!DNL SharePoint] 和Acrobat</em>
     <br>
   </td>  
 </tr>
@@ -65,7 +65,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandteams.md"><strong>PDF协作 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>通过查看、批注和审阅PDF，与同事协作和工作，无需离开 [!DNL Microsoft Teams]</em>
+    <em>无需离开即可查看、批注和审阅PDF，与同事协作和协作 [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -80,12 +80,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="edge.md">
-      <img alt="浏览时创建PDF内容 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
+      <img alt="浏览PDF时使用 [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>浏览时创建PDF内容 [!DNL Microsoft Edge]</strong></a>
+    <a href="edge.md"><strong>浏览PDF时使用 [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>了解如何使用Adobe Acrobat扩展动态存档网页以PDF [!DNL Microsoft Edge]</em>
+    <em>了解如何使用Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ ht-degree: 1%
 
 ## Google Drive
 
-了解如何借助内部的基本PDF和电子签名工具，在更短的时间内完成更多工作 [!DNL Google Drive].
+了解如何使用内部基本PDF和电子签名工具在更短的时间内完成更多工作 [!DNL Google Drive]的
 
 <table style="table-layout:fixed">
 <tr>
@@ -102,18 +102,18 @@ ht-degree: 1%
       <img alt="Adobe Acrobat for Google Drive" src="../assets/acrobatgoogle.jpg" />
     </a>
     <div>
-    <a href="acrobatandgoogle.md"><strong>Adobe Acrobat [!DNL Google Drive]</strong></a>
+    <a href="acrobatandgoogle.md"><strong>适用于 [!DNL Google Drive]</strong></a>
     </div>
-    <em>直接在 [!DNL Google Drive] app</em>
+    <em>直接在 [!DNL Google Drive] 应用程序</em>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -122,8 +122,8 @@ ht-degree: 1%
 
 ## 产品包装盒
 
-了解Acrobat DC和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}使组织内的每个人都能更轻松地保持业务发展。
+了解Acrobat DC和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}使组织中的每个人都能更轻松地推动业务。
 
 ## Dropbox
 
-了解访问和使用存储在 [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。
+了解访问和处理存储在中的PDF有多简单 [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。

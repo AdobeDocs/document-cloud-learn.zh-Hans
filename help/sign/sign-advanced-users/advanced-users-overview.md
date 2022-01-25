@@ -1,24 +1,24 @@
 ---
 title: 高级任务概述
-description: 了解如何将文档发送给100多个收件人以供签名，为您的网站设置可签名的文档，管理签名事务，以及创建和管理文档模板
+description: 了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 # 高级任务概述
 
-![签名高级图像](../assets/Hero-Advanced.png)
+![签署高级图像](../assets/Hero-Advanced.png)
 
-了解如何将文档发送出去以供签名给100多位收件人，为您的网站设置可签名的文档，管理签名事务，以及创建和管理文档模板。 这些教程适用于已经熟悉发送和请求签名基础知识并希望了解Adobe Sign可以为其使用更多方法的用户。
+了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名基础知识并希望了解Adobe Sign为其工作的更多方式的任何人。
 
 ## 发送
 
@@ -26,22 +26,22 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="设置工艺路线顺序" src="../assets/Routing.png">
+      <img alt="设置工艺路线单" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>设置工艺路线顺序</strong></a>
+    <a href="setting-up-routing.md"><strong>设置工艺路线单</strong></a>
     </div>
-    <em>为多个签名者设置路由顺序</em>
+    <em>为多个签名者设置路线顺序</em>
     <br>
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="委派给他人" src="../assets/Delegating.png" />
+      <img alt="委托给其他人" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>委派给他人</strong></a>
+    <a href="delegate-signature.md"><strong>委托给其他人</strong></a>
     </div>
-    <em>使用委派人角色将文档发送给中间人，中间人随后可以将文档路由到该中间人进行签名</em>
+    <em>使用委派人角色将文档发送给中介人，然后中介人可以路由文档以供签名</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 0%
     <div>
     <a href="add-an-approver.md"><strong>添加审批人</strong></a>
     </div>
-    <em>将审批人角色添加到合同审批流程</em>
+    <em>将审批人角色添加到合同审批流程中</em>
     <br>
   </td>
 </tr>
@@ -63,7 +63,7 @@ ht-degree: 0%
     <div>
     <a href="megasign.md"><strong>批量收集签名</strong></a>
     </div>
-    <em>只需几步即可为任何文档一次收集数百个签名</em>
+    <em>只需几个简单的步骤，即可一次性收集任意文档的数百个签名</em>
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="webform.md"><strong>设置Web表单</strong></a>
     </div>
-    <em>创建可直接在网站上以电子方式签名的文档</em>
+    <em>创建可以直接在您的网站上以电子方式签名的文档</em>
     <br>
   </td> 
   <td>
@@ -83,7 +83,7 @@ ht-degree: 0%
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign文本标记</strong></a>
     </div>
-    <em>使用Adobe Sign DC通过文本标记构建Adobe Acrobat表单域</em>
+    <em>使用Adobe Acrobat通过文本标记构建Adobe Sign表单域</em>
     <br>
   </td> 
 </table>
@@ -103,12 +103,12 @@ ht-degree: 0%
     <br>
   </td>  
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

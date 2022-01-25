@@ -1,5 +1,5 @@
 ---
-title: 随处使用Acrobat DC的5个提示 — 在移动设备上扫描和编辑
+title: 使用Acrobat随时随地工作的5个提示 — 在移动设备上扫描和编辑
 description: 了解如何使用Adobe Scan和Acrobat Reader移动应用程序随时随地完成工作
 role: User
 product: adobe acrobat
@@ -7,14 +7,14 @@ level: Beginner
 topic-revisit: mobile
 thumbnail: 34511.jpg
 exl-id: 6da76aff-a72f-4524-aec6-49f343f834a1
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 随处使用Acrobat DC的5个提示 — 在移动设备上扫描和编辑
+# 使用Acrobat随时随地工作的5个提示 — 在移动设备上扫描和编辑
 
 了解如何使用Adobe Scan和Acrobat Reader移动应用程序随时随地完成工作。
 

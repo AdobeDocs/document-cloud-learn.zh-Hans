@@ -1,14 +1,14 @@
 ---
 title: 教程
-description: Adobe Acrobat DC的教程、网络研讨会和使用案例的集合
+description: Adobe Acrobat的教程、网络研讨会和使用案例的集合
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑、共享和签署PDF来帮助保持业务发展。 在此，您将发现各种旨在快速使初学者和高级用户了解Adobe Acrobat的学习体验。
+Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、共享和签署PDF帮助保持业务发展。 在这里，您可以找到各种专为让初学者和高级用户快速了解Adobe Acrobat而设计的学习体验。
 
 ## 学习路径
 
@@ -40,17 +40,17 @@ Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑�
     <div>
     <a href="advanced-tasks/advanced-tasks-overview.md"><strong>高级任务</strong></a>
     </div>
-    <em>通过特定任务和自动化超越基础知识</em>
+    <em>超越基础知识，实现特定任务和自动化</em>
     <br>
   </td>
   <td>
     <a href="skill-builder/skill-builder-overview.md">
-      <img alt="技能构建器" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="技能创建器" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>技能构建器</strong></a>
+    <a href="skill-builder/skill-builder-overview.md"><strong>技能培养者</strong></a>
     </div>
-    <em>基于任务的提示，可帮助您实现数字化、保持数字化并完成工作</em>
+    <em>基于任务的提示，可帮助您实现数字化、保持数字状态并完成工作</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑�
     <div>
     <a href="integrate/integrate-overview.md"><strong>集成</strong></a>
     </div>
-    <em>将Acrobat添加到现有的业务系统、流程和应用程序</em>
+    <em>将Acrobat添加到现有的业务系统、流程和应用程序中</em>
     <br>
   </td>
   <td>
@@ -72,15 +72,15 @@ Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑�
     <div>
     <a href="industry/industry-overview.md"><strong>行业和部门</strong></a>
     </div>
-    <em>探索真实世界企业如何实现100%数字化</em>
+    <em>探索现实世界中的企业如何实现100%数字化</em>
     <br>
   </td>  
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="开发" src="assets/acrobat_title_develop.png" />
+      <img alt="修改照片" src="assets/acrobat_title_develop.png" />
     </a>
     <div>
-    <a href="develop/develop-overview.md"><strong>开发</strong></a>
+    <a href="develop/develop-overview.md"><strong>修改照片</strong></a>
     </div>
     <em>获取Adobe Acrobat上的开发资源</em>
     <br>
@@ -94,7 +94,7 @@ Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑�
     <div>
     <a href="deploy/deploy-overview.md"><strong>部署</strong></a>
     </div>
-    <em>在您的组织内部署Acrobat的洞察和最佳实践</em>
+    <em>在组织中部署Acrobat的见解和最佳实践</em>
     <br>
   </td>
   <td>
@@ -108,7 +108,7 @@ Adobe Acrobat是Adobe Document Cloud的解决方案，它通过转换、编辑�
     <br>
   </td>  
   <td>
-   <img alt="间隔符" src="assets/Whitespacer.png" />
+   <img alt="间隔条" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>

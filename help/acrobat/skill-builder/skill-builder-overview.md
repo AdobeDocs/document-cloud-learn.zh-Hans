@@ -1,21 +1,21 @@
 ---
-title: Acrobat DC技能构建器
-description: 借助这些交互式技能构建器，在Acrobat DC上快速上手
+title: Acrobat DC Skill Builder
+description: 借助这些互动技能构建人员快速了解Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Acrobat Skill Builders
+# Acrobat Skill Builder
 
-借助这些交互式技能构建器快速掌握Acrobat DC。 或者，加入[每月实时会话](skill-builder-webinars.md)。
+利用这些互动式技能构建器，快速了解Acrobat。 或者，加入 [每月实时会话](skill-builder-webinars.md)的
 
 ![Acrobat Skill Builder图像](../assets/Hero-SkillBuilders.png)
 
@@ -25,17 +25,17 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank">
-      <img alt="纸张到PDF" src="../assets/sb_papertopdf.png" />
+      <img alt="纸质PDF" src="../assets/sb_papertopdf.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>从纸质文档转换为PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>从纸张到PDF</strong></a>
     </div>
-    <em>以数字方式将任何纸质文档转换为PDF</em>
+    <em>将任何纸质文档数字转换为PDF</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank">
-      <img alt="纸张到PDF" src="../assets/sb_prepareforsignature.png" />
+      <img alt="纸质PDF" src="../assets/sb_prepareforsignature.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>准备签名</strong></a>
@@ -44,7 +44,7 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -62,7 +62,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>创建和组织PDF</strong></a>
     </div>
-    <em>从任何类型的文件开始创建和组织PDF</em>
+    <em>从任何类型的PDF开始创建和组织文档</em>
     <br>
   </td>
   <td>
@@ -82,7 +82,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>编辑PDF</strong></a>
     </div>
-    <em>向PDF中添加文本、图像、链接和水印</em>
+    <em>将文本、图像、链接和水印添加到PDF</em>
     <br>
   </td>
 </tr>
@@ -109,10 +109,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank">
-      <img alt="随处填写和签名" src="../assets/sb_fill.png" />
+      <img alt="随时随地填写并签名" src="../assets/sb_fill.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank"><strong>随处填写和签名</strong></a>
+    <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank"><strong>随时随地填写并签名</strong></a>
     </div>
     <em>在任何设备上以电子方式填写、签署和发送表单</em>
     <br>
@@ -126,16 +126,16 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>优化PDF</strong></a>
     </div>
-    <em>准备要分发的PDF</em>
+    <em>准备PDF进行分发</em>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -153,7 +153,7 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>共享和收集反馈</strong></a>
     </div>
-    <em>收集PDF并获取反馈</em>
+    <em>收集并获取有关您的PDF的反馈</em>
     <br>
   </td>
   <td>
@@ -163,11 +163,11 @@ ht-degree: 0%
     <div>
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>保护PDF</strong></a>
     </div>
-    <em>将PDF中的敏感信息加密成密文并加以保护</em>
+    <em>将敏感信息标记为密文并保护PDF</em>
     <br>
   </td>
   <td>
-   <img alt="间隔符" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
