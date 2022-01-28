@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ ht-degree: 0%
 >[!TIP]
 >
 >在“首选项”中的“常规”类别下打开单键加速键。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ ht-degree: 0%
 
 ## 了解如何同时设置多个字段的属性、跳位顺序和保护表单
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ ht-degree: 0%
 
 设置跳位顺序可确保表单填写人在填写表单时能够轻松地在域之间移动。
 
-1. 键入Shift + N可显示跳位顺序。
+1. 文字 *Shift + N* 以显示跳位顺序。
 1. 移动 *HQ位置* 字段时， *员工人数* 字段中。
 1. 移动 *项目开始* 和 *项目结束* 列表中的 *电子邮件地址* 字段中。
 
 保护表单安全可确保无法修改文档的域或内容。
 
-1. 按Ctrl + D(在Mac上按Cmd + D)以调出 **文档属性** 对话框。
+1. 文字 *Ctrl + D(Mac上的Cmd + D)* ，以显示 **文档属性** 对话框。
 1. 选择&#x200B;**安全**&#x200B;选项卡.
 1. 选择 **口令安全性** 在 **安全方法：** 的下拉菜单。
 1. 检查 **限制编辑和打印文档。 更改这些权限设置需要密码。**
