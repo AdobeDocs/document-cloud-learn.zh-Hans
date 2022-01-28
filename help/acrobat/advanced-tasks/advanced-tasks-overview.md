@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ ht-degree: 2%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="使用表单域" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>使用表单域</strong></a>
+    </div>
+    <em>添加各种类型的表单域，设置表单域属性，并添加安全性以创建高质量的专业表单</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="增强您的PDF" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ ht-degree: 2%
     <em>通过添加图形增强PDF和自动编号功能转变字体</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="检测两个PDF之间的差异" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>检测两个PDF之间的差异</strong></a>
-    </div>
-    <em>快速准确地检测两个PDF文件之间的差异，以改进文档审阅工作流程</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ ht-degree: 2%
     <em>通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="标记密文和整理" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ ht-degree: 2%
     <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ ht-degree: 2%
     <em>将表单数据编译成单个电子表格</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="检查PDF辅助功能" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ ht-degree: 2%
     <a href="accessibility-series.md"><strong>Acrobat Accessibility系列</strong></a>
     </div>
     <em>在这个六部分点播网络研讨会系列中，从辅助功能的基础知识到为PDF文件添加标签的深入探索</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>

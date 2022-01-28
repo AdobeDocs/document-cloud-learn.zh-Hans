@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 8%
+source-wordcount: '338'
+ht-degree: 7%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 8%
    + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务 {#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)
+   + [使用表单域](advanced-tasks/workforms.md)
    + [增强您的PDF](advanced-tasks/enhance.md)
    + [检测两个PDF之间的差异](advanced-tasks/compare.md)
    + [Action Wizard](advanced-tasks/action.md)

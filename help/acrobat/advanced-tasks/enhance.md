@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <br> 
 
-## 您需要的
+## 您需要的内容
 
 [![获取文件](../assets/Getfiles.svg)](../assets/Enhance.zip)
 练习用样本文件(ZIP， 342 KB)
