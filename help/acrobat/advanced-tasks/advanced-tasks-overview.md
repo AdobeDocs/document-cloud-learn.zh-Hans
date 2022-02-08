@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,16 @@ ht-degree: 2%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizeseo.md">
+      <img alt="SEO的Optimize PDF" src="../assets/seo_1280.png" />
+    </a>
+    <div>
+    <a href="optimizeseo.md"><strong>SEO的Optimize PDF</strong></a>
+    </div>
+    <em>优化PDF以提高Web上的可发现性和搜索引擎排名</em>
+    <br>
+  </td>
   <td>
     <a href="workforms.md">
       <img alt="使用表单域" src="../assets/Workform_1280.png" />
@@ -43,7 +53,9 @@ ht-degree: 2%
     <em>通过添加图形增强PDF和自动编号功能转变字体</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="compare.md">
       <img alt="检测两个PDF之间的差异" src="../assets/Compare_1280.png" />
     </a>
@@ -52,9 +64,7 @@ ht-degree: 2%
     </div>
     <em>快速准确地检测两个PDF文件</em>
     <br>
-  </td>
-</tr>
-<tr>
+  </td> 
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -75,6 +85,8 @@ ht-degree: 2%
     <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="reduce.md">
       <img alt="减小文件大小并优化" src="../assets/Reduce.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 2%
     <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
@@ -107,6 +117,8 @@ ht-degree: 2%
     <em>了解如何检查是否残障人士能够普遍访问PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="准备可访问的PDF文件" src="../assets/Accessibilityseries_1280.png" />
@@ -115,6 +127,16 @@ ht-degree: 2%
     <a href="accessibility-series.md"><strong>Acrobat Accessibility系列</strong></a>
     </div>
     <em>在这个六部分点播网络研讨会系列中，从辅助功能的基础知识到为PDF文件添加标签的深入探索</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
