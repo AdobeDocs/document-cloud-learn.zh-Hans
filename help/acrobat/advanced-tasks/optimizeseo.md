@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
-source-git-commit: 388ef8f5d320ecdcd0d5167b83728302c2ea473e
+exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -71,7 +72,7 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 
 ## 创建关键字文件名
 
-在Web上发布PDF时，文件名将成为URL的一部分。 良好的最佳实践是将关键字优化的标题与文件名匹配。 为了便于搜索，应使用小写、无标点符号或哈希，并避免使用单词（a、an、and、it、for或，但in、my、your、our和their等）。 如果您使用单独的单词，请在单词之间添加连字符或下划线。
+在Web上发布PDF时，文件名将成为URL的一部分。 好的做法是将关键字优化的标题与文件名匹配。 为了便于搜索，应使用小写、无标点符号或哈希，并避免使用单词（a、an、and、it、for或，但in、my、your、our和their等）。 如果您使用单独的单词，请在单词之间添加连字符或下划线。
 
 ## 保护PDF
 

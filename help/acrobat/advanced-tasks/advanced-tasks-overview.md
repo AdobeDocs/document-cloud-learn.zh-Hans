@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
+source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="optimizeseo.md">
-      <img alt="SEO的Optimize PDF" src="../assets/seo_1280.png" />
+      <img alt="SEO（搜索引擎优化）的Optimize PDF" src="../assets/seo_1280.png" />
     </a>
     <div>
-    <a href="optimizeseo.md"><strong>SEO的Optimize PDF</strong></a>
+    <a href="optimizeseo.md"><strong>SEO（搜索引擎优化）的Optimize PDF</strong></a>
     </div>
     <em>优化PDF以提高Web上的可发现性和搜索引擎排名</em>
     <br>
