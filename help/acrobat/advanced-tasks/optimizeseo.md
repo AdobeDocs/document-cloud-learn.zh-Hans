@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 此步骤可减少文件大小并启用 **快速Web查看** 在PDF中。 **快速Web查看** 允许在对整个文件进行流式处理或下载之前立即打开、查看和搜索文件 — 创建最佳的最终用户体验。 打开 **[!UICONTROL 文档属性]** (*Ctrl + D* 在Windows或 *Cmd + D* 在Mac上)，以确定是否 **快速Web查看** 选项。
 
 ![文档属性的屏幕截图](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>如果您拥有Acrobat Pro，请在“Action Wizard”工具中运行“针对Web和移动设备优化”。 此动作将颜色转换为sRGB并嵌入字体，以便跨浏览器和移动设备一致显示PDF。
 
 ## 创建关键字文件名
 
