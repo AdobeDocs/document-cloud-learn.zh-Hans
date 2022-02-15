@@ -1,50 +1,50 @@
 ---
 title: Action Wizard
-description: 使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数
+description: 通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '218'
+ht-degree: 1%
 
 ---
 
 # Action Wizard
 
-使用动作自动将一组命令应用于一个或多个文件，从而节省时间和按键次数。
+通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作。
 
 >[!NOTE]
 >
->仅在Acrobat Pro DC中可用。
+>仅适用于Acrobat Pro。
 
-1. 选择 **[!UICONTROL Action Wizard]** 从 [!UICONTROL 工具] 中置或右侧窗格。
+1. 选择 **[!UICONTROL Action Wizard]** 从 [!UICONTROL 工具] 中间或右侧窗格。
 
    ![Action Wizard步骤1](../assets/ActionWizard_1.png)
 
-   预定义的动作显示在 **操作列表**.
+   预定义的动作出现在 **操作列表**&#x200B;的
 
-1. 选择 **[!UICONTROL 新动作]** 创建自定义动作。
+1. 选择 **[!UICONTROL 新动作]** 创建一个自定义动作。
 
    ![Action Wizard步骤2](../assets/ActionWizard_2.png)
 
-1. 从左侧的列表中选择任务，然后选择中心箭头将其添加到 **[!UICONTROL 创建新动作]** 对话框。
+1. 从左侧的列表中选择一项任务，然后选择中心箭头将其添加到 **[!UICONTROL 创建新动作]** 对话框。
 
-   *每个任务的设置都在此对话框中预先确定，或者您可以在操作运行时提示用户做出任何必要的决定。*
+   *每个任务的设置在此对话框中都是预先确定的，或者您可以在操作运行时提示用户做出任何必要的决定。*
 
    ![Action Wizard步骤3](../assets/ActionWizard_3.png)
 
-1. 选择 **[!UICONTROL 保存]** 并命名您的动作，使其显示在 **[!UICONTROL 操作列表]**.
+1. 选择 **[!UICONTROL 保存]** 并命名您的动作，使其显示在 **[!UICONTROL 操作列表]**&#x200B;的
 
-现在，您可以在需要对一个或多个PDF文件执行这些特定系列步骤时运行自定义操作。
+现在，您可以随时运行自定义动作，以便在一个或多个PDF文件上执行这些特定步骤。
 
 选择PDF图标以下载 *Action Wizard* 教程。
 
-[![下载Action Wizard教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+[![下载Action Wizard教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf)的
 
 >[!TIP]
 >
->此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！
+>本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!

@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: c7c0d0d337dd385ac0e90bbfeef24d926424dce5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 4%
 
 ---
 
@@ -23,6 +23,16 @@ ht-degree: 2%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="advancedforms.md">
+      <img alt="高级表单字段" src="../assets/Advancedforms_1280.png" />
+    </a>
+    <div>
+    <a href="advancedforms.md"><strong>高级表单字段</strong></a>
+    </div>
+    <em>学习构建专业PDF forms</em>
+    <br>
+  </td>
   <td>
     <a href="optimizeseo.md">
       <img alt="SEO（搜索引擎优化）的Optimize PDF" src="../assets/seo_1280.png" />
@@ -43,6 +53,8 @@ ht-degree: 2%
     <em>添加各种类型的表单域，设置表单域属性，并添加安全性以创建高质量的专业表单</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="增强您的PDF" src="../assets/Enhance_1280.png" />
@@ -53,8 +65,6 @@ ht-degree: 2%
     <em>通过添加图形增强PDF和自动编号功能转变字体</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="compare.md">
       <img alt="检测两个PDF之间的差异" src="../assets/Compare_1280.png" />
@@ -75,6 +85,8 @@ ht-degree: 2%
     <em>通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="redact.md">
       <img alt="标记密文和整理" src="../assets/Redact.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 2%
     <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="reduce.md">
       <img alt="减小文件大小并优化" src="../assets/Reduce.jpg" />
     </a>
@@ -107,7 +117,9 @@ ht-degree: 2%
     <em>将表单数据编译成单个电子表格</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="accessibility.md">
       <img alt="检查PDF辅助功能" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -117,9 +129,7 @@ ht-degree: 2%
     <em>检查您的PDF是否允许残障人士普遍访问</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility-series.md">
       <img alt="准备可访问的PDF文件" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -127,11 +137,6 @@ ht-degree: 2%
     <a href="accessibility-series.md"><strong>Acrobat Accessibility系列</strong></a>
     </div>
     <em>在这个六部分点播网络研讨会系列中，从辅助功能的基础知识到为PDF文件添加标签的深入探索</em>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
