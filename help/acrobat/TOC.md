@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 9%
+source-wordcount: '387'
+ht-degree: 8%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 9%
       + [将表单域添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
 + 60秒Acrobat {#60-second}
    + [概览](60-second/60-second-overview.md)
+   + [快速创建更高效的PDF文件](60-second/optimize.md)
+   + [使用密码Protect您的PDF文件](60-second/protect.md)
+   + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
+   + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
+   + [Export PDF到手机中的Word](60-second/exportwordphone.md)
+   + [识别扫描的PDF文件](60-second/textrecognition.md)
    + [将文件合并为一个PDF](60-second/combine-to-one-pdf.md)
    + [使用Acrobat Web编辑PDF](60-second/edit.md)
    + [一次搜索多个PDF文件](60-second/search.md)
