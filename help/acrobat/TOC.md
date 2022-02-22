@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: AcrobatTutorials
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 8%

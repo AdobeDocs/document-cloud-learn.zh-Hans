@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
@@ -30,7 +30,7 @@ ht-degree: 4%
     <div>
     <a href="custom.md"><strong>自定义命令和工具</strong></a>
     </div>
-    <em>通过使用自定义命令和工具集提高文档工作流程的生产效率</em>
+    <em>通过使用自定义命令和工具提高文档工作流程的生产效率</em>
     <br>
   </td>
   <td>
