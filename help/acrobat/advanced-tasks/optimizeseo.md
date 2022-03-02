@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 创建PDF内容，这些内容与网页中的信息不同。
 
-+++了解方法
++++查看有关如何创建独特内容的详细信息
 
 PDF内容应独特且结构如下：
 
@@ -37,11 +37,13 @@ PDF内容应独特且结构如下：
 
 +++
 
+<br> 
+
 ## 添加文档属性
 
 PDF文件具有标题和元说明，就像网页一样。
 
-+++了解方法
++++查看有关如何添加文档属性的详细信息
 
 添加键 **[!UICONTROL 文档属性]** 如下：
 
@@ -56,6 +58,8 @@ PDF文件具有标题和元说明，就像网页一样。
 
 +++
 
+<br> 
+
 ## 标记您的PDF
 
 >[!NOTE]
@@ -64,7 +68,7 @@ PDF文件具有标题和元说明，就像网页一样。
 
 为内容添加标签到PDF中不仅会生成您的文件 [可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 对于残障人士，它还可以提高SEO。
 
-+++了解方法
++++查看有关如何标记PDF
 
 按如下方式为PDF添加标签：
 
@@ -78,11 +82,15 @@ PDF文件具有标题和元说明，就像网页一样。
 
 +++
 
+<br> 
+
 ## 准备使用Web
 
 通过准备PDF进行Web查看和减小文件大小，优化与文档交互的体验。
 
-+++了解方法
++++查看有关如何为Web准备PDF的详细信息
+
+按如下方式准备PDF以用于Web:
 
 要准备PDF以用于Web，请选择 **[!UICONTROL “文件”>“另存为其它”>“缩小大小”PDF]**&#x200B;的
 
@@ -98,19 +106,25 @@ PDF文件具有标题和元说明，就像网页一样。
 
 +++
 
+<br> 
+
 ## 创建关键字文件名
 
-+++了解方法
++++查看有关如何创建关键字文件名的详细信息
+
+按如下方式创建关键字文件名：
 
 在Web上发布PDF时，文件名将成为URL的一部分。 好的做法是将关键字优化的标题与文件名匹配。 为了便于搜索，应使用小写、无标点符号或哈希，并避免使用单词（a、an、and、it、for或，但in、my、your、our和their等）。 如果您使用单独的单词，请在单词之间添加连字符或下划线。
 
 +++
 
+<br> 
+
 ## 保护PDF
 
 最后一步是保护您的PDF，防止未经授权的更改。
 
-+++了解方法
++++查看有关如何保护您的PDF
 
 按以下方式保护PDF:
 
