@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ ht-degree: 0%
 
 ## 创建独特内容
 
-创建PDF内容，这些内容与网页中的信息不同。 PDF内容应独特且结构如下：
+创建PDF内容，这些内容与网页中的信息不同。
+
++++了解方法
+
+PDF内容应独特且结构如下：
 
 * 使用以关键字开头的单个主标题/标题
 * 使用按层次结构组织的关键字小标题
@@ -31,9 +35,15 @@ ht-degree: 0%
 
    ![Acrobat Reader移动应用程序中的Liquid Mode屏幕截图](../assets/optimizeseo1.png)
 
++++
+
 ## 添加文档属性
 
-PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTROL 文档属性]** 如下：
+PDF文件具有标题和元说明，就像网页一样。
+
++++了解方法
+
+添加键 **[!UICONTROL 文档属性]** 如下：
 
 1. 选择 **[!UICONTROL “文件”>“属性”]** 或者使用键盘快捷键 *Ctrl + D* 在Windows或 *Cmd + D* ，然后选择 **[!UICONTROL 说明]** 选项卡。
 1. 在 **[!UICONTROL 标题：]** 字段。
@@ -44,13 +54,19 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 
    ![文档属性的屏幕截图](../assets/optimizeseo2.png)
 
++++
+
 ## 标记您的PDF
 
 >[!NOTE]
 >
 >仅适用于Acrobat Pro。
 
-为内容添加标签到PDF中不仅会生成您的文件 [可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 对于残障人士，它还可以提高SEO。 按如下方式为PDF添加标签：
+为内容添加标签到PDF中不仅会生成您的文件 [可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 对于残障人士，它还可以提高SEO。
+
++++了解方法
+
+按如下方式为PDF添加标签：
 
 1. 选择 **[!UICONTROL 辅助功能]** 的 **[!UICONTROL 工具]** 中心。
 1. 选择 **[!UICONTROL 自动为文档添加标签]** 图标。
@@ -60,9 +76,15 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 
    ![在PDF中设置替代文本的屏幕截图](../assets/optimizeseo3.png)
 
++++
+
 ## 准备使用Web
 
-通过准备PDF进行Web查看和减小文件大小，优化与文档交互的体验。 要准备PDF以用于Web，请选择 **[!UICONTROL “文件”>“另存为其它”>“缩小大小”PDF]**&#x200B;的
+通过准备PDF进行Web查看和减小文件大小，优化与文档交互的体验。
+
++++了解方法
+
+要准备PDF以用于Web，请选择 **[!UICONTROL “文件”>“另存为其它”>“缩小大小”PDF]**&#x200B;的
 
 ![文档属性的屏幕截图](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 >
 >如果您拥有Acrobat Pro，请在“Action Wizard”工具中运行“针对Web和移动设备优化”。 此动作将颜色转换为sRGB并嵌入字体，以便跨浏览器和移动设备一致显示PDF。
 
++++
+
 ## 创建关键字文件名
+
++++了解方法
 
 在Web上发布PDF时，文件名将成为URL的一部分。 好的做法是将关键字优化的标题与文件名匹配。 为了便于搜索，应使用小写、无标点符号或哈希，并避免使用单词（a、an、and、it、for或，但in、my、your、our和their等）。 如果您使用单独的单词，请在单词之间添加连字符或下划线。
 
++++
+
 ## 保护PDF
 
-最后一步是保护您的PDF，防止未经授权的更改。 按以下方式保护PDF:
+最后一步是保护您的PDF，防止未经授权的更改。
+
++++了解方法
+
+按以下方式保护PDF:
 
 1. 打开 **[!UICONTROL 文档属性]** (*Ctrl + D* 在Windows或 *Cmd + D* 在Mac上)，然后选择 **[!UICONTROL 安全性]** 选项卡。
 1. 检查 **[!UICONTROL 打印编辑和打印文档。 更改这些设置需要密码。]**
@@ -90,5 +122,7 @@ PDF文件具有标题和元说明，就像网页一样。 添加键 **[!UICONTRO
 1. 选择 **[!UICONTROL 确定]** 并保存文件。
 
    ![文档属性的屏幕截图](../assets/optimizeseo6.png)
+
++++
 
 现在，您的PDF已准备好发布到Web上 — 具有最佳关键字排名潜力和最终用户交互。

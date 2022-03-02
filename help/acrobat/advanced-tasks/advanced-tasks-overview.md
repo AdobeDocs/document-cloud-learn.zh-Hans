@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ ht-degree: 4%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="优化扫描的文档" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>优化扫描的文档</strong></a>
+    </div>
+    <em>了解如何增强扫描的文档，以获得更好的PDF查看和搜索体验</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="自定义命令和工具" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ ht-degree: 4%
     <em>学习构建专业PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="SEO（搜索引擎优化）的Optimize PDF" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ ht-degree: 4%
     <em>优化PDF以提高Web上的可发现性和搜索引擎排名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="使用表单域" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ ht-degree: 4%
     </div>
     <em>通过添加图形增强PDF和自动编号功能转变字体</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="检测两个PDF之间的差异" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ ht-degree: 4%
     </div>
     <em>快速准确地检测两个PDF文件</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ ht-degree: 4%
     <em>从您的PDF中永久删除隐私或敏感信息</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="减小文件大小并优化" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ ht-degree: 4%
     <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Action Wizard" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ ht-degree: 4%
     <em>检查您的PDF是否允许残障人士普遍访问</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="准备可访问的PDF文件" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ ht-degree: 4%
     <em>在这个六部分点播网络研讨会系列中，从辅助功能的基础知识到为PDF文件添加标签的深入探索</em>
     <br>
   </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>
