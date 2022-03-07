@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '230'
 ht-degree: 7%
 
 ---
@@ -54,7 +54,3 @@ ht-degree: 7%
 >[!TIP]
 >
 >要优化多个PDF文件，请尝试使用 [Action Wizard](../advanced-tasks/action.md)的
-
-选择PDF图标以下载 *减小文件大小并优化* 教程。
-
-[![下载减小文件大小和优化教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCReduce.pdf)的

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ ht-degree: 2%
    拆分PDF时，可以按页数、文件大小或顶层书签进行拆分。
 
    ![扫描步骤5](../assets/Organize_4.png)
-
-单击以下载PDF *组织页面* 教程。
-
-[! [下载组织页面教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)

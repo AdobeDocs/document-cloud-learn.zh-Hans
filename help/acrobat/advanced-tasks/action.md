@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ ht-degree: 1%
 1. 选择 **[!UICONTROL 保存]** 并命名您的动作，使其显示在 **[!UICONTROL 操作列表]**&#x200B;的
 
 现在，您可以随时运行自定义动作，以便在一个或多个PDF文件上执行这些特定步骤。
-
-选择PDF图标以下载 *Action Wizard* 教程。
-
-[![下载Action Wizard教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf)的
 
 >[!TIP]
 >

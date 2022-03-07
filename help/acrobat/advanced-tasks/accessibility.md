@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >有些问题无法自动修复，您需要手动干预才能更正此问题。 在这些情况下，>Acrobat会显示一个对话框，告诉您应该更正哪些内容。
-
-选择PDF图标以下载 *检查PDF辅助功能* 教程。
-
-[![下载辅助工具教程](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCAccessible.pdf)的

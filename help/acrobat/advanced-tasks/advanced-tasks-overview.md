@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 3%
     <div>
     <a href="bookmarks.md"><strong>添加书签和超链接</strong></a>
     </div>
-    <em>了解如何增强扫描的文档，以获得更好的PDF查看和搜索体验</em>
+    <em>了解如何添加书签和超链接以更好地导航和交互</em>
     <br>
   </td>
   <td>
