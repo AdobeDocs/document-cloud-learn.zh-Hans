@@ -1,15 +1,15 @@
 ---
 title: 集成概述
-description: 了解如何将Adobe Sign添加到现有系统、流程和应用程序
+description: 了解如何将Adobe Sign添加到现有的系统、流程和应用程序中
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ![Sign集成图像](../assets/Hero-Integrate.png)
 
-您可以在您的组织已经使用的其他应用程序(如Microsoft、Salesforce、Workday和Marketo)中使用Adobe Sign，以列举几个。 通过这些集成指南和教程，了解如何简化电子签名工作流程。
+您可以在组织已经使用的其他应用程序(例如Microsoft、Salesforce、Workday和Marketo)中使用Adobe Sign。 了解如何在这些集成指南和教程中简化电子签名工作流程。
 
 >[!NOTE]
-> 如果您在访问这些功能时遇到问题，请与您组织的管理员联系，以确保集成已启用。
+> 如果您在访问其中任何功能时遇到问题，请联系您组织的管理员以确保集成已启用。
 
 ## Microsoft集成教程
 
@@ -29,64 +29,64 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
-      <img alt="在Microsoft Outlook中填写和签名" src="../assets/MS-FillSign.png" />
+      <img alt="填写并签名Microsoft Outlook" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>在Microsoft Outlook中填写和签名</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>填写并签名Microsoft Outlook</strong></a>
     </div>
-    <em>直接在Microsoft Outlook中填写和签名表单</em>
+    <em>直接在Microsoft Outlook中填写并签署表单</em>
     <br>
   </td>
   <td>
     <a href="send-for-signature-with-outlook.md">
-      <img alt="在Outlook中发送以请求签名" src="../assets/MS-SendOutlook.png" />
+      <img alt="在Outlook中发送以供签名" src="../assets/MS-SendOutlook.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-outlook.md"><strong>在Outlook中发送以请求签名</strong></a>
+    <a href="send-for-signature-with-outlook.md"><strong>在Outlook中发送以供签名</strong></a>
     </div>
-    <em>直接在Microsoft Outlook中发送文档以请求签名</em>
+    <em>直接在Microsoft Outlook中发送文档以供签名</em>
     <br>
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="在SharePoint Online中发送以请求签名" src="../assets/Sending-in-SP.png" />
+      <img alt="在SharePoint Online中发送以供签名" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>在SharePoint Online中发送以请求签名</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>在SharePoint Online中发送以供签名</strong></a>
     </div>
-    <em>直接在Sharepoint Online中发送文档以请求签名</em>
+    <em>直接在Sharepoint Online中发送文档以供签名</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
-      <img alt="在SharePoint Online中跟踪" src="../assets/MS-TrackSP.png" />
+      <img alt="SharePoint Online中的字距调整" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>在SharePoint Online中跟踪</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong>SharePoint Online中的字距调整</strong></a>
     </div>
-    <em>直接在Microsoft Sharepoint中跟踪协议进度</em>
+    <em>直接在Microsoft Sharepoint中跟踪协议的进度</em>
     <br>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="在中发送文档以供签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+      <img alt="发送文档以供签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>在中发送文档以供签名 [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>发送文档以供签名 [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>直接在中发送文档以供签名 [!DNL Microsoft Teams]</em>
+    <em>直接在以下位置发送文档以供签名： [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="Adobe Sign for Microsoft Power Platform实现文档自动化" src="../assets/SF-Button.png" />
+      <img alt="用于Microsoft Power Platform的Adobe Sign的文档自动化" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Adobe Sign for Microsoft Power Platform实现文档自动化</strong></a>
+    <a href="documentautomation.md"><strong>用于Microsoft Power Platform的Adobe Sign的文档自动化</strong></a>
     </div>
-    <em>了解如何激活和使用Adobe Sign和Adobe PDF Tools的Microsoft Power Apps连接器</em>
+    <em>了解如何激活和使用适用于Microsoft Power Apps的Adobe Sign和Adobe PDF Tools连接器</em>
     <br>
   </td>
 </tr>
@@ -103,7 +103,7 @@ ht-degree: 0%
     <div>
     <a href="create-an-agreement-template.md"><strong>在Adobe Sign for Salesforce中创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板，以提供速度和一致性</em>
+    <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
   </td>
   <td>
@@ -113,7 +113,7 @@ ht-degree: 0%
     <div>
     <a href="set-up-data-mapping.md"><strong>设置数据映射</strong></a>
     </div>
-    <em>在签署协议后将数据拉回Salesforce</em>
+    <em>在协议签署后将数据拉回Salesforce</em>
     <br>
   </td>
   <td>
@@ -135,16 +135,16 @@ ht-degree: 0%
     <div>
     <a href="create-a-custom-button.md"><strong>创建自定义按钮</strong></a>
     </div>
-    <em>创建启动发送过程并自动填充Salesforce内协议的自定义按钮</em>
+    <em>创建一个自定义按钮，以在Salesforce中启动发送流程并自动填充协议</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -162,16 +162,16 @@ ht-degree: 0%
     <div>
     <a href="workday.md"><strong>使用Workday配置Adobe Sign</strong></a>
     </div>
-    <em>了解如何将Adobe Sign配置为直接在Workday中工作，以无缝管理您的所有人力资源文书工作</em>
+    <em>了解如何配置Adobe Sign以便直接在Workday中工作，以便无缝管理您的所有人力资源工作</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Whitespacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -184,32 +184,32 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="使用Adobe Sign for Salesforce和Marketo发送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="使用适用于Salesforce的Adobe Sign和Marketo发送通知" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>使用Adobe Sign for Salesforce和Marketo发送通知</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>使用适用于Salesforce的Adobe Sign和Marketo发送通知</strong></a>
     </div>
-    <em>了解如何发送文本消息、电子邮件或推送通知，以让签名者知道协议即将签署</em>
+    <em>了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="使用Adobe Sign for Salesforce和Marketo视频教程发送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="使用适用于Salesforce的Adobe Sign和Marketo视频教程发送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用Adobe Sign for Salesforce和Marketovideo教程发送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用适用于Salesforce的Adobe Sign和Marketo视频教程发送提醒</strong></a>
     </div>
-    <em>了解如何在协议在一段时间后仍未签名时从Marketo发送电子邮件提醒</em>
+    <em>了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒</em>
     <br>
   </td>
   <td>
     <a href="marketo-salesforce-reminder.md">
-      <img alt="使用Adobe Sign for Salesforce和Marketo配置指南发送提醒" src="../assets/Integrate-Salesforce-Reminder.jpg" />
+      <img alt="使用适用于Salesforce的Adobe Sign和Marketo配置指南发送提醒" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用Adobe Sign for Salesforce和Marketo配置指南发送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用适用于Salesforce的Adobe Sign和Marketo配置指南发送提醒</strong></a>
     </div>
-    <em>阅读如何在协议在一段时间后仍未签名时从Marketo发送电子邮件提醒</em>
+    <em>请参阅如何在一段时间后协议仍未签名时从Marketo发送电子邮件提醒</em>
     <br>
   </td>
 </tr>
@@ -221,7 +221,7 @@ ht-degree: 0%
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>使用Adobe Sign for Microsoft Dynamics和Marketo发送提醒</strong></a>
     </div>
-    <em>了解如何在协议在一段时间后仍未签名时发送电子邮件提醒</em>
+    <em>了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒</em>
     <br>
   </td>
   <td>
@@ -231,11 +231,11 @@ ht-degree: 0%
     <div>
     <a href="marketo-dynamics-sms.md"><strong>使用Adobe Sign for Microsoft Dynamics和Marketo发送通知</strong></a>
     </div>
-    <em>了解如何发送文本消息、电子邮件或推送通知，以让签名者知道协议即将签署</em>
+    <em>了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
