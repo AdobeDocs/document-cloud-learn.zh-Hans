@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
+source-git-commit: 77f676d923ca5b199d9c73299bbd15ae7e1518fe
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 
 浏览我们专为联邦、州和地方政府设计的Acrobat教程。
 
+## 随时随地使用Acrobat的5个提示
+
 <table style="table-layout:fixed">
 <tr>
   <td>
@@ -23,7 +25,7 @@ ht-degree: 0%
       <img alt="使用Acrobat随时随地工作的5个提示（完整步骤15:12）" src="../../assets/5tipscomplete.png" />
     </a>
     <div>
-    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>5 Tips for Working Anywhere with Acrobat (Complete 15:12)</strong></a>
+    <a href="5-tips-for-working-anywhere-with-acrobat-dc-for-government.md"><strong>使用Acrobat随时随地工作的5个提示（完整步骤15:12）</strong></a>
     </div>
     <em>了解如何获取和使用Acrobat及其配套移动应用程序中的工具，以便随时随地开展工作</em>
     <br>
@@ -35,7 +37,7 @@ ht-degree: 0%
     <div>
     <a href="get-your-tools.md"><strong>提示1:获取工具</strong></a>
     </div>
-    <em>The first step to start working from anywhere is to get your Acrobat tools and companion mobile apps</em>
+    <em>开始随时随地工作的第一步是获取Acrobat工具和配套的移动应用程序</em>
     <br>
   </td>  
   <td>
@@ -55,7 +57,7 @@ ht-degree: 0%
       <img alt="提示：3Protect数字文档" src="../../assets/Tip3.png" />
     </a>
     <div>
-    <a href="protect-digital-documents.md"><strong>Tip 3: Protect digital documents</strong></a>
+    <a href="protect-digital-documents.md"><strong>提示3:Protect数字文档</strong></a>
     </div>
     <em>向您的PDF添加密码以防止复制、编辑或打印</em>
     <br>
@@ -81,6 +83,11 @@ ht-degree: 0%
     <br>
   </td>
 </tr>
+</table>
+
+## 辅助工具
+
+<table>
 <tr>
   <td>
     <a href="making-pdfs-accessible.md">
@@ -121,7 +128,7 @@ ht-degree: 0%
     <div>
     <a href="finishing-in-acrobat.md"><strong>使PDF可访问：在Acrobat</strong></a>
     </div>
-    <em>Learn how to finish making your PDF file accessible using the tools in Acrobat Pro</em>
+    <em>了解如何使用Acrobat Pro中的工具完成PDF文件的可访问性</em>
     <br>
   </td>
   <td>
@@ -129,7 +136,7 @@ ht-degree: 0%
       <img alt="使PDF投票更易于访问" src="../../assets/Accessibleballots.png" />
     </a>
     <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>Making PDF ballots more Accessible</strong></a>
+    <a href="making-pdf-ballots-accessible.md"><strong>使PDF投票更易于访问</strong></a>
     </div>
     <em>本网络研讨会涵盖了使PDF辅助技术（如屏幕阅读器）用户阅读和完成投票所必需的关键辅助工具领域</em>
     <br>
