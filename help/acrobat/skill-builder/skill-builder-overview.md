@@ -1,14 +1,14 @@
 ---
-title: Acrobat DC Skill Builder
+title: Acrobat Skill Builder
 description: 借助这些互动技能构建人员快速了解Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---

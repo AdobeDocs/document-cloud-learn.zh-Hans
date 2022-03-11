@@ -6,18 +6,18 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 3%
+source-wordcount: '411'
+ht-degree: 4%
 
 ---
 
 # 快速入门概述
 
-![Acrobat快速入门图像](../assets/Hero-GettingStarted.png)
+![Acrobat入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简短的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护PDF文件，此内容旨在简化您进入PDF工作流程。
+通过这些简要的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护PDF文件，此内容旨在简化您的PDF工作流程。
 
 ## Acrobat教程
 
@@ -30,7 +30,7 @@ ht-degree: 3%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作区基础知识</strong></a>
     </div>
-    <em>了解Adobe Acrobat DC界面如何使跨桌面、Web和移动设备访问文件和工具变得轻松</em>
+    <em>了解Adobe Acrobat工作区如何让您在桌面、Web和移动设备上轻松访问文件和工具</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 3%
     <div>
     <a href="acrobatweb.md"><strong>随时随地使用Acrobat Web</strong></a>
     </div>
-    <em>了解如何使用浏览器中的Acrobat Web工具随时随地处理业务文档请求</em>
+    <em>了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ ht-degree: 3%
     <div>
      <a href="productivity.md"><strong>随时随地提高工作效率</strong></a>
     </div>
-    <em>借助Acrobat Reader移动应用程序，直接在平板电脑或手机上完成更多工作</em>
+    <em>使用Acrobat Reader移动应用程序，直接在平板电脑或手机上执行更多操作</em>
     <br>
   </td>
 </tr>
@@ -72,7 +72,7 @@ ht-degree: 3%
     <div>
      <a href="collaborate.md"><strong>实时协作</strong></a>
     </div>
-    <em>通过收集注释、协作处理响应和跟踪文档进度，随时随地实时推进项目</em>
+    <em>通过从任何地方收集注释、协作处理响应和实时跟踪文档进度，推动您的项目向前发展</em>
     <br>
   </td>
   <td>
@@ -80,9 +80,9 @@ ht-degree: 3%
       <img alt="Combine Files到PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>将文件合并为PDF</strong></a>
+     <a href="combine-to-pdf.md"><strong>将文件合并到PDF</strong></a>
     </div>
-    <em>将多种不同类型的文件组合到一个PDF中</em>
+    <em>将许多不同类型的文件合并为一个PDF</em>
     <br>
   </td>
 </tr>
@@ -94,27 +94,27 @@ ht-degree: 3%
     <div>
     <a href="create-pdf.md"><strong>创建 PDF</strong></a>
     </div>
-    <em>从各种不同类型的文档创建PDF</em>
+    <em>从各种PDF创建文档</em>
     <br>
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="对Acrobat DC中的PDF文件添加注释" src="../assets/Comment.jpg" />
+      <img alt="评论PDF" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>注释PDF</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>评论PDF</strong></a>
     </div>
-    <em>向PDF文件添加注释，然后与他人共享</em>
+    <em>将注释添加到PDF文件，然后与他人共享</em>
     <br>
   </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="在Acrobat DC中编辑PDF" src="../assets/Edit.jpg" />
+      <img alt="编辑 PDF" src="../assets/Edit.jpg" />
     </a>
     <div>
     <a href="edit-pdf.md"><strong>编辑 PDF</strong></a>
     </div>
-    <em>编辑PDF文件中的文本和图像</em>
+    <em>编辑文本文件中的文本和PDF图像</em>
     <br>
   </td>
 </tr>
@@ -146,7 +146,7 @@ ht-degree: 3%
     <div>
     <a href="scan-and-ocr.md"><strong>扫描和OCR</strong></a>
     </div>
-    <em>在不影响共享、发布或归档质量的情况下减少大文件并优化PDF</em>
+    <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
 </tr>
@@ -158,7 +158,7 @@ ht-degree: 3%
     <div>
     <a href="organize.md"><strong>组织页面</strong></a>
     </div>
-    <em>在PDF中添加、替换、提取、旋转、删除和移动页面</em>
+    <em>添加、替换、提取、旋转、删除和移动PDF</em>
     <br>
   </td>
   <td>
@@ -168,7 +168,7 @@ ht-degree: 3%
     <div>
     <a href="password-protect.md"><strong>Protect带密码的PDF文件</strong></a>
     </div>
-    <em>向PDF添加密码以保护其他人不打开或编辑文件</em>
+    <em>向您的PDF添加密码，以防他人打开或编辑该文件</em>
     <br>
   </td>
   <td>
@@ -178,7 +178,7 @@ ht-degree: 3%
     <div>
     <a href="fill-and-sign.md"><strong>Fill &amp; SignPDF forms</strong></a>
     </div>
-    <em>快速填写和签署PDF表单</em>
+    <em>快速填写并签署PDF表单</em>
     <br>
   </td>
 </tr>
@@ -190,7 +190,7 @@ ht-degree: 3%
     <div>
     <a href="signatures.md"><strong>获取签名</strong></a>
     </div>
-    <em>从任何地方收集他人具有法律约束力的电子签名，从而保持业务发展</em>
+    <em>通过从任何地方收集他人的具有法律约束力的电子签名来保持业务发展</em>
     <br>
   </td>
   <td>
@@ -200,15 +200,15 @@ ht-degree: 3%
     <div>
     <a href="track.md"><strong>跟踪文档</strong></a>
     </div>
-    <em>始终知道哪些文件正在等待签名，哪些文件已签名</em>
+    <em>请始终了解等待签名的文件以及已签名的文件</em>
     <br>
   </td>
    <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="PDF从哪里来？" src="../assets/WherePDFs.jpg" />
+      <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>PDF从哪里来？</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
     <br>

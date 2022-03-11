@@ -4,9 +4,9 @@ description: Adobe Acrobat Skill Builders是一个30分钟的会话，旨在提�
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Adobe Acrobat Skill Builder是一个30分钟的会话，旨在提升您的PDF工
 日期：2022年8月25日获取保护您的PDF内容所需的所有信息。 此会话将共享添加密码的技术，以防止查看、编辑或打印PDF，并向您展示如何永久删除敏感信息 — 甚至从不可见的元数据中！
 
 * **[简单的自动化与Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-日期：2022年7月28日停止重复简单的手动任务！ 此会话将指导您如何使用Acrobat DC中的Action Wizard来批处理PDF文件并自动执行序列性、重复性的任务。
+日期：2022年7月28日停止重复简单的手动任务！ 此会话将指导您如何使用Acrobat中的Action Wizard来批处理PDF文件并自动执行序列性、重复性的任务。
 
 * **[适合所有人的可读性：创建辅助PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 日期：2022年6月23日向PDF添加辅助功能可帮助所有读者访问内容。 加入此会议，了解如何使用Acrobat创建合规、可访问的PDF。

@@ -1,22 +1,24 @@
 ---
-title: 随处使用Acrobat DC的5个提示 — Protect Digital Documents
-description: 了解如何向PDF中添加密码以防止复制、编辑或打印
+title: 随时随地使用Acrobat的5个提示 — Protect数字文档
+description: 了解如何向PDF添加密码以防止复制、编辑或打印
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# 随处使用Acrobat DC的5个提示 — Protect Digital Documents
+# 随时随地使用Acrobat的5个提示 — Protect数字文档
 
-为PDF添加密码以防止复制、编辑或打印。
+向您的PDF添加密码以防止复制、编辑或打印。
 
 ## 提示#3 - Protect数字文档(1:23)
 
->[!VIDEO](https://video.tv.adobe.com/v/34510)
+>[!VIDEO](https://video.tv.adobe.com/v/34510?hidetitle=true)
+
+[转到提示#4 — 处理表单和签名](work-with-forms-and-signatures.md)
