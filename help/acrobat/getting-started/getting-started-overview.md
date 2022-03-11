@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '410'
 ht-degree: 4%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 4%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作区基础知识</strong></a>
     </div>
-    <em>了解Adobe Acrobat工作区如何让您在桌面、Web和移动设备上轻松访问文件和工具</em>
+    <em>了解Acrobat工作区如何让您在桌面、Web和移动设备上轻松访问文件和工具</em>
     <br>
   </td>
   <td>

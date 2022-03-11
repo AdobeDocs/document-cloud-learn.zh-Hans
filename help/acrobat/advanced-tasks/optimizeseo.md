@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ PDF文件具有标题和元说明，就像网页一样。
 
 ## 3.标记您的PDF
 
->[!NOTE]
->
->仅适用于Acrobat Pro。
-
 为内容添加标签到PDF中不仅会生成您的文件 [可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) 对于残障人士，它还可以提高SEO。
 
 +++查看有关如何标记PDF
@@ -81,6 +77,10 @@ PDF文件具有标题和元说明，就像网页一样。
    ![在PDF中设置替代文本的屏幕截图](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>仅适用于Acrobat Pro。
 
 <br> 
 
