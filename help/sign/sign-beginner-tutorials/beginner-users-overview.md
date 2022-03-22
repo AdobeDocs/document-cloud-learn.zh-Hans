@@ -1,23 +1,23 @@
 ---
-title: 快速入门概述
-description: 通过这些简短的分步教程快速了解如何发送、签署和跟踪文档
+title: Acrobat Sign快速入门概述
+description: 通过这些简要的分步教程，了解如何发送、签署和跟踪文档
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
 # 快速入门概述
 
-![签名快速入门图像](../assets/Hero-GettingStarted.png)
+![签名入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简短的分步教程快速了解如何发送、签署和跟踪文档。 快速浏览Adobe Sign，然后开始向一个或多个人发送文档。 此内容旨在简化您进入电子签名工作流程。
+通过这些简要的分步教程，了解如何发送、签署和跟踪文档。 快速浏览Adobe Sign，然后开始向一人或多人发送文档。 此内容旨在简化电子签名工作流程。
 
 ## 发送
 
@@ -30,7 +30,7 @@ ht-degree: 0%
     <div>
     <a href="quick-tour.md"><strong>快速浏览Adobe Sign</strong></a>
     </div>
-    <em>快速浏览Adobe Sign界面以开始运行</em>
+    <em>快速浏览Adobe Sign界面以启动并运行</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ ht-degree: 0%
     <div>
     <a href="send-to-single-recipient.md"><strong>发送给单个收件人</strong></a>
     </div>
-    <em>跳入并了解发送文档进行签名是多么简单</em>
+    <em>立即开始学习发送文档以供签名有多么简单</em>
     <br>
   </td>
   <td>
@@ -50,28 +50,28 @@ ht-degree: 0%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>发送给多个收件人</strong></a>
     </div>
-    <em>按照您想要的顺序将文档发送给多个人员进行电子签名</em>
+    <em>将文档发送给多位人员，以便完全按照您希望的顺序进行电子签名</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="面向新发件人的Adobe Sign入门" src="../assets/gettingstartednew.png" />
+      <img alt="面向新发件人的Adobe Sign快速入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>面向新发件人的Adobe Sign入门</strong></a>
+    <a href="new-sender.md"><strong>面向新发件人的Adobe Sign快速入门</strong></a>
     </div>
-    <em>本全面的教程是Adobe Sign中新发件人的绝佳入门</em>
+    <em>这个全面的教程是新发件人开始使用Adobe Sign的绝佳位置</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -84,32 +84,32 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="以电子方式签署文档" src="../assets/Electronically-sign.png" />
+      <img alt="以电子方式签名文档" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>以电子方式签署文档</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>以电子方式签名文档</strong></a>
     </div>
-    <em>了解使用Adobe Sign签署已发送给您的文档是多么简单</em>
+    <em>了解如何轻松签署使用Adobe Sign发送给您的文档</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填写和签名文档" src="../assets/FillandSign.png" />
+      <img alt="填写并签名文档" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>填写和签名文档</strong></a>
+    <a href="fill-and-sign.md"><strong>填写并签名文档</strong></a>
     </div>
-    <em>填写表单并将电子签名添加到文档</em>
+    <em>填写表单并将您的电子签名添加到文档</em>
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="当面获取签名" src="../assets/In-person.png" />
+      <img alt="获取亲自签名" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>当面获取签名</strong></a>
+    <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Adobe Sign移动应用程序亲自获取他人的签名</em>
+    <em>使用Adobe Sign移动应用程序获取他人的亲自签名</em>
     <br>
   </td>
 </tr>
@@ -135,7 +135,7 @@ ht-degree: 0%
      <br>
   </td> 
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -163,18 +163,18 @@ ht-degree: 0%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板，为组织提供速度和一致性</em>
+    <em>创建可重复使用的文档模板，为您的组织提供速度和一致性</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="修改已发送以请求签名的文档" src="../assets/Modifying-sending.png" />
+      <img alt="修改已发送以供签名的文档" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>修改已发送以请求签名的文档</strong></a>
+    <a href="modify-in-flight.md"><strong>修改已发送以供签名的文档</strong></a>
     </div>
     <br>
-    <em>修改已在进行中的文档的工作流程</em>
+    <em>修改已在执行中的文档的工作流程</em>
   </td>
 </tr>
 </table>
