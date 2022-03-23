@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ ht-degree: 0%
     <div>
     <a href="usecasecompolicy.md"><strong>策略协议</strong></a>
     </div>
-    <em>在远程工作协议、策略更新等内容上高效收集所有员工的签名</em>
+    <em>高效收集所有员工对策略协议和更新的签名</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="远程工作协议" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>远程工作协议</strong></a>
+    </div>
+    <em>高效收集远程工作协议中所有员工的签名</em>
     <br>
   </td>
 </tr>
