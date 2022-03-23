@@ -1,13 +1,13 @@
 ---
 title: 发送给多个接收者
-description: 了解如何按照您想要的顺序将文档发送给多个人员进行电子签名
+description: 了解如何按所需顺序将文档发送给多个人以进行电子签名
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33661.jpg
+thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 0ed358068fefe5ce52f7afb0ecdba7d5a5b750bf
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 4%
@@ -16,10 +16,10 @@ ht-degree: 4%
 
 # 发送给多个收件人
 
-您是否有多个人必须与文档进行交互？ 在此视频教程中，了解如何按照您想要的顺序将文档发送给多个人员进行电子签名。
+是否有多个人员必须与您的文档进行交互？ 在本视频教程中，学习如何按照所需的顺序将文档发送给多个人进行电子签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/33661?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
 
 >[!TIP]
 >
->此视频是[Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)快速入门课程的一部分，该课程在Experience League上免费提供！
+>本视频为课程的一部分 [Adobe Sign入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 免费下载Experience League!
