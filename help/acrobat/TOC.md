@@ -1,14 +1,8 @@
 ---
 user-guide-title: AcrobatTutorials
-solution: Document Cloud, Acrobat, Acrobat DC
-solution-title: Learn & Support
-solution-hub-url: https://helpx.adobe.com/support/acrobat.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 8%

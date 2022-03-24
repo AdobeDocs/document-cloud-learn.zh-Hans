@@ -3,11 +3,11 @@ title: Adobe Sign文本标记
 description: 了解如何使用Adobe Acrobat通过文本标记来构建Adobe Sign表单域
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%

@@ -1,25 +1,25 @@
 ---
-title: 委派给他人
-description: 使用委派人角色将文档发送给中间人，中间人随后可以将文档路由到该中间人进行签名
+title: 委托给其他人
+description: 使用委派人角色将文档发送给中介人，然后中介人可以路由文档以供签名
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# 委派给他人
+# 委托给其他人
 
-了解如何使用委派人角色将文档发送给中间人，中间人随后可以将文档发送给中间人进行签名。
+了解如何使用委派人角色将文档发送给中介人，然后中介人可以路由文档以供签名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
 
 >[!TIP]
 >
->此视频是[用户高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)课程的一部分，该课程在Experience League上免费提供！
+>本视频为课程的一部分 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 免费下载Experience League!

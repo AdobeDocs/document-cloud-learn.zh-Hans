@@ -3,12 +3,12 @@ title: 用例展示
 description: 用例展示是一个直播讲座，它向您介绍新的Adobe Sign用例、趋势，并演示您的组织如何实施这些用例并从中受益
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
