@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 4%
 
 ---
 
 # 发送给多个收件人
 
-是否有多个人员必须与您的文档进行交互？ 在本视频教程中，学习如何按照所需的顺序将文档发送给多个人进行电子签名。
+是否有多个人员必须与您的文档进行交互？ 了解如何按所需顺序将文档发送给多个人以进行电子签名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
 

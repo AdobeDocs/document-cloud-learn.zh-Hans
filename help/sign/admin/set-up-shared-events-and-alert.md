@@ -1,20 +1,20 @@
 ---
-title: 设置共享事件和警报
-description: 了解Adobe Sign中的共享事件和警报设置
+title: 设置共享事件和警告
+description: 了解Adobe Sign中的共享事件和警告设置
 role: User, Admin
 product: adobe sign
 level: Intermediate
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# 设置共享事件和警报
+# 设置共享事件和警告
 
-在此视频教程中，您将了解可在Adobe Sign中配置的共享事件和警报设置。 警报是指在特定时间范围内未发生的操作，而事件是确实发生的操作。
+了解可以在Adobe Sign中配置的共享事件和警告设置。 “警告”是在特定时间段内未发生的操作，“事件”是已发生的操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)
