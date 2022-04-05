@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![签署高级图像](../assets/Hero-Advanced.png)
 
-了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名基础知识并希望了解Adobe Sign为其工作的更多方式的任何人。
+了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名的基础知识并希望了解Acrobat Sign更适合这些工作方式的任何人。
 
 ## 发送
 
@@ -78,12 +78,12 @@ ht-degree: 0%
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign文本标记" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign文本标记</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     </div>
-    <em>使用Adobe Acrobat通过文本标记构建Adobe Sign表单域</em>
+    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
     <br>
   </td> 
 </table>

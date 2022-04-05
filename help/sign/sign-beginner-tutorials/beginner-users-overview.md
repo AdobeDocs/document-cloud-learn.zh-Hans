@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![签名入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简要的分步教程，了解如何发送、签署和跟踪文档。 快速浏览Adobe Sign，然后开始向一人或多人发送文档。 此内容旨在简化电子签名工作流程。
+通过这些简要的分步教程，了解如何发送、签署和跟踪文档。 快速浏览Acrobat Sign，然后开始向一人或多人发送文档。 此内容旨在简化电子签名工作流程。
 
 ## 发送
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="快速浏览Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Acrobat Sign快速导览" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>快速浏览Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Acrobat Sign快速导览</strong></a>
     </div>
-    <em>快速浏览Adobe Sign界面以启动并运行</em>
+    <em>快速浏览Acrobat Sign界面以启动并运行</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="面向新发件人的Adobe Sign快速入门" src="../assets/gettingstartednew.png" />
+      <img alt="面向新发件人的Acrobat Sign入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>面向新发件人的Adobe Sign快速入门</strong></a>
+    <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign入门</strong></a>
     </div>
-    <em>这个全面的教程是新发件人开始使用Adobe Sign的绝佳位置</em>
+    <em>这个全面的教程是新发件人在Acrobat Sign中开始使用体验的绝佳起点</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ ht-degree: 0%
     <div>
     <a href="electronically-sign-a-document.md"><strong>以电子方式签名文档</strong></a>
     </div>
-    <em>了解如何轻松签署使用Adobe Sign发送给您的文档</em>
+    <em>了解如何轻松签署使用Acrobat Sign发送给您的文档</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ ht-degree: 0%
     <div>
     <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Adobe Sign移动应用程序获取他人的亲自签名</em>
+    <em>使用Acrobat Sign移动设备应用程序获取他人的亲自签名</em>
     <br>
   </td>
 </tr>

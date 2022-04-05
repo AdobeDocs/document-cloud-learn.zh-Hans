@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Sign管理员图像](../assets/Hero-Admin.png)
 
-了解如何向帐户添加用户、设置组、共享访问权限，以及设置工作流程、外部归档和共享事件与警告。 这些教程面向已经过安装阶段并已准备好开始管理Adobe Sign的管理员。 “高级任务”涵盖的主题涵盖范围超出管理员设置部分，然后进入定义全局设置、帐户访问和共享以及文本标记。
+了解如何向帐户添加用户、设置组、共享访问权限，以及设置工作流程、外部归档和共享事件与警告。 这些教程面向已经过安装阶段并已准备好开始管理Acrobat Sign的管理员。 “高级任务”涵盖的主题涵盖范围超出管理员设置部分，然后进入定义全局设置、帐户访问和共享以及文本标记。
 
 ## 快速入门
 
@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>针对管理员启动和运行</strong></a>
     </div>
-    <em>管理员在Adobe Sign中快速启动和运行的7个关键领域概述</em>
+    <em>管理员快速启动并运行Acrobat Sign的7个关键领域概述</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
     </div>
-    <em>将用户逐个或批量添加到您的Adobe Sign帐户</em>
+    <em>逐个或批量添加用户到您的Acrobat Sign帐户</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>创建报告</strong></a>
     </div>
-    <em>创建并计划报告，以使您的组织能够明显使用Adobe Sign</em>
+    <em>创建并计划报告以使您的组织可以更清楚地看到您对Acrobat Sign的使用</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ ht-degree: 1%
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign文本标记" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign文本标记</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     <div>
-    <em>使用Adobe Acrobat通过文本标记构建Adobe Sign表单域</em>
+    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
     <br>
   </td>
   <td>

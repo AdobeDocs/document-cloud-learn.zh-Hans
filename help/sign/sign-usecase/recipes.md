@@ -9,7 +9,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>薪水支票保护</strong></a>
     </div>
-    <em>了解如何使用Adobe Sign将付款保护计划表单转换为在线交互式表单</em>
+    <em>了解如何使用Acrobat Sign将“付款保护计划”表单转换为在线交互式表单</em>
     <br>
   </td>
   <td>

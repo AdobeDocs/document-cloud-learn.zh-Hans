@@ -1,5 +1,5 @@
 ---
-title: 使用适用于Salesforce的Adobe Sign和Marketo发送通知
+title: 使用适用于Salesforce的Acrobat Sign和Marketo发送通知
 description: 了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# 使用适用于Salesforce的Adobe Sign和Marketo发送通知
+# 使用适用于Salesforce的Acrobat Sign和Marketo发送通知
 
-了解如何使用Adobe Sign、适用于Salesforce的Adobe Sign、Marketo和Marketo Salesforce Sync来发送短信、电子邮件或推送通知，以便让签名者了解即将签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo SMS管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但是其他Marketo SMS解决方案可用。
+了解如何使用Acrobat Sign、适用于Salesforce的Acrobat Sign、Marketo和Marketo Salesforce Sync发送文本消息、电子邮件或推送通知，以便让签名者了解即将签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo SMS管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但是其他Marketo SMS解决方案可用。
 
 ## 先决条件
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    提供了用于Salesforce同步的信息和最新插件 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. 安装适用于Salesforce的Adobe Sign。
+1. 安装适用于Salesforce的Acrobat Sign。
 
    有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## 查找自定义对象
 
-完成Marketo Salesforce同步和适用于Salesforce的Adobe Sign配置后，Marketo管理终端中会显示几个新选项。
+完成Marketo Salesforce同步和适用于Salesforce的Acrobat Sign配置后，Marketo管理终端中会显示几个新选项。
 
 ![管理员](assets/adminTab.png)
 
@@ -151,4 +151,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->本教程是课程的一部分 [利用适用于Salesforce的Adobe Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是课程的一部分 [使用适用于Salesforce的Acrobat Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!

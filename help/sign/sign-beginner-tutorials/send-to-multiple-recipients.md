@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 341296.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 4%
@@ -22,4 +22,4 @@ ht-degree: 4%
 
 >[!TIP]
 >
->本视频为课程的一部分 [Adobe Sign入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 免费下载Experience League!
+>本视频为课程的一部分 [Acrobat Sign入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 免费下载Experience League!

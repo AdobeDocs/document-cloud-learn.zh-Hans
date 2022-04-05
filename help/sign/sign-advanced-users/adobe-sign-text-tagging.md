@@ -1,26 +1,26 @@
 ---
-title: Adobe Sign文本标记
-description: 了解如何使用Adobe Acrobat通过文本标记来构建Adobe Sign表单域
+title: Acrobat Sign文本标记
+description: 了解如何使用Adobe Acrobat通过文本标记来构建Acrobat Sign表单字段
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe Sign文本标记
+# Acrobat Sign文本标记
 
-在此录制的网络研讨会中（无需注册），了解如何使用Adobe Acrobat通过文本标记构建Adobe Sign表单字段。 为文本添加标签可显著减少构建和修订包含许多表单字段的文档所需的时间。 文档发件人无需在每个文档上放置单独的字段 — 这可以节省大量时间。 其他好处包括表单字段验证（准确无误的数据收集）和专业表单设计一致性。 欢迎您在网络研讨会期间通过“问题与回答”窗格向我们发送问题。 单击下图可开始观看录制内容。
+在此录制的网络研讨会中（无需注册），了解如何使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段。 为文本添加标签可显著减少构建和修订包含许多表单字段的文档所需的时间。 文档发件人无需在每个文档上放置单独的字段 — 这可以节省大量时间。 其他好处包括表单字段验证（准确无误的数据收集）和专业表单设计一致性。 欢迎您在网络研讨会期间通过“问题与回答”窗格向我们发送问题。 单击下图可开始观看录制内容。
 
 [![Watch Session](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[观看Adobe Sign文本标记录制网络研讨会](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[观看Acrobat Sign文本标记录制网络研讨会](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >

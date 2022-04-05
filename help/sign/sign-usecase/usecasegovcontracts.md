@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 政府合同和申请表
 
-用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解如何使用Adobe Sign的Workflow Designer工具帮助简化整个流程。
+用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解如何使用Acrobat Sign的工作流程设计器工具来帮助简化整个流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

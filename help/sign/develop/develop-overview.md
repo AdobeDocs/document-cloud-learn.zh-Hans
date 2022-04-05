@@ -1,24 +1,24 @@
 ---
-title: 开发概述
-description: 了解如何使用Adobe Sign API为您的团队、合作伙伴和客户创建自定义应用程序
+title: 修改照片概述
+description: 了解如何使用Acrobat Sign API为您的团队、合作伙伴和客户创建自定义应用程序
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
 
 ---
 
-# 开发概述
+# 修改照片概述
 
 ![签名修改照片图像](../assets/Hero-Develop.png)
 
-Adobe Sign中40%的协议是使用API创建的。 使用API为您的团队、合作伙伴和客户创建自定义应用程序。
+Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、合作伙伴和客户创建自定义应用程序。
 
 <table style="table-layout:fixed">
 <tr>
@@ -39,17 +39,17 @@ Adobe Sign中40%的协议是使用API创建的。 使用API为您的团队、合
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>了解您可以做什么</strong></a>
     </div>
-    <em>了解如何将Adobe Sign的功能并入任何外部应用程序</em>
+    <em>了解如何将Acrobat Sign的功能合并到任何外部应用程序中</em>
     <br>
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="使用GigaSign收集大容量文档" src="../assets/gigasign.jpg" />
+      <img alt="使用GigaSign收集大量文档" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>使用GigaSign收集大容量文档</strong></a>
+    <a href="gigasign.md"><strong>使用GigaSign收集大量文档</strong></a>
     </div>
-    <em>同时向数千人发送、收集和跟踪文档以供签名</em>
+    <em>发送、收集和跟踪文档以同时对数千人进行签名</em>
     <br>
   </td>
 </tr>
@@ -61,16 +61,16 @@ Adobe Sign中40%的协议是使用API创建的。 使用API为您的团队、合
     <div>
     <a href="embeddedesignature.md"><strong>创建嵌入式电子签名和文档体验</strong></a>
     </div>
-    <em>了解如何使用Adobe Sign API将电子签名和文档体验嵌入Web平台、内容和文档管理系统</em>
+    <em>了解如何使用Acrobat Sign API将电子签名和文档体验嵌入到Web平台以及内容和文档管理系统中</em>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔符" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

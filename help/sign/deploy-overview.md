@@ -1,13 +1,13 @@
 ---
 title: 部署概述
-description: 有关部署Adobe Sign的最佳实践文章和宝贵见解
+description: 有关部署Acrobat Sign的最佳实践文章和宝贵见解
 role: Admin
 product: adobe sign
 solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 16%
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign部署图像](assets/Hero-Deploy.png)
 
-最佳实践文章，深入了解如何在组织内部署Adobe Sign。
+有关在组织中部署Acrobat Sign的有价值见解的最佳实践文章。
 
 <table style="table-layout:fixed">
 <tr>
@@ -27,9 +27,9 @@ ht-degree: 16%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>管理Admin Console上的Adobe Sign</strong></a>
+    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>管理Admin Console上的Acrobat Sign</strong></a>
     </div>
-    <em>了解如何在Adobe的企业平台Adobe Admin Console上管理Adobe Sign用户和许可证</em>
+    <em>了解如何在Adobe的企业平台Adobe Admin Console上管理Acrobat Sign用户和许可证</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 16%
     <div>
     <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>最佳实践</strong></a>
     </div>
-    <em>查看我们的客户成功经理在与客户一起部署Adobe Sign时获得的宝贵见解和知识</em>
+    <em>查看我们的客户成功经理在与部署Acrobat Sign的客户协作过程中获取的宝贵见解和知识</em>
     <br>
   </td>  
   <td>
@@ -49,19 +49,19 @@ ht-degree: 16%
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
-    <em>了解我们当前在安全、合法性和适用于Adobe Sign的标准方面所做的努力</em>
+    <em>了解我们当前在Acrobat Sign的安全性、合法性和标准方面所做的努力</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Adobe Sign基础学习指南" src="assets/SignStudyGuide.png" />
+      <img alt="Acrobat Sign基础学习指南" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Adobe Sign基础学习指南</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign基础学习指南</strong></a>
     </div>
-    <em>Adobe SignAdobe Sign基本评估研究指南(AD3-D104)</em>
+    <em>Acrobat Sign基本功能评估的Acrobat Sign研究指南(AD3-D104)</em>
     <br>
   </td>
   <td>

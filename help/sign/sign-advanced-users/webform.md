@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37841.jpg
 exl-id: d6297c78-40d5-4353-893c-9fd5648048c6,ed99edd5-f826-4ac6-8f32-6a4e6e48ddc6
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 和 [面向管理员的Adobe Sign快速入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 可免费提供的课程Experience League!
+>本视频是 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 和 [面向管理员的Acrobat Sign快速入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 可免费提供的课程Experience League!

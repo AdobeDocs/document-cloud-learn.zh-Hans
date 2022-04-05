@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Sign for Microsoft Dynamics 365和Marketo发送通知
+title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
 description: 了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达
 role: Admin
 product: adobe sign
@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%

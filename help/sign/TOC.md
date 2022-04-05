@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe SignTutorials
+user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,8 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Adobe SignTutorials
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+breadcrumb-title: Acrobat SignTutorials
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -16,16 +16,16 @@ ht-degree: 6%
 ---
 
 
-# Adobe SignTutorials {#sign-learning-hub}
+# Acrobat SignTutorials {#sign-learning-hub}
 
 + [概览](overview.md)
 + 快速入门 {#getting-started}
    + [概览](sign-beginner-tutorials/beginner-users-overview.md)
    + 正在发送 {#getting-started-sending}
-      + [快速浏览Adobe Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Acrobat Sign快速导览](sign-beginner-tutorials/quick-tour.md)
       + [发送给单个收件人](sign-beginner-tutorials/send-to-single-recipient.md)
       + [发送给多个收件人](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [面向新发件人的Adobe Sign快速入门](sign-beginner-tutorials/new-sender.md)
+      + [面向新发件人的Acrobat Sign入门](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [以电子方式签名文档](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签名文档](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +44,7 @@ ht-degree: 6%
       + [添加审批人](sign-advanced-users/add-an-approver.md)
       + [批量收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [设置Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Adobe Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
       + [管理文档模板](sign-advanced-users/edit-a-template.md)
 + 管理 {#admin-set-up}
@@ -65,7 +65,7 @@ ht-degree: 6%
       + [共享帐户访问权限](admin/share-account-access.md)
       + [高级帐户共享](admin/advanced-account-sharing.md)
       + [使用生物识别设置](admin/use-bio-pharma-settings.md)
-      + [Adobe Sign文本标记](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign文本标记](sign-advanced-users/adobe-sign-text-tagging.md)
 + 数字身份证 {#digital-id}
    + [概览](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -85,20 +85,20 @@ ht-degree: 6%
       + [在SharePoint Online中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online中的字距调整](integrations/track-an-agreement-with-sharepoint-online.md)
       + [发送文档以供签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [用于Microsoft Power Platform的Adobe Sign的文档自动化](integrations/documentautomation.md)
+      + [适用于Microsoft Power Platform的Acrobat Sign实现文档自动化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [创建文档模板](integrations/create-an-agreement-template.md)
       + [设置数据映射](integrations/set-up-data-mapping.md)
       + [设置合并映射](integrations/set-up-merging-map.md)
       + [创建自定义按钮](integrations/create-a-custom-button.md)
    + 工作日 {#workday}
-      + [使用Workday配置Adobe Sign](integrations/workday.md)
+      + [使用Workday配置Acrobat Sign](integrations/workday.md)
    + Marketo {#marketo}
-      + [使用适用于Salesforce的Adobe Sign和Marketo发送通知](integrations/marketo-salesforce-sms.md)
-      + [使用适用于Salesforce的Adobe Sign和Marketo视频教程发送提醒](integrations/marketo-salesforce-reminder-video.md)
-      + [使用适用于Salesforce的Adobe Sign和Marketo配置指南发送提醒](integrations/marketo-salesforce-reminder.md)
-      + [使用Adobe Sign for Microsoft Dynamics和Marketo发送通知](integrations/marketo-dynamics-sms.md)
-      + [使用Adobe Sign for Microsoft Dynamics 365和Marketo发送提醒](integrations/marketo-dynamics-reminder.md)
+      + [使用适用于Salesforce的Acrobat Sign和Marketo发送通知](integrations/marketo-salesforce-sms.md)
+      + [使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒](integrations/marketo-salesforce-reminder-video.md)
+      + [使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒](integrations/marketo-salesforce-reminder.md)
+      + [使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知](integrations/marketo-dynamics-sms.md)
+      + [使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒](integrations/marketo-dynamics-reminder.md)
 + 行业和部门 {#expand}
    + [概览](sign-usecase/expand-inspire-overview.md)
    + 技能创建器 {#innovation}
@@ -128,4 +128,4 @@ ht-degree: 6%
 + 移动设备 {#mobile}
    + [概览](mobile/mobile-overview.md)
    + Mobile教程 {#mobile-tutorials}
-      + [Adobe Sign中的Liquid Mode](mobile/liquidmode.md)
+      + [Acrobat Sign中的Liquid Mode](mobile/liquidmode.md)

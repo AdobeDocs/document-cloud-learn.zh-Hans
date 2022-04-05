@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Sign for Microsoft Dynamics 365和Marketo发送提醒
+title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒
 description: 了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
 
 ---
 
-# 使用Adobe Sign for Microsoft Dynamics 365和Marketo发送提醒
+# 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒
 
-了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒。 此集成使用Adobe Sign、Adobe Sign for Microsoft Dynamics、Marketo和Marketo Microsoft Dynamics Sync。
+了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒。 此集成使用Acrobat Sign、Acrobat Sign for Microsoft Dynamics、Marketo和Marketo Microsoft Dynamics同步。
 
 ## 先决条件
 
@@ -25,13 +25,13 @@ ht-degree: 2%
 
    Microsoft Dynamics Sync的信息和最新插件现已可用 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 安装 [Adobe Sign for Microsoft Dynamics](https://appsource.microsoft.com/zh-cn/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)的
+1. 安装 [适用于Microsoft Dynamics的Acrobat Sign](https://appsource.microsoft.com/zh-cn/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)的
 
    有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 查找自定义对象
 
-完成Marketo Microsoft Dynamics Sync和Adobe Sign for Dynamics配置后，Marketo管理终端中会显示两个新选项。
+完成Marketo Microsoft Dynamics Sync和Acrobat Sign for Dynamics配置后，Marketo管理终端中会显示两个新选项。
 
 ![管理员](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->本教程是课程的一部分 [借助Adobe Sign for Microsoft Dynamics和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是课程的一部分 [使用适用于Microsoft Dynamics和Marketo的Acrobat Sign加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!

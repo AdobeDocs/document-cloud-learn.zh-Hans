@@ -1,5 +1,5 @@
 ---
-title: 使用适用于Salesforce的Adobe Sign和Marketo配置指南发送提醒
+title: 使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒
 description: 了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# 使用适用于Salesforce的Adobe Sign和Marketo配置指南发送提醒
+# 使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒
 
-了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒。 此集成使用Adobe Sign、适用于Salesforce的Adobe Sign、Marketo以及Marketo和Salesforce Sync。
+了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒。 此集成使用Acrobat Sign、适用于Salesforce的Acrobat Sign、Marketo以及Marketo和Salesforce同步。
 
 ## 先决条件
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    提供了用于Salesforce同步的信息和最新插件 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. 安装适用于Salesforce的Adobe Sign。
+1. 安装适用于Salesforce的Acrobat Sign。
 
    有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## 查找自定义对象
 
-当Marketo Salesforce同步和适用于Salesforce的Adobe Sign配置完成时，Marketo管理终端中会显示几个新选项。
+当Marketo Salesforce同步和适用于Salesforce的Acrobat Sign配置完成时，Marketo管理终端中会显示几个新选项。
 
 ![管理员](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->本教程是课程的一部分 [利用适用于Salesforce的Adobe Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是课程的一部分 [使用适用于Salesforce的Acrobat Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
