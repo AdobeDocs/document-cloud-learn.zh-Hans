@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="设置工艺路线单" src="../assets/Routing.png">
+      <img alt="设置签名顺序" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>设置工艺路线单</strong></a>
+    <a href="setting-up-routing.md"><strong>设置签名顺序</strong></a>
     </div>
-    <em>设置多个签名者的路线顺序</em>
+    <em>为多个签名者设置签名顺序</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ ht-degree: 0%
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     </div>
-    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
+    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
     <br>
   </td> 
 </table>

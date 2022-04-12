@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 6%
@@ -22,10 +22,10 @@ ht-degree: 6%
 + 快速入门 {#getting-started}
    + [概览](sign-beginner-tutorials/beginner-users-overview.md)
    + 正在发送 {#getting-started-sending}
-      + [Acrobat Sign快速导览](sign-beginner-tutorials/quick-tour.md)
+      + [快速浏览Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
       + [发送给单个收件人](sign-beginner-tutorials/send-to-single-recipient.md)
       + [发送给多个收件人](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [面向新发件人的Acrobat Sign入门](sign-beginner-tutorials/new-sender.md)
+      + [面向新发件人的Acrobat Sign快速入门](sign-beginner-tutorials/new-sender.md)
    + Signing {#getting-started-signing}
       + [以电子方式签名文档](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签名文档](sign-beginner-tutorials/fill-and-sign.md)
@@ -39,7 +39,7 @@ ht-degree: 6%
 + 高级任务 {#advanced-tasks}
    + [概览](sign-advanced-users/advanced-users-overview.md)
    + 正在发送 {#advanced-tasks-sending}
-      + [设置工艺路线单](sign-advanced-users/setting-up-routing.md)
+      + [设置签名顺序](sign-advanced-users/setting-up-routing.md)
       + [委托给其他人](sign-advanced-users/delegate-signature.md)
       + [添加审批人](sign-advanced-users/add-an-approver.md)
       + [批量收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
@@ -98,7 +98,7 @@ ht-degree: 6%
       + [使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒](integrations/marketo-salesforce-reminder-video.md)
       + [使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒](integrations/marketo-salesforce-reminder.md)
       + [使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知](integrations/marketo-dynamics-sms.md)
-      + [使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒](integrations/marketo-dynamics-reminder.md)
+      + [使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒](integrations/marketo-dynamics-reminder.md)
 + 行业和部门 {#expand}
    + [概览](sign-usecase/expand-inspire-overview.md)
    + 技能创建器 {#innovation}
@@ -127,5 +127,5 @@ ht-degree: 6%
    + [概览](deploy-overview.md)
 + 移动设备 {#mobile}
    + [概览](mobile/mobile-overview.md)
-   + Mobile教程 {#mobile-tutorials}
+   + 移动教程 {#mobile-tutorials}
       + [Acrobat Sign中的Liquid Mode](mobile/liquidmode.md)
