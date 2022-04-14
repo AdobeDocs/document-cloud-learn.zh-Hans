@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # 发送后修改文档
 
-了解如何修改已发出进行签名的文档，例如错误地发送了错误的文档。
+了解如何修改已发出进行签名的文档，例如错误地发送了错误的文档。 修改协议只能用于满足以下条件的文档：
+
+* 文档尚未签名、批准或委派
+* 文档不包含数字签名或书面签名
+* 文档不是从自定义工作流程启动的
+
 
 >[!NOTE]
 >
