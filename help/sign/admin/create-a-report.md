@@ -6,9 +6,9 @@ product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 # 创建报告
 
 了解如何在Acrobat Sign中运行、保存和计划报告。
+
+>[!NOTE]
+>
+>报告仅适用于商业和企业级别计划。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
