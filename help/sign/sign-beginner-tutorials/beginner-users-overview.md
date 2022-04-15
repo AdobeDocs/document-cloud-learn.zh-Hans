@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
       <img alt="Acrobat Sign快速导览" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>快速浏览Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Acrobat Sign快速导览</strong></a>
     </div>
     <em>快速浏览Acrobat Sign界面以启动并运行</em>
     <br>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="面向新发件人的Acrobat Sign入门" src="../assets/gettingstartednew.png" />
+      <img alt="面向新发件人的Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign入门</strong></a>
     </div>
-    <em>这个全面的教程是新发件人在Acrobat Sign中开始使用体验的绝佳起点</em>
+    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
     <br>
   </td>
  <td>
@@ -75,10 +75,15 @@ ht-degree: 0%
     <br>
     <em>修改已在进行的文档</em>
   </td>
-  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="更换签名者" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>更换签名者</strong></a>
+    </div>
     <br>
+    <em>了解如何更改已在处理中的文档的签名者</em>
   </td>
 </tr>
 </table>
@@ -114,7 +119,7 @@ ht-degree: 0%
     <div>
     <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Acrobat Sign移动应用程序获取他人的亲自签名</em>
+    <em>使用Acrobat Sign移动设备应用程序获取他人的亲自签名</em>
     <br>
   </td>
 </tr>
