@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 0%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Acrobat Sign快速导览" src="../assets/Quick-Tour.png" />
+      <img alt="工作区基础知识" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Acrobat Sign快速导览</strong></a>
+    <a href="quick-tour.md"><strong>工作区基础知识</strong></a>
     </div>
-    <em>快速浏览Acrobat Sign界面以启动并运行</em>
+    <em>快速浏览Acrobat Sign工作区以启动并运行</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="面向新发件人的Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
+      <img alt="面向新发件人的Acrobat Sign入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign入门</strong></a>
     </div>
-    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
+    <em>这个全面的教程是新发件人在Acrobat Sign中开始使用体验的绝佳起点</em>
     <br>
   </td>
  <td>
