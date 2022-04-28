@@ -1,23 +1,23 @@
 ---
-title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
+title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
 description: 了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达
 role: Admin
-product: adobe sign
+product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
+source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# 使用Adobe Sign for Microsoft Dynamics 365和Marketo发送通知
+# 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
 
-了解如何使用Adobe Sign、Adobe Sign for Microsoft Dynamic、Marketo和Marketo Microsoft Dynamics Sync发送文本消息、电子邮件或推送通知，以便让签名者了解即将签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo SMS管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但是其他Marketo SMS解决方案可用。
+了解如何使用Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo和Marketo Microsoft Dynamics Sync发送文本消息、电子邮件或推送通知，以便让签名者了解即将签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo SMS管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但是其他Marketo SMS解决方案可用。
 
 ## 先决条件
 
@@ -25,13 +25,13 @@ ht-degree: 1%
 
    Microsoft Dynamics Sync的信息和最新插件现已可用 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 安装Adobe Sign for Microsoft Dynamics。
+1. 安装Acrobat Sign for Microsoft Dynamics。
 
    有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 查找自定义对象
 
-完成Marketo Microsoft Dynamics Sync和Adobe Sign for Dynamics配置后，Marketo管理终端中会显示两个新选项。
+完成Marketo Microsoft Dynamics Sync和Acrobat Sign for Dynamics配置后，Marketo管理终端中会显示两个新选项。
 
 ![管理员](assets/adminTerminal.png)
 
@@ -152,4 +152,4 @@ ht-degree: 1%
 1. 现已设置您针对添加到协议中的潜在客户的短信通知营销活动。
 >[!TIP]
 >
->本教程是课程的一部分 [借助Adobe Sign for Microsoft Dynamics和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是课程的一部分 [借助Acrobat Sign for Microsoft Dynamics和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
