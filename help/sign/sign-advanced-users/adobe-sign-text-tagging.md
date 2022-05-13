@@ -1,15 +1,15 @@
 ---
 title: Acrobat Sign文本标记
-description: 了解如何使用Adobe Acrobat通过文本标记来构建Acrobat Sign表单字段
+description: 了解如何使用Adobe Acrobat通过文本标记来构建Acrobat Sign表单域
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 33b3df757a38207d36bf804b957e6ba291a5d3d0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 和 [管理员的高级任务](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 课程可在Experience League上免费获得！可在Experience League上免费获得！
+>本视频是 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 和 [管理员的高级任务](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 可免费提供的课程Experience League!
