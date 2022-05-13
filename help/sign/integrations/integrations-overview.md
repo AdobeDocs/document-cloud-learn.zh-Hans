@@ -1,13 +1,13 @@
 ---
 title: Sign集成概述
-description: 了解如何将Acrobat Sign添加到现有的系统、流程和应用程序
+description: 了解如何将Acrobat Sign添加到现有的系统、流程和应用程序中
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -86,7 +86,7 @@ ht-degree: 0%
     <div>
     <a href="documentautomation.md"><strong>适用于Microsoft Power Platform的Acrobat Sign实现文档自动化</strong></a>
     </div>
-    <em>了解如何为Microsoft Power Apps激活和使用Acrobat Sign和Adobe PDF Tools连接器</em>
+    <em>了解如何激活和使用适用于Microsoft Power Apps的Acrobat Sign和Adobe PDF Tools连接器</em>
     <br>
   </td>
 </tr>
@@ -98,7 +98,7 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="在适用于Salesforce的Acrobat Sign中创建文档模板" src="../assets/SF-Template.png" />
+      <img alt="在Acrobat Sign for Salesforce中创建文档模板" src="../assets/SF-Template.png" />
     </a>
     <div>
     <a href="create-an-agreement-template.md"><strong>在适用于Salesforce的Acrobat Sign中创建文档模板</strong></a>
@@ -197,7 +197,7 @@ ht-degree: 0%
       <img alt="使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>使用适用于Salesforce的Adobe Sign和Marketo视频教程发送提醒</strong></a>
     </div>
     <em>了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒</em>
     <br>
@@ -226,7 +226,7 @@ ht-degree: 0%
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
     <a href="marketo-dynamics-sms.md"><strong>使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知</strong></a>
