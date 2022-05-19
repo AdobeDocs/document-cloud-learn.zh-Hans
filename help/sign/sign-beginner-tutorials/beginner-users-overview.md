@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -60,9 +60,9 @@ ht-degree: 1%
       <img alt="面向新发件人的Acrobat Sign入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign入门</strong></a>
+    <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign快速入门</strong></a>
     </div>
-    <em>这个全面的教程是新发件人在Acrobat Sign中开始使用体验的绝佳起点</em>
+    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
     <br>
   </td>
  <td>
@@ -72,8 +72,8 @@ ht-degree: 1%
     <div>
     <a href="modify-in-flight.md"><strong>发送后修改文档</strong></a>
     </div>
-    <br>
     <em>修改已在进行的文档</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ ht-degree: 1%
     <div>
     <a href="replace-signer.md"><strong>更换签名者</strong></a>
     </div>
-    <br>
     <em>了解如何更改已在处理中的文档的签名者</em>
+     <br>
   </td>
 </tr>
 </table>

@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign部署图像](assets/Hero-Deploy.png)
 
-有关在组织中部署Acrobat Sign的有价值见解的最佳实践文章。
+最佳实践文章，深入了解如何在组织内部署Acrobat Sign。
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,13 +33,13 @@ ht-degree: 16%
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/cn/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="最佳实践" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>最佳实践</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>最佳实践</strong></a>
     </div>
-    <em>查看我们的客户成功经理在与部署Acrobat Sign的客户协作过程中获取的宝贵见解和知识</em>
+    <em>查看我们的客户成功经理在与客户一起部署Acrobat Sign时获得的宝贵见解和知识</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ ht-degree: 16%
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
-    <em>了解我们当前在Acrobat Sign的安全性、合法性和标准方面所做的努力</em>
+    <em>了解我们当前在安全、合法性和适用于Acrobat Sign的标准方面所做的努力</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ ht-degree: 16%
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign基础学习指南</strong></a>
     </div>
-    <em>Acrobat Sign基本功能评估的Acrobat Sign研究指南(AD3-D104)</em>
+    <em>Acrobat SignAcrobat Sign基本评估研究指南(AD3-D104)</em>
     <br>
   </td>
   <td>
