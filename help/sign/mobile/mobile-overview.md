@@ -1,5 +1,5 @@
 ---
-title: Mobile概述
+title: 移动概述
 description: 在您的移动设备上发送文档以供签名、跟踪电子签名进度并获得实时更新
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Mobile概述
+# 移动概述
 
-![签名Mobile图像](../assets/Hero-Mobile.png)
+![签名移动图像](../assets/Hero-Mobile.png)
 
 在您的移动设备上发送文档以供签名、跟踪电子签名进度并获得实时更新。
 
@@ -37,7 +37,7 @@ ht-degree: 29%
       <img alt="下载iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下载适用于iOS的Acrobat Sign Mobile应用程序</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下载适用于iOS的Acrobat Sign移动应用程序</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ ht-degree: 29%
       <img alt="Android版本下载" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下载适用于Android的Acrobat Sign Mobile应用程序</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>
     <br>
   </td>
 </tr>

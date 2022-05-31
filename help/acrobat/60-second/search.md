@@ -1,6 +1,6 @@
 ---
 title: 一次搜索多个PDF文件
-description: 在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件文件夹
+description: 在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 一次搜索多个PDF文件
 
-在这个60秒的视频教程中，了解如何在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件夹。
+这个60秒的视频教程介绍了如何在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件文件夹。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

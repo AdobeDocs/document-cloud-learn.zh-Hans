@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 政府合同和申请表
 
-用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解如何使用Acrobat Sign的工作流程设计器工具来帮助简化整个流程。
+用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解如何使用Acrobat Sign的Workflow Designer工具帮助简化整个流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

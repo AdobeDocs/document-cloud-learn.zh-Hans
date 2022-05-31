@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Mobile概述
+# 移动概述
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 

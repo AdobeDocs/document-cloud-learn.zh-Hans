@@ -25,7 +25,7 @@ ht-degree: 7%
       + [工作区基础知识](sign-beginner-tutorials/quick-tour.md)
       + [发送给单个收件人](sign-beginner-tutorials/send-to-single-recipient.md)
       + [发送给多个收件人](sign-beginner-tutorials/send-to-multiple-recipients.md)
-      + [面向新发件人的Acrobat Sign入门](sign-beginner-tutorials/new-sender.md)
+      + [面向新发件人的Acrobat Sign快速入门](sign-beginner-tutorials/new-sender.md)
       + [发送后修改文档](sign-beginner-tutorials/modify-in-flight.md)
       + [更换签名者](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
@@ -86,7 +86,7 @@ ht-degree: 7%
       + [在SharePoint Online中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online中的字距调整](integrations/track-an-agreement-with-sharepoint-online.md)
       + [发送文档以供签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [适用于Microsoft Power Platform的Acrobat Sign实现文档自动化](integrations/documentautomation.md)
+      + [用于Microsoft Power Platform的Acrobat Sign的文档自动化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [创建文档模板](integrations/create-an-agreement-template.md)
       + [设置数据映射](integrations/set-up-data-mapping.md)
@@ -99,7 +99,7 @@ ht-degree: 7%
       + [使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒](integrations/marketo-salesforce-reminder-video.md)
       + [使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒](integrations/marketo-salesforce-reminder.md)
       + [使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知](integrations/marketo-dynamics-sms.md)
-      + [使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒](integrations/marketo-dynamics-reminder.md)
+      + [使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒](integrations/marketo-dynamics-reminder.md)
 + 行业和部门 {#expand}
    + [概览](sign-usecase/expand-inspire-overview.md)
    + 技能创建器 {#innovation}
@@ -128,5 +128,5 @@ ht-degree: 7%
    + [概览](deploy-overview.md)
 + 移动设备 {#mobile}
    + [概览](mobile/mobile-overview.md)
-   + Mobile教程 {#mobile-tutorials}
+   + 移动教程 {#mobile-tutorials}
       + [Acrobat Sign中的Liquid Mode](mobile/liquidmode.md)

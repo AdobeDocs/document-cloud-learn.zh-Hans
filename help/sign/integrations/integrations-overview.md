@@ -81,10 +81,10 @@ ht-degree: 0%
   </td>
   <td>
     <a href="documentautomation.md">
-      <img alt="适用于Microsoft Power Platform的Acrobat Sign实现文档自动化" src="../assets/SF-Button.png" />
+      <img alt="用于Microsoft Power Platform的Acrobat Sign的文档自动化" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>适用于Microsoft Power Platform的Acrobat Sign实现文档自动化</strong></a>
+    <a href="documentautomation.md"><strong>用于Microsoft Power Platform的Acrobat Sign的文档自动化</strong></a>
     </div>
     <em>了解如何激活和使用适用于Microsoft Power Apps的Acrobat Sign和Adobe PDF Tools连接器</em>
     <br>
@@ -101,7 +101,7 @@ ht-degree: 0%
       <img alt="在Acrobat Sign for Salesforce中创建文档模板" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>在适用于Salesforce的Acrobat Sign中创建文档模板</strong></a>
+    <a href="create-an-agreement-template.md"><strong>在Acrobat Sign for Salesforce中创建文档模板</strong></a>
     </div>
     <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
@@ -216,10 +216,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="使用Acrobat Sign for Microsoft Dynamics和Marketo发送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送提醒</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>使用Acrobat Sign for Microsoft Dynamics和Marketo发送提醒</strong></a>
     </div>
     <em>了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒</em>
     <br>
@@ -229,7 +229,7 @@ ht-degree: 0%
       <img alt="使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知</strong></a>
     </div>
     <em>了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达</em>
     <br>

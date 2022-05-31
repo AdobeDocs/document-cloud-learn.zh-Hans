@@ -1,6 +1,6 @@
 ---
-title: 向未加标签的PDF中添加表单域
-description: 本点播会话深入到创建手动表单域和其他表单域属性
+title: 将表单域添加到未加标签的PDF
+description: 此按需会话将更深入地了解如何创建手动表单域和其他表单域属性
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# 向未加标签的PDF中添加表单域
+# 将表单域添加到未加标签的PDF
 
-本点播会话深入到创建手动表单域和其他表单域属性。
+此按需会话将更深入地了解如何创建手动表单域和其他表单域属性。
 
-单击[此处](../assets/accessibilitysession6.zip)下载此会话的操作文件的zip文件。
+单击 [此处](../assets/accessibilitysession6.zip) 下载此会话的实际操作文件的zip文件。
 
-选择图像以在单独的浏览器选项卡中查看视频。
+选择图像，以便在单独的浏览器选项卡中查看视频。
 
 [![会话6视频](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

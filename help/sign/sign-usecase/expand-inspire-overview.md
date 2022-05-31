@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 行业和部门概述
 
-![Acrobat Sign行业图像](../assets/Hero-Industry.png)
+![Acrobat Sign行业形象](../assets/Hero-Industry.png)
 
 了解如何通过探索这些真实行业和部门使用案例、配方和网络研讨会来转变组织的电子签名体验。
 

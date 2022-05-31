@@ -1,6 +1,6 @@
 ---
-title: 启动和运行Acrobat Sign管理员
-description: 管理员快速启动并运行Acrobat Sign的七个关键领域概述
+title: 启动和运行Acrobat Sign Administrators
+description: 管理员在Acrobat Sign中快速启动和运行的七个关键领域概述
 role: Admin
 product: adobe sign
 level: Intermediate
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # 启动和运行Acrobat Sign管理员
 
-了解管理员在Acrobat Sign中快速启动和运行应关注的七个关键方面。
+了解管理员为了快速启动并运行Acrobat Sign，应关注的七个关键方面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

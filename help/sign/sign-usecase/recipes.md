@@ -73,7 +73,7 @@ ht-degree: 0%
     <div>
     <a href="usecasegovpaycheck.md"><strong>薪水支票保护</strong></a>
     </div>
-    <em>了解如何使用Acrobat Sign将“付款保护计划”表单转换为在线交互式表单</em>
+    <em>了解如何使用Acrobat Sign将付款保护计划表单转换为在线交互式表单</em>
     <br>
   </td>
   <td>

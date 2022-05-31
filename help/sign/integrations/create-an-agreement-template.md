@@ -1,5 +1,5 @@
 ---
-title: 在适用于Salesforce的Acrobat Sign中创建文档模板
+title: 在Acrobat Sign for Salesforce中创建文档模板
 description: 了解如何创建可重复使用的文档模板以提高速度和一致性
 role: User, Admin
 product: adobe sign
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 在适用于Salesforce的Acrobat Sign中创建文档模板
+# 在Acrobat Sign for Salesforce中创建文档模板
 
 了解如何在Salesforce中为Acrobat Sign创建文档模板。 文档模板可提高Sign事务的速度和一致性，并能够管理文档修订和更改。
 

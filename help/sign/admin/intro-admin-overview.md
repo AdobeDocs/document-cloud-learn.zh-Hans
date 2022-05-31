@@ -31,7 +31,7 @@ ht-degree: 1%
     <div>
     <a href="up-and-running-admin.md"><strong>针对管理员启动和运行</strong></a>
     </div>
-    <em>管理员快速启动并运行Acrobat Sign的7个关键领域概述</em>
+    <em>管理员在Acrobat Sign中快速启动和运行的7个关键领域概述</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
     </div>
-    <em>逐个或批量添加用户到您的Acrobat Sign帐户</em>
+    <em>将用户逐个或批量添加到您的Acrobat Sign帐户</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="create-a-report.md"><strong>创建报告</strong></a>
     </div>
-    <em>创建并计划报告以使您的组织可以更清楚地看到您对Acrobat Sign的使用</em>
+    <em>创建并计划报告，以使您的组织能够明显使用Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -196,7 +196,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     <div>
-    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
+    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
     <br>
   </td>
   <td>

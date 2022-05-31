@@ -1,5 +1,5 @@
 ---
-title: 用于Microsoft Power Platform的Acrobat Sign的文档自动化
+title: 用于Microsoft Power Platform的Acrobat Sign文档自动化
 description: 了解如何为Microsoft Power Apps激活和使用Acrobat Sign和Adobe PDF Tools连接器。 构建工作流程，无需任何代码即可快速安全地实现业务审批和签名流程的自动化
 role: User, Developer
 level: Intermediate
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ---
 
-# 适用于Microsoft Power Platform的Acrobat Sign实现文档自动化
+# 用于Microsoft Power Platform的Acrobat Sign的文档自动化
 
 了解如何为Microsoft Power Apps激活和使用Acrobat Sign和Adobe PDF Tools连接器。 构建工作流程，无需任何代码即可快速安全地实现业务审批和签名流程的自动化。 该动手教程包含四个部分，其概述如下：
 
@@ -22,18 +22,18 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="第1部分：将已签名的协议存储在SharePoint和Acrobat Sign中" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="第1部分：将签名的协议存储在SharePoint和Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>第1部分：将已签名的协议存储在SharePoint和Acrobat Sign中</strong></a>
+    <a href="documentautomation.md#part1"><strong>第1部分：将签名的协议存储在SharePoint和Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="第二部分：通过Acrobat Sign获取电子签名的自动化审批流程" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="第二部分：使用Acrobat Sign自动执行审批流程以获取电子签名" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>第二部分：通过Acrobat Sign获取电子签名的自动化审批流程</strong></a>
+    <a href="documentautomation.md#part2"><strong>第二部分：使用Acrobat Sign自动执行审批流程以获取电子签名</strong></a>
     </div>
   </td>
   <td>
@@ -59,7 +59,7 @@ ht-degree: 1%
 
 * Microsoft 365和Power Automate熟悉
 * Acrobat Sign知识
-* 有权访问SharePoint和Power Automate的Microsoft 365帐户(Acrobat Sign基本版、Adobe PDF Tools高级版)
+* 有权访问SharePoint和Power Automate的Microsoft 365帐户(Acrobat Sign基本版、Adobe PDF工具高级版)
 * 适用于企业的Acrobat Sign或Acrobat Sign开发人员帐户
 
 **练习1和2**
@@ -72,7 +72,7 @@ ht-degree: 1%
 
 下载材料 [此处](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## 第1部分：将已签名的协议存储在SharePoint和Acrobat Sign中 {#part1}
+## 第1部分：将签名的协议存储在SharePoint和Acrobat Sign {#part1}
 
 在第一部分中，您将使用Power Automate流模板设置一个自动工作流程，以将所有签名协议保存到您的SharePoint站点。
 
@@ -83,7 +83,7 @@ ht-degree: 1%
 
 1. 选择 **将Acrobat Sign完成的协议保存到SharePoint库**&#x200B;的
 
-   ![“保存Acrobat Sign”已完成协议到SharePoint库操作的屏幕截图](assets/documentautomation/automation_2.png)
+   ![“将Acrobat Sign完成的协议保存到SharePoint库”操作的屏幕截图](assets/documentautomation/automation_2.png)
 
 1. 查看屏幕并配置任何需要的连接。 启用Acrobat Sign连接。
 1. 单击蓝色 `+` 符号。
@@ -102,7 +102,7 @@ ht-degree: 1%
 
 1. 完成登录。
 1. 单击 **继续** 以转到流编辑屏幕。
-1. Name the trigger.
+1. 为触发器命名。
 
    ![命名触发器的屏幕截图](assets/documentautomation/automation_5.png)
 
@@ -125,7 +125,7 @@ ht-degree: 1%
 
 您将在下一部分中测试此流。
 
-## 第二部分：通过Acrobat Sign获取电子签名的自动化审批流程 {#part2}
+## 第二部分：使用Acrobat Sign自动执行审批流程以获取电子签名 {#part2}
 
 在第二部分中，我们将第一部分构建一个更强健的流，并测试两个流以查看它们如何运行。
 
@@ -195,7 +195,7 @@ ht-degree: 1%
 
    ![动态内容屏幕的屏幕截图](assets/documentautomation/automation_18.png)
 
-1. 在Acrobat Sign搜索区域中搜索“创建”，以添加另一个Acrobat Sign操作。
+1. 在Acrobat Sign搜索区域中搜索“create”以添加另一个Acrobat Sign动作。
 1. 选择 **通过已上传的文档创建并签署协议，然后发送以请求签名**&#x200B;的
 
    ![搜索创建的屏幕截图](assets/documentautomation/automation_19.png)
@@ -375,12 +375,12 @@ ht-degree: 1%
 
 1. 单击&#x200B;**编辑**.
 
-   ![Screenshot of where to select edit](assets/documentautomation/automation_44.png)
+   ![选择编辑位置的屏幕截图](assets/documentautomation/automation_44.png)
 
 1. 选择触发器 **对于所选文件**&#x200B;的
 
-   Add your SharePoint site in the Site Address.
-Add your Library in Library.
+   在“站点地址”中添加您的SharePoint站点。
+将您的库添加到库中。
 
    ![已完成触发器的屏幕截图](assets/documentautomation/automation_45.png)
 
@@ -486,18 +486,18 @@ Add your Library in Library.
 
 ### 测试流程
 
-1. Navigate to the Proposal folder in SharePoint.
+1. 导航到SharePoint中的“建议”文件夹。
 1. 选择Proposal.docx。
 
    ![选择建议文件夹的屏幕截图](assets/documentautomation/automation_58.png)
 
-1. Select **Automate** to choose your flow.
+1. 选择 **自动** 以选择流程。
 
    ![从菜单中选择“自动”的屏幕截图](assets/documentautomation/automation_59.png)
 
 1. 单击 **继续** 以开始流程。
 
-   ![Screenshot of selecting Continue](assets/documentautomation/automation_60.png)
+   ![选择“继续”的屏幕截图](assets/documentautomation/automation_60.png)
 
 1. 选择封面和您要追加的白皮书。
 1. 将“密码”字段设置为要设置的密码。

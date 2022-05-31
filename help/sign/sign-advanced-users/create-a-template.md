@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 创建文档模板
 
-了解如何创建可重复使用的文档模板，并将其添加到Acrobat Sign库以供将来使用。 文档模板可提高Sign事务的速度和一致性，并能够管理文档修订和更改。
+了解如何创建可重复使用的文档模板，并将其添加到Acrobat Sign Library以供将来使用。 文档模板可提高Sign事务的速度和一致性，并能够管理文档修订和更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
