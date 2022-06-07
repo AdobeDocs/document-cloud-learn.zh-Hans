@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -36,12 +36,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="设置共享事件和警告" src="../assets/SharedEvents.png" />
+      <img alt="设置共享事件和警告" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>设置共享事件和警告</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告通知</strong></a>
     </div>
-    <em>配置组织的事件和警告设置</em>
+    <em>为我们的帐户配置事件和警告通知</em>
     <br>
   </td>
   <td>
