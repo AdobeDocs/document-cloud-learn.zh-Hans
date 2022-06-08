@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![签署高级图像](../assets/Hero-Advanced.png)
 
-了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名的基础知识并希望了解Acrobat Sign更适合这些工作方式的任何人。
+了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名基础知识并希望了解Acrobat Sign为其工作的更多方式的任何人。
 
 ## 发送
 
@@ -39,7 +39,7 @@ ht-degree: 0%
       <img alt="委托给其他人" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>委托给其他人</strong></a>
+    <a href="delegate-signature.md"><strong>使用委派人角色</strong></a>
     </div>
     <em>使用委派人角色将文档发送给中介人，然后中介人可以路由文档以供签名</em>
     <br>
