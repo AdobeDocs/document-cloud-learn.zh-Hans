@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-5326.jpg
 kt: 5326
 exl-id: 8d3e3cdc-e9f6-41bf-8937-1a53aab681b3
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: eea3b68c4659fedf9b1de319a6d30ce87ec030ef
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解基于证书的数字签名，这些签名符合世界各地最严格的法律法规，并对签名者的身份提供了最高级别的保证。
 
->[!VIDEO](https://video.tv.adobe.com/v/337130?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343648?hidetitle=true)
