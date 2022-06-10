@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [设置签名顺序](sign-advanced-users/setting-up-routing.md)
       + [使用委派人角色](sign-advanced-users/delegate-signature.md)
       + [添加审批人](sign-advanced-users/add-an-approver.md)
-      + [批量收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [批量发送和收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [设置Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [创建模板](sign-advanced-users/create-a-template.md)
       + [创建报告](admin/create-a-report.md)
       + [设置Web表单](sign-advanced-users/webform.md)
-      + [批量收集签名](sign-advanced-users/megasign.md)
+      + [批量发送和收集签名](sign-advanced-users/megasign.md)
       + [构建自定义工作流程](admin/building-a-custom-workflow.md)
    + 高级任务 {#advanced-tasks-admins}
       + [全局设置](admin/learn-about-global-settings.md)

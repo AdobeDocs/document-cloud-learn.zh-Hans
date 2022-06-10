@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -58,10 +58,10 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="megasign.md">
-      <img alt="批量收集签名" src="../assets/Megasign.png" />
+      <img alt="批量发送和收集签名" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="megasign.md"><strong>批量收集签名</strong></a>
+    <a href="megasign.md"><strong>批量发送和收集签名</strong></a>
     </div>
     <em>只需几个简单的步骤，即可一次性收集任意文档的数百个签名</em>
     <br>
