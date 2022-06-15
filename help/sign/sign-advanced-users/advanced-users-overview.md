@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -46,10 +46,10 @@ ht-degree: 2%
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="添加审批人" src="../assets/Approver.png" />
+      <img alt="使用审批人角色" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>添加审批人</strong></a>
+    <a href="add-an-approver.md"><strong>使用审批人角色</strong></a>
     </div>
     <em>将审批人角色添加到合同审批流程中</em>
     <br>
