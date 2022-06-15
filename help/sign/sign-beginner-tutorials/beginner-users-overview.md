@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="面向新发件人的Acrobat Sign入门" src="../assets/gettingstartednew.png" />
+      <img alt="面向新发件人的Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign快速入门</strong></a>
@@ -119,11 +119,21 @@ ht-degree: 1%
     <div>
     <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Acrobat Sign移动设备应用程序获取他人的亲自签名</em>
+    <em>使用Acrobat Sign移动应用程序获取他人的亲自签名</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+    <a href="delegate-signing.md">
+      <img alt="将签名委派给其他人" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>将签名委派给其他人</strong></a>
+    </div>
+    <em>了解如何将文档签名委派给其他人</em>
+    <br>
+  </td>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="什么是数字签名" src="../assets/Whatisdigsig_1280.jpg" />
@@ -144,11 +154,6 @@ ht-degree: 1%
     <em>使用图章标记已批准或完成的文档</em>
      <br>
   </td> 
-  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '426'
 ht-degree: 8%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [以电子方式签名文档](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签名文档](sign-beginner-tutorials/fill-and-sign.md)
       + [获取亲自签名](sign-beginner-tutorials/sign-in-person.md)
+      + [将签名委派给其他人](sign-beginner-tutorials/delegate-signing.md)
       + [什么是数字签名？](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [使用图章签名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
