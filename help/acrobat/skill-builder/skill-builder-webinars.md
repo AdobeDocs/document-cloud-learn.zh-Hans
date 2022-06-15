@@ -3,8 +3,9 @@ title: Adobe Acrobat Skill Builder网络研讨会
 description: Adobe Acrobat Skill Builders是一个30分钟的会话，旨在提升您的PDF工作流程
 product: adobe acrobat
 level: Intermediate
+thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 887752f71e1ef9573346377ea8853a8a4bbb1301
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
