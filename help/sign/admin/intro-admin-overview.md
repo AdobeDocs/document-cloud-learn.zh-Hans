@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 1%

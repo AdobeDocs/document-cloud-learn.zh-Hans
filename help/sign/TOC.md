@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
+source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 8%
