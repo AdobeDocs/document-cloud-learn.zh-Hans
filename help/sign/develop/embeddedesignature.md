@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # 创建嵌入式电子签名和文档体验
 
-了解如何使用Acrobat Sign API将电子签名和文档体验嵌入到Web平台以及内容和文档管理系统中。 该动手教程包含四个部分，其概述如下：
+了解如何使用Acrobat Sign API将电子签名和文档体验嵌入到Web平台以及内容和文档管理系统中。 该动手教程包含四个部分。
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="您需要的" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>第1部分：您需要的</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="第二部分：低/无代码 — Web表单的强大功能" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>第二部分：低/无代码 — Web表单的强大功能</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="第三部分：通过表单发送协议，合并数据" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>第三部分：发送包含表单的协议并合并数据</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="第四部分：嵌入签名体验、重定向等" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>第四部分：嵌入签名体验、重定向等</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
+## 第1部分：您需要的内容
 
-## 第1部分：您需要的 {#part1}
+第1部分，了解如何开始使用第2-4部分所需的一切。 让我们从获取API凭据开始。
 
-第1部分中，您将学习如何开始使用第2-4部分所需的一切。 让我们从获取API凭据开始。
++++查看有关如何获取API凭据的详细信息
 
 * [Acrobat Sign 开发人员帐户](https://acrobat.adobe.com/cn/zh-Hans/sign/developer-form.html)
 * [起始代码](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ ht-degree: 3%
    * Windows — Chocolatey
    * 全部 — https://www.python.org/downloads/
 
-## 第二部分：低/无代码 — Web表单的强大功能 {#part2}
+## 第二部分：低/无代码 — Web表单的强大功能
 
-第2部分中，您将了解使用Web表单时的低代码/无代码选项。 最好先看看能否避免编写代码。
+第2部分，了解使用Web表单的低/无代码选项。 最好先看看能否避免编写代码。
+
++++查看有关如何创建Web表单的详细信息
 
 1. 通过开发人员帐户访问Acrobat Sign。
-1. 单击 **发布Web表单** （在主页上）。
+
+1. 选择 **发布Web表单** （在主页上）。
 
    ![屏幕快照Acrobat Sign主页](assets/embeddedesignature/embed_1.png)
 
@@ -82,15 +50,18 @@ ht-degree: 3%
    ![有关如何创建Web表单的屏幕截图](assets/embeddedesignature/embed_2.png)
 
 1. 将您的协议嵌入在平面的HTML页面上。
+
 1. 尝试动态添加查询参数。
 
    ![添加查询参数的屏幕截图](assets/embeddedesignature/embed_3.png)
 
-## 第三部分：发送包含表单的协议并合并数据 {#part3}
+## 第三部分：发送包含表单的协议并合并数据
 
-在第3部分中，您将动态地创建协议。
+在第3部分中，动态创建协议。
 
-首先，您需要建立访问权限。 借助Acrobat Sign，有两种通过API进行连接的方法。 OAuth令牌和集成密钥。 除非您有特定的原因需要将OAuth与应用程序结合使用，否则最好先了解集成密钥。
++++查看有关如何动态创建协议的详细信息
+
+首先，您需要建立访问权限。 借助Acrobat Sign，有两种通过API进行连接的方法。 OAuth令牌和集成密钥。 除非您有特定的原因需要将OAuth与应用程序结合使用，否则您应首先探索集成密钥。
 
 1. 选择 **集成密钥** 在 **API信息** 菜单 **帐户** 选项卡。
 
@@ -139,9 +110,11 @@ ht-degree: 3%
 
 ![用于动态添加签名的代码的屏幕截图](assets/embeddedesignature/embed_11.png)
 
-## 第四部分：嵌入签名体验、重定向等 {#part4}
+## 第四部分：嵌入签名体验、重定向等
 
 在许多情况下，您可能希望允许触发参与者立即签署协议。 这对于面向客户的应用程序和信息亭非常有用。
+
++++查看有关如何嵌入签名体验的详细信息
 
 如果您不希望第一个发送电子邮件的人触发此事件，则可以通过修改API调用来管理此行为。
 
@@ -163,11 +136,11 @@ ht-degree: 3%
 
 当把所有东西放在一起时，解决方案非常简单。 您在创建一个协议，然后生成一个签名URL，供签名者单击并开始签名仪式。
 
-### 其他主题
+## 其他主题
 
 * [JS事件](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook事件
-   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhook/createWebhook)
+   * [REST API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
    * [Acrobat Sign v6中的Webhook](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [重新激活请求电子邮件（包含事件）](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [将超时替换为重试](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
@@ -179,14 +152,3 @@ ht-degree: 3%
       ![导航到Power Automate的屏幕截图](assets/embeddedesignature/embed_16.png)
 
    * 或添加一个 [飞行中](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## 其他资源
-
-http://bit.ly/Summit21-T126
-
-包括：
-* Acrobat Sign 开发人员帐户
-* Acrobat Sign API文档
-* 示例代码
-* Visual Studio代码
-* Python
