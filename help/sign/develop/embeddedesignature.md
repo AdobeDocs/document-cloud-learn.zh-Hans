@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ ht-degree: 3%
    * Windows — Chocolatey
    * 全部 — https://www.python.org/downloads/
 
++++
+
 ## 第二部分：低/无代码 — Web表单的强大功能
 
 第2部分，了解使用Web表单的低/无代码选项。 最好先看看能否避免编写代码。
@@ -54,6 +56,8 @@ ht-degree: 3%
 1. 尝试动态添加查询参数。
 
    ![添加查询参数的屏幕截图](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## 第三部分：发送包含表单的协议并合并数据
 
@@ -110,6 +114,8 @@ ht-degree: 3%
 
 ![用于动态添加签名的代码的屏幕截图](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## 第四部分：嵌入签名体验、重定向等
 
 在许多情况下，您可能希望允许触发参与者立即签署协议。 这对于面向客户的应用程序和信息亭非常有用。
@@ -135,6 +141,8 @@ ht-degree: 3%
 ![此屏幕截图说明了建立重试循环的最佳实践](assets/embeddedesignature/embed_15.png)
 
 当把所有东西放在一起时，解决方案非常简单。 您在创建一个协议，然后生成一个签名URL，供签名者单击并开始签名仪式。
+
++++
 
 ## 其他主题
 
