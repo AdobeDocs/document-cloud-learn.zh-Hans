@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 7%
+ht-degree: 3%
 
 ---
 

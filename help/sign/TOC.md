@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 8%
+source-wordcount: '429'
+ht-degree: 9%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 8%
       + [使用审批人角色](sign-advanced-users/add-an-approver.md)
       + [批量发送和收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [设置Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + 管理 {#advanced-tasks-managing}
       + [管理文档模板](sign-advanced-users/edit-a-template.md)
