@@ -6,7 +6,7 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10606.jpg
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 42%
