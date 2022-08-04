@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 4%
+source-wordcount: '431'
+ht-degree: 3%
 
 ---
 
@@ -25,12 +25,22 @@ ht-degree: 4%
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="工作区基础知识" src="../assets/Workspace_1280.png" />
+      <img alt="工作区基础知识" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作区基础知识</strong></a>
     </div>
     <em>了解Acrobat工作区如何让您在桌面、Web和移动设备上轻松访问文件和工具</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="全新的工作区体验" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>全新的工作区体验</strong></a>
+    </div>
+    <em>了解可在Acrobat中激活的新工作区体验</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ ht-degree: 4%
     <em>了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="随时随地提高工作效率" src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ ht-degree: 4%
     <em>使用Acrobat Reader移动应用程序，直接在平板电脑或手机上执行更多操作</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="使用Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ ht-degree: 4%
     <em>通过从任何地方收集注释、协作处理响应和实时跟踪文档进度，推动您的项目向前发展</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files到PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ ht-degree: 4%
     <em>将许多不同类型的文件合并为一个PDF</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="创建PDF文件" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ ht-degree: 4%
     <em>将注释添加到PDF文件，然后与他人共享</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="编辑 PDF" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ ht-degree: 4%
     <em>编辑文本文件中的文本和PDF图像</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="将PDF导出为可编辑格式" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ ht-degree: 4%
     <em>将在其他应用程序中创建的文档转换为可填写的PDF表单</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="扫描和OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ ht-degree: 4%
     <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="组织页面" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ ht-degree: 4%
     <em>向您的PDF添加密码，以防他人打开或编辑该文件</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="填写并签署PDF表单" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ ht-degree: 4%
     <em>快速填写并签署PDF表单</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="获取签名" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ ht-degree: 4%
     <em>请始终了解等待签名的文件以及已签名的文件</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="PDF从何而来？" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ ht-degree: 4%
     <a href="where-do-pdfs-come-from.md"><strong>PDF从何而来？</strong></a>
     </div>
     <em>了解PDF的来源及其用途</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
