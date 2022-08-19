@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '428'
 ht-degree: 9%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 9%
       + [在Outlook中发送以供签名](integrations/send-for-signature-with-outlook.md)
       + [在SharePoint Online中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
       + [SharePoint Online中的字距调整](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [发送文档以供签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [用于Microsoft Power Platform的Acrobat Sign的文档自动化](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [创建文档模板](integrations/create-an-agreement-template.md)

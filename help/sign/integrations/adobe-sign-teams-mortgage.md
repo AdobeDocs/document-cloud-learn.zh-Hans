@@ -1,6 +1,6 @@
 ---
-title: 发送文档以供签名 [!DNL Microsoft Teams]
-description: Acrobat Sign & [!DNL Microsoft Teams] 集成允许您发送协议以请求签名，或检查现有协议的状态，所有这些操作都可以在内部 [!DNL Microsoft Teams]
+title: 发送以请求签名 [!DNL Microsoft Teams]
+description: 了解如何从内部发送协议以请求签名、检查协议状态以及发送提醒 [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,18 +8,19 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# 发送文档以供签名 [!DNL Microsoft Teams]
+# 发送以请求签名 [!DNL Microsoft Teams]
 
-Acrobat Sign &amp; [!DNL Microsoft Teams] 集成允许您发送协议以请求签名，或检查现有协议的状态，所有这些操作都可以在内部 [!DNL Microsoft Teams]的 本示例将介绍直接在Teams中发出贷款申请的mortgage broker。 这种紧密的集成加快了抵押贷款流程，即使是在远程工作环境中与抵押贷款申请人合作时也是如此。
+了解如何从内部发送协议以请求签名、检查协议状态以及发送提醒 [!DNL Microsoft Teams]的
+此示例将介绍直接在Teams中发出贷款申请以供签名的按揭经纪人。 这种紧密的集成加快了抵押贷款流程，即使是在远程工作环境中与抵押贷款申请人合作时也是如此。
 
->[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
 >[!TIP]
 >

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ ht-degree: 0%
       <img alt="发送文档以供签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>发送文档以供签名 [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>发送以请求签名 [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>直接在以下位置发送文档以供签名： [!DNL Microsoft Teams]</em>
     <br>
