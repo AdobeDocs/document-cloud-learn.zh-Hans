@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '404'
 ht-degree: 1%
 
 ---
@@ -34,6 +34,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="new-sender.md">
+      <img alt="面向新发件人的Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign快速入门</strong></a>
+    </div>
+    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
+    <br>
+  </td>
+  <td>
     <a href="send-to-single-recipient.md">
       <img alt="发送给单个收件人" src="../assets/Send-to-single-recipient.png" />
     </a>
@@ -56,13 +66,13 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="面向新发件人的Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="向文档中添加字段" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>面向新发件人的Acrobat Sign快速入门</strong></a>
+    <a href="adding-fields.md"><strong>向文档中添加字段</strong></a>
     </div>
-    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
+    <em>了解如何向文档添加不同类型的字段</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ ht-degree: 1%
     </div>
     <em>了解如何更改已在处理中的文档的签名者</em>
      <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ ht-degree: 1%
     <em>使用Acrobat Sign移动应用程序获取他人的亲自签名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="将签名委派给其他人" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ ht-degree: 1%
     <em>了解如何将文档签名委派给其他人</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="什么是数字签名" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ ht-degree: 1%
     <em>使用图章标记已批准或完成的文档</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="使用图章签名" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>使用图章签名</strong></a>
+    </div>
+    <em>使用图章标记已批准或完成的文档</em>
+     <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ ht-degree: 1%
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
     </div>
     <em>创建可重复使用的文档模板，为您的组织提供速度和一致性</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
