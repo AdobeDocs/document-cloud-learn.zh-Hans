@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '284'
 ht-degree: 4%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 4%
     <em>将审批人角色添加到合同审批流程中</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="设置在线支付" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ ht-degree: 4%
     <em>了解如何在文档中设置和接受在线支付</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="批量发送和收集签名" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ ht-degree: 4%
     <em>创建可以直接在您的网站上以电子方式签名的文档</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ ht-degree: 4%
     <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     </div>
     <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ ht-degree: 4%
     <a href="edit-a-template.md"><strong>管理文档模板</strong></a>
     </div>
     <em>从库中编辑或删除模板</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="修改现有Web表单" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>修改现有Web表单</strong></a>
+    </div>
+    <em>了解如何禁用、编辑和重新启用现有Web表单</em>
     <br>
   </td>  
   <td>
