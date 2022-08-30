@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 8%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 8%
    + 管理 {#advanced-tasks-managing}
       + [管理文档模板](sign-advanced-users/edit-a-template.md)
       + [修改现有Web表单](sign-advanced-users/modify-webform.md)
+      + [创建报告](sign-advanced-users/creating-a-report.md)
 + 管理 {#admin-set-up}
    + [概览](admin/intro-admin-overview.md)
    + 快速入门 {#getting-started-admin}
@@ -62,7 +63,7 @@ ht-degree: 8%
       + [创建和管理组](admin/create-and-manage-groups.md)
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建模板](sign-advanced-users/create-a-template.md)
-      + [创建报告](admin/create-a-report.md)
+      + [创建报告图表](admin/create-a-report.md)
       + [创建Web表单](sign-advanced-users/webform.md)
       + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [批量发送和收集签名](sign-advanced-users/megasign.md)

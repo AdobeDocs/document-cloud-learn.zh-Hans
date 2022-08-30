@@ -1,15 +1,15 @@
 ---
 title: 高级任务概述
-description: 了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板
+description: 了解如何一次性向100个收件人发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '305'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ![签署高级图像](../assets/Hero-Advanced.png)
 
-了解如何向100个收件人同时发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名基础知识并希望了解Acrobat Sign为其工作的更多方式的任何人。
+了解如何一次性向100个收件人发送文档以供签名、为网站设置可供签名的文档、管理签名事务以及创建和管理文档模板。 本教程面向已经熟悉发送和请求签名基础知识并希望了解Acrobat Sign为其工作的更多方式的任何人。
 
 ## 发送
 
@@ -129,10 +129,15 @@ ht-degree: 4%
     <br>
   </td>  
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="创建报告" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>创建报告</strong></a>
+    </div>
+    <em>了解如何构建您自己的报告，以便了解文档签名流程</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>

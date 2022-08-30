@@ -1,27 +1,26 @@
 ---
-title: 创建报告
-description: 了解如何在Acrobat Sign中运行、保存和计划报告
+title: 创建报告图表
+description: 了解如何构建、保存和管理自己的自定义报告和数据导出
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# 创建报告
+# 创建报告图表
 
-了解如何在Acrobat Sign中运行、保存和计划报告。
+了解如何通过新的报告体验，以个性化视图构建、保存和管理自己的自定义报告和数据导出。 报告图表的可用性取决于 Acrobat Sign 系统中的用户授权级别。
 
 >[!NOTE]
 >
 >报告仅适用于商业和企业级别计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >

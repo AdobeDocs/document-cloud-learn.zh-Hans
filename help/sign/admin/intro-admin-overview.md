@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -88,12 +88,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="创建报告" src="../assets/Report.png" />
+      <img alt="创建报告图表" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>创建报告</strong></a>
+    <a href="create-a-report.md"><strong>创建报告图表</strong></a>
     </div>
-    <em>创建并计划报告以了解贵组织对Acrobat Sign的使用</em>
+    <em>了解如何构建、保存和管理自己的自定义报告和数据导出</em>
     <br>
   </td>
   <td>
