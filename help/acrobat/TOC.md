@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 7%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 7%
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [随时随地提高工作效率](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [实时协作](getting-started/collaborate.md)
-   + [Combine Files到PDF](getting-started/combine-to-pdf.md)
+   + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
    + [创建 PDF](getting-started/create-pdf.md)
-   + [评论PDF](getting-started/comment-on-pdf-files.md)
-   + [编辑 PDF](getting-started/edit-pdf.md)
-   + [将PDF导出为可编辑格式](getting-started/export-pdf.md)
-   + [创建可填写的表单](getting-started/create-fillable-forms.md)
-   + [扫描和OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files到PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
-   + [Protect带密码的PDF文件](getting-started/password-protect.md)
+   + [编辑 PDF](getting-started/edit-pdf.md)
+   + [自动调整版面](getting-started/auto-adjust-layout.md)
+   + [将PDF导出为可编辑格式](getting-started/export-pdf.md)
+   + [实时协作](getting-started/collaborate.md)
+   + [评论PDF](getting-started/comment-on-pdf-files.md)
+   + [创建可填写的表单](getting-started/create-fillable-forms.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
+   + [扫描和OCR](getting-started/scan-and-ocr.md)
+   + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [获取签名](getting-started/signatures.md)
    + [跟踪文档](getting-started/track.md)
-   + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务 {#advanced-tasks}
    + [概览](advanced-tasks/advanced-tasks-overview.md)
    + [添加书签和超链接](advanced-tasks/bookmarks.md)
