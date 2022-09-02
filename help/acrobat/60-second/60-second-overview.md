@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ ht-degree: 0%
     <em>将Word文件和表单转换为PDF并自动构建表单域</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="让Acrobat帮助您创建可访问PDF" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ ht-degree: 0%
     <em>检查PDF是否可访问</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF到手机中的Word" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ ht-degree: 0%
     <em>转换扫描的PDF，以便您可以在PDF中搜索文本</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="将文件合并为一个PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ ht-degree: 0%
     <em>对文本和图像进行简单编辑，甚至无需下载PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="一次搜索多个PDF文件" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ ht-degree: 0%
     <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="立即创建PDF照片" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ ht-degree: 0%
     </div>
     <em>了解如何使用Adobe Scan签署打印表单</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ ht-degree: 0%
     </div>
     <em>了解如何使用Illustrator对PDF中的图形进行高级编辑</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="快速组织页面" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ ht-degree: 0%
     <em>了解如何使用“组织页面”工具以鸟瞰方式查看PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>

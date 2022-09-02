@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 借助Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。
 
-## Acrobat教程
+## 高级任务教程
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ ht-degree: 3%
     <em>通过使用自定义命令和工具提高文档工作流程的生产效率</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="高级表单字段" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ ht-degree: 3%
     <em>学习构建专业PDF forms</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="SEO（搜索引擎优化）的Optimize PDF" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ ht-degree: 3%
     <em>添加各种类型的表单域，设置表单域属性，并添加安全性以创建高质量的专业表单</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="增强您的PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ ht-degree: 3%
     <em>快速准确地检测两个PDF文件</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Action Wizard" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ ht-degree: 3%
     <em>通过使用动作将一组命令自动应用于一个或多个文件，节省时间和按键操作</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="标记密文和整理" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ ht-degree: 3%
     <br>
   </td>
   <td>
-   <img alt="间隔条" src="../assets/Whitespacer.png" />
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
