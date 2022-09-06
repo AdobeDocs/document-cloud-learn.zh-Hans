@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 7%
    + [创建 PDF](getting-started/create-pdf.md)
    + [Combine Files到PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
+   + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑 PDF](getting-started/edit-pdf.md)
    + [自动调整版面](getting-started/auto-adjust-layout.md)
    + [将PDF导出为可编辑格式](getting-started/export-pdf.md)
