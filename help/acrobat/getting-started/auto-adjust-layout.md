@@ -5,16 +5,16 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # 自动调整版面
 
-了解新的编辑模式，该模式可重排内容并自动调整PDF中跨页的版面。
+了解新的编辑模式，该模式可重排内容并自动调整PDF中跨页的版面。 本视频教程使用 [全新的工作区体验](new-workspace.md)的
 
 >[!NOTE]
 >
