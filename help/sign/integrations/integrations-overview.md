@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="用于Microsoft Power Platform的Acrobat Sign的文档自动化" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>用于Microsoft Power Platform的Acrobat Sign的文档自动化</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]</strong></a>
     </div>
-    <em>了解如何激活和使用适用于Microsoft Power Apps的Acrobat Sign和Adobe PDF Tools连接器</em>
+    <em>了解如何自动将已签名文档存档到 [!DNL SharePoint] 库使用 [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="文档自动化 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>文档自动化 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>了解如何激活和使用 [!DNL Acrobat Sign] 和 [!DNL Adobe PDF Tools] 连接器 [!DNL Microsoft Power] 应用程序</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
