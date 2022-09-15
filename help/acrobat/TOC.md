@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
    + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
    + [创建 PDF](getting-started/create-pdf.md)
    + [Combine Files到PDF](getting-started/combine-to-pdf.md)
-   + [组织页面](getting-started/organize.md)
+   + [整理页面](getting-started/organize.md)
    + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑 PDF](getting-started/edit-pdf.md)
    + [自动调整版面](getting-started/auto-adjust-layout.md)
@@ -114,3 +114,4 @@ ht-degree: 7%
 + 移动设备 {#mobile}
    + [概览](mobile/mobile-overview.md)
    + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [扫描任何内容以进行PDF](mobile/scan-mobile-app.md)
