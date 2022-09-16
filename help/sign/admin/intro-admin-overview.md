@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,7 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
