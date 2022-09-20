@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 7%
 
 ---
@@ -85,10 +85,11 @@ ht-degree: 7%
    + [创建PDF来源 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [创建PDF [!DNL Office] 面向Web](integrate/createofficeweb.md)
    + [PDF协作 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [处理您的SharePoint文件](integrate/acrobatandsp.md)
-   + [在Outlook中将电子邮件和附件转换为PDF](integrate/outlook.md)
-   + [使用Microsoft Edge浏览时创建PDF内容](integrate/edge.md)
-   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
+   + [使用 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
+   + [将电子邮件和附件转换为PDF [!DNL Outlook]](integrate/outlook.md)
+   + [浏览PDF时使用 [!DNL Microsoft Edge]](integrate/edge.md)
+   + [适用于 [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [处理以下位置的文件： [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 行业和部门 {#by-industry}
    + [概览](industry/industry-overview.md)
    + 政府 {#gov}

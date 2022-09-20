@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -140,12 +140,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="设置合并映射" src="../assets/SF-MergeMapping.png" />
+      <img alt="在Salesforce中设置合并映射" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>设置合并映射</strong></a>
+    <a href="set-up-merging-map.md"><strong>在Salesforce中设置合并映射</strong></a>
     </div>
-    <em>将来自Salesforce的数据直接合并到协议中</em>
+    <em>了解如何将Salesforce中的数据直接合并到Acrobat Sign文档中</em>
     <br>
   </td>
 </tr>

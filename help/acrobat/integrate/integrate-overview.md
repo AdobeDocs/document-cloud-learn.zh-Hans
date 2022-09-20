@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ ht-degree: 1%
 </tr>
 </table>
 
+## Dropbox
+
+了解访问和处理存储在中的文件是多么简单 [!DNL Dropbox]的
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="处理以下位置的文件： [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>处理以下位置的文件： [!DNL Dropbox]</strong></a>
+    </div>
+    <em>了解如何打开、创建、编辑、签署更改以及将更改保存到 [!DNL Dropbox] 来自Acrobat的文件</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## 产品包装盒
 
 了解Acrobat和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}使组织中的每个人都能更轻松地推动业务。
-
-## Dropbox
-
-了解访问和处理存储在中的PDF有多简单 [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}。
