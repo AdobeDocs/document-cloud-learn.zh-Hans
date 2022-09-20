@@ -5,9 +5,9 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 887752f71e1ef9573346377ea8853a8a4bbb1301
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,18 @@ ht-degree: 0%
 Adobe Acrobat Skill Builder是一个30分钟的会话，旨在提升您的PDF工作流程。 每个月都会突出显示一个新主题。
 
 ## 每月会议
+
+* **[在MicrosoftPDF中使用字体](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target=&quot;_blank&quot;}**
+日期：2022年12月15日，Acrobat已完全集成到Microsoft 365应用程序中，因此您不必在屏幕之间切换，可以在工作流程中完成更多工作。 在此技能构建器会话中，您将了解如何将PDF工作流程添加到日常使用的Microsoft应用程序，包括团队、Outlook、SharePoint、Word、PowerPoint和Excel。
+
+* **[PDF协作：共享、审阅和协同工作](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target=&quot;_blank&quot;}**
+日期：2022年11月17日此技能构建器专注于数字文档协作。 了解如何与您的团队一起轻松审阅文档，并可浏览您可用的注释工具。 我们还将讨论在Microsoft Teams中与他人一起审阅PDF，以及如何使用Acrobat移动应用程序和Acrobat Web随时随地提供反馈。
+
+* **[重复使用PDF内容：编辑和导出](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
+日期：2022年10月27日了解如何修改现有PDF:编辑文本和图像、添加超链接和书签、转换为Microsoft Word、PowerPoint和Excel文件等。
+
+* **[开始使用Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
+日期：2022年9月22日启动并运行Adobe Acrobat和PDF。 我们将向您介绍Acrobat界面并演示如何：*从图像文件和文档（包括Word、Excel和PowerPoint）创建PDF。 *将多个文件(PDF、Word、图像等)合并为一个可编辑PDF。 *使用Acrobat Web和移动设备随时随地完成工作。
 
 * **[PDF安全](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 日期：2022年8月25日获取保护您的PDF内容所需的所有信息。 此会话将共享添加密码的技术，以防止查看、编辑或打印PDF，并向您展示如何永久删除敏感信息 — 甚至从不可见的元数据中！

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="在Acrobat Sign for Salesforce中创建文档模板" src="../assets/SF-Template.png" />
+      <img alt="了解如何使用Document Builder for [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>在Acrobat Sign for Salesforce中创建文档模板</strong></a>
+    <a href="create-an-agreement-template.md"><strong>了解如何使用Document Builder for [!DNL Salesforce]</strong></a>
     </div>
-    <em>创建可重复使用的文档模板以提高速度和一致性</em>
+    <em>了解如何使用Document Builder for [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
