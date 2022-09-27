@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->您的Acrobat Sign管理员需要启用 **允许更多参与者** 的 **Web表单** 部分 **全局设置** 以使用其他参与人工作流程。
+>只有商业和企业级别计划才能选择配置Web表单访问和签名者选项。 在帐户>帐户设置>全局设置> Web表单下的帐户或组级别，启用或禁用Web表单访问和签名者选项。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
