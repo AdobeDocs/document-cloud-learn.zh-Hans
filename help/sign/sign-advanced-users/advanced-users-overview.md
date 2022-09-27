@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,6 +113,16 @@ ht-degree: 3%
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="创建报告" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>创建报告</strong></a>
+    </div>
+    <em>了解如何构建您自己的报告，以便了解文档签名流程</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="管理文档模板" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ ht-degree: 3%
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="创建报告" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="管理Web表单数据" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>创建报告</strong></a>
+    <a href="manage-webform-data.md"><strong>管理Web表单数据</strong></a>
     </div>
-    <em>了解如何构建您自己的报告，以便了解文档签名流程</em>
+    <em>了解如何从Web表单跟踪、管理和导出数据</em>
     <br>
   </td>  
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
