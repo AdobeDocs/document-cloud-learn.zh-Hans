@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="新管理员快速入门" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="面向新管理员的快速入门指南" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>新管理员快速入门</strong></a>
+    <a href="get-started-admin.md"><strong>面向新管理员的快速入门指南</strong></a>
     </div>
-    <em>在此全面的视频指南中，了解使组织启动并运行Acrobat Sign所需的所有工具</em>
+    <em>在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
     <br>
   </td>
   <td>

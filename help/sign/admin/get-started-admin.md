@@ -1,20 +1,20 @@
 ---
 title: 面向新管理员的快速入门指南
-description: 在此全面的视频指南中，了解使组织启动并运行Acrobat Sign所需的所有工具
+description: 在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # 面向新管理员的快速入门指南
 
-这一全面的视频指南专门为新Acrobat Sign管理员设计。 了解使组织启动并运行Acrobat Sign所需的所有工具。 本详细指南涵盖下列主题：
+这一全面的视频指南专门为新Acrobat Sign管理员设计。 了解使您的组织启动并运行Acrobat Sign所需的所有工具。 本详细指南涵盖下列主题：
 
 <table style="table-layout:auto">
 <tr>
