@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="新管理员快速入门" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>新管理员快速入门</strong></a>
+    </div>
+    <em>在此全面的视频指南中，了解使组织启动并运行Acrobat Sign所需的所有工具</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="针对管理员启动和运行" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ ht-degree: 0%
     <em>将用户逐个或批量添加到您的Acrobat Sign帐户</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="创建和管理组" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ ht-degree: 0%
     <em>创建组、将用户添加到组以及编辑组设置</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="设置外部归档" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ ht-degree: 0%
     <em>了解如何构建、保存和管理自己的自定义报告和数据导出</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="创建Web表单" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ ht-degree: 0%
     <em>创建可以直接在您的网站上以电子方式签名的文档</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="修改现有Web表单" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ ht-degree: 0%
     <em>一次收集数百个任意文档的签名</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="设置工作流" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ ht-degree: 0%
     <a href="building-a-custom-workflow.md"><strong>设置工作流</strong></a>
     </div>
     <em>自动化文档工作流程以快速获取电子签名和数据</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>

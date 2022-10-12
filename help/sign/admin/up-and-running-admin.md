@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: aae60046431de366214addf8514646f2b61a59d1
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

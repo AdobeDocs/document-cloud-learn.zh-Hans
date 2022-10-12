@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '475'
 ht-degree: 8%
 
 ---
@@ -59,6 +59,7 @@ ht-degree: 8%
 + 管理 {#admin-set-up}
    + [概览](admin/intro-admin-overview.md)
    + 快速入门 {#getting-started-admin}
+      + [面向新管理员的快速入门指南](admin/get-started-admin.md)
       + [针对管理员启动和运行](admin/up-and-running-admin.md)
       + [配置事件和警告通知](admin/set-up-shared-events-and-alert.md)
       + [添加用户](admin/add-users-to-your-account.md)
