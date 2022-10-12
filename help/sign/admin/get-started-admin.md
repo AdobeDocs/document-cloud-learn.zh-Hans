@@ -5,10 +5,10 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: b5f9e469d0e26fa4a9ef97b2d273f76ed590bad6
+source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,8 @@ ht-degree: 3%
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>访问Admin Console</strong></a>
-        </div>
+         <br>
         <em>1点</em>
-        <br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -36,9 +35,8 @@ ht-degree: 3%
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>授予Acrobat Sign用户权利</strong></a>
-        </div>
-        <em>1点45分</em>
         <br>
+        <em>1点45分</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -47,9 +45,8 @@ ht-degree: 3%
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign Web门户概述</strong></a>
-        </div>
-        <em>3点11分</em>
         <br>
+        <em>3点11分</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -58,9 +55,8 @@ ht-degree: 3%
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>全局设置和配置</strong></a>
-        </div>
-        <em>5点58分</em>
         <br>
+        <em>5点58分</em>
     </td>
   </tr>
   </table>
