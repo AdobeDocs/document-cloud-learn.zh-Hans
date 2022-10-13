@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -95,6 +95,16 @@ ht-degree: 0%
     <a href="d-trust.md"><strong>使用D-Trust注册和签名</strong></a>
     </div>
     <em>了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] Acrobat Sign中文档上的数字签名</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   </tr>
