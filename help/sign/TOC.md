@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '482'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 8%
    + Digidentity {#digidentity}
       + [从Digidentity获取数字身份证](digitalid/digidentity-reg.md)
       + [使用Digidentity签名](digitalid/digidentity-sign.md)
+   + D-Trust {#dtrust}
+      + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [从Intesi Group获取数字ID（高级）](digitalid/intesi-advanced.md)
       + [从Intesi Group获取数字ID（符合条件）](digitalid/intesi-qualified.md)

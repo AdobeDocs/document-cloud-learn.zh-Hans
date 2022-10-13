@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![签名数字身份证图像](../assets/Hero-DigitalID.png)
 
-与电子形式的护照类似，数字身份（数字ID）允许您安全地证明您是所宣称的自己。 此外，在Acrobat Sign中进行电子签名时，使用数字ID可以提供更高级别的保证，保证您已授权对该特定文档进行电子签名。 以下教程演示了如何通过Acrobat Sign使用世界各地的数字身份证。
+与电子形式的护照类似，数字身份（数字ID）允许您安全地证明您是所宣称的自己。 此外，在Acrobat Sign中进行电子签名时，使用数字ID可以提供更高级别的保证，保证您已授权对该特定文档进行电子签名。 以下教程演示了如何通过Acrobat Sign使用来自世界各地的数字身份证。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 0%
     <div>
     <a href="aadhaar-sign.md"><strong>签名使用 [!DNL Aadhaar]</strong></a>
     </div>
-    <em>了解如何使用 [!DNL Aadhaar] 使用Acrobat Sign的数字身份证</em>
+    <em>了解如何使用 [!DNL Aadhaar] 数字身份证与Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,7 +72,7 @@ ht-degree: 0%
     <div>
     <a href="digidentity-sign.md"><strong>签名使用 [!DNL Digidentity]</strong></a>
     </div>
-    <em>了解如何使用 [!DNL Digidentity] 使用Acrobat Sign的数字身份证</em>
+    <em>了解如何使用 [!DNL Digidentity] 数字身份证与Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -82,6 +82,23 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="使用D-Trust注册和签名" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>使用D-Trust注册和签名</strong></a>
+    </div>
+    <em>了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] Acrobat Sign中文档上的数字签名</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
@@ -114,7 +131,7 @@ ht-degree: 0%
     <div>
     <a href="intesi-sign.md"><strong>签名使用 [!DNL Intesi Group]</strong></a>
     </div>
-    <em>了解如何使用 [!DNL Intesi Group] 使用Acrobat Sign的数字身份证</em>
+    <em>了解如何使用 [!DNL Intesi Group] 数字身份证与Acrobat Sign</em>
     <br>
   </td>
 </tr>
