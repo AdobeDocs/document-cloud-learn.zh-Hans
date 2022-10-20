@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Sign管理员图像](../assets/Hero-Admin.png)
 
 了解如何向帐户添加用户、设置组、共享访问权限，以及设置工作流程、外部归档和共享事件与警告。 这些教程面向已经过安装阶段并已准备好开始管理Acrobat Sign的管理员。 “高级任务”涵盖的主题涵盖经过管理员设置后扩展为定义全局设置、帐户访问和共享以及文本标记。
+
+## 新增功能
+
+* [面向新管理员的快速入门指南](get-started-admin.md)
+在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
+* [设置工作流](building-a-custom-workflow.md)
+自动化文档工作流程以快速获取电子签名和数据
 
 ## 快速入门
 

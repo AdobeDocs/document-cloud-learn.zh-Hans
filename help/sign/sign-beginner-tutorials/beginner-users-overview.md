@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![签名入门图像](../assets/Hero-GettingStarted.png)
 
 通过这些简要的分步教程，了解如何发送、签署和跟踪文档。 快速浏览Acrobat Sign，然后开始向一人或多人发送文档。 此内容旨在简化电子签名工作流程。
+
+## 新增功能
+
+* [使用图章签名](sign-with-a-stamp.md)
+了解如何使用图章来标记已批准或完成的文档
+* [更换签名者](replace-signer.md)
+了解如何更改已在处理中的文档的签名者
 
 ## 发送
 

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: d91e070ffeccdd6658cd8065bbc2d52cdf0fffb5
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,13 @@ ht-degree: 0%
 
 >[!NOTE]
 > 如果您在访问其中任何功能时遇到问题，请联系您组织的管理员以确保集成已启用。
+
+## 新增功能
+
+* [使用Power Automate自动归档SharePoint中的文件](auto-archive-sharepoint-power-automate.md)
+了解如何使用Power Automate将已签名文档自动存档到SharePoint库
+* [适用于Salesforce的Document Builder](create-an-agreement-template.md)
+了解如何使用适用于Salesforce的Document Builder创建可重用的文档模板
 
 ## Microsoft集成教程
 

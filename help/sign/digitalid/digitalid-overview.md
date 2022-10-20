@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ ht-degree: 0%
 >[!NOTE]
 >
 >在使用带有云签名的数字ID之前，请咨询您组织的管理员，确认已在Acrobat Sign中启用提供商的解决方案。
+
+## 新增功能
+
+* [使用D-Trust注册和签名](d-trust.md)
+了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] Acrobat Sign中文档上的数字签名
 
 ## [!DNL Aadhaar]
 
