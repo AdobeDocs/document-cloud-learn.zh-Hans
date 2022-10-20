@@ -5,7 +5,7 @@ breadcrumb-title: AcrobatTutorials
 source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 7%
+ht-degree: 8%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 7%
    + [评论PDF](getting-started/comment-on-pdf-files.md)
    + [创建可填写的表单](getting-started/create-fillable-forms.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
-   + [扫描和OCR](getting-started/scan-and-ocr.md)
+   + [扫描和 OCR](getting-started/scan-and-ocr.md)
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [获取签名](getting-started/signatures.md)
    + [跟踪文档](getting-started/track.md)
