@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Adobe Acrobat for Teams允许用户随时随地通过查看、批注和审阅PDF
 >[!TIP]
 >
 >看看这些其他Microsoft [集成](../integrate/integrate-overview.md#microsoft)的
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331277?hidetitle=true)
 

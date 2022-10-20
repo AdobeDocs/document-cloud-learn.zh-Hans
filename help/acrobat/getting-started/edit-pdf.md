@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 6%
 >[!TIP]
 >
 >了解全新编辑模式，该模式可 [自动调整内容](auto-adjust-layout.md)的
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 

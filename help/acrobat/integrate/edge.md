@@ -8,9 +8,9 @@ topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 kt: 8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ ht-degree: 0%
 >[!TIP]
 >
 >看看这些其他Microsoft [集成](../integrate/integrate-overview.md#microsoft)的
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
 

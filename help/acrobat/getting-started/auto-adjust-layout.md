@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,5 +19,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >自动调整布局尚不支持所有类型的PDF内容或语言。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)

@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >适用于 [!DNL SharePoint], [!DNL OneDrive]和 [!DNL Office 365] 包括所有用户可用的免费功能(例如PDF内的查看和搜索)。 某些功能(如创建和合并PDF)需要付费的Acrobat团队版或Acrobat企业版订阅。
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 
