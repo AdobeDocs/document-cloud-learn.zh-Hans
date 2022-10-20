@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ ht-degree: 0%
 1. 选择 **[!UICONTROL 编辑]** 要继续工作，或者选择 **[!UICONTROL 文件]** **>** **[!UICONTROL 存储为]** 以保存PDF表单。
 
    ![表单步骤4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>借助以下工具，更深入地了解表单的构建过程 [高级技术](../advanced-tasks/advancedforms.md)的

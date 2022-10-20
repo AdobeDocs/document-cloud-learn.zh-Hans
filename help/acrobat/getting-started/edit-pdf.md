@@ -1,24 +1,28 @@
 ---
 title: 编辑 PDF
-description: 了解如何编辑PDF文件中的文本和图像
+description: 了解如何编辑文本文件中的文本和PDF图像
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 7%
+source-wordcount: '86'
+ht-degree: 6%
 
 ---
 
 # 编辑 PDF
 
-了解如何编辑PDF文件中的文本和图像。 单击或点按可添加新段落、修复打字错误或重新排列PDF页面。 您甚至可以添加图像或裁剪照片。
+了解如何编辑文本文件中的文本和PDF图像。 单击或点按以添加新段落、修复键入错误或重新排列PDF页面。 您甚至可以添加图像或裁剪照片。
+
+>[!TIP]
+>
+>了解全新编辑模式，该模式可 [自动调整内容](auto-adjust-layout.md)的
 
 >[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
 
 >[!TIP]
 >
->此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！
+>本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!
