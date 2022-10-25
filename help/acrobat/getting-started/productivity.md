@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
 # 随时随地提高工作效率
 
-借助Acrobat Reader移动应用程序，您可以在平板电脑或手机上执行更多操作。
+由于远程工作无处不在，快速而大规模地提供内容至关重要。 了解如何使用Acrobat Reader移动应用程序直接在平板电脑或手机上执行更多操作。
 
 >[!TIP]
 >

@@ -1,21 +1,21 @@
 ---
-title: 扫描和OCR
+title: 扫描和 OCR
 description: 将文档的扫描件或图像转换为可搜索、可编辑的PDF文件，并调整最终文件的质量
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
-# 扫描和OCR
+# 扫描和 OCR
 
-将文档的扫描件或图像转换为可搜索、可编辑的PDF文件，并调整生成的文件的质量。
+通过将文档的扫描内容或图像转换为可搜索、可编辑的PDF文件，推动业务发展。
 
 >[!TIP]
 >
