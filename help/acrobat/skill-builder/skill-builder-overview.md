@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
+source-git-commit: b02038759c92d683fbc725917eb66bd5a5460077
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -132,6 +132,11 @@ ht-degree: 0%
     <em>准备PDF进行分发</em>
     <br>
   </td>
+  <td>
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -160,17 +165,12 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔条" src="../assets/Grayspacer.png" />
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
