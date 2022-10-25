@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ ht-degree: 0%
     <em>用合规的数字工作流程快速取代纸张处理，并辅以审计报告</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="再就业援助" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ ht-degree: 0%
     <em>帮助公民获得他们需要的帮助，而无需与可在数天之内投入使用的全数字应用程序表单保持同步</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="薪水支票保护" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>远程授权请求</strong></a>
     </div>
     <em>同时使用电子签名和网络会议，缩短申请和获得法官授权所需的时间</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ ht-degree: 0%
     <a href="usecasecomtelework.md"><strong>远程工作协议</strong></a>
     </div>
     <em>高效收集远程工作协议中所有员工的签名</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ ht-degree: 0%
     <em>直接在Sharepoint Online中发送文档以供签名</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="SharePoint Online中的字距调整" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ ht-degree: 0%
     <em>直接在Microsoft Sharepoint中跟踪协议的进度</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="发送文档以供签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ ht-degree: 0%
     <em>了解如何自动将已签名文档存档到 [!DNL SharePoint] 库使用 [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="文档自动化 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ ht-degree: 0%
     <a href="documentautomation.md"><strong>文档自动化 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>了解如何激活和使用 [!DNL Acrobat Sign] 和 [!DNL Adobe PDF Tools] 连接器 [!DNL Microsoft Power] 应用程序</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ ht-degree: 0%
     <em>了解如何将Salesforce中的数据直接合并到Acrobat Sign文档中</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="创建自定义按钮" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ ht-degree: 0%
     <a href="create-a-custom-button.md"><strong>创建自定义按钮</strong></a>
     </div>
     <em>创建一个自定义按钮，以在Salesforce中启动发送流程并自动填充协议</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ ht-degree: 0%
     <a href="workday.md"><strong>使用Workday配置Acrobat Sign</strong></a>
     </div>
     <em>了解如何配置Acrobat Sign以便直接在Workday中工作，以便无缝管理您的所有人力资源工作</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ ht-degree: 0%
     <em>请参阅如何在一段时间后协议仍未签名时从Marketo发送电子邮件提醒</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="使用Acrobat Sign for Microsoft Dynamics和Marketo发送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ ht-degree: 0%
     <em>了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ ht-degree: 0%
     <a href="marketo-dynamics-sms.md"><strong>使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知</strong></a>
     </div>
     <em>了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

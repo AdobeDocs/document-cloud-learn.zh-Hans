@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 1%
     </div>
     <em>了解如何创建PDF文件，而无需离开 [!DNL Microsoft Office] 对于web应用程序</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="使用 [!DNL SharePoint] 文件" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ ht-degree: 1%
     </div>
     <em>简化文档工作流程 [!DNL SharePoint] 和Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ ht-degree: 1%
     <em>了解如何使用Adobe Acrobat extension for [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ ht-degree: 1%
     <div>
     <br>
   </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ ht-degree: 1%
     <a href="acrobat-dropbox.md"><strong>处理以下位置的文件： [!DNL Dropbox]</strong></a>
     </div>
     <em>了解如何打开、创建、编辑、签署更改以及将更改保存到 [!DNL Dropbox] 来自Acrobat的文件</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

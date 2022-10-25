@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ ht-degree: 0%
     </div>
     <em>创建简单易用的工作流程以协作处理文档</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="提示：3Protect数字文档" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ ht-degree: 0%
     <em>向您的PDF添加密码以防止复制、编辑或打印</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="提示4:使用表单和签名" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ ht-degree: 0%
     <a href="scan-and-edit-on-mobile.md"><strong>提示5:在移动设备上扫描和编辑</strong></a>
     </div>
     <em>了解如何使用Adobe Scan和Acrobat Reader移动应用程序随时随地完成工作</em>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ ht-degree: 0%
     </div>
     <em>了解创建在中编写的PDF文件的最佳做法 [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="使PDF可访问：在Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ ht-degree: 0%
     <em>了解如何使用Acrobat Pro中的工具完成PDF文件的可访问性</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="使PDF投票更易于访问" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ ht-degree: 0%
     <em>本网络研讨会涵盖了使PDF辅助技术（如屏幕阅读器）用户阅读和完成投票所必需的关键辅助工具领域</em>
     <br>
   </td>  
+  <td>
+   <img alt="间隔条" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔条" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="间隔条" src="../../assets/Grayspacer.png" />
     <div>

@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ ht-degree: 0%
     <a href="aadhaar-sign.md"><strong>签名使用 [!DNL Aadhaar]</strong></a>
     </div>
     <em>了解如何使用 [!DNL Aadhaar] 数字身份证与Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ ht-degree: 0%
     <div>
     <br>
   </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ ht-degree: 0%
     <a href="d-trust.md"><strong>使用D-Trust注册和签名</strong></a>
     </div>
     <em>了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] Acrobat Sign中文档上的数字签名</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ ht-degree: 0%
     <a href="intesi-sign.md"><strong>签名使用 [!DNL Intesi Group]</strong></a>
     </div>
     <em>了解如何使用 [!DNL Intesi Group] 数字身份证与Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

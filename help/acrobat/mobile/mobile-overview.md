@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,11 @@ ht-degree: 0%
     <div>
     <br>
   </td>
+   <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -68,6 +73,11 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>

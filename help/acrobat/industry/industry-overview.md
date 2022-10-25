@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 507d16c6e791d30b314b8771ea992b5adf25b0f7
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,11 @@ ht-degree: 0%
    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
     <br>
-  </td> 
+  </td>
+  <td>
+   <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
