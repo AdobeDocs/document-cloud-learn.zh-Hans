@@ -6,15 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9753.jpg
 KT: 9753
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 8ab6c2ba-8cc0-460d-9f31-c406ddb8f0b3
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 8%
 
 ---
 
 # Export PDF到手机中的Word
 
-这个60秒的视频教程介绍了如何使用Microsoft移动应用程序将PDF文件转换为完全可编辑的Acrobat Word文档。
+观看时长60秒的视频教程，了解如何 [将PDF文件转换为完全可编辑的Microsoft Word文档](https://www.adobe.com/acrobat/online/pdf-to-word.html){target=&quot;_blank&quot;}和Acrobat移动应用程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340214?hidetitle=true)

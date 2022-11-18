@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 4%
+source-wordcount: '493'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简要的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护PDF文件，此内容旨在简化您的PDF工作流程。
+通过这些简要的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或 [编辑PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}，此内容旨在简化您的PDF流程。
 
 ## 快速入门教程
 
@@ -124,10 +124,10 @@ ht-degree: 4%
     </td>
     <td>
       <a href="organize.md">
-        <img alt="组织页面" src="../assets/Organize.png" />
+        <img alt="整理页面" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>组织页面</strong></a>
+      <a href="organize.md"><strong>整理页面</strong></a>
       </div>
       <em>添加、替换、提取、旋转、删除和重新排列PDF</em>
       <br>
@@ -250,10 +250,10 @@ ht-degree: 4%
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="扫描和OCR" src="../assets/Scan.jpg" />
+      <img alt="扫描和 OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>扫描和OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>扫描和 OCR</strong></a>
     </div>
     <em>减少大型文件并优化PDF，同时不影响共享、发布或存档的质量</em>
     <br>

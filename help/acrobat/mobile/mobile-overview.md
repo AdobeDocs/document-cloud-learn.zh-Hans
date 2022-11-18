@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-在您的移动设备上创建、填写PDF并对其进行签名。
+创建、填充和 [签名PDF](https://www.adobe.com/acrobat/online/sign-pdf.html)您的移动设备上的{target=&quot;_blank&quot;}。
 
 ## Acrobat Reader移动应用程序教程
 

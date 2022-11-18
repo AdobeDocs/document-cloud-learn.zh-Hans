@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 4%
+source-wordcount: '747'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 [!DNL Adobe Sign Individual] (也称为Adobe Sign Pro)将从ETLA（企业定期许可协议）中包含的所有Acrobat DC授权优惠中取消预配，有效期从2020年8月开始，并将持续到2020年11月20日。 [!DNL Adobe Sign Individual] 不提供企业级功能，应替换为适用于企业客户的Adobe Sign Enterprise。 这包括作为独立应用程序许可的Acrobat DC和作为Creative Cloud企业版 — 所有应用程序的一部分许可的Acrobat DC。
 
-访问 [!DNL Adobe Sign Individual] 在Acrobat中可通过 **Adobe Sign** 或 **Fill &amp; Sign** 工具（请求签名）。
+访问 [!DNL Adobe Sign Individual] 在Acrobat中可通过 **Adobe Sign** 或 **Fill &amp; Sign** 工具([请求签名](https://www.adobe.com/acrobat/online/request-signature.html){target=&quot;_blank&quot;})。
 
 ![[!DNL Adobe Sign Individual] 在Acrobat DC中访问](../assets/Deploy_SignEntitle1.png)
 

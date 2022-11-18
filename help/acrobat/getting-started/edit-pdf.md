@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # 编辑 PDF
 
-了解如何编辑文本文件中的文本和PDF图像。 单击或点按以添加新段落、修复键入错误或重新排列PDF页面。 您甚至可以添加图像或裁剪照片。
+了解如何 [编辑文本文件中的文本和PDF图像](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}。 单击或点按以添加新段落、修复键入错误或重新排列PDF页面。 您甚至可以添加图像或裁剪照片。
 
 >[!TIP]
 >

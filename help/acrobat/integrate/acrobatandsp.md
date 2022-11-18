@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 # 使用 [!DNL SharePoint] 文件
 
-简化文档工作流程 [!DNL SharePoint] 和Acrobat [适用于Microsoft 365的Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的 安全转换 [!DNL Microsoft 365] 文件到PDF、将文档合并为一个文件、注释和重新排列页面 — 从 [!DNL SharePoint] 联机。
+简化文档工作流程 [!DNL SharePoint] 和Acrobat [适用于Microsoft 365的Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的 安全转换 [!DNL Microsoft 365] 文件到PDF, [合并PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}合并为一个文件，注释和重新排列页面 — 直接从 [!DNL SharePoint] 联机。
 
 >[!NOTE]
 >

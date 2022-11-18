@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '833'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 2%
 
 ---
 
@@ -27,10 +27,10 @@ Adobe Acrobat Skill Builder是一个30分钟的会话，旨在提升您的PDF工
 日期：2022年11月17日此技能构建器专注于数字文档协作。 了解如何与您的团队一起轻松审阅文档，并可浏览您可用的注释工具。 我们还将讨论在Microsoft Teams中与他人一起审阅PDF，以及如何使用Acrobat移动应用程序和Acrobat Web随时随地提供反馈。
 
 * **[重复使用PDF内容：编辑和导出](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
-日期：2022年10月27日了解如何修改现有PDF:编辑文本和图像、添加超链接和书签、转换为Microsoft Word、PowerPoint和Excel文件等。
+日期：2022年10月27日了解如何实现 [修改现有PDF](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}:编辑文本和图像、添加超链接和书签、转换为Microsoft Word、PowerPoint和Excel文件等。
 
 * **[开始使用Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-日期：2022年9月22日启动并运行Adobe Acrobat和PDF。 我们将向您介绍Acrobat界面并演示如何：* [从图像文件创建PDF](https://www.adobe.com/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;}和文档 — 包括Word、Excel和PowerPoint。 *将多个文件(PDF、Word、图像等)合并为一个可编辑PDF。 *使用Acrobat Web和移动设备随时随地完成工作。
+日期：2022年9月22日启动并运行Adobe Acrobat和PDF。 我们将向您介绍Acrobat界面并演示如何：* [从图像文件创建PDF](https://www.adobe.com/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;}和文档 — 包括Word、Excel和PowerPoint。 * [合并多个文件](https://www.adobe.com/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} —PDF、Word、图像等 — 合并到一个可编辑PDF中。 *使用Acrobat Web和移动设备随时随地完成工作。
 
 * **[PDF安全](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 日期：2022年8月25日获取您需要的所有信息 [保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;}内容。 此会话将共享添加密码的技术，以防止查看、编辑或打印PDF，并向您展示如何永久删除敏感信息 — 甚至从不可见的元数据中！
