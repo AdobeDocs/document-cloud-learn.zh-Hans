@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 1%
 
 ## 新增功能
 
+* [设置截止日期和提醒](set-deadlines-reminders.md)
+了解如何定期发送电子邮件提醒和截止日期，以帮助您快速签名文档
 * [使用图章签名](sign-with-a-stamp.md)
 了解如何使用图章来标记已批准或完成的文档
-* [更换签名者](replace-signer.md)
-了解如何更改已在处理中的文档的签名者
 
 ## 发送
 
@@ -62,10 +62,10 @@ ht-degree: 1%
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="发送给多个收件人" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="发送给多个接收者" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>发送给多个收件人</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>发送给多个接收者</strong></a>
     </div>
     <em>将文档发送给多位人员，以便完全按照您希望的顺序进行电子签名</em>
     <br>
@@ -112,6 +112,33 @@ ht-degree: 1%
     <em>了解如何更改已在处理中的文档的签名者</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="设置截止日期和提醒" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>设置截止日期和提醒</strong></a>
+      </div>
+      <em>了解如何定期发送电子邮件提醒和截止日期，以帮助您快速签名文档</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
