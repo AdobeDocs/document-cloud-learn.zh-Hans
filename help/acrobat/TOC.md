@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 8%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 8%
    + [使用 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为PDF [!DNL Outlook]](integrate/outlook.md)
    + [浏览PDF时使用 [!DNL Microsoft Edge]](integrate/edge.md)
+   + [ProtectPDF使用 [!DNL Microsoft Purview Information] 敏感度标签](integrate/microsoftsensitivitylabels.md)
    + [适用于 [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [处理以下位置的文件： [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 行业和部门 {#by-industry}
