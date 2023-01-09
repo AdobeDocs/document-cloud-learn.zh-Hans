@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 1%
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>ProtectPDF使用 [!DNL Microsoft Purview Information] 敏感度标签</strong></a>
     </div>
-    <em>了解如何通过添加、编辑、自定义和删除PDF来保护文档 [!DNL Microsoft Purview] 敏感度标签直接在Acrobat中</em>
+    <em>了解如何通过添加、编辑、自定义和删除PDF来保护文档 [!DNL Microsoft Purview] 直接在Acrobat中使用敏感度标签</em>
     <br>
   </td>
   <td>
