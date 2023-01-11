@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 5f505e95db7bd069f81e810978c8de67ebad0549
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 6%
 
 ---
 
 # 随时随地使用Acrobat的5个提示 — 处理表单和签名
 
-每个人都需要填写表单。 由于您并非始终能够访问打印机，因此请了解如何在填写表单时保持数字状态。
+每个人在某个时刻都需要 [填写表单](https://www.adobe.com/acrobat/online/sign-pdf.html)的 由于您并非始终能够访问打印机，因此请了解如何在填写表单时保持数字状态。
 
 ## 提示#4 — 处理表单和签名(7:03)
 

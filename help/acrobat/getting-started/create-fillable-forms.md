@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 3%
 
 ---
 
 # 创建可填写的表单
 
-将使用InDesign、Microsoft Word、Excel或其他应用程序创建的扫描纸质表单或文档转换为可填写的PDF表单。
+将使用InDesign、Microsoft Word、Excel或其他应用程序创建的扫描纸质表单或文档转换为 [可填写的PDF表单](https://www.adobe.com/acrobat/online/sign-pdf.html)的
 
 1. 选择 **[!UICONTROL Prepare Form]** 从 [!UICONTROL 工具] 中间或右侧窗格。
 

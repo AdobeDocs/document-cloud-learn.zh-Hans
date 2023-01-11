@@ -1,25 +1,25 @@
 ---
 title: 将PDF导出为Microsoft Office格式
-description: 了解如何将PDF文件导出为可编辑格式，如Microsoft Word、Excel或PowerPoint
+description: 了解如何将PDF文件导出为可编辑的格式，如Microsoft Word、Excel或PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
 # 将PDF导出为Microsoft Office格式
 
-了解如何将PDF文件导出为可编辑格式，如Microsoft Word、PowerPoint和Excel。 导出为另一种文件格式后，您可以对文档进行重要的修订和更新。
+了解如何将PDF文件导出为可编辑格式，例如 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/cn/acrobat/online/pdf-to-ppt.html)和 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)的 导出为其他文件格式后，可以对文档进行重要的修订和更新。
 
 >[!TIP]
 >
->要将多个PDF文件导出为其它格式，请尝试使用 [Action Wizard](../advanced-tasks/action.md).
+>要将多个PDF文件导出为其他格式，请尝试使用 [Action Wizard](../advanced-tasks/action.md)的
 
 <br> 
 
@@ -27,8 +27,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->全面了解如何使用 [Acrobat和Microsoft365](../integrate/integrate-overview.md).
+>了解有关如何使用作品的所有信息 [Acrobat和Microsoft 365](../integrate/integrate-overview.md)的
 
 >[!TIP]
 >
->此视频是课程的一部分 [更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 在Experience League上免费提供！
+>本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!

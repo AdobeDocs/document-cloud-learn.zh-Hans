@@ -3,10 +3,10 @@ title: 在桌面或移动设备上填写和签署任何表单
 description: 从桌面、浏览器或移动应用程序中快速填写、签名和发送表单
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 **第4步：** 使用白色按钮拍照，然后点击 **[!UICONTROL 使用照片]**&#x200B;的 点按 **[!UICONTROL 完成]** （位于右上角）。
 
-**第5步：** 在应用程序底部，点按 **[!UICONTROL 裁剪]** 然后使用参考线裁剪图像。 点按 **[!UICONTROL 完成]** 完成时。
+**第5步：** 在应用程序底部，点按 **[!UICONTROL 裁剪]** 工具，然后使用参考线 [裁剪图像](Https://www.adobe.com/acrobat/online/crop-pdf.html)的 点按 **[!UICONTROL 完成]** 完成时。
 
 ![本地文档图像](assets/localdoc.jpg)
 

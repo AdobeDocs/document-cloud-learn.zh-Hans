@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 14%
 
 ---
 
 # 创建 PDF
 
-了解如何从所有PDF类型的文档创建文档。 从Microsoft Office或Creative Cloud应用程序中创建的文件开始，或者使用图像、扫描文档、甚至网站。
+了解如何 [从所有PDF类型的文档创建文档](https://www.adobe.com/acrobat/online/convert-pdf.html)的 从Microsoft Office或Creative Cloud应用程序中创建的文件开始，或者使用图像、扫描文档、甚至网站。
 
 >[!TIP]
 >
