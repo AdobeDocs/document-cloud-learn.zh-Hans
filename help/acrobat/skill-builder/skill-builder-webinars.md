@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat Skill Builder是一个30分钟的会话，旨在提升您的PDF工
 **[PDF forms101:创建可填写的Forms](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 日期：2023年6月29日轻松将旧表单和纸质文档转变为可填写的数字PDF。 Acrobat提供了各种方法和工具，可助您走上数字化文档转型之路。 我们将在本会话中涵盖以下内容：
 
-    *从各种文件(PDF、扫描图像、Word)创建表单模板
-    *了解可用的字段类型（文本、复选框、单选钮、下拉列表、日历）
-    *使用字段属性和工作效率工具（外观、格式、计算、验证）
+* 从各种文件(PDF、扫描图像、Word)创建表单模板
+* 了解可用的字段类型（文本、复选框、单选钮、下拉列表、日历）
+* 使用字段属性和工作效率工具（外观、格式、计算、验证）
 
 **[将交互性添加到您的PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 日期：2023年5月25日让您的PDF更轻松、更吸引人，以便与受众互动。 加入此会议，了解通过下列方式将交互性添加到您的PDF是多么简单：
 
-    *添加超链接和书签以简化文档导航工作
-    *将视频、声音、3D等内容包含在PDF中
-    *在一个文档中组织不同类型的内容
+* 添加超链接和书签以简化文档导航
+* 包括视频、声音、3D等PDF
+* 在一个文档中组织不同类型的内容
 
 **[重用PDF内容：编辑和导出](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 日期：2023年4月27日当您只需编辑和导出PDF时，为何要重新创建滚轮？ 在此会议中，我们将教您如何使用Acrobat的编辑和导出工具修改现有PDF。 您将学习如何：
 
-    *编辑文本和图像
-    *添加超链接和书签以简化文档导航工作
-    *导出为Microsoft Word、PowerPoint和Excel等熟悉格式
-    *导出整个文档，或选择特定的文本、图像或表格
+* 编辑文本和图像
+* 添加超链接和书签以简化文档导航
+* 导出为熟悉的格式，如Microsoft Word、PowerPoint和Excel
+* 导出整个文档，或选择特定的文本、图像或表格
 
 **[PDF协作：共享、审阅和协同工作](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 日期：2023年3月23日启动并运行Adobe Acrobat和PDF。 加入我们，通过介绍Acrobat界面和可帮助您提高工作效率的关键功能，了解基础知识。 我们将向您展示如何：
 
-    *从图像文件和文档（包括Word、Excel和PowerPoint）创建PDF
-    *将多个文件(PDF、Word、图像等)合并为一个可编辑PDF
-    *使用Acrobat Web和Acrobat Mobile，随时随地完成工作
+* 从图像文件和文档（包括Word、Excel和PowerPoint）创建PDF
+* 将多个文件(PDF、Word、图像等)合并到一个可编辑PDF中
+* 使用Acrobat Web和Acrobat Mobile，随时随地完成工作
 
 **[开始使用Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 日期：2023年2月23日启动并运行Adobe Acrobat和PDF。 加入我们，通过介绍Acrobat界面和可帮助您提高工作效率的关键功能，了解基础知识。 我们将向您展示如何：
 
-    *从图像文件和文档（包括Word、Excel和PowerPoint）创建PDF
-    *将多个文件(PDF、Word、图像等)合并为一个可编辑PDF
-    *使用Acrobat Web和Acrobat Mobile，随时随地完成工作
+* 从图像文件和文档（包括Word、Excel和PowerPoint）创建PDF
+* 将多个文件(PDF、Word、图像等)合并到一个可编辑PDF中
+* 使用Acrobat Web和Acrobat Mobile，随时随地完成工作
 
 **[随时随地提高工作效率](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 日期：2023年1月26日此会议将帮助您从任何Web浏览器或移动设备访问您喜爱的Acrobat工具。 Acrobat Web版让您能够随时随地开展工作，而Acrobat移动应用程序将您的工作效率扩展到移动上下文。

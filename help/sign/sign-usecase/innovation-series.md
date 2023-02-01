@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 **[创作环境的高级培训](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 日期：2023年4月20日：深入了解Acrobat Sign编辑环境中提供的选项。 涉及的主题包括：
 
-    *使用Acrobat、文本标记和Acrobat Sign创作环境准备Acrobat Sign文档模板的概述。
-    *深入了解创作环境，包括克隆和复制字段、添加专业字段、分配字段以及设置条件字段和计算字段。
-    *如何发送模板以请求签名，比较文档模板与表单字段模板。
+* 使用Acrobat、文本标记和Acrobat Sign创作环境准备Acrobat Sign文档模板的概述。
+* 深入了解创作环境，包括克隆和复制字段、添加专业字段、分配字段以及设置条件字段和计算字段。
+* 如何发送模板以请求签名，比较文档模板与表单字段模板。
 
 **[发布可填写且可签名的Web表单](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 日期：2023年3月16日了解如何创建Web表单，以便任何人都可以完成并签名，而无需启动事务或甚至无需知道签名者的电子邮件地址。 您还将了解如何准备文档模板，将其用于各个签名事务，以及发布到唯一的URL以进行广泛共享。
@@ -44,9 +44,9 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 **[准备要进行电子签名的协议](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 日期：2023年1月19日了解设置文档以进行电子签名的三种简单方法。 无论是PDF、Microsoft 365文件，还是简单的图像文件，此会话为您提供了获取签名文档所需的工具。 我们将介绍三种方法：
 
-    * Adobe Acrobat Sign简单的拖放编辑环境
-    *在Adobe Acrobat中设置PDF表单
-    *使用文本标记快速进行文档创作
+* Adobe Acrobat Sign简单的拖放编辑环境
+* 在Adobe Acrobat中设置PDF表单
+* 使用文本标记快速进行文档创作
 
 **[在Microsoft应用程序中使用电子签名](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 日期：2022年12月8日将Microsoft添加到现有工作流程中，以扩展您使用Word、Outlook和Sharepoint等Adobe Acrobat Sign应用程序的方式。 此会议将指导您如何开始在常用的Microsoft应用程序中简化文档流程，从而无需为了获取签名或检查状态而切换上下文。
