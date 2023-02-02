@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
+source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '412'
 ht-degree: 8%
 
 ---
@@ -78,7 +78,6 @@ ht-degree: 8%
    + [编辑PDF中的图形](60-second/editgraphic.md)
    + [快速组织页面](60-second/organize.md)
 + 技能培养者 {#skill-builders}
-   + [概览](skill-builder/skill-builder-overview.md)
    + [网络研讨会](skill-builder/skill-builder-webinars.md)
 + 集成 {#integrations}
    + [概览](integrate/integrate-overview.md)

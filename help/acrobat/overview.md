@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 7b00851bd253e219d3dce1fbe0f06df80d8dafef
+source-git-commit: e6a96b762a4d9f15b1aa0ebc716960dc4e65a14f
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 4%
 
 ---
@@ -44,11 +44,11 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
     <br>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-overview.md">
+    <a href="skill-builder/skill-builder-webinars.md">
       <img alt="技能创建器" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>技能培养者</strong></a>
+    <a href="skill-builder/skill-builder-webinars.md"><strong>技能构建器网络研讨会</strong></a>
     </div>
     <em>基于任务的提示，可帮助您实现数字化、保持数字状态并完成工作</em>
     <br>
