@@ -5,7 +5,7 @@ breadcrumb-title: AcrobatTutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 8%
 # Acrobat教程 {#acrobat-learning}
 
 + [概览](overview.md)
-+ 快速入门 {#getting-started}
-   + [概览](getting-started/getting-started-overview.md)
++ 开始使用 {#getting-started}
+   + [概述](getting-started/getting-started-overview.md)
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [全新的工作区体验](getting-started/new-workspace.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [随时随地提高工作效率](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDF从何而来？](getting-started/where-do-pdfs-come-from.md)
-   + [创建 PDF](getting-started/create-pdf.md)
+   + [创建PDF](getting-started/create-pdf.md)
    + [Combine Files到PDF](getting-started/combine-to-pdf.md)
-   + [整理页面](getting-started/organize.md)
+   + [组织页面](getting-started/organize.md)
    + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑 PDF](getting-started/edit-pdf.md)
    + [自动调整版面](getting-started/auto-adjust-layout.md)
@@ -32,12 +32,12 @@ ht-degree: 8%
    + [评论PDF](getting-started/comment-on-pdf-files.md)
    + [创建可填写的表单](getting-started/create-fillable-forms.md)
    + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
-   + [扫描和 OCR](getting-started/scan-and-ocr.md)
+   + [扫描和OCR](getting-started/scan-and-ocr.md)
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [获取签名](getting-started/signatures.md)
    + [跟踪文档](getting-started/track.md)
 + 高级任务 {#advanced-tasks}
-   + [概览](advanced-tasks/advanced-tasks-overview.md)
+   + [概述](advanced-tasks/advanced-tasks-overview.md)
    + [添加书签和超链接](advanced-tasks/bookmarks.md)
    + [优化扫描的文档](advanced-tasks/optimizescan.md)
    + [自定义命令和工具](advanced-tasks/custom.md)
@@ -52,7 +52,7 @@ ht-degree: 8%
    + [使用表单数据](advanced-tasks/formdata.md)
    + [检查PDF辅助功能](advanced-tasks/accessibility.md)
    + Acrobat Accessibility系列 {#accessibility-series}
-      + [概览](advanced-tasks/accessibility-series.md)
+      + [概述](advanced-tasks/accessibility-series.md)
       + [辅助工具PDF简介](advanced-tasks/accessibilitysession1.md)
       + [修正不可访问的PDF](advanced-tasks/accessibilitysession2.md)
       + [复杂表格](advanced-tasks/accessibilitysession3.md)
@@ -60,7 +60,7 @@ ht-degree: 8%
       + [将表单域添加到带标签的PDF](advanced-tasks/accessibilitysession5.md)
       + [将表单域添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
 + 60秒Acrobat {#60-second}
-   + [概览](60-second/60-second-overview.md)
+   + [概述](60-second/60-second-overview.md)
    + [快速创建更高效的PDF文件](60-second/optimize.md)
    + [使用密码Protect您的PDF文件](60-second/protect.md)
    + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
@@ -78,9 +78,9 @@ ht-degree: 8%
    + [编辑PDF中的图形](60-second/editgraphic.md)
    + [快速组织页面](60-second/organize.md)
 + 技能培养者 {#skill-builders}
-   + [网络研讨会](skill-builder/skill-builder-webinars.md)
+   + [在线研讨会](skill-builder/skill-builder-webinars.md)
 + 集成 {#integrations}
-   + [概览](integrate/integrate-overview.md)
+   + [概述](integrate/integrate-overview.md)
    + [创建PDF来源 [!DNL Microsoft Word]](integrate/createfromword.md)
    + [创建PDF [!DNL Office] 面向Web](integrate/createofficeweb.md)
    + [PDF协作 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -91,9 +91,9 @@ ht-degree: 8%
    + [适用于 [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [处理以下位置的文件： [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 行业和部门 {#by-industry}
-   + [概览](industry/industry-overview.md)
-   + 政府 {#gov}
-      + [概览](industry/gov/gov-overview.md)
+   + [概述](industry/industry-overview.md)
+   + 政府版 {#gov}
+      + [概述](industry/gov/gov-overview.md)
       + 随时随地使用Acrobat的5个提示 {#tips}
          + [随时随地使用Acrobat的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
@@ -108,11 +108,11 @@ ht-degree: 8%
          + [#3 — 在Acrobat完成](industry/gov/finishing-in-acrobat.md)
          + [使PDF投票更易于访问](industry/gov/making-pdf-ballots-accessible.md)
 + 修改照片 {#develop}
-   + [概览](develop/develop-overview.md)
+   + [概述](develop/develop-overview.md)
 + 部署 {#deploy}
-   + [概览](deploy/deploy-overview.md)
+   + [概述](deploy/deploy-overview.md)
    + [面向ETLA客户的Acrobat DC产品重要更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
-   + [概览](mobile/mobile-overview.md)
+   + [概述](mobile/mobile-overview.md)
    + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以进行PDF](mobile/scan-mobile-app.md)
