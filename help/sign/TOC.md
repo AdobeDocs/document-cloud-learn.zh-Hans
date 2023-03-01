@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -101,6 +101,8 @@ ht-degree: 0%
       + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [用于Microsoft Power Platform的Acrobat Sign的文档自动化](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [发送文档进行公证](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [适用于Salesforce的Document Builder](integrations/create-an-agreement-template.md)
       + [设置数据映射](integrations/set-up-data-mapping.md)
