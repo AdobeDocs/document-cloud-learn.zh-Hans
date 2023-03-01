@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [发送文档进行公证](send-document-notarize.md)
+通过这个包含三个部分的教程，您可以了解如何发送文档进行公证、如何查看签名者的体验，以及如何接收结果
 * [使用Power Automate自动归档SharePoint中的文件](auto-archive-sharepoint-power-automate.md)
 了解如何使用Power Automate将已签名文档自动存档到SharePoint库
-* [适用于Salesforce的Document Builder](create-an-agreement-template.md)
-了解如何使用适用于Salesforce的Document Builder创建可重用的文档模板
 
 ## Microsoft集成教程
 
@@ -104,6 +104,38 @@ ht-degree: 0%
     <a href="documentautomation.md"><strong>文档自动化 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>了解如何激活和使用 [!DNL Acrobat Sign] 和 [!DNL Adobe PDF Tools] 连接器 [!DNL Microsoft Power] 应用程序</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] 集成教程
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="发送文档进行公证" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>发送文档进行公证</strong></a>
+    </div>
+    <em>了解如何发送文档进行公证</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
