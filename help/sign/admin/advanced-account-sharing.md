@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->高级帐户共享仅适用于企业级计划。 技术支持可以启用高级共享，但启用后，它将以一种无法逆转的方式更改共享对象之间的关系。 出于这个原因，建议您联系客户成功经理，并建立一个试用帐户，以便测试该功能并验证它是否允许您执行想要完成的所有操作。
+>高级帐户共享仅适用于企业级计划。 技术支持可以启用高级共享，但启用后，它将以一种无法逆转的方式更改共享对象之间的关系。 因此，建议您联系Adobe客户团队并建立一个试用帐户，以测试该功能并验证它是否允许您完成所有要完成的工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
