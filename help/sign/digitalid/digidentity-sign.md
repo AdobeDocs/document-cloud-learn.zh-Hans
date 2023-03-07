@@ -1,5 +1,5 @@
 ---
-title: 使用 [!DNL Digidentity] 数字身份证
+title: 注册和签名使用 [!DNL Digidentity]
 description: 了解如何注册和使用 [!DNL Digidentity] 数字身份证与Acrobat Sign
 role: User
 product: adobe sign
@@ -8,14 +8,14 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# 使用 [!DNL Digidentity] 数字身份证
+# 注册和签名使用 [!DNL Digidentity]
 
 Digidentity是欧盟合格受信任服务提供商(QTSP)。 数字身份识别和登入过程依赖于Digidentity移动应用程序，需要使用含有嵌入式NFC芯片的身份文档以及与NFC兼容的移动设备。 Digidentity进程完全自助，可全天候使用，没有“人在环中”。 在大多数情况下，仅需5-10分钟即可完成注册。
 

@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ ht-degree: 0%
       <img alt="使用 [!DNL Digidentity] 数字身份证" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>使用 [!DNL Digidentity] 数字身份证</strong></a>
+    <a href="digidentity-sign.md"><strong>注册和签名使用 [!DNL Digidentity]</strong></a>
     </div>
     <em>了解如何注册和使用 [!DNL Digidentity] 数字身份证与Acrobat Sign</em>
     <br>

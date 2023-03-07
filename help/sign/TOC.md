@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
+source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '483'
 ht-degree: 10%
 
 ---
@@ -83,7 +83,7 @@ ht-degree: 10%
    + Aadhaar {#aadhaar}
       + [使用Aadhaar签名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [使用 [!DNL Digidentity] 数字身份证](digitalid/digidentity-sign.md)
+      + [注册和签名使用 [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
