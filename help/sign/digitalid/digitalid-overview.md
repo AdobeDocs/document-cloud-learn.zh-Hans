@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,19 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="获取数字ID，从 [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="使用 [!DNL Digidentity] 数字身份证" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>获取数字ID，从 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>使用 [!DNL Digidentity] 数字身份证</strong></a>
     </div>
-    <em>了解如何从 [!DNL Digidentity]</em>
+    <em>了解如何注册和使用 [!DNL Digidentity] 数字身份证与Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="签名使用 [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>签名使用 [!DNL Digidentity]</strong></a>
-    </div>
-    <em>了解如何使用 [!DNL Digidentity] 数字身份证与Acrobat Sign</em>
     <br>
   </td>
   <td>

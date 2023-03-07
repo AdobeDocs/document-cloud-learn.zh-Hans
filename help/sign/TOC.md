@@ -8,17 +8,17 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '488'
-ht-degree: 0%
+source-wordcount: '486'
+ht-degree: 10%
 
 ---
 
 
 # Acrobat SignTutorials {#sign-learning-hub}
 
-+ [概览](overview.md)
++ [概述](overview.md)
 + 开始使用 {#getting-started}
    + [概述](sign-beginner-tutorials/beginner-users-overview.md)
    + 发送 {#getting-started-sending}
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [发送后修改文档](sign-beginner-tutorials/modify-in-flight.md)
       + [更换签名者](sign-beginner-tutorials/replace-signer.md)
       + [设置截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 正在签名 {#getting-started-signing}
+   + 签名 {#getting-started-signing}
       + [以电子方式签名文档](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签名文档](sign-beginner-tutorials/fill-and-sign.md)
       + [获取亲自签名](sign-beginner-tutorials/sign-in-person.md)
@@ -59,7 +59,7 @@ ht-degree: 0%
       + [管理Web表单数据](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
    + [概述](admin/intro-admin-overview.md)
-   + 快速入门 {#getting-started-admin}
+   + 开始使用 {#getting-started-admin}
       + [面向新管理员的快速入门指南](admin/get-started-admin.md)
       + [针对管理员启动和运行](admin/up-and-running-admin.md)
       + [配置事件和警告通知](admin/set-up-shared-events-and-alert.md)
@@ -83,8 +83,7 @@ ht-degree: 0%
    + Aadhaar {#aadhaar}
       + [使用Aadhaar签名](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [从Digidentity获取数字身份证](digitalid/digidentity-reg.md)
-      + [使用Digidentity签名](digitalid/digidentity-sign.md)
+      + [使用 [!DNL Digidentity] 数字身份证](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
