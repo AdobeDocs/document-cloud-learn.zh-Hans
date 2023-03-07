@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [使用Digidentity注册和签名](digidentity-sign.md)
+了解如何注册和使用 [!DNL Digidentity] 数字身份证与Acrobat Sign
 * [使用D-Trust注册和签名](d-trust.md)
 了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] Acrobat Sign中文档上的数字签名
 
