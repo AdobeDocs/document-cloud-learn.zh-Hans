@@ -6,7 +6,7 @@ product: adobe sign
 level: Intermediate
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何对其他用户帐户中的事务设置仅限查看的访问权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

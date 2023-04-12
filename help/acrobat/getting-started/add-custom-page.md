@@ -5,7 +5,8 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10836.jpg
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+exl-id: 900815b4-6242-457e-86cf-7aa995016f29
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 5%
@@ -16,4 +17,4 @@ ht-degree: 5%
 
 了解如何使用集成的Adobe Express应用程序将自定义页面添加到PDF，该应用程序提供了数千个可供选择的模板。 本视频教程使用 [全新的工作区体验](new-workspace.md)的
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

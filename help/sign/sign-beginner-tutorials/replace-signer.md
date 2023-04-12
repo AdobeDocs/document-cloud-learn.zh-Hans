@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10264.jpg
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 >
 >替换收件人的默认设置是将当前收件人完全替换为新收件人。 商业和企业级别计划还有其他可用选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

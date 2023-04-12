@@ -7,7 +7,7 @@ level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34291.jpg
 exl-id: 5b205e7c-d41f-452d-9a54-208a25d3fa5e
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >仅适用于Acrobat Pro。
 
->[!VIDEO](https://video.tv.adobe.com/v/34291?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34291?quality=12&learn=on&hidetitle=true)

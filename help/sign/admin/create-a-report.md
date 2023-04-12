@@ -5,7 +5,7 @@ role: User, Admin
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 17%
@@ -20,7 +20,7 @@ ht-degree: 17%
 >
 >报告仅适用于商业和企业级别计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

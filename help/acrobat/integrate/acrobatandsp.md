@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
 
 # 使用 [!DNL SharePoint] 文件
 
-简化文档工作流程 [!DNL SharePoint] 和Acrobat [适用于Microsoft 365的Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的 安全转换 [!DNL Microsoft 365] 文件到PDF, [合并PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}合并为一个文件，注释和重新排列页面 — 直接从 [!DNL SharePoint] 联机。
+简化文档工作流程 [!DNL SharePoint] 和Acrobat [适用于Microsoft 365的Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)的 安全转换 [!DNL Microsoft 365] 文件到PDF, [合并PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} 到一个文件中，注释和重新排列页面 — 从 [!DNL SharePoint] 联机。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

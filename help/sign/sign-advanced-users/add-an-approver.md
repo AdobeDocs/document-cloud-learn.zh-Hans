@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 22%
@@ -18,7 +18,7 @@ ht-degree: 22%
 
 了解如何通过审批流程发送文档。 在本例中，了解如何通过HR、潜在员工和聘用经理发送聘用合同。 如果文档在发送给签名者之前需要呈交相关人员审核，那么“审批人”的角色会非常有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

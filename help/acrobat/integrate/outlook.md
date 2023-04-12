@@ -8,7 +8,7 @@ topic-revisit: Integrations
 thumbnail: KT-8494.jpg
 kt: 8494
 exl-id: 8876c886-fe3a-4a51-91c7-0aac0ee4ada7
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

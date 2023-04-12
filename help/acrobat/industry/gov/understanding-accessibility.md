@@ -7,7 +7,7 @@ level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34540.jpg
 exl-id: 97661a3a-4d9b-4d2c-886f-0b96934a8c5a
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 ## 第1部分 — 了解辅助工具(6:42)
 
->[!VIDEO](https://video.tv.adobe.com/v/34540?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34540?quality=12&learn=on&hidetitle=true)
 
 [转到第2部分 — 在以下位置创作 [!DNL Microsoft Word]](authoring-in-word.md)

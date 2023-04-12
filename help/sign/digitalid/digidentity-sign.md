@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -21,4 +21,4 @@ Digidentity是欧盟合格受信任服务提供商(QTSP)。 Digidentity身份识
 
 此视频教程详细介绍了从收到注册邀请电子邮件到在Acrobat Sign中使用数字ID进行身份验证和应用云签名的用户过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

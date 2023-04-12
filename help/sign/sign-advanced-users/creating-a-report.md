@@ -4,7 +4,8 @@ description: 了解如何构建您自己的报告，以便了解文档签名流�
 role: User, Admin
 level: Intermediate
 thumbnail: KT-11027.jpg
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -19,4 +20,4 @@ ht-degree: 0%
 >
 >报告仅适用于商业和企业级别计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)

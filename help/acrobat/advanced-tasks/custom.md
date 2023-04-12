@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9672.jpg
 kt: 9672
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+exl-id: 0cbe419b-d1fd-4737-9f79-0f99b4f38df3
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 >
 >自定义命令仅在Acrobat Pro中可用。
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)

@@ -1,19 +1,19 @@
 ---
-title: 创建 PDF
+title: 创建PDF
 description: 从所有PDF类型的文档创建文档
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 14%
+ht-degree: 6%
 
 ---
 
-# 创建 PDF
+# 创建PDF
 
 了解如何 [从所有PDF类型的文档创建文档](https://www.adobe.com/acrobat/online/convert-pdf.html)的 从Microsoft Office或Creative Cloud应用程序中创建的文件开始，或者使用图像、扫描文档、甚至网站。
 
@@ -23,4 +23,4 @@ ht-degree: 14%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?quality=12&learn=on&hidetitle=true)

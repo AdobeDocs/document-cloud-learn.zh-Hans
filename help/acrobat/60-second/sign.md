@@ -1,20 +1,21 @@
 ---
-title: 以电子方式对纸质文档进行签名
-description: 了解如何使用Adobe Scan签名打印的表单
+title: 以电子方式签署纸质文档
+description: 了解如何使用Adobe Scan签署打印表单
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9292.jpg
 KT: 9292
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+exl-id: 0d193bf9-6357-414f-987d-7d0d560ddb13
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# 以电子方式对纸质文档进行签名
+# 对纸质文档进行电子签名
 
-在此60秒的视频教程中，学习如何使用Adobe Scan对打印的表单进行签名。 只需扫描、签名，然后将其作为PDF发送即可。
+在本教程60秒的视频教程中，了解如何使用Adobe Scan签署打印表单。 只需扫描文档，对其进行签名，然后将其作为PDF发送。
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)

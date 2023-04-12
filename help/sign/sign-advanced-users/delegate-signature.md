@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -22,7 +22,7 @@ ht-degree: 3%
 >
 >委派人角色仅适用于企业级计划。 您的Acrobat Sign管理员可能需要启用 **允许发件人将某些收件人标记为委派人** 设置 **发送设置** 部分 **帐户设置** 才能使用此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

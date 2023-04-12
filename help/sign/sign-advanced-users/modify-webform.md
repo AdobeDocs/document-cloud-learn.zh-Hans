@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10979.jpg
-source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
+exl-id: 25b23ab5-b075-4ae1-8a4f-6b82b9294051
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -17,5 +18,4 @@ ht-degree: 0%
 
 了解如何禁用、编辑和重新启用现有Web表单。 禁用Web表单后，您可以重定向URL或为最终用户创建自定义消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?hidetitle=true)
-
+>[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)

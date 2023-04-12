@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >企业和商业计划可以使用“批量发送”工具，在一次事务中最多发送300封电子邮件。 一定要结帐 [GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en) 您需要一次收集300多个签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
 [下载ZIP格式的示例CSV文件](../assets/megasign_merge_sample.zip)
 

@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-11120.jpg
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] 在Acrobat Sign中的文档上进行数字签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

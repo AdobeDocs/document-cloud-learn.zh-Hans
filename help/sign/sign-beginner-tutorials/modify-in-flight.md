@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >发送后修改文档仅适用于企业级计划。 您的Acrobat Sign管理员需要启用 **修改协议** 的 **发送设置** 部分 **帐户设置** 才能使用此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-9750.jpg
 KT: 9750
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+exl-id: 7e602cf0-f3b4-4879-90a3-fa6ffd5827a4
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 这个60秒的视频教程介绍了如何转换扫描的PDF，以便您可以在PDF中搜索文本。
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)

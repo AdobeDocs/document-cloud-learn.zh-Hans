@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 4%
+source-wordcount: '264'
+ht-degree: 5%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 4%
 
 Gigasign允许您同时向数千人发送、收集和跟踪文档以供签名。 它旨在与您的员工和客户进行大量通信，每次批量发送可支持多达2,500个收件人。 GigaSign使用Acrobat Sign API提供与MegaSign相同的功能，并支持多个签名者、收件人组、收件人角色、协议名称、抄送等。
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## 下载并安装GigaSign应用程序
 
 [下载GigaSign Zip文件](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Java 1.8下载链接（仅在需要时可用）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Java 1.8下载链接（仅在需要时可用）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[白名单中的IP地址（仅在需要时）](https://helpx.adobe.com/cn/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[白名单中的IP地址（仅在需要时）](https://helpx.adobe.com/cn/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本设置说明
 
@@ -50,4 +50,4 @@ Gigasign允许您同时向数千人发送、收集和跟踪文档以供签名。
 
 1. 在第二行输入用于创建该密钥的帐户的电子邮件地址。
 
-1. 单击 **[!UICONTROL 提交]**&#x200B;的
+1. 单击&#x200B;**[!UICONTROL 提交]**。

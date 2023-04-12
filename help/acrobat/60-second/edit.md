@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8573.jpg
 KT: 8573
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '75'
 ht-degree: 6%
 
 ---
 
 # 使用Acrobat Web编辑PDF
 
-观看时长60秒的视频教程，了解如何 [简单的PDF编辑](https://www.adobe.com/cn/acrobat/online/pdf-editor.html)将{target=&quot;_blank&quot;}导出到文本和图像，甚至无需下载PDF。
+观看时长60秒的视频教程，了解如何 [简单的PDF编辑](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"} 到文本和图像，甚至无需下载PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

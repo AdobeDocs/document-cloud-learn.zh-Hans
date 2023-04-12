@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 41205.jpg
 exl-id: a914d230-da29-4278-9189-77e3a2486ae8
-source-git-commit: 00bc24b2c8f303108742f0b69c11908ca31b2a6c
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 快速浏览Acrobat Sign工作区以启动并运行。
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

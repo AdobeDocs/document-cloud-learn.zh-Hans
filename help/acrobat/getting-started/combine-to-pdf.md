@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # 将文件合并为单个PDF
 
-提供最佳客户体验需要以前所未有的速度创建内容。 了解如何无缝合并许多不同类型的文件(PDF、Word、Excel、PowerPoint、JPEG等) 合并为一个PDF。 [将文件合并为单个PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;}允许您管理和控制发送给其他人的内容，从而创建更好的体验。
+提供最佳客户体验需要以前所未有的速度创建内容。 了解如何无缝合并许多不同类型的文件(PDF、Word、Excel、PowerPoint、JPEG等) 合并为一个PDF。 [将文件合并为单个PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} 允许您管理和控制发送给其他人的内容，从而创建更好的体验。
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ ht-degree: 3%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 将PDF导出为Microsoft Office格式
 
-了解如何将PDF文件导出为可编辑格式，例如 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/cn/acrobat/online/pdf-to-ppt.html)和 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)的 导出为其他文件格式后，可以对文档进行重要的修订和更新。
+了解如何将PDF文件导出为可编辑格式，例如 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)的 导出为其他文件格式后，可以对文档进行重要的修订和更新。
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ ht-degree: 11%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35494?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

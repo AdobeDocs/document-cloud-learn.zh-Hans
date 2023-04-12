@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: 10591.jpg
-source-git-commit: 5bf132b5969bc860e8819c99eacebe7ebeee3b9c
+exl-id: 5ae54ce7-80bc-4eda-851f-f92851b01902
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
@@ -17,4 +18,4 @@ ht-degree: 0%
 
 了解如何将文档的签名委派给其他人。
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)

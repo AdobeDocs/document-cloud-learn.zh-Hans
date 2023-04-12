@@ -7,15 +7,15 @@ level: Beginner
 thumbnail: KT-9753.jpg
 KT: 9753
 exl-id: 8ab6c2ba-8cc0-460d-9f31-c406ddb8f0b3
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 8%
 
 ---
 
 # Export PDF到手机中的Word
 
-观看时长60秒的视频教程，了解如何 [将PDF文件转换为完全可编辑的Microsoft Word文档](https://www.adobe.com/acrobat/online/pdf-to-word.html){target=&quot;_blank&quot;}和Acrobat移动应用程序。
+观看时长60秒的视频教程，了解如何 [将PDF文件转换为完全可编辑的Microsoft Word文档](https://www.adobe.com/acrobat/online/pdf-to-word.html){target="_blank"} 使用Acrobat移动应用程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)

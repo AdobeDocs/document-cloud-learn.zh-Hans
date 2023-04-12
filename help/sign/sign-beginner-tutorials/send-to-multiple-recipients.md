@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-4966.jpg
 exl-id: da64949c-b8e0-4923-b3a4-43d2d6dbd4d5
-source-git-commit: e49ff9bb170878665c4aeeceab244bd482636be0
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 4%
+ht-degree: 9%
 
 ---
 
-# 发送给多个收件人
+# 发送给多个接收者
 
 是否有多个人员必须与您的文档进行交互？ 了解如何按所需顺序将文档发送给多个人以进行电子签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

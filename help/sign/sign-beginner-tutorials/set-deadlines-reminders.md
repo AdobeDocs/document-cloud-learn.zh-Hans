@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10605.jpg
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%
@@ -21,4 +22,4 @@ ht-degree: 6%
 >
 >企业和商业计划可以在发送过程中选择性地显示“提醒”选项，或者启用帐户/组范围内的自动化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411445quality=12&learn=on&hidetitle=true)

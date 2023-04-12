@@ -6,7 +6,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 使用Acrobat Sign for Workday简化签名工作流程，提高团队工作效率。 在本视频教程中，了解如何配置Acrobat Sign以便直接在Workday中工作，从而无缝管理您的所有人力资源工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/39372?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/39372?quality=12&learn=on&hidetitle=true)

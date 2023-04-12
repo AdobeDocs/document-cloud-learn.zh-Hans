@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37841.jpg
 exl-id: d6297c78-40d5-4353-893c-9fd5648048c6,ed99edd5-f826-4ac6-8f32-6a4e6e48ddc6
-source-git-commit: 75a2b43b76f9fe9fc99de2c84e4e0de06b63138a
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * [商业补助和贷款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en) 用例。
 * [再就业援助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en) 用例。
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

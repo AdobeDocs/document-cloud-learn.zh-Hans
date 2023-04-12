@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
+exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -36,7 +37,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -46,7 +47,7 @@ ht-degree: 0%
 
 1. 下载并打开 *Questionnaire.pdf*&#x200B;的
 1. 选择 **Prepare Form** 工具栏内。
-1. 选择“**开始**”。
+1. 选择 **开始**&#x200B;的
 1. 选择 **编辑文本和图像** 以修复键入错误。
 1. 选择 **选择** 以退出编辑模式。
 1. 选择并删除顶部表单域。

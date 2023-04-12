@@ -7,7 +7,7 @@ level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 ## 第3部分 — 在Acrobat完成(4:37)
 
->[!VIDEO](https://video.tv.adobe.com/v/34514?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34514?quality=12&learn=on&hidetitle=true)

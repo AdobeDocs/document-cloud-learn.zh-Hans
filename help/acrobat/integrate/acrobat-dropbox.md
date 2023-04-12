@@ -7,7 +7,8 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-10837.jpg
 kt: 10837
-source-git-commit: 393aab6d09d8fab8a85f3fc1d3e32057d4fe529e
+exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -18,4 +19,4 @@ ht-degree: 0%
 
 了解如何打开、创建、编辑、签署更改以及将更改保存到 [!DNL Dropbox] 文件。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让所有文件触手可及。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

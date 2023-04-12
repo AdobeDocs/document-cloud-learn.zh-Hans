@@ -8,10 +8,10 @@ level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 了解如何从 [!DNL Intesi Group]的 注册并验证您的身份后， [!DNL Intesi Group] 您使用的用于应用Acrobat Sign云签名的数字身份证出现问题。
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
 **选择以下图像以了解如何使用高级功能 [!DNL Intesi Group] Acrobat Sign中的数字身份证。**
 
-[! [图像](assets/IntesiSign_400.png)](intesi-sign.md)
+[![图像](assets/IntesiSign_400.png)](intesi-sign.md)

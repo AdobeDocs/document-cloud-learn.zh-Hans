@@ -5,9 +5,10 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -22,4 +23,4 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
