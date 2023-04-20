@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 6b117eba16ed6738708db30ebe3fc41c14685f35
+source-git-commit: 3bf6b2382dfa22d8883be275fff5c9438a1ea2d9
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '73'
 ht-degree: 6%
 
 ---
@@ -38,13 +38,13 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
       <img alt="技能创建器" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
-</tr>
-<tr>
   <td>
     <a href="integrate/integrate-overview.md">
       <img alt="集成" src="assets/acrobat_title_integrate.png" />
     </a>
   </td>
+</tr>
+<tr>
   <td>
     <a href="industry/industry-overview.md">
       <img alt="行业和部门" src="assets/acrobat_title_industry.png" />
@@ -55,10 +55,7 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
       <img alt="修改照片" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
-</tr>
-<tr>
-  <td>
-    <a href="deploy/deploy-overview.md">
+  <a href="deploy/deploy-overview.md">
       <img alt="部署" src="assets/acrobat_title_deploy.png" />
     </a>
   </td>
@@ -66,11 +63,6 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
     <a href="mobile/mobile-overview.md">
       <img alt="移动设备" src="assets/acrobat_title_mobile.png" />
     </a>
-  </td>  
-  <td>
-   <img alt="间隔条" src="assets/Whitespacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
