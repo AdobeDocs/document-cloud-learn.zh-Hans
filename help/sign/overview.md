@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -25,10 +25,10 @@ Acrobat Sign是Adobe Document Cloud解决方案，可通过集成、API、高级
 <tr>
   <td>
     <a href="sign-beginner-tutorials/beginner-users-overview.md">
-      <img alt="快速入门" src="assets/AS_Title_Getting-Started.png" />
+      <img alt="开始使用" src="assets/AS_Title_Getting-Started.png" />
     </a>
     <div>
-    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>快速入门</strong></a>
+    <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>开始使用</strong></a>
     </div>
     <em>了解如何发送、签署和跟踪文档</em>
     <br>
