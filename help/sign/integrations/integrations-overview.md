@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [Acrobat Sign + Workday新员工入职](acrobat-sign-workday-onboarding.md)
+了解如何借助Acrobat Sign + Workday简化登记工作流程
 * [发送文档进行公证](send-document-notarize.md)
 通过这个包含三个部分的教程，您可以了解如何发送文档进行公证、如何查看签名者的体验，以及如何接收结果
-* [使用Power Automate自动归档SharePoint中的文件](auto-archive-sharepoint-power-automate.md)
-了解如何使用Power Automate将已签名文档自动存档到SharePoint库
 
 ## Microsoft集成教程
 
