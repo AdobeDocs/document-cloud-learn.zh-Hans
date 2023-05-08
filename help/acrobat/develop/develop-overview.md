@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 193bed355e602b569d475e7c1604fd0ccd5582fb
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ## Acrobat SDK
 
-在 [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target=&quot;_blank&quot;}是一组可帮助您开发与Acrobat技术交互的软件的工具。
+在 [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} 是一套工具，可帮助您开发与Acrobat技术交互的软件。
 
-## Adobe文档服务API
+## Adobe Acrobat Services API
 
-[Adobe PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/){target=&quot;_blank&quot;}
-[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target=&quot;_blank&quot;}
-[Adobe文档生成API](https://developer.adobe.com/document-services/apis/doc-generation/){target=&quot;_blank&quot;}
-[Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}
-[Adobe文档服务教程](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
+[Adobe PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
+[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
+[Adobe文档生成API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
+[Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
+[Adobe Acrobat Services教程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
