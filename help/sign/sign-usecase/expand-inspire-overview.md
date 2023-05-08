@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,11 @@ ht-degree: 0%
     <a href="use-case-showcase.md"><strong>用例展示</strong></a>
     </div>
     <em>观看直播或录制会议，了解新的Acrobat Sign使用案例和趋势</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

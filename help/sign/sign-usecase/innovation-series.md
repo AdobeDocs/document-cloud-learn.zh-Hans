@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,35 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 
 ## 每月会议
 
+**[在Microsoft应用程序中使用电子签名](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+日期：2023年10月19日将Microsoft添加到现有工作流程中，以扩展您使用Word、Outlook和Sharepoint等Adobe Acrobat Sign应用程序的方式。 此会议将指导您如何开始在常用的Microsoft应用程序中简化文档流程，从而无需为了获取签名或检查状态而切换上下文。
+
+**[管理协议：实时查看协议状态](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+日期：2023年9月21日访问了解协议管理工具和最佳实践的来去去去去去去，以便您可以随时了解协议状态。 此会议将涵盖：
+
+* 您可以通过“管理”选项卡对文档执行哪些操作
+* 如何处理和使用Web表单和批量发送中的数据
+* 如何搜索和筛选以查找所需的文档
+
+**[发送文档进行签名的高级提示](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+日期：2023年8月17日加入我们，深入了解发送协议以请求签名时可使用的所有选项。 在该会话中，您将了解：
+
+* 发送给多个接收者
+* 可用的收件人角色（签名者、表单填写人、委派人等）
+* 添加“抄送”字段
+* 密码保护等
+
+**[Acrobat Sign集成：Salesforce和Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+日期：2023年7月20日请加入我们，我们回顾与Salesforce和Workday的一些最常见、最强大的集成Acrobat Sign。 该会议将探索如何通过直接在您已经使用的工具中消除手动、低效的任务并创建100%的数字工作流程和电子签名流程，来加快业务交易。
+
 **[Adobe Acrobat Sign高级报告](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 日期：2023年6月22日了解Acrobat Sign中可用的分析和报告 — 了解如何查看数据以帮助提供推动业务发展所需的洞察。
 
-**[Acrobat Sign101:开始使用Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
-日期：2023年5月18日加入我们了解电子签名的基础知识：如何使用Acrobat Sign以电子方式签名文档、签名者将看到什么以及如何跟踪已发送协议的进度。
+**[创建和使用工作流程 — 从头到尾](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
+日期：2023年5月18日致电所有Acrobat Sign管理员和最终用户/个人贡献者。 此会议将讨论工作流程的创建和使用。
+
+* 作为Acrobat Sign组或帐户管理员，了解如何定义预置工作流程，以便将文档自动路由到正确的签名方，然后授予对整个Acrobat Sign组的访问权限。
+* 而作为最终用户，了解如何使用这些工作流程来确保文档在第一次也是每次都得到正确签名。
 
 **[创作环境的高级培训](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 日期：2023年4月20日：深入了解Acrobat Sign编辑环境中提供的选项。 涉及的主题包括：
@@ -47,21 +71,3 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 * Adobe Acrobat Sign简单的拖放编辑环境
 * 在Adobe Acrobat中设置PDF表单
 * 使用文本标记快速进行文档创作
-
-**[在Microsoft应用程序中使用电子签名](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
-日期：2022年12月8日将Microsoft添加到现有工作流程中，以扩展您使用Word、Outlook和Sharepoint等Adobe Acrobat Sign应用程序的方式。 此会议将指导您如何开始在常用的Microsoft应用程序中简化文档流程，从而无需为了获取签名或检查状态而切换上下文。
-
-**[发送文档进行签名的高级提示](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/6dc32a47-1784-46ec-939a-f39f1a2957fc/1e8b283c-e36c-46d8-a537-2ab62a90e9a4){target="_blank"}**
-日期：2022年11月10日仔细查看您拥有的所有发送协议选项。 在此会话中，您将了解发送协议以供签名的细微之处，包括： — 如何发送给多个收件人 — 提供哪些收件人角色（签名者、表单填写人、委派人等） — 添加抄送字段 — 密码保护 — 等等！
-
-**[管理协议：实时查看协议状态](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/1c66eec5-0ee4-4ca9-8479-0c645262cc8f/d1a4d8f4-d364-4067-bc17-b46c54795bda){target="_blank"}**
-日期：2022年10月20日此会议将向您展示协议管理工具和最佳做法的入点和出点：您将从“管理”选项卡中了解可以对文档执行的操作，以及如何处理并使用Web表单和批量发送中的数据，以及如何搜索和筛选以查找所需的文档。
-
-**[创建和使用工作流程 — 从头到尾](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9c1f8eb7-ebc8-44c6-9d50-f791eb91ff82/3eaf4640-bcf4-4f1d-8fd0-5ce6db5b49b5){target="_blank"}**
-日期：2022年9月15日致电所有Acrobat Sign管理员和最终用户/个人贡献者。 此会议将讨论工作流程的创建和使用。 作为Acrobat Sign组或帐户管理员，了解如何定义预置工作流程，以便将文档自动发送给正确的相关方，然后授予对整个Acrobat Sign组的访问权限，以便他们可以为关键签名流程运行工作流程。 而作为最终用户，了解如何使用这些工作流程来确保文档每次第一次都正确签名。
-
-**[Salesforce中的Acrobat Sign Document Builder](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target="_blank"}**
-日期：2022年8月18日请加入我们，了解适用于Salesforce的Adobe Acrobat Sign - Document Builder的最新加载项。 这一新的解决方案不再使用静态文档模板，而是允许您在发送以请求签名之前，使用Salesforce数据动态生成文档，从而使一度十分繁琐的流程更为简单和精简。 我们将逐步介绍配置Document Builder for Acrobat Sign的过程，它将帮助您节省时间和精力。 现场问答将跟随演示。
-
-**[Adobe Acrobat Sign高级报告](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target="_blank"}**
-日期：2022年7月14日了解Acrobat Sign中可用的分析和报告 — 了解如何查看数据以帮助提供推动业务发展所需的洞察。
