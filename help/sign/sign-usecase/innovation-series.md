@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%
@@ -22,17 +22,17 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 
 ## 每月会议
 
-**[在Microsoft应用程序中使用电子签名](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[在Microsoft应用程序中使用电子签名](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 日期：2023年10月19日将Microsoft添加到现有工作流程中，以扩展您使用Word、Outlook和Sharepoint等Adobe Acrobat Sign应用程序的方式。 此会议将指导您如何开始在常用的Microsoft应用程序中简化文档流程，从而无需为了获取签名或检查状态而切换上下文。
 
-**[管理协议：实时查看协议状态](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[管理协议：实时查看协议状态](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 日期：2023年9月21日访问了解协议管理工具和最佳实践的来去去去去去去，以便您可以随时了解协议状态。 此会议将涵盖：
 
 * 您可以通过“管理”选项卡对文档执行哪些操作
 * 如何处理和使用Web表单和批量发送中的数据
 * 如何搜索和筛选以查找所需的文档
 
-**[发送文档进行签名的高级提示](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[发送文档进行签名的高级提示](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 日期：2023年8月17日加入我们，深入了解发送协议以请求签名时可使用的所有选项。 在该会话中，您将了解：
 
 * 发送给多个接收者
@@ -40,7 +40,7 @@ Acrobat Sign Skill Builders是一个30分钟的会话，旨在让您的电子签
 * 添加“抄送”字段
 * 密码保护等
 
-**[Acrobat Sign集成：Salesforce和Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Sign集成：Salesforce和Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 日期：2023年7月20日请加入我们，我们回顾与Salesforce和Workday的一些最常见、最强大的集成Acrobat Sign。 该会议将探索如何通过直接在您已经使用的工具中消除手动、低效的任务并创建100%的数字工作流程和电子签名流程，来加快业务交易。
 
 **[Adobe Acrobat Sign高级报告](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
