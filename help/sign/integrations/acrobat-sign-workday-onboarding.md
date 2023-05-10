@@ -4,7 +4,8 @@ description: 了解如何借助Acrobat Sign + Workday简化登记工作流程
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

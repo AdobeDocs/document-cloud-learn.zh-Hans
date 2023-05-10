@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [设置签名顺序](sign-advanced-users/setting-up-routing.md)
       + [使用委派人角色](sign-advanced-users/delegate-signature.md)
       + [使用审批人角色](sign-advanced-users/add-an-approver.md)
+      + [Acrobat Sign中的身份验证方法](sign-advanced-users/authentication-methods.md)
+      + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
       + [批量发送和收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文本标记 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
