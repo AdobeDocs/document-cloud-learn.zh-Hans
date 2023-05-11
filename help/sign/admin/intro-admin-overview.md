@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
+source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
     </div>
-    <em>将用户逐个或批量添加到您的Acrobat Sign帐户</em>
+    <em>添加和管理Acrobat Sign的用户</em>
     <br>
   </td>
 </tr>
