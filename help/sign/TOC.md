@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
+source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '498'
 ht-degree: 10%
 
 ---
@@ -69,6 +69,7 @@ ht-degree: 10%
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建模板](sign-advanced-users/create-a-template.md)
       + [创建报告图表](admin/create-a-report.md)
+      + [用户的报告选项](admin/report-options.md)
       + [创建Web表单](sign-advanced-users/webform.md)
       + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [批量发送和收集签名](sign-advanced-users/megasign.md)

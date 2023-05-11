@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 1%
 * [设置工作流](building-a-custom-workflow.md)
 自动化文档工作流程以快速获取电子签名和数据
 
-## 快速入门
+## 开始使用
 
 <table style="table-layout:fixed">
 <tr>
@@ -63,7 +63,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="添加会话" src="../assets/Adding-Users.png" />
+      <img alt="添加用户" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
@@ -116,6 +116,16 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="用户的报告选项" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>用户的报告选项</strong></a>
+    </div>
+    <em>了解如何为用户设置报告选项</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="创建Web表单" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ ht-degree: 1%
     <em>一次收集数百个任意文档的签名</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="设置工作流" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ ht-degree: 1%
     <em>自动化文档工作流程以快速获取电子签名和数据</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## 高级任务
