@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 1%
 
 * [报告选项](report-options.md)
 了解如何为用户设置报告选项
-* [面向新管理员的快速入门指南](get-started-admin.md)
-在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
+* [添加用户](add-users-to-your-account.md)
+了解如何为Acrobat Sign添加和管理用户
 
 ## 开始使用
 
