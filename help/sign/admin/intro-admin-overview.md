@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 1%
 
 ## 新增功能
 
+* [报告选项](report-options.md)
+了解如何为用户设置报告选项
 * [面向新管理员的快速入门指南](get-started-admin.md)
 在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
-* [设置工作流](building-a-custom-workflow.md)
-自动化文档工作流程以快速获取电子签名和数据
 
 ## 开始使用
 

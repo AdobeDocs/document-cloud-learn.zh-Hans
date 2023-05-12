@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '423'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 3%
 
 * [Acrobat Sign中的身份验证方法](authentication-methods.md)
 了解Acrobat Sign中可用于验证文档签名者身份的方法范围
-* [设置在线支付](set-up-online-payments.md)
-了解如何在文档中设置和接受在线支付
+* [管理表单数据](manage-form-data.md)
+了解如何整合文档中的表单数据
 
 ## 发送
 
@@ -74,6 +74,16 @@ ht-degree: 3%
 </tr>
 <tr>
   <td>
+      <a href="manage-form-data.md">
+        <img alt="管理表单数据" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>管理表单数据</strong></a>
+      </div>
+      <em>了解如何整合文档中的表单数据</em>
+      <br>
+    </td>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="设置在线支付" src="../assets/Payments.png" />
     </a>
@@ -92,18 +102,20 @@ ht-degree: 3%
       </div>
       <em>只需几个简单的步骤，即可一次性收集任意文档的数百个签名</em>
       <br>
-    </td>
-    <td>
-      <a href="webform.md">
+  </td>
+  <td>
+    <a href="webform.md">
         <img alt="创建Web表单" src="../assets/Webform.png" />
-      </a>
-      <div>
-      <a href="webform.md"><strong>创建Web表单</strong></a>
-      </div>
-      <em>创建可以直接在您的网站上以电子方式签名的文档</em>
-      <br>
-    </td>
-    <td>
+    </a>
+    <div>
+    <a href="webform.md"><strong>创建Web表单</strong></a>
+    </div>
+    <em>创建可以直接在您的网站上以电子方式签名的文档</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
     </a>
@@ -113,8 +125,6 @@ ht-degree: 3%
       <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
       <br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="text-tagging-word.md">
       <img alt="使用文本标记 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -123,11 +133,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文本标记 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>了解如何通过将Acrobat Sign文本标记添加到 [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
