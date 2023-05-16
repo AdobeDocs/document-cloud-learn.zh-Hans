@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
 # 随时随地使用Acrobat Web
 
-由于远程工作无处不在，快速而大规模地提供内容至关重要。 了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求。
+由于远程工作无处不在，快速而大规模地提供内容至关重要。 了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求。 在 [acrobat.adobe.com](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)的
 
 >[!TIP]
 >

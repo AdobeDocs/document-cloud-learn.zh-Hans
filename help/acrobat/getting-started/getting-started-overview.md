@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Acrobat入门图像](../assets/Hero-GettingStarted.png)
 
 通过这些简要的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或 [编辑PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在简化您的PDF工作流程。
+
+## 新增功能
+
+* [随时随地使用Acrobat Web](acrobatweb.md)
+了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求
 
 ## 快速入门教程
 

@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat入门图像](../assets/Hero-AdvancedTasks.png)
 
 借助Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复普通任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。
+
+## 新增功能
+
+* [随时随地使用Acrobat Web](optimizeseo.md)
+了解如何优化PDF以提高发现能力和搜索引擎在Web上的排名
 
 ## 高级任务教程
 
