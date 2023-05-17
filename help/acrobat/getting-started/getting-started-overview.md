@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ ht-degree: 5%
 
 * [随时随地使用Acrobat Web](acrobatweb.md)
 了解如何在浏览器中使用Acrobat Web工具随时随地处理业务文档请求
+* [实时协作](collaborate.md)
+通过从任何地方收集注释、协作处理响应和实时跟踪文档进度，推动您的项目向前发展
 
 ## 快速入门教程
 
