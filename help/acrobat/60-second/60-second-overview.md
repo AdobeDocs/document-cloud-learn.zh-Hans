@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -22,58 +22,18 @@ ht-degree: 0%
 
 ## 60秒Acrobat教程
 
+## 编辑
+
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="optimize.md">
-      <img alt="快速创建更高效的PDF文件" src="../assets/60sec_Optimize_1280.jpg" />
+   <td>
+    <a href="edit.md">
+      <img alt="使用Acrobat Web编辑PDF" src="../assets/60sec_Edit_1280.jpg" />
     </a>
     <div>
-    <a href="optimize.md"><strong>快速创建更高效的PDF文件</strong></a>
+    <a href="edit.md"><strong>使用Acrobat Web编辑PDF</strong></a>
     </div>
-    <em>使用“Optimize PDF”工具显著减小PDF文件的大小</em>
-    <br>
-  </td>
-  <td>
-    <a href="protect.md">
-      <img alt="使用密码Protect您的PDF文件" src="../assets/60sec_Protect_1280.jpg" />
-    </a>
-    <div>
-    <a href="protect.md"><strong>使用密码Protect您的PDF文件</strong></a>
-    </div>
-    <em>ProtectPDF，以便需要密码才能打开或编辑PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="wordform.md">
-      <img alt="将Word转换为PDF（包括表单域）" src="../assets/60sec_Wordform_1280.jpg" />
-    </a>
-    <div>
-     <a href="wordform.md"><strong>将Word转换为PDF（包括表单域）</strong></a>
-    </div>
-    <em>将Word文件和表单转换为PDF并自动构建表单域</em>
-    <br>
-  </td>
-  <td>
-    <a href="accessible.md">
-      <img alt="让Acrobat帮助您创建可访问PDF" src="../assets/60sec_Accessible_1280.jpg" />
-    </a>
-    <div>
-    <a href="accessible.md"><strong>让Acrobat帮助您创建可访问PDF</strong></a>
-    </div>
-    <em>检查PDF是否可访问</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="exportwordphone.md">
-      <img alt="Export PDF到手机中的Word" src="../assets/60sec_Exportphone_1280.jpg" />
-    </a>
-    <div>
-    <a href="exportwordphone.md"><strong>Export PDF到手机中的Word</strong></a>
-    </div>
-    <em>使用AcrobatPDF应用程序将Microsoft文件转换为完全可编辑的Word文档</em>
+    <em>对文本和图像进行简单编辑，甚至无需下载PDF</em>
     <br>
   </td>
   <td>
@@ -96,71 +56,19 @@ ht-degree: 0%
     <em>通过将几种不同类型的文件合并到一个PDF中，快速创建新文档</em>
     <br>
   </td>
-  <td>
-    <a href="edit.md">
-      <img alt="使用Acrobat Web编辑PDF" src="../assets/60sec_Edit_1280.jpg" />
-    </a>
-    <div>
-    <a href="edit.md"><strong>使用Acrobat Web编辑PDF</strong></a>
-    </div>
-    <em>对文本和图像进行简单编辑，甚至无需下载PDF</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="search.md">
-      <img alt="一次搜索多个PDF文件" src="../assets/60sec_Search_1280.jpg" />
-    </a>
-    <div>
-     <a href="search.md"><strong>一次搜索多个PDF文件</strong></a>
-    </div>
-    <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件</em>
-    <br>
-  </td>
-  <td>
-    <a href="photo.md">
-      <img alt="立即创建PDF照片" src="../assets/60sec_Photo_1280.jpg" />
-    </a>
-    <div>
-    <a href="photo.md"><strong>立即创建PDF照片</strong></a>
-    </div>
-    <em>了解如何将一组JPG拖放到Acrobat图标上以创建PDF</em>
-    <br>
-  </td>
-  <td>
-    <a href="phone.md">
-      <img alt="将PPT文件转换为手机上的PDF" src="../assets/60sec_Phone_1280.jpg" />
-    </a>
-    <div>
-    <a href="phone.md"><strong>将PPT文件转换为手机上的PDF</strong></a>
-    </div>
-    <em>了解如何将电子邮件PowerPoint附件转换为PDF手机</em>
-    <br>
-  </td>  
-  <td>
-    <a href="sign.md">
-      <img alt="对纸质文档进行电子签名" src="../assets/60sec_Sign_1280.jpg" />
-    </a>
-    <div>
-    <a href="sign.md"><strong>对纸质文档进行电子签名</strong></a>
-    </div>
-    <em>了解如何使用Adobe Scan签署打印表单</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="indesign.md">
-      <img alt="将PDF注释载入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>将PDF注释载入InDesign</strong></a>
-    </div>
-    <em>了解在Acrobat共享审阅后，如何将PDF注释重新加载到InDesign中</em>
-    <br>
-  </td>
    <td>
+    <a href="organize.md">
+      <img alt="快速组织页面" src="../assets/60sec_Organize_1280.jpg" />
+    </a>
+    <div>
+    <a href="organize.md"><strong>快速组织页面</strong></a>
+    </div>
+    <em>了解如何使用“组织页面”工具以鸟瞰方式查看PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="editphoto.md">
       <img alt="在您的PDF中编辑照片" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -181,14 +89,226 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <a href="organize.md">
-      <img alt="快速组织页面" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="间隔条" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 转换
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF到手机中的Word" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>快速组织页面</strong></a>
+    <a href="exportwordphone.md"><strong>Export PDF到手机中的Word</strong></a>
     </div>
-    <em>了解如何使用“组织页面”工具以鸟瞰方式查看PDF</em>
+    <em>使用AcrobatPDF应用程序将Microsoft文件转换为完全可编辑的Word文档</em>
     <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 创建
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="wordform.md">
+      <img alt="将Word转换为PDF（包括表单域）" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>将Word转换为PDF（包括表单域）</strong></a>
+    </div>
+    <em>将Word文件和表单转换为PDF并自动构建表单域</em>
+    <br>
+  </td>
+  <td>
+      <a href="photo.md">
+        <img alt="立即创建PDF照片" src="../assets/60sec_Photo_1280.jpg" />
+      </a>
+      <div>
+      <a href="photo.md"><strong>立即创建PDF照片</strong></a>
+      </div>
+      <em>了解如何将一组JPG拖放到Acrobat图标上以创建PDF</em>
+      <br>
+  </td>
+  <td>
+    <a href="phone.md">
+      <img alt="将PPT文件转换为手机上的PDF" src="../assets/60sec_Phone_1280.jpg" />
+    </a>
+    <div>
+    <a href="phone.md"><strong>将PPT文件转换为手机上的PDF</strong></a>
+    </div>
+    <em>了解如何将电子邮件PowerPoint附件转换为PDF手机</em>
+    <br>
+  </td>
+  <td>
+      <a href="optimize.md">
+        <img alt="快速创建更高效的PDF文件" src="../assets/60sec_Optimize_1280.jpg" />
+      </a>
+      <div>
+      <a href="optimize.md"><strong>快速创建更高效的PDF文件</strong></a>
+      </div>
+      <em>使用“Optimize PDF”工具显著减小PDF文件的大小</em>
+      <br>
+  </td>
+</tr>
+</table>
+
+## 签名
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="sign.md">
+      <img alt="对纸质文档进行电子签名" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>对纸质文档进行电子签名</strong></a>
+    </div>
+    <em>了解如何使用Adobe Scan签署打印表单</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 保护
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="protect.md">
+      <img alt="使用密码Protect您的PDF文件" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>使用密码Protect您的PDF文件</strong></a>
+    </div>
+    <em>ProtectPDF，以便需要密码才能打开或编辑PDF</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 准备
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="让Acrobat帮助您创建可访问PDF" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>让Acrobat帮助您创建可访问PDF</strong></a>
+    </div>
+    <em>检查PDF是否可访问</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
+
+## 其他主题
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="search.md">
+      <img alt="一次搜索多个PDF文件" src="../assets/60sec_Search_1280.jpg" />
+    </a>
+    <div>
+     <a href="search.md"><strong>一次搜索多个PDF文件</strong></a>
+    </div>
+    <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件</em>
+    <br>
+  </td>
+  <td>
+    <a href="indesign.md">
+      <img alt="将PDF注释载入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>将PDF注释载入InDesign</strong></a>
+    </div>
+    <em>了解在Acrobat共享审阅后，如何将PDF注释重新加载到InDesign中</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>

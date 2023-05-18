@@ -2,17 +2,17 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
 # Acrobat教程 {#acrobat-learning}
 
-+ [概览](overview.md)
++ [概述](overview.md)
 + 开始使用 {#getting-started}
    + [概述](getting-started/getting-started-overview.md)
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [将表单域添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
 + 60秒Acrobat {#60-second}
    + [概述](60-second/60-second-overview.md)
-   + [快速创建更高效的PDF文件](60-second/optimize.md)
-   + [使用密码Protect您的PDF文件](60-second/protect.md)
-   + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
-   + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
-   + [Export PDF到手机中的Word](60-second/exportwordphone.md)
+   + [使用Acrobat Web编辑PDF](60-second/edit.md)
    + [识别扫描的PDF文件](60-second/textrecognition.md)
    + [将文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-   + [使用Acrobat Web编辑PDF](60-second/edit.md)
-   + [一次搜索多个PDF文件](60-second/search.md)
-   + [立即创建PDF照片](60-second/photo.md)
-   + [将PPT文件转换为手机上的PDF](60-second/phone.md)
-   + [对纸质文档进行电子签名](60-second/sign.md)
-   + [将PDF注释载入InDesign](60-second/indesign.md)
+   + [快速组织页面](60-second/organize.md)
    + [在您的PDF中编辑照片](60-second/editphoto.md)
    + [编辑PDF中的图形](60-second/editgraphic.md)
-   + [快速组织页面](60-second/organize.md)
+   + [Export PDF到手机中的Word](60-second/exportwordphone.md)
+   + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
+   + [立即创建PDF照片](60-second/photo.md)
+   + [将PPT文件转换为手机上的PDF](60-second/phone.md)
+   + [快速创建更高效的PDF文件](60-second/optimize.md)
+   + [对纸质文档进行电子签名](60-second/sign.md)
+   + [使用密码Protect您的PDF文件](60-second/protect.md)
+   + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
+   + [一次搜索多个PDF文件](60-second/search.md)
+   + [将PDF注释载入InDesign](60-second/indesign.md)
 + 技能培养者 {#skill-builders}
    + [在线研讨会](skill-builder/skill-builder-webinars.md)
 + 集成 {#integrations}
@@ -101,7 +101,7 @@ ht-degree: 0%
          + [提示#3 -Protect数字文档](industry/gov/protect-digital-documents.md)
          + [提示#4 — 处理表单和签名](industry/gov/work-with-forms-and-signatures.md)
          + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
-      + 辅助工具 {#pdfs}
+      + 无障碍访问 {#pdfs}
          + [使PDF可访问](industry/gov/making-pdfs-accessible.md)
          + [#1 — 了解辅助工具](industry/gov/understanding-accessibility.md)
          + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
