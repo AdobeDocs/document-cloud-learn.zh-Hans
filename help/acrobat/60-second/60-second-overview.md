@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="将PDF转换为Word" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>将PDF转换为Word</strong></a>
+    </div>
+    <em>将PDF文件转换为完全可编辑的Microsoft Word文档</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="将PDF转换为Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>将PDF转换为Excel</strong></a>
+    </div>
+    <em>将PDF文件转换为完全可编辑的Microsoft Excel文档</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="将PDF转换为PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>将PDF转换为PowerPoint</strong></a>
+    </div>
+    <em>将PDF文件转换为完全可编辑的Microsoft PowerPoint文档</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF到手机中的Word" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ ht-degree: 0%
     </div>
     <em>使用AcrobatPDF应用程序将Microsoft文件转换为完全可编辑的Word文档</em>
     <br>
-  </td>
-  <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ ht-degree: 0%
     <em>检查PDF是否可访问</em>
     <br>
   </td>
-  <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="使PDF符合标准格式" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>使PDF符合标准格式</strong></a>
+    </div>
+    <em>了解如何根据PDF标准条件(如PDF/X、PDF/A或PDF/E)验证PDF内容</em>
+    <br>
   </td>
   <td>
       <img alt="间隔条" src="../assets/Whitespacer.png" />

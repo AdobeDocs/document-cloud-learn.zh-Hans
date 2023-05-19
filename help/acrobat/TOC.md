@@ -2,10 +2,10 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
@@ -67,6 +67,9 @@ ht-degree: 7%
    + [快速组织页面](60-second/organize.md)
    + [在您的PDF中编辑照片](60-second/editphoto.md)
    + [编辑PDF中的图形](60-second/editgraphic.md)
+   + [将PDF转换为Word](60-second/convert-pdf-word.md)
+   + [将PDF转换为Excel](60-second/convert-pdf-excel.md)
+   + [将PDF转换为PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF到手机中的Word](60-second/exportwordphone.md)
    + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
    + [立即创建PDF照片](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 7%
    + [对纸质文档进行电子签名](60-second/sign.md)
    + [使用密码Protect您的PDF文件](60-second/protect.md)
    + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
+   + [使PDF符合标准格式](60-second/conform.md)
    + [一次搜索多个PDF文件](60-second/search.md)
    + [将PDF注释载入InDesign](60-second/indesign.md)
 + 技能培养者 {#skill-builders}
