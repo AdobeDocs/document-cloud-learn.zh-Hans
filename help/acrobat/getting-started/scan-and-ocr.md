@@ -1,5 +1,5 @@
 ---
-title: 扫描和 OCR
+title: 扫描和OCR
 description: 将文档的扫描件或图像转换为可搜索、可编辑的PDF文件，并调整最终文件的质量
 role: User
 product: adobe acrobat
@@ -8,14 +8,14 @@ thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '184'
+ht-degree: 4%
 
 ---
 
-# 扫描和 OCR
+# 扫描和OCR
 
-通过将文档的扫描内容或图像转换为可搜索内容， [可编辑PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}。
+通过将文档的扫描内容或图像转换为可搜索内容， [可编辑PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}的
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ ht-degree: 6%
 
    ![扫描步骤1](../assets/Scan_1.png)
 
-1. 选择文件.
+1. 从“最近”或“文件”列表中.
 
    此文件可以是文档的照片，或者是使用扫描仪或Adobe Scan移动应用程序创建的已扫描的文件。 或者，您可以使用连接的扫描仪扫描文档以创建新文件。
 

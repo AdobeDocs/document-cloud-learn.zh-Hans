@@ -266,7 +266,7 @@ ht-degree: 1%
 
    ![“开始使用”按钮的屏幕截图](assets/documentautomation/automation_28.png)
 
-1. 使用您的 Adobe ID.
+1. 使用您的 Adobe ID 登录。
 
    ![“登录”屏幕截图](assets/documentautomation/automation_29.png)
 
@@ -282,7 +282,7 @@ ht-degree: 1%
 
    ![输入PDF工具凭据的屏幕截图](assets/documentautomation/automation_32.png)
 
-1. 单击“**继续**”。
+1. 单击&#x200B;**继续**。
 
    ![单击继续位置的屏幕截图](assets/documentautomation/automation_33.png)
 

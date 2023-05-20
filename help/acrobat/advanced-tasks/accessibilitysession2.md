@@ -9,7 +9,7 @@ kt: 8609
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
 source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 选择图像，以便在单独的浏览器选项卡中查看视频。
 
-[![会话2视频](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}
+[![会话2视频](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target="_blank"}

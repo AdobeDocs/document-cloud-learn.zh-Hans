@@ -6,18 +6,18 @@ exl-id: 541f7a4d-d893-4768-9c91-638548845378
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 26%
+ht-degree: 10%
 
 ---
 
 # 共享PDF文件并联机审阅
 
-使用Adobe Document Cloud审阅服务从Acrobat桌面应用程序、Document CloudWeb或Acrobat Reader移动应用程序中轻松共享PDF文件以供审阅。 当审阅人通过计算机单击邀请电子邮件中的 URL 后，就可以十分方便地在浏览器中提供反馈，无需登录或安装其他任何软件。
+使用Adobe Document Cloud审阅服务从Acrobat桌面应用程序、Document CloudWeb或Acrobat Reader移动应用程序中轻松共享PDF文件以供审阅。 当审阅人通过计算机单击邀请电子邮件中的URL后，就可以十分方便地在浏览器中提供反馈，无需登录或安装任何其他软件。
 
 在本练习中，我们将回顾如何、
 
 * 发送个性化邀请以进行评论
-* 通过电子邮件发送匿名或公共链接
+* 以电子邮件的形式发送匿名或公共链接
 
 以下是 [演示文件](assets/01_Review.zip) 用于本练习。
 
@@ -39,13 +39,13 @@ ht-degree: 26%
 
 ## 审阅者体验
 
-审阅人会收到一封电子邮件邀请，其中包含指向有待审阅的 PDF 文件的链接。单击电子邮件中的链接或&#x200B;**[!UICONTROL 审阅]**&#x200B;按钮后，随即会在 Web 浏览器中打开相应的 PDF 文件。审阅人可以使用多种注释工具，为 PDF 添加注释。另外，他们也可以使用 Acrobat Reader 或 Acrobat 桌面应用程序来添加注释。
+审阅人会收到一封电子邮件邀请，其中包含指向审阅 PDF 的链接。当他们单击链接或 **[!UICONTROL 审阅]** 按钮，该PDF将在Web浏览器中打开。 审阅人可以使用注释工具向 PDF 添加注释。他们也可以使用 Acrobat Reader 或 Acrobat 桌面应用程序来添加注释。
 
-## 通过电子邮件发送匿名或公共链接
+## 以电子邮件的形式发送匿名或公共链接
 
 **第1步：** 打开 `localFoodTruckmenu_start.pdf` 文件。
 
-**第2步：** 单击 **[!UICONTROL 共享链接]** ![链接图标](assets/sendlinkicon.png)的 可立即生成共享链接；您无需等待文件上传到云端。默认情况下， [!UICONTROL 允许添加注释] 开关已打开。
+**第2步：** 单击 **[!UICONTROL 共享链接]** ![链接图标](assets/sendlinkicon.png)的 共享链接立即生成；您无需等待文件上传到云端。 默认情况下， [!UICONTROL 允许添加注释] 开关已打开。
 
 ![步骤2L图像](assets/Step2L.png)
 

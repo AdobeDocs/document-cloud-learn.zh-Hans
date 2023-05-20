@@ -10,7 +10,7 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -91,7 +91,7 @@ ht-degree: 3%
 
 ![创建临时文档的屏幕截图](assets/embeddedesignature/embed_7.png)
 
-首次发送协议后，您就可以添加逻辑了。 最好建立一些帮助者来尽可能减少重复。 以下提供了一些示例：
+首次发送协议后，您就可以添加逻辑了。 最好建立一些帮助者来尽可能减少重复。 以下是一些示例：
 
 **验证**
 

@@ -1,5 +1,5 @@
 ---
-title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒
+title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒
 description: 了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒
 role: Admin
 product: adobe sign
@@ -15,9 +15,9 @@ ht-degree: 2%
 
 ---
 
-# 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送提醒
+# 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒
 
-了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒。 此集成使用Acrobat Sign、Acrobat Sign for Microsoft Dynamics、Marketo和Marketo Microsoft Dynamics同步。
+了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒。 此集成使用Acrobat Sign、Acrobat Sign for Microsoft Dynamics、Marketo和Marketo Microsoft Dynamics Sync。
 
 ## 先决条件
 
@@ -25,7 +25,7 @@ ht-degree: 2%
 
    Microsoft Dynamics Sync的信息和最新插件现已可用 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 安装 [适用于Microsoft Dynamics的Acrobat Sign](https://appsource.microsoft.com/zh-cn/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)的
+1. 安装 [Acrobat Sign for Microsoft Dynamics](https://appsource.microsoft.com/zh-cn/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86)的
 
    有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
@@ -137,7 +137,7 @@ ht-degree: 2%
 
    ![模板选取器](assets/templatePicker.png)
 
-1. 单击“**[!UICONTROL 创建]**”。
+1. 单击&#x200B;**[!UICONTROL 创建]**.
 
 1. 设置 **[!UICONTROL 源名称]** 和 **[!UICONTROL 发件人地址]**&#x200B;的
 
@@ -205,4 +205,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
->本教程是课程的一部分 [使用适用于Microsoft Dynamics和Marketo的Acrobat Sign加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是课程的一部分 [借助Acrobat Sign for Microsoft Dynamics和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!

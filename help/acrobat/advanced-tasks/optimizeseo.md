@@ -8,7 +8,7 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,7 @@ PDF文件具有标题和元说明，就像网页一样。
 
 ## 4.为Web做准备
 
-通过为Web查看和 [减小PDF文件大小](https://www.adobe.com/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}。
+通过为Web查看和 [减小PDF文件大小](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}的
 
 +++查看有关如何为Web准备PDF的详细信息
 
@@ -122,7 +122,7 @@ PDF文件具有标题和元说明，就像网页一样。
 
 ## 6.保护您的PDF
 
-最后一步是 [保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;}防止未经授权的更改。
+最后一步是 [保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} 以防止未经授权的更改。
 
 +++查看有关如何保护您的PDF
 

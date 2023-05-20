@@ -5,14 +5,14 @@ solution: Acrobat
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
 source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 1%
 
 ---
 
 # 通过Adobe Document Cloud释放数字体验的练习
 
-[! [图像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
+[![图像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
 此讲义包含更多练习和所涵盖工作流程的回顾。 以下是我们在以下练习中使用的演示文件。 每个练习都会重新阐释此内容：
 

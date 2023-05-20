@@ -96,7 +96,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 辅助工具
+## 无障碍访问
 
 <table>
 <tr>

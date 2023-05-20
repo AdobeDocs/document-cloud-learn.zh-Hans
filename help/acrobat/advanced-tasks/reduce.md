@@ -9,7 +9,7 @@ exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
 source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 7%
 
 1. 选择 **[!UICONTROL 标准]** 从 **[!UICONTROL 设置]** 菜单，以使用默认设置。
 
-   如果您在“**[!UICONTROL PDF 优化器]**”对话框中更改了任何设置，“**设置**”菜单将自动切换为“**自定义**”。
+   如果您在 **[!UICONTROL PDF优化器]** 对话框， **设置** 菜单自动切换到 **自定义**&#x200B;的
 
 1. 选择 **[!UICONTROL 保留现有]** 从 **[!UICONTROL 兼容于]** 菜单，用于保留当前PDF版本或选择特定的Acrobat版本。
 

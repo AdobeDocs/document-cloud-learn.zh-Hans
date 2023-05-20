@@ -9,7 +9,7 @@ thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
 source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +176,4 @@ ht-degree: 1%
 
 ## 产品包装盒
 
-了解Acrobat和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;}使组织中的每个人都能更轻松地推动业务。
+了解Acrobat和 [框](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} 简化组织中每个人的业务运营。

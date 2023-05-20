@@ -10,7 +10,7 @@ exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -34,15 +34,15 @@ ht-degree: 28%
   </td>
   <td>
     <a href="https://itunes.apple.com/cn/app/adobe-sign/id481082197?mt=8" target="_blank">
-      <img alt="下载iOS" src="assets/Mobile_iOS.png" />
+      <img alt="iOS 版本下载" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下载适用于iOS的Acrobat Sign移动应用程序</strong></a>
+    <a href="https://itunes.apple.com/cn/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>下载适用于iOS的Acrobat Sign移动应用程序</strong></a>
     <br>
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank">
-      <img alt="Android版本下载" src="assets/Mobile_Android.png" />
+      <img alt="Android 版本下载" src="assets/Mobile_Android.png" />
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>

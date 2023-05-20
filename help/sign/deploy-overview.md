@@ -10,7 +10,7 @@ exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 10%
+ht-degree: 15%
 
 ---
 
@@ -27,17 +27,17 @@ ht-degree: 10%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>管理Admin Console上的Acrobat Sign</strong></a>
+    <a href="https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html" target="_blank"><strong>管理Admin Console上的Acrobat Sign</strong></a>
     </div>
     <em>了解如何在Adobe的企业平台Adobe Admin Console上管理Acrobat Sign用户和许可证</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Adobe信任中心" src="assets/Deploy_Trust.png" />
+      <img alt="Adobe 信任中心" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe 信任中心</strong></a>
     </div>
     <em>了解我们当前在安全、合法性和适用于Acrobat Sign的标准方面所做的努力</em>
     <br>
