@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="密文：正确的途径" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>密文：正确的途径</strong></a>
+    </div>
+    <em>了解从PDF中删除敏感信息的正确方式</em>
+    <br>
   </td>
   <td>
       <img alt="间隔条" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ ht-degree: 0%
       <img alt="间隔条" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## 共享和审阅
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="共享PDF以供评论" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>共享PDF以供评论</strong></a>
+    </div>
+    <em>了解如何共享PDF以快速从多个人收集有关单个文件的反馈</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="在团队中共享和PDF文件并添加注释" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>在团队中共享和PDF文件并添加注释</strong></a>
+    </div>
+    <em>了解如何在Microsoft Teams中实时协作处理PDF文件</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="整理PDF注释与小结" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>整理PDF注释与小结</strong></a>
+    </div>
+    <em>了解如何为您的PDF文件创建所有注释和标记的摘要</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="将PDF注释载入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>将PDF注释载入InDesign</strong></a>
+    </div>
+    <em>了解在Acrobat共享审阅后，如何将PDF注释重新加载到InDesign中</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ ht-degree: 0%
     <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="将PDF注释载入InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>将PDF注释载入InDesign</strong></a>
-    </div>
-    <em>了解在Acrobat共享审阅后，如何将PDF注释重新加载到InDesign中</em>
-    <br>
+ <td>
+      <img alt="间隔条" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="间隔条" src="../assets/Whitespacer.png" />

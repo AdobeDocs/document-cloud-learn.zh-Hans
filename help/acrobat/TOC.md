@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '454'
 ht-degree: 6%
 
 ---
@@ -77,6 +77,10 @@ ht-degree: 6%
    + [快速创建更高效的PDF文件](60-second/optimize.md)
    + [对纸质文档进行电子签名](60-second/sign.md)
    + [使用密码Protect您的PDF文件](60-second/protect.md)
+   + [密文：正确的途径](60-second/redaction.md)
+   + [共享以供注释](60-second/share-comment.md)
+   + [在团队中共享和PDF文件并添加注释](60-second/share-comment-teams.md)
+   + [整理PDF注释与小结](60-second/summarize-comments.md)
    + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
    + [使PDF符合标准格式](60-second/conform.md)
    + [一次搜索多个PDF文件](60-second/search.md)
