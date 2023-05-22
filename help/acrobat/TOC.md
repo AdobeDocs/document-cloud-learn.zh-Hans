@@ -2,9 +2,9 @@
 user-guide-title: AcrobatTutorials
 solution: Acrobat
 breadcrumb-title: AcrobatTutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [将PDF转换为Excel](60-second/convert-pdf-excel.md)
    + [将PDF转换为PowerPoint](60-second/convert-pdf-powerpoint.md)
    + [Export PDF到手机中的Word](60-second/exportwordphone.md)
+   + [从Microsoft Word创建PDF](60-second/word-to-pdf.md)
+   + [使用Acrobat创建PDF文件](60-second/create-from-acrobat.md)
    + [将Word转换为PDF（包括表单域）](60-second/wordform.md)
    + [立即创建PDF照片](60-second/photo.md)
    + [将PPT文件转换为手机上的PDF](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [共享以供注释](60-second/share-comment.md)
    + [在团队中共享和PDF文件并添加注释](60-second/share-comment-teams.md)
    + [整理PDF注释与小结](60-second/summarize-comments.md)
+   + [将PDF注释载入InDesign](60-second/indesign.md)
    + [让Acrobat帮助您创建可访问PDF](60-second/accessible.md)
    + [使PDF符合标准格式](60-second/conform.md)
+   + [使用“比较字体”PDF区别](60-second/compare.md)
    + [一次搜索多个PDF文件](60-second/search.md)
-   + [将PDF注释载入InDesign](60-second/indesign.md)
 + 技能培养者 {#skill-builders}
    + [在线研讨会](skill-builder/skill-builder-webinars.md)
 + 集成 {#integrations}

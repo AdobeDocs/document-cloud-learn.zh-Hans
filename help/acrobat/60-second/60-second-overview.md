@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="从Microsoft Word创建PDF" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>从Microsoft Word创建PDF</strong></a>
+    </div>
+    <em>从Microsoft Word创建PDF</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="从Acrobat创建PDF" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>从Acrobat创建PDF</strong></a>
+    </div>
+    <em>直接在Microsoft桌面应用程序内从Acrobat 365文件创建PDF</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="将Word转换为PDF（包括表单域）" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ ht-degree: 0%
       <em>了解如何将一组JPG拖放到Acrobat图标上以创建PDF</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="将PPT文件转换为手机上的PDF" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ ht-degree: 0%
       </div>
       <em>使用“Optimize PDF”工具显著减小PDF文件的大小</em>
       <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="间隔条" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="使用“比较字体”PDF区别" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>使用“比较字体”PDF区别</strong></a>
+    </div>
+    <em>了解如何通过使用Acrobat中的“比较PDF”工具来发现两个文档文件之间的差异</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="一次搜索多个PDF文件" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ ht-degree: 0%
     </div>
     <em>在PDF文件中开始搜索，然后打开“高级搜索”并搜索整个PDF文件</em>
     <br>
-  </td>
- <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="间隔条" src="../assets/Whitespacer.png" />
