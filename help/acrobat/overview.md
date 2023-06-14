@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ceb48d1ab5cad8ee32e3e7833997847050786aad
+source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
@@ -18,6 +18,15 @@ ht-degree: 6%
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
 Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、共享和签署PDF帮助保持业务发展。 在这里，您可以找到各种专为让初学者和高级用户快速了解Adobe Acrobat而设计的学习体验。
+
+## 推荐课程
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 ## 学习路径
 
