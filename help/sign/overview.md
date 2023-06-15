@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: d8ba36823e1bc16708a15a39f9fb69075d3e9b08
+source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '91'
+ht-degree: 5%
 
 ---
 
@@ -18,8 +18,6 @@ ht-degree: 7%
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
 Acrobat Sign是Adobe Document Cloud解决方案，可通过集成、API、高级身份验证、其他管理员功能等进行扩展，以满足组织的需求。 在这里，您可以找到各种专为让初学者和管理员快速掌握Acrobat Sign而设计的学习体验。
-
-## 推荐课程
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
