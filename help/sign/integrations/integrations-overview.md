@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
+source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [将Web表单与 [!DNL SharePoint] 联机](integrate-web-form-sharepoint-online.md)
+了解如何将从Web表单收集的数据映射到 [!DNL SharePoint] 列表
 * [Acrobat Sign + Workday新员工入职](acrobat-sign-workday-onboarding.md)
 了解如何借助Acrobat Sign + Workday简化登记工作流程
-* [发送文档进行公证](send-document-notarize.md)
-通过这个包含三个部分的教程，您可以了解如何发送文档进行公证、如何查看签名者的体验，以及如何接收结果
 
 ## Microsoft集成教程
 
