@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -96,29 +96,30 @@ ht-degree: 10%
 + 集成 {#integrations}
    + [概述](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [在Outlook中填写并签名](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [在Outlook中发送以供签名](integrations/send-for-signature-with-outlook.md)
-      + [在SharePoint Online中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
-      + [SharePoint Online中的字距调整](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [填写并登录 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [发送以请求签名 [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [发送以请求签名 [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [字距调整 [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [将Web表单与 [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [用于Microsoft Power Platform的Acrobat Sign的文档自动化](integrations/documentautomation.md)
+      + [使用Acrobat Sign for [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + Notarize {#notarize}
       + [发送文档进行公证](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [适用于Salesforce的Document Builder](integrations/create-an-agreement-template.md)
+      + [文档生成器 [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [设置数据映射](integrations/set-up-data-mapping.md)
       + [设置合并映射](integrations/set-up-merging-map.md)
       + [创建自定义按钮](integrations/create-a-custom-button.md)
    + 工作日 {#workday}
-      + [使用Workday配置Acrobat Sign](integrations/workday.md)
+      + [配置Acrobat Sign [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday新员工入职](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [使用适用于Salesforce的Acrobat Sign和Marketo发送通知](integrations/marketo-salesforce-sms.md)
-      + [使用适用于Salesforce的Acrobat Sign和Marketo视频教程发送提醒](integrations/marketo-salesforce-reminder-video.md)
-      + [使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提醒](integrations/marketo-salesforce-reminder.md)
-      + [使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知](integrations/marketo-dynamics-sms.md)
-      + [使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒](integrations/marketo-dynamics-reminder.md)
+      + [使用Acrobat Sign for [!DNL Salesforce] 和Marketo](integrations/marketo-salesforce-sms.md)
+      + [使用Acrobat Sign for [!DNL Salesforce] 和Marketo视频教程](integrations/marketo-salesforce-reminder-video.md)
+      + [使用Acrobat Sign for [!DNL Salesforce] 和Marketo配置指南](integrations/marketo-salesforce-reminder.md)
+      + [使用Acrobat Sign for [!DNL Microsoft Dynamics] 和Marketo](integrations/marketo-dynamics-sms.md)
+      + [使用Acrobat Sign for [!DNL Microsoft Dynamics 365] 和Marketo](integrations/marketo-dynamics-reminder.md)
 + 行业和部门 {#expand}
    + [概述](sign-usecase/expand-inspire-overview.md)
    + 技能创建器 {#innovation}
