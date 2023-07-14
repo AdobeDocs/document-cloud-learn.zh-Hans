@@ -4,10 +4,11 @@ description: 直接在以下位置填写并签署表单 [!DNL Microsoft Outlook]
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6462
 topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

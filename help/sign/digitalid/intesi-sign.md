@@ -5,10 +5,11 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
+jira: KT-8703
 thumbnail: KT-8703.jpg
 kt: 8703
 exl-id: 43e7d19f-f1e8-47ec-8e30-1aba7a467d01
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

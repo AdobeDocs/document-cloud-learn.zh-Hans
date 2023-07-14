@@ -4,10 +4,11 @@ description: 高级帐户共享允许管理员和用户委托其发送、修改�
 role: User, Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%

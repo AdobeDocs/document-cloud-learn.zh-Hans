@@ -3,9 +3,10 @@ title: 创建报告
 description: 了解如何构建您自己的报告，以便了解文档签名流程
 role: User, Admin
 level: Intermediate
+jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

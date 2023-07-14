@@ -5,9 +5,10 @@ role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Experienced
+jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 33b3df757a38207d36bf804b957e6ba291a5d3d0
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

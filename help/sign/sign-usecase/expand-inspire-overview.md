@@ -4,10 +4,11 @@ description: 了解如何通过这些实际的行业和部门使用案例、配�
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

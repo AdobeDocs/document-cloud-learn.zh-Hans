@@ -3,7 +3,9 @@ title: 管理表单数据
 description: 了解如何整合文档中的表单数据
 role: User, Admin
 level: Intermediate
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+jira: KT-13233
+exl-id: 017efd3b-4091-45b5-b330-7483fde952ea
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%

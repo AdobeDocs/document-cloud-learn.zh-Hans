@@ -4,12 +4,13 @@ description: 了解如何将Acrobat Sign添加到现有的系统、流程和应�
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6850
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: f8d03aaba0d298c972c7f1fd359fba60d692ecca
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -202,17 +203,7 @@ ht-degree: 0%
 
 <table style="table-layout:fixed">
 <tr>
-  <td>
-    <a href="workday.md">
-      <img alt="使用Workday配置Acrobat Sign" src="../assets/WD-Configure.png" />
-    </a>
-    <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>使用Workday配置Acrobat Sign</strong></a>
-    </div>
-    <em>了解如何配置Acrobat Sign以便直接在Workday中工作，以便无缝管理您的所有人力资源工作</em>
-    <br>
-  </td>
-  <td>
+ <td>
     <a href="acrobat-sign-workday-onboarding.md">
       <img alt="Acrobat Sign + Workday新员工入职" src="../assets/workday.png" />
     </a>
@@ -220,6 +211,11 @@ ht-degree: 0%
     <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday新员工入职</strong></a>
     </div>
     <em>了解如何借助Acrobat Sign + Workday简化登记工作流程</em>
+    <br>
+  </td>
+ <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

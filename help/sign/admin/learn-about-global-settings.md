@@ -4,10 +4,11 @@ description: 了解如何全局编辑整个组织或特定组的设置
 role: Admin
 product: adobe sign
 level: Intermediate, Experienced
+jira: KT-5503
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 31%

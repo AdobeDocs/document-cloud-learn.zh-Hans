@@ -4,10 +4,11 @@ description: Acrobat Sign Skill Builders是一个30分钟的会话，旨在让�
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '915'
 ht-degree: 0%

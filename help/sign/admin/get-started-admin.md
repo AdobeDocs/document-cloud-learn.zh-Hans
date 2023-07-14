@@ -4,9 +4,10 @@ description: 在此全面的视频指南中，了解使您的组织启动并运�
 role: Admin
 product: adobe sign
 level: Beginner
+jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: fa814d526f36ea8686924817554253caf9ad133c
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%

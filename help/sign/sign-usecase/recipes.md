@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
-kt: 8200
+jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%

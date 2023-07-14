@@ -4,9 +4,10 @@ description: 了解如何发送文档进行公证
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-9357
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

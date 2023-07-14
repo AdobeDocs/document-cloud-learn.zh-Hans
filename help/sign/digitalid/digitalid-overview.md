@@ -4,10 +4,11 @@ description: 了解如何通过Acrobat Sign使用来自世界各地的数字身�
 role: User
 product: adobe sign
 level: Beginner
+jira: KT-8990
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%

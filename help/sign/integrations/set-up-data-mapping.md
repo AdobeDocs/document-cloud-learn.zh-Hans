@@ -4,10 +4,11 @@ description: 了解如何在中设置Acrobat Sign的数据映射 [!DNL Salesforc
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-10599
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

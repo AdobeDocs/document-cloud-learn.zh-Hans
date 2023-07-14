@@ -3,9 +3,10 @@ title: 创建报告图表
 description: 了解如何构建、保存和管理自己的自定义报告和数据导出
 role: User, Admin
 level: Intermediate
+jira: KT-5504
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 17%

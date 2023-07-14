@@ -4,10 +4,11 @@ description: 直接在Microsoft Sharepoint中跟踪协议的进度
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6465
 topic-revisit: Integrations
 thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

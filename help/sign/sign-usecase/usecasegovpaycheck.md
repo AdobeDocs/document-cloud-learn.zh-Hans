@@ -5,9 +5,10 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
+jira: KT-6820
 thumbnail: KT-6820.jpg
 exl-id: 586bf1a8-6dc0-4293-b6b2-c6509f0937f1
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

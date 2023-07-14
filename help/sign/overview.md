@@ -4,9 +4,10 @@ description: 一系列教程、网络研讨会和使用案例，旨在帮助初�
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
+jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 646b62b41ec3ff23a97bd8da536d145c135a9ae6
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%

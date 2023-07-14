@@ -5,9 +5,10 @@ role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Beginner
+jira: KT-11120
 thumbnail: KT-11120.jpg
 exl-id: 091ccb98-4db2-4ea9-8bf0-d585fcdfd9a0
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
