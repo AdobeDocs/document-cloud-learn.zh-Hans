@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -104,17 +104,27 @@ ht-degree: 3%
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="创建Web表单" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="创建包含多个未知签名者的Web表单" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>创建Web表单</strong></a>
+    <a href="webform-multiple-signers.md"><strong>创建包含多个未知签名者的Web表单</strong></a>
     </div>
-    <em>创建可以直接在您的网站上以电子方式签名的文档</em>
+    <em>了解如何创建包含多个未知参与者的复杂Web表单</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
+      </div>
+      <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
@@ -133,11 +143,6 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文本标记 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>了解如何通过将Acrobat Sign文本标记添加到 [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
