@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 3%
 
 ## 新增功能
 
+* [创建包含多个未知签名者的Web表单](webform-multiple-signers.md)
+了解如何创建包含多个未知参与者的复杂Web表单
 * [Acrobat Sign中的身份验证方法](authentication-methods.md)
 了解Acrobat Sign中可用于验证文档签名者身份的方法范围
-* [管理表单数据](manage-form-data.md)
-了解如何整合文档中的表单数据
 
 ## 发送
 
