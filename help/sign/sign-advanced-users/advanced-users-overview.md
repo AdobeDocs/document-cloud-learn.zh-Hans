@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ ht-degree: 3%
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="创建Web表单" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
+      <a href="webform.md"><strong>创建Web表单</strong></a>
       </div>
-      <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
+      <em>了解如何创建可以直接在您的网站上以电子方式签名的文档</em>
       <br>
   </td>
 </tr>
