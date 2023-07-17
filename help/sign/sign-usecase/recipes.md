@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 通过这些政府和商业电子签名示例加快组织的数字工作流程。 单击即可查看PDF，其中包含有关如何设置这些特定电子签名使用情形的资源和详细信息。
 
+* [具有多个未知签名者的政府贷款申请](webform-multiple-signers.md)
+了解如何将Web表单用于涉及多个未知参与者的复杂政府贷款申请工作流程
+
 ## 政府用例
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="具有多个未知签名者的政府贷款申请" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>具有多个未知签名者的政府贷款申请</strong></a>
+    </div>
+    <em>了解如何将Web表单用于涉及多个未知参与者的复杂政府贷款申请工作流程</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="商业补助和贷款" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ ht-degree: 0%
     <em>用合规的数字工作流程快速取代纸张处理，并辅以审计报告</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="再就业援助" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ ht-degree: 0%
     <em>帮助公民获得他们需要的帮助，而无需与可在数天之内投入使用的全数字应用程序表单保持同步</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="薪水支票保护" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ ht-degree: 0%
     <a href="usecasegovremote.md"><strong>远程授权请求</strong></a>
     </div>
     <em>同时使用电子签名和网络会议，缩短申请和获得法官授权所需的时间</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

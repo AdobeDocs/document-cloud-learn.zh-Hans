@@ -8,7 +8,7 @@ level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 商业合同和申请表
 
-用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解Acrobat Sign Workflow Designer工具以帮助简化整个流程。
+用合规的数字工作流程快速取代纸张处理，并辅以审计报告。 了解 [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) 工具帮助简化整个过程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

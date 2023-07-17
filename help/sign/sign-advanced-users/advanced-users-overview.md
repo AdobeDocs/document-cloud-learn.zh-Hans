@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 3%
 
 ## 新增功能
 
-* [创建包含多个未知签名者的Web表单](webform-multiple-signers.md)
-了解如何创建包含多个未知参与者的复杂Web表单
 * [Acrobat Sign中的身份验证方法](authentication-methods.md)
 了解Acrobat Sign中可用于验证文档签名者身份的方法范围
+* [设置在线支付](set-up-online-payments.md)
+了解如何在文档中设置和接受在线支付
 
 ## 发送
 
@@ -104,19 +104,7 @@ ht-degree: 3%
       <em>只需几个简单的步骤，即可一次性收集任意文档的数百个签名</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="创建包含多个未知签名者的Web表单" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>创建包含多个未知签名者的Web表单</strong></a>
-    </div>
-    <em>了解如何创建包含多个未知参与者的复杂Web表单</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ ht-degree: 3%
       </div>
       <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ ht-degree: 3%
     <a href="text-tagging-word.md"><strong>使用文本标记 [!DNL Microsoft Word]</strong></a>
     </div>
     <em>了解如何通过将Acrobat Sign文本标记添加到 [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
