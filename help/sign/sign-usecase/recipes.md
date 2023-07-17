@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![用例横幅](../assets/Hero-Recipe.png)
 
 通过这些政府和商业电子签名示例加快组织的数字工作流程。 单击即可查看PDF，其中包含有关如何设置这些特定电子签名使用情形的资源和详细信息。
+
+## 新增功能
 
 * [具有多个未知签名者的政府贷款申请](webform-multiple-signers.md)
 了解如何将Web表单用于涉及多个未知参与者的复杂政府贷款申请工作流程
