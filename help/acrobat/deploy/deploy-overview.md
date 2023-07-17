@@ -5,8 +5,9 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
+jira: KT-6862
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 4%

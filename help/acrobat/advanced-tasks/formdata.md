@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
+jira: KT-6828
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

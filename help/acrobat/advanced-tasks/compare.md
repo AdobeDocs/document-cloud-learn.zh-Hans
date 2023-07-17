@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-8496.jpg
-kt: 8496
+jira: KT-8496
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%

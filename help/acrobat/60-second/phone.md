@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8576.jpg
-KT: 8576
+jira: KT-8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%

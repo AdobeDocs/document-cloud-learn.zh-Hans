@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 topic-revisit: mobile
 thumbnail: KT-6863.jpg
-kt: 6863
+jira: KT-6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 7%

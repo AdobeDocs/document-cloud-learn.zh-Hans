@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
+jira: KT-6804
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%

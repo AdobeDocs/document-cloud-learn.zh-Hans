@@ -4,8 +4,9 @@ description: Adobe Acrobat Skill Builders是一个30分钟的会话，旨在提�
 product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
+jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%

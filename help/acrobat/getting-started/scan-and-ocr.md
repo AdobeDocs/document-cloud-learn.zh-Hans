@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
+jira: KT-6830
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 4%

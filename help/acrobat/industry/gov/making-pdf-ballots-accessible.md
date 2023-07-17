@@ -6,8 +6,9 @@ product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
+jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 696f9b77c5fc584b257c3657ffe39fb91f50adf5
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

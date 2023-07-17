@@ -5,8 +5,9 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
+jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 6%

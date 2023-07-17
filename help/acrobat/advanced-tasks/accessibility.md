@@ -6,8 +6,9 @@ product: adobe acrobat
 level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
+jira: KT-6829
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%

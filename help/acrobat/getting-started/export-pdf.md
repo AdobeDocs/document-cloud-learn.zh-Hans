@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
+jira: KT-5529
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%

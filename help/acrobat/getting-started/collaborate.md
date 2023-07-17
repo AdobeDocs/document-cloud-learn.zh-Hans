@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8255.jpg
-kt: 8255
+jira: KT-8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 6b91460e712f3c2cf78e52bf6dda79793fdc30cb
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

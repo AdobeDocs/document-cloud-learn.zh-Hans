@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
-kt: 9346
+jira: KT-9346
 exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%

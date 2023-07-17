@@ -4,7 +4,9 @@ description: 将PDF文件转换为完全可编辑的Microsoft PowerPoint文档
 role: User
 product: adobe acrobat
 level: Beginner
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+jira: KT-13290
+exl-id: b5b3908e-422e-4ee5-95e9-5fd72c165242
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

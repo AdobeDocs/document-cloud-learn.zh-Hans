@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10838.jpg
+jira: KT-10838
 exl-id: 4f752512-a06f-4fc2-a554-30889f96c7d3
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

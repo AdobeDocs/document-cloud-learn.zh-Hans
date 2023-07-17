@@ -6,8 +6,9 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331277.jpg
+jira: KT-7119
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

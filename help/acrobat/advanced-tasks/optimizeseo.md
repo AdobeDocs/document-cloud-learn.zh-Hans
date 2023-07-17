@@ -5,8 +5,9 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -33,7 +34,7 @@ PDF内容应独特且结构如下：
 * 运行 [文本识别](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) 在所有扫描的文档上
 * 构建PDF以方便移动查看要查看PDF的移动查看体验，请在 [Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) 并打开Liquid Mode。 如果需要以改善导航，则包括附加副标题。
 
-   ![Acrobat Reader移动应用程序中的Liquid Mode屏幕截图](../assets/optimizeseo1.png)
+  ![Acrobat Reader移动应用程序中的Liquid Mode屏幕截图](../assets/optimizeseo1.png)
 
 +++
 
