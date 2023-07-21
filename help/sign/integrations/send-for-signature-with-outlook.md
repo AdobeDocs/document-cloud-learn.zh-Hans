@@ -2,13 +2,13 @@
 title: Outlook中的Send for Signature
 description: 直接在Microsoft Outlook中发送协议以供签名
 role: User
-product: adobe sign
 level: Intermediate
+topic: Integrations
 jira: KT-6463
 topic-revisit: Integrations
 thumbnail: KT-6463.jpg
 exl-id: 06d8e6c5-6dbf-4d6c-bf49-b620da707b3c
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

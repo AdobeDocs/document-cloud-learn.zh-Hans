@@ -2,8 +2,10 @@
 title: 实验室概述和介绍
 description: 了解一些使用Adobe Document Cloud的技巧和提示
 solution: Acrobat, Acrobat Sign
+role: User
+level: Beginner
 exl-id: 254bfc9f-fb19-4e4e-a91f-b08a1b3da87f
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%

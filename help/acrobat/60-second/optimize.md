@@ -2,12 +2,11 @@
 title: 快速创建更高效的PDF文件
 description: 使用“Optimize PDF”工具显著减小PDF文件的大小
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-9751.jpg
 jira: KT-9751
 exl-id: 4b72b434-b3aa-47b3-8648-4a6568912862
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

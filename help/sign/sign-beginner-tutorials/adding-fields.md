@@ -2,13 +2,11 @@
 title: 将字段添加到文档
 description: 了解如何向文档添加不同类型的字段
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10604
 thumbnail: KT-10604.jpg
 exl-id: 1a736446-ae0d-45c0-b253-666bcef1559c
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%

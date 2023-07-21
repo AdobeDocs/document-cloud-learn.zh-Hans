@@ -1,11 +1,10 @@
 ---
 title: 包含多个未知签名者的政府贷款申请
 description: 了解如何将Web表单用于涉及多个未知参与者的复杂政府贷款申请工作流程
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: 辅助工具PDF简介
 description: 在此会议中，了解使PDF具有辅助工具的意义，如何设置Acrobat Pro以使用PDF实现辅助工具，以及从源文档到PDF的转换过程
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

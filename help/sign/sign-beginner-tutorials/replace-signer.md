@@ -2,13 +2,11 @@
 title: 更换签名者
 description: 了解如何更换签名者，例如，在发出文档以供签名时，使用了错误的电子邮件
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

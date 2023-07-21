@@ -2,13 +2,11 @@
 title: 填写并签名文档
 description: 了解如何填写表单并将电子签名添加到文档
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Beginner
 jira: KT-4964
 thumbnail: 33660.jpg
 exl-id: 4bb7caab-002c-4e8e-b0c6-fdde220037a4
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

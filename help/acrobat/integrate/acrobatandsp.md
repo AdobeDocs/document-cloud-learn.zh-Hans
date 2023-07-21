@@ -2,13 +2,13 @@
 title: 使用 [!DNL SharePoint] 文件
 description: 简化文档工作流程 [!DNL SharePoint] 和Acrobat使用Adobe Acrobat [!DNL Microsoft 365]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 jira: KT-7190
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 3%

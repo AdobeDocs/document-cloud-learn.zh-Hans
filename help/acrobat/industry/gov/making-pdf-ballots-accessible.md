@@ -2,13 +2,12 @@
 title: 使PDF投票更容易
 description: 了解辅助技术（如屏幕阅读器）用户阅读PDF并完成投票所必须的关键辅助工具领域
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

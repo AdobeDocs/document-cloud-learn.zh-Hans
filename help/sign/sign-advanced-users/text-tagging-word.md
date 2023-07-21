@@ -2,13 +2,11 @@
 title: 使用文本标记 [!DNL Microsoft Word]
 description: 了解如何通过将Acrobat Sign文本标记添加到 [!DNL Microsoft Word]
 role: User, Admin
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-11163
 thumbnail: KT-11163.jpg
 exl-id: 48bc9cd0-019f-479b-9904-19e64354e2e7
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

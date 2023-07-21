@@ -2,13 +2,13 @@
 title: SharePoint Online中的字距调整
 description: 直接在Microsoft Sharepoint中跟踪协议的进度
 role: User
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-6465
 topic-revisit: Integrations
 thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

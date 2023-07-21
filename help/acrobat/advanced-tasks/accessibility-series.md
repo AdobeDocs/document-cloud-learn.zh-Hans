@@ -2,12 +2,11 @@
 title: Acrobat Accessibility Series
 description: 六期点播辅助工具系列
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8364.jpg
 jira: KT-8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%

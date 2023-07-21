@@ -1,14 +1,14 @@
 ---
 title: 创建嵌入式电子签名和文档体验
 description: 了解如何使用Acrobat Sign API将电子签名和文档体验嵌入到Web平台以及内容和文档管理系统中
-role: User, Developer
+role: Developer
 level: Intermediate
 topic: Integrations
 jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%

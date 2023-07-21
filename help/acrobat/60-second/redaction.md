@@ -2,11 +2,10 @@
 title: 密文 — 正确的方法
 description: 了解从PDF中删除敏感信息的正确方式
 role: User
-product: adobe acrobat
 level: Intermediate
 jira: KT-13294
 exl-id: b958e3fc-679b-4d59-9e51-10a1b826d812
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%

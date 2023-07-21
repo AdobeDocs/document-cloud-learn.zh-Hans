@@ -2,13 +2,13 @@
 title: SharePoint Online中的Send for Signature
 description: 直接在Sharepoint Online中发送文档以供签名
 role: User
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-6464
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%

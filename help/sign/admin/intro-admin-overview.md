@@ -2,13 +2,12 @@
 title: 管理员概述
 description: 了解向帐户添加用户、设置组、共享访问权限以及设置工作流、外部归档和共享事件与警告的基础知识
 role: Admin
-product: adobe sign
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%

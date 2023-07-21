@@ -2,11 +2,11 @@
 title: ProtectPDF使用 [!DNL Microsoft Purview] 敏感度标签
 description: 了解如何通过添加、编辑、自定义和删除PDF来保护文档 [!DNL Microsoft Purview] 敏感度标签直接在Acrobat中
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Intermediate
 jira: KT-10482
 exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

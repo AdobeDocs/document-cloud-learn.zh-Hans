@@ -2,12 +2,11 @@
 title: Combine Files集成一个PDF
 description: 通过将几种不同类型的文件合并到一个PDF中，快速创建文档
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8571.jpg
 jira: KT-8571
 exl-id: b467cfe3-c031-4df9-acd5-646949644774
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%

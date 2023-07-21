@@ -2,12 +2,11 @@
 title: 复杂表格
 description: 此按需会话解决了补救辅助功能PDF时较为常见且困难的问题之一 — 复杂表
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8610.jpg
 jira: KT-8610
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

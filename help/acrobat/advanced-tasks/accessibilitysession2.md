@@ -2,12 +2,11 @@
 title: 修正不可访问的PDF
 description: 在此点播会话中，了解使用简介网络研讨会中显示的Acrobat Pro工具转换Word文档和修复一些基本标签问题的工作流程
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 jira: KT-8609
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%

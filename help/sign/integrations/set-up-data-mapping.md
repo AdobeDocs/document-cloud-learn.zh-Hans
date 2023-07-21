@@ -2,13 +2,13 @@
 title: 设置数据映射
 description: 了解如何在中设置Acrobat Sign的数据映射 [!DNL Salesforce]
 role: Admin
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-10599
 topic-revisit: Integrations
 thumbnail: 17351.jpg
 exl-id: 52b858aa-9ec9-44dd-b48e-5ae009f75846
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

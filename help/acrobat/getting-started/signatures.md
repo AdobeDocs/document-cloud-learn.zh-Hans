@@ -2,12 +2,11 @@
 title: 获取签名
 description: 通过从任何地方收集他人的具有法律约束力的电子签名来保持业务发展
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 jira: KT-8257
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 7%

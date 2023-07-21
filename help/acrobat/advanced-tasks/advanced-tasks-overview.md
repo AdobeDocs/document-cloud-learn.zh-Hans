@@ -2,12 +2,11 @@
 title: Acrobat高级任务概述
 description: 在Acrobat中使用这些高级工具，超越基础知识
 role: User
-product: adobe acrobat
-level: Experienced
+level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%

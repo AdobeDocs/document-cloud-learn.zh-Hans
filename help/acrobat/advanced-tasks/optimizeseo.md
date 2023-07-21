@@ -2,12 +2,11 @@
 title: SEO（搜索引擎优化）的Optimize PDF
 description: 了解如何优化PDF以提高发现能力和搜索引擎在Web上的排名
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%

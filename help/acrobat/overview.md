@@ -2,12 +2,11 @@
 title: AcrobatTutorials
 description: Adobe Acrobat的教程、网络研讨会和使用案例的集合
 role: User
-product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 jira: KT-6864
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%

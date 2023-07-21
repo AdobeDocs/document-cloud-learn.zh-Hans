@@ -2,12 +2,11 @@
 title: 使用表单数据
 description: 在Acrobat中将表单域数据合并到单个电子表格中
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-6828.jpg
 jira: KT-6828
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

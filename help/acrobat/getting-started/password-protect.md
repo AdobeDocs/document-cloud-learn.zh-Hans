@@ -2,12 +2,11 @@
 title: Protect带密码的PDF文件
 description: 了解如何向您的PDF添加密码以防止他人打开或编辑文件
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

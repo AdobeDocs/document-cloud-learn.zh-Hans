@@ -2,11 +2,10 @@
 title: 随时随地使用Acrobat的5个提示 — 获取工具
 description: 了解如何使Acrobat工具和配套的移动应用程序随时随地工作
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

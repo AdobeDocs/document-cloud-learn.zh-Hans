@@ -2,12 +2,11 @@
 title: 快速入门概述
 description: 通过这些简要的分步教程，了解如何发送、签署和跟踪文档
 role: User
-product: adobe sign
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%

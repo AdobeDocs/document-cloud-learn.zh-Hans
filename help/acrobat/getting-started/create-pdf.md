@@ -2,12 +2,11 @@
 title: 创建PDF
 description: 从所有PDF类型的文档创建文档
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 jira: KT-5526
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 6%

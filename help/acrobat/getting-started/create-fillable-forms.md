@@ -2,12 +2,11 @@
 title: 创建可填写的Forms
 description: 将在InDesign、Microsoft Word或Excel中创建的文档转换为可填写的PDF表单
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 jira: KT-6831
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%

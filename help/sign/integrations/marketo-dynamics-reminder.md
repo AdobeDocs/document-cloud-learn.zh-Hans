@@ -2,14 +2,14 @@
 title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送提醒
 description: 了解当协议在一段时间后仍未签名时，如何发送电子邮件提醒
 role: Admin
-product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+topic: Integrations
 topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%

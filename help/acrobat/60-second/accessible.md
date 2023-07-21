@@ -2,12 +2,11 @@
 title: 让Acrobat帮助您创建可访问PDF
 description: 检查PDF是否可访问
 role: User
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9749.jpg
 jira: KT-9749
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%

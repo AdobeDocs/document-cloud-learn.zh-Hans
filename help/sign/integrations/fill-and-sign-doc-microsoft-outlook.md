@@ -2,13 +2,13 @@
 title: 填写并登录 [!DNL Outlook]
 description: 直接在以下位置填写并签署表单 [!DNL Microsoft Outlook]
 role: User
-product: adobe sign
+topic: Integrations
 level: Intermediate
 jira: KT-6462
 topic-revisit: Integrations
 thumbnail: 29764t1.jpg
 exl-id: e16be9f0-4c92-4f9f-bc36-609c81e94763
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%

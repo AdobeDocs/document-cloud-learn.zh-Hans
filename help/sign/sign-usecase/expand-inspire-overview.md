@@ -1,14 +1,13 @@
 ---
 title: 行业和部门概述
 description: 了解如何通过这些实际的行业和部门使用案例、配方和网络研讨会，转变客户和员工的电子签名体验
-role: User
-product: adobe sign
+role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

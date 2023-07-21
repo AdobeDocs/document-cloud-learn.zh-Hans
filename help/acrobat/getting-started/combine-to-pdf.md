@@ -2,12 +2,11 @@
 title: Combine Files集成到单个PDF
 description: 将许多不同类型的文件(如PDF、Word、Excel、PowerPoint或JPEG)合并到一个PDF中
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 jira: KT-8254
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 3%

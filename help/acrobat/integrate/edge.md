@@ -2,13 +2,13 @@
 title: 浏览PDF时创建内容 [!DNL Microsoft Edge]
 description: 了解如何使用Adobe Acrobat extension for [!DNL Microsoft Edge]
 role: User
-product: adobe acrobat
+topic: Integrations
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 jira: KT-8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

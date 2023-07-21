@@ -3,12 +3,12 @@ title: 自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]
 description: 了解如何自动将已签名文档存档到 [!DNL SharePoint] 库使用 [!DNL Power Automate]
 role: Admin, User
 level: Intermediate
-jira: KT-11109
 topic: Integrations
+jira: KT-11109
 thumbnail: KT-11109.jpg
 kt: 11109
 exl-id: fc760380-a8bd-40aa-a190-e6f773608a2f
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
 workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 0%

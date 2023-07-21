@@ -2,14 +2,12 @@
 title: 用例展示
 description: 用例展示是一个直播讲座，它向您介绍新的Acrobat Sign用例、趋势，并演示您的组织如何实施这些用例并从中受益
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%

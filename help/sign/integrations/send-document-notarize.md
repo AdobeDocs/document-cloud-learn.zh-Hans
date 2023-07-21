@@ -2,12 +2,12 @@
 title: 发送文档进行公证
 description: 了解如何发送文档进行公证
 role: User
-product: adobe sign
 level: Intermediate
+topic: Integrations
 jira: KT-9357
 topic-revisit: Integrations
 exl-id: 5a4c3a69-d126-46c2-984e-623516e0eed3
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
