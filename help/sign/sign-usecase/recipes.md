@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [教育Web表单实习申请](usecase-edu-intern.md)
+了解如何使用Web表单来改进学生对所需表单的访问
 * [具有多个未知签名者的政府贷款申请](webform-multiple-signers.md)
 了解如何将Web表单用于涉及多个未知参与者的复杂政府贷款申请工作流程
 
@@ -152,3 +154,36 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## 教育使用案例
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="教育Web表单实习申请" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>教育Web表单实习申请</strong></a>
+    </div>
+    <em>了解如何使用Web表单来改进学生对所需表单的访问</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
