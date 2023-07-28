@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '519'
 ht-degree: 10%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 10%
       + 教育版 {#edu}
          + [教育Web表单实习申请](sign-usecase/usecase-edu-intern.md)
          + [创建教育Web表单实习申请](sign-usecase/usecase-edu-intern-create.md)
+         + [适用于教育的IEP流程的自定义工作流程](sign-usecase/usecase-edu-iep.md)
    + 用例展示 {#use-case}
       + [Showcase](sign-usecase/use-case-showcase.md)
 + 开发 {#develop}
