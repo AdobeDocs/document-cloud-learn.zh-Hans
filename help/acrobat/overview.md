@@ -1,12 +1,13 @@
 ---
 title: AcrobatTutorials
-description: Adobe Acrobat的教程、网络研讨会和使用案例的集合
+description: Adobe Acrobat的教程、网络研讨会和用例集合
+feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
-thumbnail: KT-6864.jpg
 jira: KT-6864
+thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 6%
@@ -15,9 +16,9 @@ ht-degree: 6%
 
 # Acrobat教程
 
-![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
+![Acrobat主页横幅](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、共享和签署PDF帮助保持业务发展。 在这里，您可以找到各种专为让初学者和高级用户快速了解Adobe Acrobat而设计的学习体验。
+Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑、共享和签署PDF来帮助保持业务运转。 您将在此处找到大量学习体验，旨在快速让初学者和高级用户了解Adobe Acrobat的最新动态。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -42,7 +43,7 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
   </td>
   <td>
     <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="技能创建器" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="技能生成器" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
   <td>
@@ -59,7 +60,7 @@ Adobe Acrobat是Adobe Document Cloud解决方案，可通过转换、编辑、�
   </td>  
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="修改照片" src="assets/acrobat_title_develop.png" />
+      <img alt="开发" src="assets/acrobat_title_develop.png" />
     </a>
   </td>
   <td>

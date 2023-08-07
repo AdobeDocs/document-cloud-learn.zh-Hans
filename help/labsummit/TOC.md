@@ -1,5 +1,5 @@
 ---
-user-guide-title: 借助Adobe Document Cloud释放数字体验
+user-guide-title: 使用Adobe Document Cloud释放数字体验
 solution: Acrobat
 solution-title: Adobe Document Cloud Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -7,7 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+feature-set: Document Cloud
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -15,11 +16,11 @@ ht-degree: 0%
 ---
 
 
-# 借助Adobe Document Cloud释放数字体验 {#lab719}
+# 使用Adobe Document Cloud释放数字体验 {#lab719}
 
-+ [实验室概述和介绍](overview.md)
-+ 借助Adobe Document Cloud释放数字体验 {#gsd}
-   + [借助Adobe Document Cloud释放数字体验](gsd.md)
-   + [Ex.1:扫描任意表单](scan.md)
-   + [示例2:填写和签署任何表单](fillsign.md)
-   + [示例3:共享PDF文件并联机审阅](review.md)
++ [实验概述和介绍](overview.md)
++ 使用Adobe Document Cloud释放数字体验 {#gsd}
+   + [使用Adobe Document Cloud释放数字体验](gsd.md)
+   + [例如1：扫描任何表单](scan.md)
+   + [例如2：填写并签署任何表单](fillsign.md)
+   + [例如。3：共享PDF文件并在线审阅](review.md)

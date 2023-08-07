@@ -1,23 +1,24 @@
 ---
-title: 通过Adobe Document Cloud释放数字体验的练习
-description: 了解一些使用Adobe Document Cloud的技巧和提示
+title: 使用Adobe Document Cloud释放数字体验的练习
+description: 了解使用Adobe Document Cloud的一些技巧和提示
+featre: Form, Sign, Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 1%
 
 ---
 
-# 通过Adobe Document Cloud释放数字体验的练习
+# 使用Adobe Document Cloud释放数字体验的练习
 
 [![图像](assets/rebrand.png)](assets/Unleash_Digital_Experiences_with_Adobe_Document_Cloud.pdf)
 
-此讲义包含更多练习和所涵盖工作流程的回顾。 以下是我们在以下练习中使用的演示文件。 每个练习都会重新阐释此内容：
+此讲义包含更多练习和对所涵盖工作流程的回顾。 以下是我们在以下练习中使用的演示文件。 每个练习也会重复以下内容：
 
-* Ex.1:扫描任何表单 — 使用您自己的名片、收据或其他纸质文档
-* [示例2:填写和签署任何表单](assets/03_FillSignScan.zip)
-* [示例3:共享PDF文件并联机审阅](assets/01_Review.zip)
+* 例如1：扫描任何表单 — 使用您自己的名片、收据或其他纸质文档
+* [例如2：填写并签署任何表单](assets/03_FillSignScan.zip)
+* [例如。3：共享PDF文件并在线审阅](assets/01_Review.zip)

@@ -1,22 +1,23 @@
 ---
-title: 处理以下位置的文件： [!DNL Dropbox]
-description: 了解如何打开、创建、编辑、签署更改以及将更改保存到 [!DNL Dropbox] 来自Acrobat的文件
+title: 处理文件来自 [!DNL Dropbox]
+description: 了解如何打开、创建、编辑、签名和保存对您的 [!DNL Dropbox] 文件来自Acrobat
+feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
 topic: Integrations
 topic-revisit: Integrations
-thumbnail: KT-10837.jpg
 jira: KT-10837
+thumbnail: KT-10837.jpg
 exl-id: 25de7921-6ca4-413f-8172-083619b3aad5
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# 处理以下位置的文件： [!DNL Dropbox]
+# 处理文件来自 [!DNL Dropbox]
 
-了解如何打开、创建、编辑、签署更改以及将更改保存到 [!DNL Dropbox] 文件。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让所有文件触手可及。
+了解如何打开、创建、编辑、签名和保存对您的 [!DNL Dropbox] 文件来自Acrobat。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让您所有文件触手可及。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

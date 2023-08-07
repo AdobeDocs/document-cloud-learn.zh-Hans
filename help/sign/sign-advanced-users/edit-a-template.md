@@ -1,12 +1,13 @@
 ---
 title: 管理文档模板
-description: 从库中编辑或删除模板
+description: 编辑或删除库中的模板
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5328
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -21,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频为课程的一部分 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 免费下载Experience League!
+>本视频是课程的一部分 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 可在Experience League上免费获得！

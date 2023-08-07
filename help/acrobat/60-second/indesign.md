@@ -1,20 +1,21 @@
 ---
-title: 将PDF注释载入InDesign
-description: 了解在Acrobat共享审阅后，如何将PDF注释重新加载到InDesign中
+title: 将PDF注释加载到InDesign中
+description: 了解如何在Acrobat共享审阅后将PDF注释加载回InDesign
+feature: Collaboration
 role: User
 level: Intermediate
-thumbnail: KT-8816.jpg
 jira: KT-8816
+thumbnail: KT-8816.jpg
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# 将PDF注释载入InDesign
+# 将PDF注释加载到InDesign中
 
-这个60秒的视频教程介绍了如何在Acrobat共享审阅后将PDF注释重新加载到InDesign中。 此数字工作流程可帮助您在更短的时间内完成修订。
+在本教程（60秒）中，了解如何在Acrobat共享审阅后将PDF注释加载回InDesign。 此数字工作流程可帮助您在创纪录的时间内完成修订。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)

@@ -1,13 +1,14 @@
 ---
 title: 用例配方
 description: 借助这些政府和商业电子签名示例，加快您组织的数字工作流程
+feature: Use Cases
 role: User
 level: Beginner, Intermediate
 team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%

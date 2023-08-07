@@ -1,12 +1,13 @@
 ---
 title: 快速入门概述
-description: 通过这些简要的分步教程，了解如何发送、签署和跟踪文档
+description: 通过这些简短的分步教程，快速了解如何发送、签署和跟踪文档
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
@@ -15,16 +16,16 @@ ht-degree: 5%
 
 # 快速入门概述
 
-![签名入门图像](../assets/Hero-GettingStarted.png)
+![Sign入门图像](../assets/Hero-GettingStarted.png)
 
-通过这些简要的分步教程，了解如何发送、签署和跟踪文档。 快速浏览Acrobat Sign，然后开始向一人或多人发送文档。 此内容旨在简化电子签名工作流程。
+通过这些简短的分步教程，快速了解如何发送、签署和跟踪文档。 快速浏览Acrobat Sign，然后跳转到向一个或多个人发送文档。 此内容旨在让您轻松完成电子签名工作流程。
 
 ## 新增功能
 
-* [Acrobat Sign入门](new-sender.md)
-您不熟悉使用Acrobat Sign? 本教程是一个不错的起点。
+* [Acrobat Sign快速入门](new-sender.md)
+您是初次使用Acrobat Sign吗？ 本教程是一个很好的起点。
 * [设置截止日期和提醒](set-deadlines-reminders.md)
-了解如何定期发送电子邮件提醒和截止日期，以帮助您快速签名文档
+了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署文档
 
 ## 发送
 
@@ -42,12 +43,12 @@ ht-degree: 5%
   </td>
   <td>
     <a href="new-sender.md">
-      <img alt="Acrobat Sign入门" src="../assets/gettingstartednew.png" />
+      <img alt="Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Acrobat Sign入门</strong></a>
+    <a href="new-sender.md"><strong>Acrobat Sign快速入门</strong></a>
     </div>
-    <em>这个全面的教程是新发件人开始使用Acrobat Sign的绝佳位置</em>
+    <em>本综合教程是开始使用Acrobat Sign中新发件人的好办法</em>
     <br>
   </td>
   <td>
@@ -57,7 +58,7 @@ ht-degree: 5%
     <div>
     <a href="send-to-single-recipient.md"><strong>发送给单个收件人</strong></a>
     </div>
-    <em>立即开始学习发送文档以供签名有多么简单</em>
+    <em>登录并了解如何轻松地发送文档以供签名</em>
     <br>
   </td>
   <td>
@@ -67,7 +68,7 @@ ht-degree: 5%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>发送给多个接收者</strong></a>
     </div>
-    <em>将文档发送给多位人员，以便完全按照您希望的顺序进行电子签名</em>
+    <em>按照您想要的顺序，将文档发送给多个人进行电子签名</em>
     <br>
   </td>
 </tr>
@@ -79,7 +80,7 @@ ht-degree: 5%
     <div>
     <a href="sending-options.md"><strong>配置发送选项</strong></a>
     </div>
-    <em>了解在发送文档进行签名时，如何配置各种选项</em>
+    <em>了解如何在发送文档以请求签名时配置各种选项</em>
     <br>
   </td>
   <td>
@@ -104,12 +105,12 @@ ht-degree: 5%
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="更换签名者" src="../assets/replace-signer.png" />
+      <img alt="替换签名者" src="../assets/replace-signer.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>更换签名者</strong></a>
+    <a href="replace-signer.md"><strong>替换签名者</strong></a>
     </div>
-    <em>了解如何更改已在处理中的文档的签名者</em>
+    <em>了解如何更改已在进行中的文档的签名者</em>
      <br>
   </td>
 </tr>
@@ -121,21 +122,21 @@ ht-degree: 5%
       <div>
       <a href="set-deadlines-reminders.md"><strong>设置截止日期和提醒</strong></a>
       </div>
-      <em>了解如何定期发送电子邮件提醒和截止日期，以帮助您快速签名文档</em>
+      <em>了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署文档</em>
       <br>
     </td> 
   <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
     <td>
-      <img alt="间隔条" src="../assets/Whitespacer.png" />
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>
       <br>
     </td>
@@ -148,22 +149,22 @@ ht-degree: 5%
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="以电子方式签名文档" src="../assets/Electronically-sign.png" />
+      <img alt="对文档进行电子签名" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>以电子方式签名文档</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>对文档进行电子签名</strong></a>
     </div>
-    <em>了解如何轻松签署使用Acrobat Sign发送给您的文档</em>
+    <em>了解如何使用Acrobat Sign签署发送给您的文档</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填写并签名文档" src="../assets/FillandSign.png" />
+      <img alt="填写并签署文档" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>填写并签名文档</strong></a>
+    <a href="fill-and-sign.md"><strong>填写并签署文档</strong></a>
     </div>
-    <em>填写表单并将您的电子签名添加到文档</em>
+    <em>填写表单并将电子签名添加到文档</em>
     <br>
   </td>
   <td>
@@ -173,7 +174,7 @@ ht-degree: 5%
     <div>
     <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Acrobat Sign移动应用程序获取他人的亲自签名</em>
+    <em>使用Acrobat Sign移动应用程序亲自获取他人的签名</em>
     <br>
   </td>
   <td>
@@ -183,7 +184,7 @@ ht-degree: 5%
     <div>
     <a href="delegate-signing.md"><strong>将签名委派给其他人</strong></a>
     </div>
-    <em>了解如何将文档签名委派给其他人</em>
+    <em>了解如何将文档的签名委派给其他人</em>
     <br>
   </td>
 </tr>
@@ -200,21 +201,21 @@ ht-degree: 5%
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="使用图章签名" src="../assets/Stamp.png" />
+      <img alt="使用图章进行签名" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>使用图章签名</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>使用图章进行签名</strong></a>
     </div>
-    <em>使用图章标记已批准或完成的文档</em>
+    <em>使用图章将文档标记为已批准或已完成</em>
      <br>
   </td> 
  <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -242,16 +243,16 @@ ht-degree: 5%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板，为您的组织提供速度和一致性</em>
+    <em>创建可重复使用的文档模板，以提高企业速度和一致性</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

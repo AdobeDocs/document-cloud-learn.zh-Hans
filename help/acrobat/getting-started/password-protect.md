@@ -1,12 +1,13 @@
 ---
 title: Protect带密码的PDF文件
-description: 了解如何向您的PDF添加密码以防止他人打开或编辑文件
+description: 了解如何向PDF添加密码以保护其他人无法打开或编辑该文件
+feature: Security
 role: User
 level: Beginner
-thumbnail: 35497.jpg
 jira: KT-5532
+thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%
@@ -15,11 +16,11 @@ ht-degree: 11%
 
 # Protect带密码的PDF文件
 
-了解如何 [将密码添加到您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}的
+了解如何 [向您的PDF添加密码](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
->如需使用密码保护多个PDF文件，请尝试使用 [Action Wizard](../advanced-tasks/action.md)的
+>要使用密码保护多个PDF文件，请尝试使用 [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,4 +28,4 @@ ht-degree: 11%
 
 >[!TIP]
 >
->本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!
+>本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！

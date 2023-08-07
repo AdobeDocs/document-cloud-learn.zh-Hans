@@ -1,6 +1,7 @@
 ---
-title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
-description: 了解如何发送文本消息、电子邮件或推送通知，以便让签名者知道协议即将送达
+title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
+description: 了解如何发送短信、电子邮件或推送通知，让签名者知道协议正在执行中
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,26 +10,26 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
+# 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
 
-了解如何使用Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo和Marketo Microsoft Dynamics Sync发送文本消息、电子邮件或推送通知，以便让签名者了解即将签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo SMS管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但是其他Marketo SMS解决方案可用。
+了解如何使用Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo和Marketo Microsoft Dynamics Sync发送文本消息、电子邮件或推送通知，让签名者知道协议正在执行中。 要从Marketo发送通知，您首先需要购买或配置Marketo短信管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但其他Marketo短信解决方案可用。
 
 ## 先决条件
 
 1. 安装Marketo Microsoft Dynamics Sync。
 
-   Microsoft Dynamics Sync的信息和最新插件现已可用 [此处。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Microsoft Dynamics Sync的信息和最新插件可用 [这里。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. 安装Acrobat Sign for Microsoft Dynamics。
+1. 安装适用于Microsoft Dynamics的Acrobat Sign。
 
-   有关此增效工具的信息 [此处。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   有关此插件的信息，请参阅 [这里。](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## 查找自定义对象
 
@@ -36,37 +37,37 @@ ht-degree: 1%
 
 ![管理员](assets/adminTerminal.png)
 
-* 单击 **[!UICONTROL Dynamics实体同步]**&#x200B;的
+* 点击 **[!UICONTROL Dynamics实体同步]**.
 
-  在同步自定义实体之前，必须禁用同步。 单击 **[!UICONTROL 同步架构]** 如果是第一次了。 否则，请单击 **[!UICONTROL 刷新架构]**&#x200B;的
+  在同步自定义实体之前，必须禁用同步。 点击 **[!UICONTROL 同步架构]** 如果这是你第一次。 否则，请单击 **[!UICONTROL 刷新架构]**.
 
   ![刷新](assets/refreshSchema.png)
 
 ## 同步自定义对象
 
-1. 在右侧，找到 [!UICONTROL 潜在客户], [!UICONTROL 联系人]和 [!UICONTROL 帐户]基于的自定义对象。
+1. 在右侧，找到 [!UICONTROL 潜在客户]， [!UICONTROL 联系人]和 [!UICONTROL 帐户]基于的自定义对象。
 
-   * **[!UICONTROL 启用同步]** 对于“潜在客户”下的对象（如果您想要在Dynamics中将潜在客户添加到协议时触发）。
+   * **[!UICONTROL 启用同步]** 如果您希望在将Lead添加到Dynamics中的协议时触发，则此项适用于Lead下的对象。
 
-   * **[!UICONTROL 启用同步]** 对象（如果您希望在Dynamics中将联系人添加到协议时触发）。
+   * **[!UICONTROL 启用同步]** 用于联系人下的对象（如果您要在将联系人添加到Dynamics中的协议时触发）。
 
-   * **[!UICONTROL 启用同步]** 在Dynamics中将帐户添加到协议时触发“帐户”下的对象。
+   * **[!UICONTROL 启用同步]** 用于帐户下的对象（如果您要在将帐户添加到Dynamics中的协议时触发）。
 
-   * **启用同步** 对于所需父级（潜在客户、联系人或帐户）下的协议对象。
+   * **启用同步** 适用于所需父级（潜在客户、联系人或帐户）下的协议对象。
 
    ![自定义对象](assets/enableSyncDynamics.png)
 
-1. 在新窗口中，选择协议下所需的属性。
+1. 在新窗口中，在协议下选择所需的属性。
 
-   启用下面的 **[!UICONTROL 约束]** 和 **[!UICONTROL 触发器]** ，让他们了解您的营销活动。
+   启用下面的框 **[!UICONTROL 约束]** 和 **[!UICONTROL 触发器]** 让他们了解您的营销活动。
 
-   ![Custom Sync 1](assets/entitySync1.png)
+   ![自定义同步1](assets/entitySync1.png)
 
    ![自定义同步2](assets/entitySync2.png)
 
-1. 在自定义对象上启用同步后，重新激活同步。
+1. 在自定义对象上启用同步后重新激活同步。
 
-   返回 [!UICONTROL 管理员终端]，然后单击。 **[!UICONTROL Microsoft Dynamics]**，然后单击 **[!UICONTROL 启用同步]**&#x200B;的
+   返回到 [!UICONTROL 管理终端]，然后单击 **[!UICONTROL Microsoft Dynamics]**，然后单击 **[!UICONTROL 启用同步]**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -74,13 +75,13 @@ ht-degree: 1%
 
 ## 创建程序
 
-1. 在 [!UICONTROL 营销活动]，右键单击 **[!UICONTROL 营销活动]** 在左侧栏中，选择 **[!UICONTROL 新的Campaign文件夹]**，并为其命名。
+1. 向内 [!UICONTROL 营销活动]，右键单击 **[!UICONTROL 营销活动]** 在左栏中，选择 **[!UICONTROL 新市场活动文件夹]**，并为其命名。
 
    ![新建文件夹](assets/newFolder.png)
 
-1. 右键单击创建的文件夹，选择 **[!UICONTROL 新计划]**，并为其命名。
+1. 右键单击已创建的文件夹，选择 **[!UICONTROL 新计划]**，并为其命名。
 
-   将所有其他内容保留为默认值，然后单击 **[!UICONTROL 创建]**&#x200B;的
+   将其余所有内容保留为默认值，然后单击 **[!UICONTROL 创建]**.
 
    ![新计划1](assets/newProgram1.png)
 
@@ -88,9 +89,9 @@ ht-degree: 1%
 
 ## 设置 [!DNL Twilio] 短信
 
-首先确保您拥有一个 [!DNL Twilio] 购买了所需的短信功能。
+首先确保您拥有处于活动状态的 [!DNL Twilio] 并购买了所需的短信功能。
 
-设置Marketo - [!DNL Twilio] SMS Webhook需要三个 [!DNL Twilio] 来自您帐户的参数。
+设置Marketo - [!DNL Twilio] 短信Webhook需要三个 [!DNL Twilio] 来自您帐户的参数。
 
 * 帐户SID
 * 帐户令牌
@@ -98,59 +99,59 @@ ht-degree: 1%
 
 从您的帐户检索这些参数，现在打开您的Marketo实例。
 
-1. 单击 **[!UICONTROL 管理员]** 右上角。
+1. 点击 **[!UICONTROL 管理员]** 右上角的。
 
    ![管理员](assets/adminTab.png)
 
-1. 单击 **[!UICONTROL Webhook]**，然后单击。 **[!UICONTROL 新建Webhook]**&#x200B;的
+1. 点击 **[!UICONTROL Webhook]**，然后单击 **[!UICONTROL 新Webhook]**.
 
    ![Webhook](assets/webhooks.png)
 
-1. 输入 **[!UICONTROL Webhook名称]** 和 **[!UICONTROL 说明]**&#x200B;的
+1. 输入 **[!UICONTROL Webhook名称]** 和 **[!UICONTROL 描述]**.
 
-1. 输入以下URL，并确保替换 `ACCOUNT_SID` 和 `AUTH_TOKEN` 的 [!DNL Twilio] 凭据。
+1. 输入以下URL，并确保将 `ACCOUNT_SID` 和 `AUTH_TOKEN` 使用您的 [!DNL Twilio] 凭据。
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. 选择 **[!UICONTROL POST]** 作为请求类型。
+1. 选择 **[!UICONTROL POST]** 作为您的请求类型。
 
-1. 输入以下内容 **模板** 一定要替换 `MY_TWILIO_NUMBER` 的 [!DNL Twilio] 电话号码和 `YOUR_MESSAGE` 并附上您选择的消息。
+1. 输入以下内容 **模板** 并确保将 `MY_TWILIO_NUMBER` 使用您的 [!DNL Twilio] 电话号码和 `YOUR_MESSAGE` 你选了什么口信。
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. 设置 **[!UICONTROL 请求令牌编码]** 来 *表单/URL*&#x200B;的
+1. 设置 **[!UICONTROL 请求令牌编码]** 收件人 *表单/URL*.
 
-1. 将“响应类型”设置为 *JSON* 然后单击 **[!UICONTROL 保存]**&#x200B;的
+1. 将响应类型设置为 *JSON* 然后单击 **[!UICONTROL 保存]**.
 
-## 设置智能营销活动触发器
+## 设置Smart Campaign触发器
 
-1. 在“市场营销活动”部分，右键单击您创建的计划，然后选择 **[!UICONTROL 新的智能营销活动]**&#x200B;的
+1. 在Marketing Activities部分，右键单击您创建的计划，然后选择 **[!UICONTROL 新的Smart Campaign]**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. 为其命名，然后单击 **[!UICONTROL 创建]**&#x200B;的
+1. 为其命名，然后单击 **[!UICONTROL 创建]**.
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
-   您应该可以在Microsoft文件夹下看到多个可用的触发器。
+   您应该会在Microsoft文件夹下看到多个可用的触发器。
 
-1. 单击并拖动 **[!UICONTROL 添加到协议]** 到 **[!UICONTROL 智能列表]**，然后添加您希望对触发器具有的任何约束。
+1. 单击并拖动 **[!UICONTROL 已添加到协议]** 到 **[!UICONTROL 智能列表]**，然后添加要对该触发器设置的任何约束。
 
-   ![添加到协议](assets/addedToAgreementDynamics.png)
+   ![已添加到协议](assets/addedToAgreementDynamics.png)
 
-## 设置智能活动流程
+## 设置智能营销活动流
 
-1. 单击 **[!UICONTROL 流量]** 选项卡 [!UICONTROL Smart Campaign]的
+1. 单击 **[!UICONTROL 流量]** 选项卡 [!UICONTROL Smart Campaign].
 
-   搜索并拖动 **调用Webhook** 排列到画布上，并选择您在上一部分中创建的Webhook。
+   搜索并拖动 **调用Webhook** 流到画布上，并选择您在上一节中创建的Webhook。
 
    ![调用Webhook](assets/callWebhook.png)
 
-1. 现已设置您针对添加到协议中的潜在客户的短信通知营销活动。
+1. 现已设置您针对添加到协议中的潜在顾客的短信通知营销活动。
 >[!TIP]
 >
->本教程是课程的一部分 [借助Acrobat Sign for Microsoft Dynamics和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 免费下载Experience League!
+>本教程是本课程的一部分 [使用适用于Microsoft Dynamics和Marketo的Acrobat Sign加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 可在Experience League上免费获得！

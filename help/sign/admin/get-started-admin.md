@@ -1,21 +1,22 @@
 ---
-title: 面向新管理员的快速入门指南
-description: 在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
+title: 新管理员快速入门
+description: 在本全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# 面向新管理员的快速入门指南
+# 新管理员快速入门
 
-这一全面的视频指南专门为新Acrobat Sign管理员设计。 了解使您的组织启动并运行Acrobat Sign所需的所有工具。 本详细指南涵盖下列主题：
+本全面的视频指南专为新的Acrobat Sign管理员而设计。 了解使您的组织启动并运行Acrobat Sign所需的所有工具。 此详细指南涵盖以下主题：
 
 <table style="table-layout:auto">
 <tr>
@@ -35,7 +36,7 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>授予Acrobat Sign用户权利</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>向用户授权Acrobat Sign</strong></a>
         <br>
         <em>1点45分开始</em>
     </td>
@@ -47,7 +48,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Acrobat Sign Web门户概述</strong></a>
         <br>
-        <em>三点一刻开始</em>
+        <em>3点11分开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -57,7 +58,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>全局设置和配置</strong></a>
         <br>
-        <em>五点五十八开始</em>
+        <em>5点58分开始</em>
     </td>
   </tr>
   <tr>
@@ -69,7 +70,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>帐户品牌推广和设置</strong></a>
          <br>
-        <em>七点半开始</em>
+        <em>7点40分开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
@@ -79,7 +80,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>签名首选项</strong></a>
         <br>
-        <em>八点二十二分开始</em>
+        <em>8点22分开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
@@ -89,7 +90,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>安全性设置</strong></a>
         <br>
-        <em>九点零三开始</em>
+        <em>9点半开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
@@ -99,7 +100,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>发送设置</strong></a>
         <br>
-        <em>九点五开始</em>
+        <em>9点55分开始</em>
     </td>
   </tr>
   <tr>
@@ -111,7 +112,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>消息模板</strong></a>
          <br>
-        <em>从12:00开始</em>
+        <em>12点开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
@@ -131,7 +132,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>用户和组管理</strong></a>
         <br>
-        <em>十三点零三开始</em>
+        <em>13点03分开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
@@ -139,9 +140,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>创建和激活工作流程</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>创建和激活工作流</strong></a>
         <br>
-        <em>15时17分开始</em>
+        <em>15点17分开始</em>
   </td>
 </tr>
 <tr>
@@ -151,9 +152,9 @@ ht-degree: 0%
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>获取支持和其他资源</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>访问支持和其他资源</strong></a>
         <br>
-        <em>十九点零五开始</em>
+        <em>19点05分开始</em>
     </td>
   </tr>
   </table>

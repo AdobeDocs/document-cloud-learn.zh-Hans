@@ -1,12 +1,13 @@
 ---
-title: 让Acrobat帮助您创建可访问PDF
+title: 让Acrobat帮助您创建可访问的PDF
 description: 检查PDF是否可访问
+feature: Accessibility
 role: User
 level: Intermediate
-thumbnail: KT-9749.jpg
 jira: KT-9749
+thumbnail: KT-9749.jpg
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -19,6 +20,6 @@ ht-degree: 0%
 >
 >仅适用于Acrobat Pro。
 
-这个60秒的视频教程介绍了如何检查某个PDF是否可以访问。
+观看这段60秒的视频教程，了解如何查看PDF是否可访问。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

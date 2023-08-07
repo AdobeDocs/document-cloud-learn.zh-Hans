@@ -1,11 +1,12 @@
 ---
 title: 用户的报告选项
 description: 了解如何为用户设置报告选项
+feature: Administration, Report
 role: Admin
 level: Intermediate
 jira: KT-13235
 exl-id: 3e8f8800-c662-46a2-bcc3-12d804db0ee3
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%

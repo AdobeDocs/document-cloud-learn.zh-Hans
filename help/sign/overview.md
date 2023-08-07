@@ -1,12 +1,13 @@
 ---
 title: Acrobat SignTutorials
-description: 一系列教程、网络研讨会和使用案例，旨在帮助初学者和管理员快速了解Acrobat Sign
+description: 一系列教程、网络研讨会和用例，旨在帮助初学者和管理人员快速掌握Acrobat Sign的最新动态
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -15,9 +16,9 @@ ht-degree: 5%
 
 # Acrobat Sign教程
 
-![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
+![Acrobat Sign主页横幅](assets/Hero_Sign.jpg)
 
-Acrobat Sign是Adobe Document Cloud解决方案，可通过集成、API、高级身份验证、其他管理员功能等进行扩展，以满足组织的需求。 在这里，您可以找到各种专为让初学者和管理员快速掌握Acrobat Sign而设计的学习体验。
+Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足您组织的需求，包括集成、API、高级身份验证、其他管理员功能等。 您可以在此处找到大量学习体验，旨在快速让初学者和管理者了解Acrobat Sign的最新版本。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -64,7 +65,7 @@ Acrobat Sign是Adobe Document Cloud解决方案，可通过集成、API、高级
   </td>
   <td>
     <a href="develop/develop-overview.md">
-      <img alt="修改照片" src="assets/AS_Title_Develop.png" />
+      <img alt="开发" src="assets/AS_Title_Develop.png" />
     </a>
   </td>
    <td>

@@ -1,13 +1,14 @@
 ---
 title: 管理员概述
-description: 了解向帐户添加用户、设置组、共享访问权限以及设置工作流、外部归档和共享事件与警告的基础知识
+description: 了解向帐户添加用户、设置组、共享访问权限和设置工作流程、外部归档以及共享事件和警报的基础知识
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -18,14 +19,14 @@ ht-degree: 1%
 
 ![Sign管理员图像](../assets/Hero-Admin.png)
 
-了解如何向帐户添加用户、设置组、共享访问权限，以及设置工作流程、外部归档和共享事件与警告。 这些教程面向已经过安装阶段并已准备好开始管理Acrobat Sign的管理员。 “高级任务”涵盖的主题涵盖经过管理员设置后扩展为定义全局设置、帐户访问和共享以及文本标记。
+了解如何向帐户添加用户、设置组、共享访问权限以及设置工作流程、外部归档和共享事件及警告。 这些教程面向已经过了安装阶段并且准备好开始管理Acrobat Sign的管理员。 高级任务涵盖涵盖涵盖多个主题，涵盖范围从管理员设置扩展至定义全局设置、帐户访问和共享以及文本标记。
 
 ## 新增功能
 
 * [报告选项](report-options.md)
 了解如何为用户设置报告选项
 * [添加用户](add-users-to-your-account.md)
-了解如何为Acrobat Sign添加和管理用户
+了解如何添加和管理Acrobat Sign用户
 
 ## 开始使用
 
@@ -33,22 +34,22 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="面向新管理员的快速入门指南" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="新管理员快速入门" src="../assets/Gettingstartedadmin_1280.png" />
     </a>
     <div>
-    <a href="get-started-admin.md"><strong>面向新管理员的快速入门指南</strong></a>
+    <a href="get-started-admin.md"><strong>新管理员快速入门</strong></a>
     </div>
-    <em>在此全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
+    <em>在本全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
     <br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="针对管理员启动和运行" src="../assets/Up-Running.png" />
+      <img alt="管理员启动并运行" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>针对管理员启动和运行</strong></a>
+    <a href="up-and-running-admin.md"><strong>管理员启动并运行</strong></a>
     </div>
-    <em>管理员在Acrobat Sign中快速启动和运行的7个关键领域概述</em>
+    <em>管理员可在Acrobat Sign中快速启动和运行的7个关键领域概述</em>
     <br>
   </td>
   <td>
@@ -56,7 +57,7 @@ ht-degree: 1%
       <img alt="设置共享事件和警告" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告通知</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告的通知</strong></a>
     </div>
     <em>为您的帐户配置事件和警告通知</em>
     <br>
@@ -68,7 +69,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
     </div>
-    <em>添加和管理Acrobat Sign的用户</em>
+    <em>添加和管理Acrobat Sign用户</em>
     <br>
   </td>
 </tr>
@@ -80,7 +81,7 @@ ht-degree: 1%
     <div>
     <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
     </div>
-    <em>创建组、将用户添加到组以及编辑组设置</em>
+    <em>创建组、将用户添加到组和编辑组设置</em>
     <br>
   </td>
   <td>
@@ -100,7 +101,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板，以提高速度和一致性</em>
+    <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
   </td>
   <td>
@@ -132,7 +133,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>创建Web表单</strong></a>
     </div>
-    <em>创建可以直接在您的网站上以电子方式签名的文档</em>
+    <em>创建一个可以在您的网站上直接进行电子签名的文档</em>
     <br>
   </td>
   <td>
@@ -152,7 +153,7 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/megasign.md"><strong>批量发送和收集签名</strong></a>
     </div>
-    <em>一次收集数百个任意文档的签名</em>
+    <em>一次为任何文档收集数百个签名</em>
     <br>
   </td>
 </tr>
@@ -164,21 +165,21 @@ ht-degree: 1%
     <div>
     <a href="building-a-custom-workflow.md"><strong>设置工作流</strong></a>
     </div>
-    <em>自动化文档工作流程以快速获取电子签名和数据</em>
+    <em>自动化文档工作流以快速获取电子签名和数据</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -205,7 +206,7 @@ ht-degree: 1%
     <div>
     <a href="share-account-access.md"><strong>共享帐户访问权限</strong></a>
     </div>
-    <em>设置对另一个用户帐户中的事务的仅查看访问权限</em>
+    <em>在另一用户帐户中设置对事务的仅查看访问权限</em>
     <br>
   </td>
   <td>
@@ -215,7 +216,7 @@ ht-degree: 1%
     <div>
     <a href="advanced-account-sharing.md"><strong>高级帐户共享</strong></a>
     </div>
-    <em>设置帐户共享以允许管理员和用户委派其发送、修改和查看权限</em>
+    <em>设置帐户共享，以允许管理员和用户委派其发送、修改和查看权限</em>
     <br>
   </td>
   <td>
@@ -225,7 +226,7 @@ ht-degree: 1%
     <div>
     <a href="use-bio-pharma-settings.md"><strong>使用生物识别设置</strong></a>
     </div>
-    <em>设置允许您满足FDA 21 CFR Part 11要求的生物制药设置</em>
+    <em>设置生物识别设置，以使您可满足FDA 21 CFR Part 11要求</em>
     <br>
   </td> 
 </tr>
@@ -237,21 +238,21 @@ ht-degree: 1%
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     <div>
-    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单域</em>
+    <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="../assets/Grayspacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

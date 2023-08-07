@@ -1,27 +1,28 @@
 ---
-title: 浏览PDF时创建内容 [!DNL Microsoft Edge]
-description: 了解如何使用Adobe Acrobat extension for [!DNL Microsoft Edge]
+title: 浏览时创建PDF内容 [!DNL Microsoft Edge]
+description: 了解如何使用Adobe Acrobat扩展归档网页以动态PDF [!DNL Microsoft Edge]
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8495.jpg
 jira: KT-8495
+thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# 浏览PDF时使用 [!DNL Microsoft Edge]
+# 浏览时创建PDF内容 [!DNL Microsoft Edge]
 
-了解如何使用Adobe Acrobat extension for [!DNL Microsoft Edge]的 此仅适用于Windows的工具对于研究项目和脱机查看基于Web的信息非常重要。
+了解如何使用Adobe Acrobat扩展归档网页以动态PDF [!DNL Microsoft Edge]. 此工具仅适用于Windows ，对于研究项目和离线查看基于Web的信息非常有用。
 
 >[!TIP]
 >
->看看这些其他Microsoft [集成](../integrate/integrate-overview.md#microsoft)的
+>查看这些其他Microsoft [集成](../integrate/integrate-overview.md#microsoft).
 
 <br> 
 
@@ -29,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!
+>本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！

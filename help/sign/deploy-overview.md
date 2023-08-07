@@ -1,12 +1,13 @@
 ---
 title: 部署概述
 description: 有关部署Acrobat Sign的最佳实践文章和宝贵见解
+feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 15%
@@ -15,9 +16,9 @@ ht-degree: 15%
 
 # 部署概述
 
-![Sign部署图像](assets/Hero-Deploy.png)
+![Sign部署映像](assets/Hero-Deploy.png)
 
-最佳实践文章，深入了解如何在组织内部署Acrobat Sign。
+有关在您的组织内部署Acrobat Sign的宝贵见解的最佳实践文章。
 
 <table style="table-layout:fixed">
 <tr>
@@ -26,7 +27,7 @@ ht-degree: 15%
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html" target="_blank"><strong>管理Admin Console上的Acrobat Sign</strong></a>
+    <a href="https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
     </div>
     <em>了解如何在Adobe的企业平台Adobe Admin Console上管理Acrobat Sign用户和许可证</em>
     <br>
@@ -38,21 +39,21 @@ ht-degree: 15%
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe 信任中心</strong></a>
     </div>
-    <em>了解我们当前在安全、合法性和适用于Acrobat Sign的标准方面所做的努力</em>
+    <em>了解我们在Acrobat Sign的安全性、合法性和标准方面持续作出的努力</em>
     <br>
   </td>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Acrobat Sign基础学习指南" src="assets/SignStudyGuide.png" />
+      <img alt="Acrobat Sign Essentials学习指南" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign基础学习指南</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials学习指南</strong></a>
     </div>
-    <em>Acrobat SignAcrobat Sign基本评估研究指南(AD3-D104)</em>
+    <em>用于Acrobat Sign基本功能评估的Acrobat Sign研究指南(AD3-D104)</em>
     <br>
   </td>
   <td>
-    <img alt="间隔条" src="assets/Whitespacer.png" />
+    <img alt="间隔物" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>

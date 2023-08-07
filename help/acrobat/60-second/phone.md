@@ -1,24 +1,25 @@
 ---
 title: 在手机上将PPT文件转换为PDF
-description: 了解如何将电子邮件PowerPoint附件转换为PDF手机
+description: 了解如何将电子邮件PowerPoint附件转换为手机上的PDF
+feature: Convert PDF, Mobile
 role: User
 level: Beginner
-thumbnail: KT-8576.jpg
 jira: KT-8576
+thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
-# 将PPT文件转换为手机上的PDF
+# 在手机上将PPT文件转换为PDF
 
-在此时长60秒的视频教程中，了解如何转换电子邮件 [将PowerPoint附件连接到PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html){target="_blank"} 在手机上。 文件返回后，查看该文件并点击“共享”以将其发送给您的团队 — 所有操作均无需在手机上安装PowerPoint。
+观看这个60秒的视频教程，了解如何转换电子邮件 [PowerPoint附加到PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html){target="_blank"} 在你的手机上。 当文件返回时，查看该文件，然后点击“共享”以将其发送给您的团队 — 您的手机中完全没有PowerPoint。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->本视频为课程的一部分 [使用Acrobat DC和Microsoft 365更巧妙地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 免费下载Experience League!
+>本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！

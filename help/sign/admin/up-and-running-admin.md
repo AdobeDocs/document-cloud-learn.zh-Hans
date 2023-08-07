@@ -1,21 +1,22 @@
 ---
-title: 启动和运行Acrobat Sign Administrators
-description: 管理员在Acrobat Sign中快速启动和运行的七个关键领域概述
+title: 启动并运行Acrobat Sign管理员
+description: 管理员可在Acrobat Sign中快速启动和运行的七个关键领域概述
+feature: Administration
 role: Admin
 level: Beginner
 jira: KT-4967
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# 启动和运行Acrobat Sign管理员
+# 启动并运行Acrobat Sign管理员
 
-了解管理员为了快速启动并运行Acrobat Sign，应关注的七个关键方面。
+了解管理员应重点关注的七个关键领域，以便在Acrobat Sign中快速启动并运行。
 
 >[!NOTE]
 >
@@ -25,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频为课程的一部分 [面向管理员的Acrobat Sign快速入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 免费下载Experience League!
+>本视频是课程的一部分 [Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 可在Experience League上免费获得！
