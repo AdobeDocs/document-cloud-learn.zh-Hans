@@ -10,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 ## 新增功能
 
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
-了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务。
+了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
 了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] 用于在自助服务客户Web门户上提高客户满意度
 * [将Web表单与 [!DNL SharePoint] 在线](integrate-web-form-sharepoint-online.md)
