@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,15 @@ ht-degree: 0%
 
 ![Sign集成图像](../assets/Hero-Integrate.png)
 
-您可以在公司已使用的其他应用程序(例如Microsoft、Salesforce、Workday和Marketo)中使用Acrobat Sign。 在这些集成指南和教程中，了解如何简化您的电子签名工作流程。
+您可以在公司已使用的其他应用程序(例如Microsoft、Salesforce、Workday和Marketo)中使用Acrobat Sign。 通过这些集成指南和教程，了解如何简化电子签名工作流程。
 
 >[!NOTE]
 > 如果您在访问这些功能时遇到了问题，请联系您组织的管理员，确保集成已启用。
 
 ## 新增功能
 
+* [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
+了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务。
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
 了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] 用于在自助服务客户Web门户上提高客户满意度
 * [将Web表单与 [!DNL SharePoint] 在线](integrate-web-form-sharepoint-online.md)
@@ -132,8 +134,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <a href="dynamics-field-service.md">
+      <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
+    </a>
     <div>
+    <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
+    </div>
+    <em>了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务</em>
     <br>
   </td>
   <td>

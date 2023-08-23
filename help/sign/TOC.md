@@ -11,9 +11,9 @@ breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '524'
 ht-degree: 10%
 
 ---
@@ -108,6 +108,7 @@ ht-degree: 10%
       + [使用Acrobat Sign实现文档自动化 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
+      + [Microsoft Dynamics 365 for Field Service](integrations/dynamics-field-service.md)
    + 公证 {#notarize}
       + [发送文档进行公证](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
