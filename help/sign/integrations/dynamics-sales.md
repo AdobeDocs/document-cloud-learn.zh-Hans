@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13722
-source-git-commit: ae79f03e7eead2edb1ef600dc8621c1eb9117ecc
+source-git-commit: c7a28b88e4547f942dc7831b10e2ba5cff73fe20
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
