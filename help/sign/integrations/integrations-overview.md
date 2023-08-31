@@ -2,7 +2,7 @@
 title: 集成概述
 description: 了解如何将Acrobat Sign添加到您现有的系统、进程和应用程序中
 feature: Integrations
-role: User
+role: User, Admin
 product: adobe sign
 level: Intermediate
 jira: KT-6850
@@ -10,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%

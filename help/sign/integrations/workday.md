@@ -2,6 +2,7 @@
 title: 配置适用于Workday的Acrobat Sign
 description: 了解如何将Acrobat Sign配置为直接在Workday中工作以无缝管理您的所有HR文书
 feature: Integrations
+role: Admin
 product: adobe sign
 level: Intermediate
 jira: KT-13006
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: 39372.jpg
 exl-id: c94a7756-1fae-4f17-aab4-ea1437b68645
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
