@@ -11,9 +11,9 @@ breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
+source-git-commit: 4b689ca7c360fefff845be799e548b69748304c0
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '527'
 ht-degree: 10%
 
 ---
@@ -140,7 +140,7 @@ ht-degree: 10%
          + [再就业援助](sign-usecase/usecasegovreemployment.md)
          + [工资单保护](sign-usecase/usecasegovpaycheck.md)
          + [远程认股权证请求](sign-usecase/usecasegovremote.md)
-      + 商业 {#com}
+      + 商业版 {#com}
          + [合同和申购单](sign-usecase/usecasecomcontracts.md)
          + [政策协议](sign-usecase/usecasecompolicy.md)
          + [远程工作协议](sign-usecase/usecasecomtelework.md)
@@ -160,4 +160,5 @@ ht-degree: 10%
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
    + 移动教程 {#mobile-tutorials}
+      + [随时随地签署文档](mobile/sign-mobile.md)
       + [Acrobat Sign中的Liquid Mode](mobile/liquidmode.md)
