@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [使用以下工具创建简单的工作流程 [!DNL Power Automate]](simple-workflow-power-automate.md)
+了解如何使用创建简单的工作流程 [!DNL Power Automate] 连接器
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] for Sales用于自动化销售报价签名流程
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] 用于在自助服务客户Web门户上提高客户满意度
-* [将Web表单与 [!DNL SharePoint] 在线](integrate-web-form-sharepoint-online.md)
-了解如何将从Web表单收集的数据映射到 [!DNL SharePoint] 列表
+
 
 ## Microsoft集成教程
 
@@ -126,6 +125,16 @@ ht-degree: 0%
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="使用Power Automate创建简单的工作流程" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>使用Power Automate创建简单的工作流程</strong></a>
+    </div>
+    <em>了解如何使用创建简单的工作流程 [!DNL Power Automate] 连接器</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ ht-degree: 0%
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] for Sales用于自动化销售报价签名流程</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
