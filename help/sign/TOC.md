@@ -11,7 +11,8 @@ breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+auto-video-transcripts: true
+source-git-commit: 6c90ef1a9ace21f2f39a12fe61b81fcd5e12e66a
 workflow-type: tm+mt
 source-wordcount: '532'
 ht-degree: 10%
