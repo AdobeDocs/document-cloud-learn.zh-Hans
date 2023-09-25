@@ -8,7 +8,7 @@ jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
+source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -112,4 +112,4 @@ ht-degree: 0%
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
