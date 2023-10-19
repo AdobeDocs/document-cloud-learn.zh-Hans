@@ -8,16 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 13%
 
 ---
 
 # 修改照片概述
-
-![签名“修改照片”图像](../assets/Hero-Develop.png)
 
 Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、合作伙伴和客户创建自定义应用程序。
 

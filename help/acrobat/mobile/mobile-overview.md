@@ -8,16 +8,14 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 7%
 
 ---
 
 # 移动设备概述
-
-![Acrobat移动设备图像](../assets/Hero-Mobile.png)
 
 创建、填充和 [签名PDF](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}  在移动设备上。
 

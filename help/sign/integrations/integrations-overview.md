@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # 集成概述
-
-![Sign集成图像](../assets/Hero-Integrate.png)
 
 您可以在公司已使用的其他应用程序(例如Microsoft、Salesforce、Workday和Marketo)中使用Acrobat Sign。 通过这些集成指南和教程，了解如何简化电子签名工作流程。
 

@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # 60秒Acrobat概述
-
-![60秒Acrobat图像](../assets/Hero-60sec.png)
 
 60秒的Acrobat为您提供小型教程，可帮助您在1分钟或更短的时间内学会Acrobat中的新技巧。 这些基于任务的提示可帮助您通过解锁一些Acrobat的隐藏宝石，掌握处理PDF文件的新技能。 您可以观看其中一项快速获得答案，或观看五项以提高文档工作效率，同时还有时间享受茶歇。
 

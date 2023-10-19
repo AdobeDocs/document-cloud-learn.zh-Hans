@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Acrobat Sign教程
-
-![Acrobat Sign主页横幅](assets/Hero_Sign.jpg)
 
 Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足您组织的需求，包括集成、API、高级身份验证、其他管理员功能等。 您可以在此处找到大量学习体验，旨在快速让初学者和管理者了解Acrobat Sign的最新版本。
 

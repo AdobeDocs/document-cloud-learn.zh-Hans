@@ -7,16 +7,14 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # 行业和部门概述
-
-![Acrobat行业图像](../assets/Hero-Industry.png)
 
 了解如何通过探索行业用例和启发灵感的想法来转变客户和员工体验。
 

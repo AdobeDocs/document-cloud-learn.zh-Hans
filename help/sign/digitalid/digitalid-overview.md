@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # 数字身份证概述
-
-![签名数字身份证图像](../assets/Hero-DigitalID.png)
 
 与电子形式的护照类似，数字身份（数字ID）允许您安全地证明您是所宣称的身份。 此外，在Acrobat Sign中进行电子签名时，使用数字ID可以提供更高级别的保证，保证您已授权对该特定文档进行电子签名。 以下教程将向您介绍如何通过Acrobat Sign使用来自世界各地的数字ID。
 

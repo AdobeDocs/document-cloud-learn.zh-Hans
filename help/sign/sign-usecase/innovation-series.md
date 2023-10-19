@@ -8,16 +8,14 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '1049'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
 
 # Acrobat Sign技能生成器
-
-![技能生成器横幅](../assets/SB_Hero.png)
 
 Acrobat Sign技能构建器提供时长30分钟的课程，旨在确保您的电子签名正常使用，而无需额外增加任何日常工作。 每月都会突出显示一个新主题。
 
@@ -58,7 +56,7 @@ Acrobat Sign技能构建器提供时长30分钟的课程，旨在确保您的电
 **[创建和使用工作流 — 从头到尾](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/0fc7ccc5-eb36-47f0-a0d3-1fa3648c8fcf/42a9bbad-0a54-4c8c-8002-597d549600fe){target="_blank"}**
 日期： 2023年5月18日致电所有Acrobat Sign管理员和最终用户/个人投稿人。 此会议将涵盖工作流程的创建和使用。
 
-* 作为Acrobat Sign组或帐户管理员，请了解如何定义预设置的工作流程，以自动将文档路由到正确的参与方，以便进行签名，然后向您的整个Acrobat Sign组授予访问权限。
+* 作为Acrobat Sign组或帐户管理员，了解如何定义预设置的工作流程，以自动将文档路由到正确的参与方，从而授予对整个Acrobat Sign组的访问权限。
 * 作为最终用户，了解如何使用这些工作流程来确保文档首次或每次都正确签名。
 
 **[创作环境高级培训](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**

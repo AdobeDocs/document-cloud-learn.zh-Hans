@@ -5,7 +5,7 @@ breadcrumb-title: AcrobatTutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 6%
@@ -13,7 +13,7 @@ ht-degree: 6%
 ---
 
 
-# Acrobat教程 {#acrobat-learning}
+# AcrobatTutorials {#acrobat-learning}
 
 + [概述](overview.md)
 + 开始使用 {#getting-started}

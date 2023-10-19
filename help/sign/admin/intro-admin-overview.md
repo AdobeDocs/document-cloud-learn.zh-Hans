@@ -8,16 +8,14 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # 管理员概述
-
-![Sign管理员图像](../assets/Hero-Admin.png)
 
 了解如何向帐户添加用户、设置组、共享访问权限以及设置工作流程、外部归档和共享事件及警告。 这些教程面向已经过了安装阶段并且准备好开始管理Acrobat Sign的管理员。 高级任务涵盖涵盖涵盖多个主题，涵盖范围从管理员设置扩展至定义全局设置、帐户访问和共享以及文本标记。
 

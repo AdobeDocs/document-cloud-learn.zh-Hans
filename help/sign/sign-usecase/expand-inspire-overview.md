@@ -8,16 +8,14 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # 行业和部门概述
-
-![Acrobat Sign行业图像](../assets/Hero-Industry.png)
 
 了解如何通过探索这些真实的行业和部门用例、食谱和网络研讨会，转变您组织的电子签名体验。
 

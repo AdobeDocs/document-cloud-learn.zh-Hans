@@ -9,16 +9,14 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
 
 # 集成概述
-
-![Acrobat集成图像](../assets/Hero-Integrate.png)
 
 将Acrobat与 [!DNL Box]， [!DNL Dropbox]， [!DNL Google Drive]， [!DNL OneDrive]和 [!DNL Microsoft] 应用程序。
 
