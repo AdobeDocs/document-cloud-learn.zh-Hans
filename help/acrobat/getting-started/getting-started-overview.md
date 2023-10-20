@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 5%
 
 ## 新增功能
 
+* [设置此PDF的风格](stylize-this-PDF.md)
+了解如何使用Adobe Express中集成且易于使用的设计PDF来创建专业外观的工具
 * [随时随地使用Acrobat Web](acrobatweb.md)
 了解如何使用浏览器中的Acrobat Web工具从任何地方处理业务文档请求
-* [实时协作](collaborate.md)
-通过从任何地方实时收集评论、协作处理响应并跟踪文档的进度，推动您的项目向前发展
 
 ## 快速入门教程
 
@@ -166,6 +166,16 @@ ht-degree: 5%
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="设置此PDF的风格" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>设置此PDF的风格</strong></a>
+      </div>
+      <em>了解自动调整内容的新编辑模式</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="自动调整布局" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ ht-degree: 5%
       <a href="export-pdf.md"><strong>将PDF导出为可编辑的格式</strong></a>
       </div>
       <em>了解如何将PDF文件导出为可编辑的格式</em>
-      <br>
-    </td>
-    <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>

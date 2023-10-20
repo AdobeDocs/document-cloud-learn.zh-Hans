@@ -5,9 +5,9 @@ breadcrumb-title: AcrobatTutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 6%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 6%
    + [组织页面](getting-started/organize.md)
    + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑 PDF](getting-started/edit-pdf.md)
+   + [设置此PDF的风格](getting-started/stylize-this-PDF.md)
    + [自动调整布局](getting-started/auto-adjust-layout.md)
    + [将PDF导出为可编辑的格式](getting-started/export-pdf.md)
    + [实时协作](getting-started/collaborate.md)
