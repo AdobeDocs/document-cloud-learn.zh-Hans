@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6c90ef1a9ace21f2f39a12fe61b81fcd5e12e66a
+source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '537'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [使用Acrobat Sign实现文档自动化 [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [发送以请求签名 [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [创建简单的工作流 [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+      + [创建高级工作流 [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] 针对客户服务](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] 对于外勤人员](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] 销售人员](integrations/dynamics-sales.md)
@@ -142,7 +143,7 @@ ht-degree: 10%
          + [再就业援助](sign-usecase/usecasegovreemployment.md)
          + [工资单保护](sign-usecase/usecasegovpaycheck.md)
          + [远程认股权证请求](sign-usecase/usecasegovremote.md)
-      + 商业版 {#com}
+      + 商业 {#com}
          + [合同和申购单](sign-usecase/usecasecomcontracts.md)
          + [政策协议](sign-usecase/usecasecompolicy.md)
          + [远程工作协议](sign-usecase/usecasecomtelework.md)
