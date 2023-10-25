@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5300
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
-单击以下载再就业协助分步PDF方法。
+选择以下载或打开再就业协助的分步PDF方法。
 
 [![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

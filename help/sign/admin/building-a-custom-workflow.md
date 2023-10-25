@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 了解如何定制文档工作流并实现工作流自动化，以获取电子签名、收集表单数据并确认交付重要文档以简化工作流管理。
 
-查看这些其他真实使用案例：
+[!BADGE 用例]
 
-* [政府合同和申请Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) 用例。
-* [Forms商业合同和申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) 用例。
+* [适用于教育的IEP流程的自定义工作流程](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+了解如何使用自定义工作流程设计器将个性化教育计划(IEP)流程数字化
+* [政府合同和申请Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Forms商业合同和申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
