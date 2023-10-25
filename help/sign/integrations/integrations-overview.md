@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
+source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [实时签名 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
 * [使用以下工具创建高级工作流 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 了解如何使用创建高级工作流 [!DNL Power Automate] 连接器
 * [使用以下工具创建简单的工作流程 [!DNL Power Automate]](simple-workflow-power-automate.md)
 了解如何使用创建简单的工作流程 [!DNL Power Automate] 连接器
-* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
-了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] for Sales用于自动化销售报价签名流程
-
 
 ## Microsoft集成教程
 
@@ -123,6 +122,16 @@ ht-degree: 0%
 </tr>
 <tr>
   <td>
+    <a href="live-sign-microsoft-teams.md">
+      <img alt="实时登录 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+    </a>
+    <div>
+    <a href="live-sign-microsoft-teams.md"><strong>实时登录 [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议</em>
+    <br>
+  </td>
+   <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="使用Power Automate创建简单的工作流程" src="../assets/simple-workflow.png" />
     </a>
@@ -152,6 +161,7 @@ ht-degree: 0%
     <em>了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] 用于在自助服务客户Web门户上提高客户满意度</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -162,7 +172,6 @@ ht-degree: 0%
     <em>了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务</em>
     <br>
   </td>
-<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
@@ -171,11 +180,6 @@ ht-degree: 0%
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] for Sales用于自动化销售报价签名流程</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
