@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [实时签名 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
 * [使用以下工具创建高级工作流 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 了解如何使用创建高级工作流 [!DNL Power Automate] 连接器
@@ -123,10 +123,10 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="实时登录 [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>实时登录 [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议</em>
     <br>
