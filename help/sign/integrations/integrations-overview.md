@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [“文档”选项卡集成 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [文档选项卡集成 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 了解如何直接从中的文档选项卡发送文档进行签名 [!DNL Microsoft Teams]
 * [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
@@ -133,10 +133,10 @@ ht-degree: 0%
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="使用Power Automate创建简单的工作流程" src="../assets/Documents-tab.png" />
+      <img alt="文档选项卡集成 [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>“文档”选项卡集成 [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>文档选项卡集成 [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>了解如何直接从中的文档选项卡发送文档进行签名 [!DNL Microsoft Teams]</em>
     <br>
