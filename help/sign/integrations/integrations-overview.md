@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [“文档”选项卡集成 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+了解如何直接从中的文档选项卡发送文档进行签名 [!DNL Microsoft Teams]
 * [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
 * [使用以下工具创建高级工作流 [!DNL Power Automate]](advanced-workflow-power-automate.md)
 了解如何使用创建高级工作流 [!DNL Power Automate] 连接器
-* [使用以下工具创建简单的工作流程 [!DNL Power Automate]](simple-workflow-power-automate.md)
-了解如何使用创建简单的工作流程 [!DNL Power Automate] 连接器
 
 ## Microsoft集成教程
 

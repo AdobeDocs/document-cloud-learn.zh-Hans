@@ -1,5 +1,5 @@
 ---
-title: 适用于NLMicrosoft Teams的Adobe Acrobat Sign Live Sign]
+title: Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]
 description: 了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
 feature: Integrations
 role: User
@@ -7,9 +7,10 @@ topic: Integrations
 level: Intermediate
 jira: KT-14239
 topic-revisit: Integrations
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+exl-id: 82241266-bcf8-49bd-96e8-aa788607f079
+source-git-commit: 638c4cc000455d74dd815248d917a188830a5bfd
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---

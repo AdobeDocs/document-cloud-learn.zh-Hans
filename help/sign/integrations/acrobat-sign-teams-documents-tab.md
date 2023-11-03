@@ -4,10 +4,10 @@ description: 了解如何直接从中的文档选项卡发送文档进行签名 
 feature: Integrations
 role: User
 topic: Integrations
-level: Intermediate
+level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
-source-git-commit: 963ea42dd91990909171a11b42b7600fecb526bf
+source-git-commit: 563b37edcc81d7c6064251e74fa32ddf3bb02d10
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
