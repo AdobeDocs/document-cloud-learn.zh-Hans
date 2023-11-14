@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,10 +20,10 @@ ht-degree: 3%
 
 ## 新增功能
 
+* [Send in Bulk](megasign.md)
+了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
 * [Acrobat Sign中的身份验证方法](authentication-methods.md)
 了解Acrobat Sign中可用于验证文档签名者身份的一系列方法
-* [设置在线付款](set-up-online-payments.md)
-了解如何在您的文档中设置和接受在线付款
 
 ## 发送
 
@@ -93,12 +93,12 @@ ht-degree: 3%
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="批量发送和收集签名" src="../assets/Megasign.png" />
+        <img alt="批量发送" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>批量发送和收集签名</strong></a>
+      <a href="megasign.md"><strong>批量发送</strong></a>
       </div>
-      <em>只需几个简单的步骤，即可一次为任何文档收集数百个签名</em>
+      <em>只需几个简单的步骤，即可一次为任何文档收集数千个签名</em>
       <br>
   </td>
  <td>

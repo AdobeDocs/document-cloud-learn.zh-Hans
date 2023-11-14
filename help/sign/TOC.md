@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 10%
       + [Acrobat Sign中的身份验证方法](sign-advanced-users/authentication-methods.md)
       + [管理表单数据](sign-advanced-users/manage-form-data.md)
       + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
-      + [批量发送和收集签名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文本标记 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [用户的报告选项](admin/report-options.md)
       + [创建Web表单](sign-advanced-users/webform.md)
       + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [批量发送和收集签名](sign-advanced-users/megasign.md)
+      + [批量发送](sign-advanced-users/megasign.md)
       + [构建自定义工作流](admin/building-a-custom-workflow.md)
    + 高级任务 {#advanced-tasks-admins}
       + [全局设置](admin/learn-about-global-settings.md)

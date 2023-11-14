@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [Send in Bulk](../sign-advanced-users/megasign.md)
+了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
 * [报告选项](report-options.md)
 了解如何为用户设置报告选项
 * [添加用户](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ ht-degree: 2%
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="批量发送和收集签名" src="../assets/Megasign.png" />
+      <img alt="批量发送" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>批量发送和收集签名</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>批量发送</strong></a>
     </div>
-    <em>一次为任何文档收集数百个签名</em>
+    <em>一次为任何文档收集数千个签名</em>
     <br>
   </td>
 </tr>
