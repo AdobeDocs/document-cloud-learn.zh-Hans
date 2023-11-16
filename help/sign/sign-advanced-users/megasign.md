@@ -1,13 +1,13 @@
 ---
 title: 批量发送
-description: 了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
+description: 了解如何只需几个简单的步骤即可一次性为任何文档收集数百个签名
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 44c0c060f7847efb1f20bd0dc0de5bbcbfc49f5e
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 3%
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # 批量发送
 
-了解如何只需几个简单的步骤即可发送和收集数千个签名，从而节省您的组织几小时的时间。 每个人都将获得其自己的要签名的文档，并且可以跟踪向其发送文档的每个人的进度，以便您确切了解哪些人尚未签名。 您捕获的每个在线签名都是安全、可靠且合法的。
+了解如何只需几个简单的步骤即可发送和收集数百个签名，从而节省您的组织几小时的时间。 每个人都将获得其自己的要签名的文档，并且可以跟踪向其发送文档的每个人的进度，以便您确切了解哪些人尚未签名。 您捕获的每个在线签名都是安全、可靠且合法的。
 
 [!BADGE 用例]
 
