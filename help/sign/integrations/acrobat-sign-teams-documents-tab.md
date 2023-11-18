@@ -7,7 +7,7 @@ topic: Integrations
 level: Beginner
 jira: KT-14243
 topic-revisit: Integrations
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: 5a23f2ef4a8558aac6d6d5f4d52e7fe15828f03a
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
