@@ -8,10 +8,10 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 84aa3c18e0da0d4e5c83130c4e3303407ebf784a
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 5%
+source-wordcount: '244'
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 
 ## 下载并安装GigaSign应用程序
 
-[下载GigaSign Zip文件](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
+[下载GigaSign Zip文件](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:d1a3f4f2-0f7b-466f-9785-81dff2217776)
 
 [Java 1.8下载链接（仅在需要时使用）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -31,7 +31,7 @@ ht-degree: 5%
 
 ## 基本设置说明
 
-1. 登录到您的 Acrobat Sign 帐户.
+1. 登录到您的Acrobat Sign帐户。
 
 1. 点击 **[!UICONTROL 群组]** 或 **[!UICONTROL 帐户]**，以您在顶部看到的为准。
 
