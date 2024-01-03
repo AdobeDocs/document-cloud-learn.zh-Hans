@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,9 @@ ht-degree: 0%
 >
 >仅适用于Acrobat Pro。
 
+[!BADGE 组织影响]
+客户数据保护、风险管理
+
 ## 将文本和图像标记为密文
 
 1. 选择 **[!UICONTROL 标记密文]** 从 [!UICONTROL 工具] 中央或右侧窗格。
@@ -32,21 +35,21 @@ ht-degree: 0%
 
    ![将步骤2标记为密文](../assets/Redact_2.png)
 
-   要将信息标记为密文，请首先标记要删除的项目，然后应用密文。 您可以将整个页面或所选内容标记为密文。
+要将信息标记为密文，请首先标记要删除的项目，然后应用密文。 您可以将整个页面或所选内容标记为密文。
 
 1. 选择 **[!UICONTROL 将页面标记为密文]**，然后选择要标记密文的页面或页面范围，并选择 **[!UICONTROL 确定]**.
 
    ![将步骤4标记为密文](../assets/Redact_3.png)
 
-   或者，使用光标选择要标记密文的内容。 将鼠标悬停在选定内容上，可以看到密文的预览。
+或者，使用光标选择要标记密文的内容。 将鼠标悬停在选定内容上，可以看到密文的预览。
 
    ![将步骤5a标记为密文](../assets/Redact_4.png)
 
 1. 选择 **[!UICONTROL 将文本和图像标记为密文]** **>** **[!UICONTROL 查找文本并标记密文]** 查找要标记为密文的特定内容。
 
-   使用搜索框可搜索特定的单词或短语。
+使用搜索框可搜索特定的单词或短语。
 
-1. 选择 **[!UICONTROL 图案]** 查找特定类型的信息，然后选中复选框并选择 **[!UICONTROL 搜索并删除文本]**.
+1. 选择 **[!UICONTROL 图案]** 以查找某些类型 of 信息，然后选中复选框并选择 **[!UICONTROL 搜索并删除文本]**.
 
    ![将步骤5b标记为密文](../assets/Redact_5.png)
 
@@ -64,8 +67,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要加快密文流程，请查看 [Action Wizard](../advanced-tasks/action.md).
+要加快密文流程，请查看 [Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
->本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！
+本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！
