@@ -1,5 +1,5 @@
 ---
-title: 用例配方
+title: 用例
 description: 借助这些政府和商业电子签名示例，加快您组织的数字工作流程
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# 用例配方
+# 用例
 
-借助这些政府和商业电子签名示例，加快您组织的数字工作流程。 单击以查看PDF，其中包含资源以及有关如何设置这些特定电子签名用例的详细信息。
+探索各种组织如何使用Acrobat Sign来转变其组织的数字工作流程，并提供这些实际用例。
 
 ## 新增功能
 

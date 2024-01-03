@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ ht-degree: 0%
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="用例配方" src="../assets/Expand_RecipeR.png" />
+      <img alt="用例" src="../assets/Usecase.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>用例配方</strong></a>
+    <a href="recipes.md"><strong>用例</strong></a>
     </div>
-    <em>下载所需的资源，自行快速部署各种电子签名部门工作流程</em>
+    <em>通过实际使用案例，探索各种组织如何使用Acrobat Sign</em>
     <br>
   </td>
   <td>
