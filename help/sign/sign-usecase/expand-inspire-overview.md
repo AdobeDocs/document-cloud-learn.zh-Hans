@@ -8,9 +8,9 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
     <div>
     <a href="recipes.md"><strong>用例</strong></a>
     </div>
-    <em>通过实际使用案例，探索各种组织如何使用Acrobat Sign</em>
+    <em>探索各种组织如何通过这些实际用例使用Acrobat Sign</em>
     <br>
   </td>
   <td>
