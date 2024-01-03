@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 11%
 # Acrobat SignTutorials {#sign-learning-hub}
 
 + [概述](overview.md)
-+ 开始使用 {#getting-started}
++ 快速入门 {#getting-started}
    + [概述](sign-beginner-tutorials/beginner-users-overview.md)
    + 发送 {#getting-started-sending}
       + [工作区基础知识](sign-beginner-tutorials/quick-tour.md)
@@ -35,7 +35,7 @@ ht-degree: 11%
       + [发送后修改文档](sign-beginner-tutorials/modify-in-flight.md)
       + [替换签名者](sign-beginner-tutorials/replace-signer.md)
       + [设置截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 签名 {#getting-started-signing}
+   + Sign {#getting-started-signing}
       + [对文档进行电子签名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签署文档](sign-beginner-tutorials/fill-and-sign.md)
       + [获取亲自签名](sign-beginner-tutorials/sign-in-person.md)
@@ -54,7 +54,7 @@ ht-degree: 11%
       + [Acrobat Sign中的身份验证方法](sign-advanced-users/authentication-methods.md)
       + [管理表单数据](sign-advanced-users/manage-form-data.md)
       + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
-      + [批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [使用文本标记 [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -65,7 +65,7 @@ ht-degree: 11%
       + [管理Web表单数据](sign-advanced-users/manage-webform-data.md)
 + 管理 {#admin-set-up}
    + [概述](admin/intro-admin-overview.md)
-   + 开始使用 {#getting-started-admin}
+   + 快速入门 {#getting-started-admin}
       + [新管理员快速入门](admin/get-started-admin.md)
       + [管理员启动并运行](admin/up-and-running-admin.md)
       + [配置事件和警告的通知](admin/set-up-shared-events-and-alert.md)
@@ -122,7 +122,7 @@ ht-degree: 11%
       + [设置数据映射](integrations/set-up-data-mapping.md)
       + [设置合并映射](integrations/set-up-merging-map.md)
       + [创建自定义按钮](integrations/create-a-custom-button.md)
-   + 工作日 {#workday}
+   + Workday {#workday}
       + [配置Acrobat Sign [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday新员工入职培训](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [概述](sign-usecase/expand-inspire-overview.md)
    + 技能生成器 {#innovation}
       + [在线研讨会](sign-usecase/innovation-series.md)
-   + 用例配方 {#recipes}
+   + 用例 {#recipes}
       + [概述](sign-usecase/recipes.md)
-      + 政府版 {#gov}
+      + 政府 {#gov}
          + [具有多个未知签名者的政府贷款申请](sign-usecase/webform-multiple-signers.md)
          + [业务赠款和贷款](sign-usecase/usecasegovgrants.md)
          + [远程工作协议](sign-usecase/usecasegovtelework.md)
@@ -162,7 +162,7 @@ ht-degree: 11%
       + [创建嵌入式电子签名和文档体验](develop/embeddedesignature.md)
 + 部署 {#deploy}
    + [概述](deploy-overview.md)
-+ 移动设备 {#mobile}
++ 移动版 {#mobile}
    + [概述](mobile/mobile-overview.md)
    + 移动教程 {#mobile-tutorials}
       + [随时随地签署文档](mobile/sign-mobile.md)
