@@ -1,13 +1,13 @@
 ---
 title: Adobe Acrobat技能构建器网络研讨会
-description: Adobe Acrobat技能构建器课程时长30分钟，旨在将您的PDf工作流程提升到一个新的水平
+description: Adobe Acrobat技能构建器课程时长30分钟，旨在提升您的PDF工作流程水平
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
 role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
+source-git-commit: f245b71242d37319be5bd7c4faa5d0b6467c2f2a
 workflow-type: tm+mt
 source-wordcount: '1015'
 ht-degree: 0%
