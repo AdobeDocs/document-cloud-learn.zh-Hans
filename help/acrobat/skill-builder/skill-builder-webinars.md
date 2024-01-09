@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: f07f19cd96b9615a4f5fdf8ddf4d7eec51ed5fe0
+source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1017'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,26 @@ ht-degree: 0%
 Adobe Acrobat技能构建器课程时长30分钟，旨在提升您的PDF工作流程水平。 每月都会突出显示一个新主题。
 
 ## 每月会话
+
+**[发现6个基本的Adobe Acrobat工具](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
+日期：2024年1月24日了解行业报告如何描述数字工作领域的顶级趋势，以及Acrobat如何轻松整合文档工作流程以节省每个团队的宝贵时间。
+我们将向您展示如何：
+
+* 在多个表面顺畅地导航Acrobat
+* 轻松合并和编辑文档
+* 轻松协作 — 即使在Microsoft Teams中也是如此
+* 具有世界一流安全性的Protect文档
+* 快速发送文档并进行电子签名
+
+**[Adobe Acrobat快速入门](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
+日期：2024年1月18日了解Adobe Acrobat如何通过大量处理日常文档任务来支持快速、安全的业务。
+您将学习如何：
+
+* 在多个表面顺畅地导航Acrobat
+* 快速合并和编辑文档
+* 轻松协作 — 即使在Microsoft Teams中也是如此
+* 通过几个简单的步骤即可获得Protect的重要信息
+* 使用Adobe Acrobat Sign创建轻松的电子签名工作流程
 
 **[简单的Action Wizard自动化](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
 日期：2023年11月16日停止重复简单的手动任务。 该课程将介绍如何使用Acrobat Pro中的Action Wizard功能批量处理PDF文件并自动执行串行重复性任务 — 例如使文档可访问、保护文档、优化文件、归档等。 您将了解：
