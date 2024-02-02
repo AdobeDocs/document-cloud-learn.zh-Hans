@@ -5,10 +5,11 @@ breadcrumb-title: AcrobatTutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +17,7 @@ ht-degree: 6%
 # AcrobatTutorials {#acrobat-learning}
 
 + [概述](overview.md)
-+ 开始使用 {#getting-started}
++ 快速入门 {#getting-started}
    + [概述](getting-started/getting-started-overview.md)
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作区体验](getting-started/new-workspace.md)
@@ -107,7 +108,7 @@ ht-degree: 6%
    + [处理文件来自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + 行业和部门 {#by-industry}
    + [概述](industry/industry-overview.md)
-   + 政府版 {#gov}
+   + 政府 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
          + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -116,7 +117,7 @@ ht-degree: 6%
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
          + [提示#4 — 处理表单和签名](industry/gov/work-with-forms-and-signatures.md)
          + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
-      + 无障碍访问 {#pdfs}
+      + 辅助功能 {#pdfs}
          + [使PDF可访问](industry/gov/making-pdfs-accessible.md)
          + [#1 — 了解辅助功能](industry/gov/understanding-accessibility.md)
          + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
@@ -127,7 +128,7 @@ ht-degree: 6%
 + 部署 {#deploy}
    + [概述](deploy/deploy-overview.md)
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
-+ 移动设备 {#mobile}
++ 移动版 {#mobile}
    + [概述](mobile/mobile-overview.md)
    + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
