@@ -8,7 +8,7 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
+source-git-commit: bde9c284fcec330c0ebee29c6146c97cf66f96aa
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 GigaSign的功能将添加到产品中的 [Send in Bulk](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) 功能。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
+>GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 GigaSign的功能将添加到产品中的 [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?) 功能。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
