@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 25aa2a1255431787b5db306781eba22707129111
+source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 1%
 
 借助Gigasign，您可以同时向数千人发送、收集和跟踪文档，以供其签名。 它旨在与您的员工和客户进行高容量通信 — 每次批量发送最多支持2,500个收件人。 GigaSign使用Acrobat Sign API提供与MegaSign相同的功能，并且包括支持多个签名者、接收者组、接收者角色、协议名称、Carbon Copy等。
 
+>[!IMPORTANT]
+>
+>GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 GigaSign的功能将添加到产品中的 [Send in Bulk](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) 功能。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
+
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## 下载并安装GigaSign应用程序
 
-[下载GigaSign Zip文件](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
+[下载GigaSign Zip文件](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Java 1.8下载链接（仅在需要时使用）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -51,4 +55,4 @@ ht-degree: 1%
 
 1. 在第二行中输入用于创建该键的帐户的电子邮件地址。
 
-1. 单击&#x200B;**[!UICONTROL 提交]**。
+1. 单击&#x200B;**[!UICONTROL “提交”]**。
