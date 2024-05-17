@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [创建PDF](create-pdf.md)
+了解如何从所有不同类型的文档创建PDF
+
 * [设置此PDF的风格](stylize-this-PDF.md)
 了解如何使用Adobe Express中集成且易于使用的设计PDF来创建专业外观的工具
-* [随时随地使用Acrobat Web](acrobatweb.md)
-了解如何使用浏览器中的Acrobat Web工具从任何地方处理业务文档请求
 
 ## 快速入门教程
 
