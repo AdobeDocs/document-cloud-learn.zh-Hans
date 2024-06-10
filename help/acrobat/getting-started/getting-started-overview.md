@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [编辑PDF中的文本](edit-pdf.md)
+了解如何编辑PDF中的单词、短语甚至整个页面
+
 * [创建PDF](create-pdf.md)
 了解如何从所有不同类型的文档创建PDF
-
-* [设置此PDF的风格](stylize-this-PDF.md)
-了解如何使用Adobe Express中集成且易于使用的设计PDF来创建专业外观的工具
 
 ## 快速入门教程
 
@@ -158,7 +158,7 @@ ht-degree: 2%
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="编辑 PDF" src="../assets/Edit.jpg" />
+        <img alt="编辑PDF中的文本" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>编辑PDF</strong></a>
