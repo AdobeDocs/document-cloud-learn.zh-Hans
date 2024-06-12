@@ -1,22 +1,22 @@
 ---
-title: 将PDF导出为Microsoft Office格式
-description: 了解如何将PDF文件导出为可编辑的格式，如Microsoft Word、Excel或PowerPoint
+title: 将PDF转换为不同的文件格式
+description: 了解如何将PDF文件转换为不同的文件格式，如Microsoft Word、Excel或PowerPoint
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
-# 将PDF导出为Microsoft Office格式
+# 将PDF转换为其他文件格式
 
-了解如何将PDF文件导出为可编辑的格式，例如 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html)， [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). 导出为其他文件格式允许您对文档进行重大修订和更新。
+了解如何将PDF文件转换为不同的文件格式，例如 [Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html)， [PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和 [Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html). 正在将您的PDF转换为 [Adobe Express](https://express.adobe.com) 还包括添加品牌化设计元素。 当您将PDF转换为其他文件格式(如Microsoft Word)时，它会提高文档工作流程的效率，并在对长文档进行大量更改时节省大量时间。
 
 >[!TIP]
 >

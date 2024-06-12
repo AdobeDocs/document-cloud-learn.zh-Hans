@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 通过这些简单的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或 [编辑PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松进入PDF工作流程。
 
 ## 新增功能
+
+* [将PDF转换为其他文件格式](export-pdf.md)
+了解如何将PDF文件转换为不同的文件格式，如Microsoft Word、Excel或PowerPoint
 
 * [编辑PDF中的文本](edit-pdf.md)
 了解如何编辑PDF中的单词、短语甚至整个页面
@@ -188,12 +191,12 @@ ht-degree: 1%
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="将PDF导出为可编辑的格式" src="../assets/Export.jpg" />
+        <img alt="将PDF转换为其他文件格式" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>将PDF导出为可编辑的格式</strong></a>
+      <a href="export-pdf.md"><strong>将PDF转换为其他文件格式</strong></a>
       </div>
-      <em>了解如何将PDF文件导出为可编辑的格式</em>
+      <em>了解如何将PDF文件转换为不同的文件格式，如Microsoft Word、Excel或PowerPoint</em>
       <br>
     </td>
   </tr>
