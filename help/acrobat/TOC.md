@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '473'
-ht-degree: 4%
+source-wordcount: '480'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 4%
    + [概述](getting-started/getting-started-overview.md)
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作区体验](getting-started/new-workspace.md)
+   + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [随时随地提高工作效率](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)

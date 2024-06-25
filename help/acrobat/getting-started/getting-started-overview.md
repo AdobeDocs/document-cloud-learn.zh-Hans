@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 通过这些简单的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或 [编辑PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松进入PDF工作流程。
 
 ## 新增功能
+
+* [用AI助手发现PDF见解](ai-assistant.md)
+了解如何使用AI Assistant从PDF文件中获得见解
 
 * [将PDF转换为其他文件格式](export-pdf.md)
 了解如何将PDF文件转换为不同的文件格式，如Microsoft Word、Excel或PowerPoint
@@ -54,6 +57,16 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="用AI助手发现PDF见解" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>用AI助手发现PDF见解</strong></a>
+    </div>
+    <em>了解如何使用AI Assistant从PDF文件中获得见解</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="随时随地使用Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ ht-degree: 1%
     <em>了解如何使用浏览器中的Acrobat Web工具从任何地方处理业务文档请求</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="随时随地提高工作效率" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ ht-degree: 1%
     <em>使用Acrobat Reader移动应用程序，直接从平板电脑或手机执行更多操作</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="使用Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ ht-degree: 1%
       <a href="where-do-pdfs-come-from.md"><strong>PDF来自哪里？</strong></a>
       </div>
       <em>了解PDF的来源及其用途</em>
-      <br>
-    </td>
-    <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
