@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ ht-degree: 1%
 
 ## 新增功能
 
+* [新的工作区体验](new-workspace.md)
+了解Acrobat中的新工作区，该工作区可帮助您快速发现工具并高效完成PDF任务
+
 * [用AI助手发现PDF见解](ai-assistant.md)
 了解如何使用AI Assistant从PDF文件中获得见解
 
@@ -29,13 +32,21 @@ ht-degree: 1%
 * [编辑PDF中的文本](edit-pdf.md)
 了解如何编辑PDF中的单词、短语甚至整个页面
 
-* [创建PDF](create-pdf.md)
-了解如何从所有不同类型的文档创建PDF
 
 ## 快速入门教程
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="新的工作区体验" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>新的工作区体验</strong></a>
+    </div>
+    <em>了解Acrobat中的新工作区，该工作区可帮助您快速发现工具并高效完成PDF任务</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="工作区基础知识" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ ht-degree: 1%
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作区基础知识</strong></a>
     </div>
     <em>了解Acrobat工作区如何让您在桌面、Web和移动设备上轻松访问文件和工具</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="新的工作区体验" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>新的工作区体验</strong></a>
-    </div>
-    <em>了解您可以在Acrobat中激活的新工作区体验</em>
     <br>
   </td>
   <td>
