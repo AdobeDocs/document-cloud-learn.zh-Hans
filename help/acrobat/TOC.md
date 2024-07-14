@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 3%
 # AcrobatTutorials {#acrobat-learning}
 
 + [概述](overview.md)
-+ 快速入门 {#getting-started}
++ 开始使用{#getting-started}
    + [概述](getting-started/getting-started-overview.md)
-   + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [新的工作区体验](getting-started/new-workspace.md)
+   + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [随时随地提高工作效率](getting-started/productivity.md)
    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
    + [创建PDF](getting-started/create-pdf.md)
-   + [从Combine FilesPDF](getting-started/combine-to-pdf.md)
+   + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
    + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑PDF中的文本](getting-started/edit-pdf.md)
@@ -42,7 +42,7 @@ ht-degree: 3%
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [获取签名](getting-started/signatures.md)
    + [跟踪文档](getting-started/track.md)
-+ 高级任务 {#advanced-tasks}
++ 高级任务{#advanced-tasks}
    + [概述](advanced-tasks/advanced-tasks-overview.md)
    + [添加书签和超链接](advanced-tasks/bookmarks.md)
    + [优化扫描的文档](advanced-tasks/optimizescan.md)
@@ -57,7 +57,7 @@ ht-degree: 3%
    + [减小文件大小并进行优化](advanced-tasks/reduce.md)
    + [使用表单数据](advanced-tasks/formdata.md)
    + [检查PDF辅助功能](advanced-tasks/accessibility.md)
-   + Acrobat辅助功能系列 {#accessibility-series}
+   + Acrobat辅助功能系列{#accessibility-series}
       + [概述](advanced-tasks/accessibility-series.md)
       + [PDF辅助功能简介](advanced-tasks/accessibilitysession1.md)
       + [修正不可访问的PDF](advanced-tasks/accessibilitysession2.md)
@@ -94,42 +94,42 @@ ht-degree: 3%
    + [将PDF匹配到标准格式](60-second/conform.md)
    + [使用“PDF比较”发现差异](60-second/compare.md)
    + [一次搜索多个PDF文件](60-second/search.md)
-+ 技能构建者 {#skill-builders}
++ 技能构建者{#skill-builders}
    + [在线研讨会](skill-builder/skill-builder-webinars.md)
-+ 集成 {#integrations}
++ 集成{#integrations}
    + [概述](integrate/integrate-overview.md)
-   + [创建PDF来源 [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [创建PDF [!DNL Office] 用于web](integrate/createofficeweb.md)
-   + [PDF协作 [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [使用您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
-   + [将电子邮件和附件转换为PDF [!DNL Outlook]](integrate/outlook.md)
-   + [浏览时创建PDF内容 [!DNL Microsoft Edge]](integrate/edge.md)
-   + [ProtectPDF使用 [!DNL Microsoft Purview Information] 敏感度标签](integrate/microsoftsensitivitylabels.md)
-   + [Adobe Acrobat用于 [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [处理文件来自 [!DNL Dropbox]](integrate/acrobat-dropbox.md)
-+ 行业和部门 {#by-industry}
+   + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
+   + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
+   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+   + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
+   + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
+   + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
+   + [使用 [!DNL Microsoft Purview Information] 敏感度标签的ProtectPDF](integrate/microsoftsensitivitylabels.md)
+   + [适用于 [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+   + [处理来自 [!DNL Dropbox]的文件](integrate/acrobat-dropbox.md)
++ 行业和部门{#by-industry}
    + [概述](industry/industry-overview.md)
-   + 政府 {#gov}
+   + 政府{#gov}
       + [概述](industry/gov/gov-overview.md)
-      + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + 使用Acrobat {#tips}随时随地工作的5个提示
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
          + [提示#4 — 处理表单和签名](industry/gov/work-with-forms-and-signatures.md)
          + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
-      + 辅助功能 {#pdfs}
+      + 辅助功能{#pdfs}
          + [使PDF可访问](industry/gov/making-pdfs-accessible.md)
          + [#1 — 了解辅助功能](industry/gov/understanding-accessibility.md)
          + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
          + [#3 — 在Acrobat中完成](industry/gov/finishing-in-acrobat.md)
          + [使PDF选票更易于获得](industry/gov/making-pdf-ballots-accessible.md)
-+ 开发 {#develop}
++ 开发{#develop}
    + [概述](develop/develop-overview.md)
-+ 部署 {#deploy}
++ 部署{#deploy}
    + [概述](deploy/deploy-overview.md)
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
-+ 移动版 {#mobile}
++ 移动设备{#mobile}
    + [概述](mobile/mobile-overview.md)
    + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
