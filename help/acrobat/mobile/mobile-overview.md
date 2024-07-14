@@ -8,16 +8,16 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
 # 移动设备概述
 
-创建、填充和 [签名PDF](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}  在移动设备上。
+在移动设备上创建、填写和签署PDF](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}。[
 
 ## Acrobat Reader移动应用程序教程
 
@@ -25,13 +25,8 @@ ht-degree: 7%
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="随时随地提高工作效率" src="../assets/Productivity_1280.png" />
+      <img alt="随时随地提高工作效率" src="../assets/productivity.png" />
     </a>
-    <div>
-     <a href="../getting-started/productivity.md"><strong>随时随地提高工作效率</strong></a>
-    </div>
-    <em>使用Acrobat Reader移动应用程序，直接从平板电脑或手机执行更多操作</em>
-    <br>
   </td>
   <td>
    <img alt="间隔物" src="../assets/Whitespacer.png" />
@@ -83,14 +78,14 @@ ht-degree: 7%
 </tr>
 </table>
 
-下载 [Adobe Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} 用于可靠地查看、批注和签署PDF的免费全球标准。
+下载[Adobe Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"}免费的全球标准，以可靠地查看、批注和签署PDF。
 
 [适用于iOS的Acrobat Reader移动指南](https://www.adobe.com/devnet-docs/acrobat/ios/cn/){target="_blank"}
-[适用于Android的Acrobat Reader移动指南](https://www.adobe.com/devnet-docs/acrobat/android/cn/){target="_blank"}
+[Acrobat Reader for Android移动版指南](https://www.adobe.com/devnet-docs/acrobat/android/cn/){target="_blank"}
 
-下载 [Adobe Scan移动应用程序](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} 以捕捉任何纸质文档，并将其转换为包含可搜索文本的高质量PDF。
+下载[Adobe Scan移动应用程序](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"}以捕获任何纸质文档，并将其转换为包含可搜索文本的高质量PDF。
 
 [适用于iOS的Adobe Scan移动指南](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[适用于Android的Adobe Scan移动指南](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[Adobe Scan for Android移动版指南](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-下载 [Adobe Fill &amp; Sign移动应用程序](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} 只需用手指或手写笔，即可随时随地在任何设备上填写、签署和发送任何表单。
+下载[Adobe Fill &amp; Sign移动应用程序](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}，只需用手指或手写笔，即可随时随地在任意设备上填写、签名和发送任何表单。
