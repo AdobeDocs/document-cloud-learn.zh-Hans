@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ ht-degree: 4%
 
 ## 新增功能
 
+* [在PDF中编辑图形](edit-graphics.md)
+了解如何在PDF中创建、编辑和增强图形
 * [新的工作区体验](new-workspace.md)
 了解Acrobat中的新工作区，该工作区可帮助您快速发现工具并高效完成PDF任务
 * [使用AI Assistant发现PDF见解](ai-assistant.md)
 了解如何使用AI Assistant从PDF文件中获得见解
-* [将PDF转换为其他文件格式](export-pdf.md)
-了解如何将PDF文件转换为不同的文件格式，如Microsoft Word、Excel或PowerPoint
-* [编辑PDF中的文本](edit-pdf.md)
-了解如何编辑PDF中的单词、短语甚至整个页面
 
 ## 快速入门教程
 
@@ -112,6 +110,11 @@ ht-degree: 4%
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="在PDF中编辑图形" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="设置此PDF的风格" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ ht-degree: 4%
         <img alt="自动调整布局" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="将PDF转换为其他文件格式" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## 协作教程
 
