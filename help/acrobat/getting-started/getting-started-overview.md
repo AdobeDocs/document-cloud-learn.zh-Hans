@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ ht-degree: 2%
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="实时协作" src="../assets/Collaborate_1280.png" />
+        <img alt="实时协作" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>实时协作</strong></a>
-      </div>
-      <em>随时随地实时收集评论、协作处理响应并跟踪文档的进度，从而推动您的项目前进</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="对PDF发表评论" src="../assets/Comment.jpg" />
+        <img alt="对PDF发表评论" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>对PDF发表评论</strong></a>
-      </div>
-      <em>向PDF文件添加注释，然后与他人共享</em>
-      <br>
     </td>
     <td>
     <img alt="间隔物" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="创建可填写表单" src="../assets/Form_1280.png" />
+      <img alt="创建可填写表单" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>创建可填写表单</strong></a>
-    </div>
-    <em>将在其他应用程序中创建的文档转换为可填写的PDF表单</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="填写并签署PDF表单" src="../assets/FillSign_1280.png" />
+      <img alt="填写并签署PDF表单" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; SignPDF forms</strong></a>
-    </div>
-    <em>快速填写并签署PDF表单</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="扫描和OCR" src="../assets/Scan.jpg" />
+      <img alt="扫描和OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>扫描和OCR</strong></a>
-    </div>
-    <em>在不影响共享、发布或存档质量的情况下，减少大型文件并优化您的PDF</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect带密码的PDF文件" src="../assets/Protect.jpg" />
+      <img alt="Protect带密码的PDF文件" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect具有密码的PDF文件</strong></a>
-    </div>
-    <em>向您的PDF添加密码以保护其他人无法打开或编辑文件</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="获取签名" src="../assets/Signatures_1280.png" />
+      <img alt="获取签名" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>获取签名</strong></a>
-    </div>
-    <em>通过从任何地方收集他人具有法律约束力的电子签名来保持业务运转</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="跟踪文档" src="../assets/Track_1280.png" />
+      <img alt="跟踪文档" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>跟踪您的文档</strong></a>
-    </div>
-    <em>始终了解哪些文件正在等待签名，哪些文件已签名</em>
-    <br>
   </td>
   <td>
    <img alt="间隔物" src="../assets/Grayspacer.png" />
