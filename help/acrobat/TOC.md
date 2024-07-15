@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
+source-git-commit: 91017fe122eae4de793037372f249aba9308350b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '488'
 ht-degree: 3%
 
 ---
@@ -31,6 +31,7 @@ ht-degree: 3%
    + [组织页面](getting-started/organize.md)
    + [添加自定义页面](getting-started/add-custom-page.md)
    + [编辑PDF中的文本](getting-started/edit-pdf.md)
+   + [在PDF中编辑图形](getting-started/edit-graphics.md)
    + [设置此PDF的风格](getting-started/stylize-this-PDF.md)
    + [自动调整布局](getting-started/auto-adjust-layout.md)
    + [将PDF转换为其他文件格式](getting-started/export-pdf.md)
