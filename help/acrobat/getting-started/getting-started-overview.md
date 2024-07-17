@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
+source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 4%
@@ -203,7 +203,7 @@ ht-degree: 4%
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="获取签名" src="../assets/signnatures.png" />
+      <img alt="获取签名" src="../assets/signatures.png" />
     </a>
   </td>
   <td>
