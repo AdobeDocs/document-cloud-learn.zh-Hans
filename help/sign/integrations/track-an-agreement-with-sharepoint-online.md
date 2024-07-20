@@ -11,7 +11,7 @@ thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是课程的一部分 [在Microsoft应用程序中使用Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) 可在Experience League上免费获得！
+>此视频是Experience League上可免费参加的[“在Microsoft应用程序中使用Acrobat Sign”](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2)课程的一部分！

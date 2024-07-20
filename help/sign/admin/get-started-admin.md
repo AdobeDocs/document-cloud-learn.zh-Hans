@@ -9,7 +9,7 @@ thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60"><strong>访问Admin Console</strong></a>
          <br>
-        <em>1点开始</em>
+        <em>从1:00开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105">
@@ -38,7 +38,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105"><strong>向用户授权Acrobat Sign</strong></a>
         <br>
-        <em>1点45分开始</em>
+        <em>从1:45开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191">
@@ -48,7 +48,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191"><strong>Acrobat Sign Web门户概述</strong></a>
         <br>
-        <em>3点11分开始</em>
+        <em>开始于3:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358">
@@ -58,7 +58,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>全局设置和配置</strong></a>
         <br>
-        <em>5点58分开始</em>
+        <em>从5:58开始</em>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>帐户品牌推广和设置</strong></a>
          <br>
-        <em>7点40分开始</em>
+        <em>从7:40开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502">
@@ -80,7 +80,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502"><strong>签名首选项</strong></a>
         <br>
-        <em>8点22分开始</em>
+        <em>从8:22开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543">
@@ -88,9 +88,9 @@ ht-degree: 0%
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543"><strong>安全性设置</strong></a>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543"><strong>安全设置</strong></a>
         <br>
-        <em>9点半开始</em>
+        <em>从9:03开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595">
@@ -100,7 +100,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595"><strong>发送设置</strong></a>
         <br>
-        <em>9点55分开始</em>
+        <em>从9:55开始</em>
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=720"><strong>消息模板</strong></a>
          <br>
-        <em>12点开始</em>
+        <em>12:00开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755">
@@ -122,7 +122,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755"><strong>电子邮件设置</strong></a>
         <br>
-        <em>12点35分开始</em>
+        <em>12:35开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783">
@@ -132,7 +132,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783"><strong>用户和组管理</strong></a>
         <br>
-        <em>13点03分开始</em>
+        <em>13:03开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917">
@@ -142,7 +142,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>创建和激活工作流</strong></a>
         <br>
-        <em>15点17分开始</em>
+        <em>15:17开始</em>
   </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ ht-degree: 0%
     <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>访问支持和其他资源</strong></a>
         <br>
-        <em>19点05分开始</em>
+        <em>19:05开始</em>
     </td>
   </tr>
   </table>

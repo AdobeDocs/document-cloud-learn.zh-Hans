@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat用于 [!DNL Google Drive]
-description: 可直接在中访问省时的PDF工具和电子签名工作流程 [!DNL Google Drive] 应用程序
+title: 适用于 [!DNL Google Drive]的Adobe Acrobat
+description: 直接在 [!DNL Google Drive] 应用程序中访问省时的PDF工具和电子签名工作流程
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Adobe Acrobat用于 [!DNL Google Drive]
+# 适用于[!DNL Google Drive]的Adobe Acrobat
 
-了解如何直接在中访问节省时间的PDF工具和电子签名工作流程 [!DNL Google Drive] 应用程序。
+了解如何直接在[!DNL Google Drive]应用程序中访问节省时间的PDF工具和电子签名工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

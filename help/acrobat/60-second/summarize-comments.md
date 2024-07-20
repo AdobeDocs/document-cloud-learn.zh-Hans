@@ -5,8 +5,8 @@ feature: Collaboration
 role: User
 level: Intermediate
 jira: KT-13298
-exl-id: ae50f2c7-3636-4095-8a63-025382ebbe07
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: 320d4094-dc23-4a5a-8975-e5e6b96105e5
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

@@ -9,14 +9,14 @@ thumbnail: KT-8257.jpg
 exl-id: 58c432b1-2067-4a67-b386-ab7d35453543
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 7%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 获取签名
 
-通过收集具有法律约束力的资源来保持业务运转 [电子签名](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"} 来自他人，来自任何地方。
+通过从任何地方收集具有法律约束力的[电子签名](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}来保持业务运转。
 
 >[!IMPORTANT]
 >
@@ -26,4 +26,4 @@ ht-degree: 7%
 
 >[!TIP]
 >
->了解如何 [跟踪文档](track.md) 已在一个简单位置发送以供签名。
+>了解如何[在一个简单位置跟踪已发送以供签名的文档](track.md)。

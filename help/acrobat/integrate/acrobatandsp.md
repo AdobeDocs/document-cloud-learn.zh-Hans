@@ -1,6 +1,6 @@
 ---
-title: 使用您的 [!DNL SharePoint] 文件
-description: 简化文档工作流程 [!DNL SharePoint] 和Acrobat，使用Adobe Acrobat [!DNL Microsoft 365]
+title: 处理您的 [!DNL SharePoint] 文件
+description: 使用 [!DNL Microsoft 365]的Adobe Acrobat简化 [!DNL SharePoint] 和Acrobat的文档工作流
 feature: Integrations, Create PDF, Collaboration
 role: User
 topic: Integrations
@@ -11,18 +11,18 @@ thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 3%
+source-wordcount: '113'
+ht-degree: 0%
 
 ---
 
-# 使用您的 [!DNL SharePoint] 文件
+# 处理您的[!DNL SharePoint]文件
 
-简化文档工作流程 [!DNL SharePoint] 和Acrobat，使用 [适用于Microsoft 365的Adobe Acrobat](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). 安全转换 [!DNL Microsoft 365] 文件到PDF， [合并PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} 导入一个文件，添加注释并重新排列页面 — 直接从 [!DNL SharePoint] 在线。
+使用[Adobe Acrobat for Acrobat 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)简化[!DNL SharePoint]和Microsoft的文档工作流程。 将[!DNL Microsoft 365]个文件安全地转换为PDF，[将PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}合并为一个文件，添加注释并重新排列页面 — 可直接从[!DNL SharePoint]在线完成。
 
 >[!NOTE]
 >
->Adobe Acrobat用于 [!DNL SharePoint]， [!DNL OneDrive]和 [!DNL Office 365] 包括可供所有用户使用的免费功能(如在PDF内查看和搜索)。 某些功能(如创建和合并PDF)需要付费的Acrobat团队版或Acrobat企业版订阅。
+>适用于[!DNL SharePoint]、[!DNL OneDrive]和[!DNL Office 365]的Adobe Acrobat包含可供所有用户使用的免费功能(例如，在PDF内查看和搜索)。 某些功能(如创建和合并PDF)需要付费的Acrobat团队版或Acrobat企业版订阅。
 
 <br> 
 
@@ -30,4 +30,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！
+>此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！

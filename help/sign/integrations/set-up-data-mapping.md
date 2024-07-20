@@ -1,6 +1,6 @@
 ---
 title: 设置数据映射
-description: 了解如何在中设置Acrobat Sign的数据映射 [!DNL Salesforce]
+description: 了解如何在 [!DNL Salesforce]中为Acrobat Sign设置数据映射
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 在中设置数据映射 [!DNL Salesforce]
+# 在[!DNL Salesforce]中设置数据映射
 
-了解如何在中为Acrobat Sign设置数据映射 [!DNL Salesforce]. “数据映射”允许您提取数据 _返回_ 到 [!DNL Salesforce] 在签署协议之后。
+了解如何在[!DNL Salesforce]中为Acrobat Sign设置数据映射。 数据映射允许您在签署协议后将数据&#x200B;_拉回_&#x200B;到[!DNL Salesforce]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

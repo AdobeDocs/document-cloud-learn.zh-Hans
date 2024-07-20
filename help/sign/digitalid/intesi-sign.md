@@ -1,6 +1,6 @@
 ---
-title: 签名使用 [!DNL Intesi Group]
-description: 了解如何使用您的 [!DNL Intesi Group] 使用Acrobat Sign创建数字身份证
+title: 使用 [!DNL Intesi Group]签名
+description: 了解如何在Acrobat Sign中使用您的 [!DNL Intesi Group] 数字ID
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 签名使用 [!DNL Intesi Group]
+# 使用[!DNL Intesi Group]进行签名
 
-了解如何使用您的 [!DNL Intesi Group] 数字身份证，用于验证您的身份并授权文档上的远程数字签名（云签名）。
+了解如何使用您的[!DNL Intesi Group]数字ID来验证您的身份并授权文档上的远程数字签名（云签名）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

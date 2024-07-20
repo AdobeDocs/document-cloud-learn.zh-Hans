@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 商业合同和申购单
 
-使用合规的数字工作流程快速取代纸面处理，辅以审核报告。 了解 [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) 可帮助简化整个过程的工具。
+使用合规的数字工作流程快速取代纸面处理，辅以审核报告。 了解[Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md)工具，以帮助简化整个流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 选择以下载或打开合同和申请表单的分步PDF处方。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

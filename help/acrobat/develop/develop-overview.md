@@ -9,7 +9,7 @@ thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ## ACROBAT SDK
 
-该 [ACROBAT SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} 是一组工具，可帮助您开发与Acrobat技术交互的软件。
+[Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"}是一组工具，可帮助您开发与Acrobat技术交互的软件。
 
 ## Adobe Acrobat Services API
 
 [Adobe PDF Services API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
-[Adobe PDF Extract API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-[Document Generation APIAdobe](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
+[Adobe PDF提取API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
+[Adobe的Document Generation API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 [Adobe Acrobat Services教程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}

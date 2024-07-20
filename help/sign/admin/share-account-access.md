@@ -9,7 +9,7 @@ thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是课程的一部分 [面向管理员的高级任务](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) 可在Experience League上免费获得！
+>此视频是可在Experience League上免费参加的[管理员高级](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1)课程的一部分！

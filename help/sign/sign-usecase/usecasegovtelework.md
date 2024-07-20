@@ -22,4 +22,4 @@ ht-degree: 0%
 
 选择以下载或打开远程工作PDF的分步说明方法。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

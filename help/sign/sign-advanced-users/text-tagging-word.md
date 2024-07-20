@@ -1,6 +1,6 @@
 ---
-title: 使用文本标记 [!DNL Microsoft Word]
-description: 了解如何通过在以下位置添加Acrobat Sign文本标记来创建可重用的文档模板 [!DNL Microsoft Word]
+title: 在 [!DNL Microsoft Word]中使用文本标记
+description: 了解如何通过在 [!DNL Microsoft Word]中添加Acrobat Sign文本标记来创建可重用的文档模板
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 使用文本标记 [!DNL Microsoft Word]
+# 在[!DNL Microsoft Word]中使用文本标记
 
-了解如何通过在以下位置添加Acrobat Sign文本标记来创建可重用的文档模板 [!DNL Microsoft Word]. 当文档发送以供签名时，文本标记会自动在文档上创建表单字段，无需手动放置字段。 此流程可显着减少修订和更改所需的时间。 [!DNL Microsoft Word] 您发送以供签名的文档。
+了解如何通过在[!DNL Microsoft Word]中添加Acrobat Sign文本标记来创建可重用的文档模板。 当文档发送以供签名时，文本标记会自动在文档上创建表单字段，无需手动放置字段。 此流程可显着缩短对您发送以供签名的[!DNL Microsoft Word]文档进行修订和更改所需的时间。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)

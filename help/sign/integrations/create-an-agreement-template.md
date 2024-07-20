@@ -1,5 +1,5 @@
 ---
-title: Document Builder版本 [!DNL Salesforce]
+title: 适用于 [!DNL Salesforce]的Document Builder
 description: 了解如何使用适用于Salesforce的Document Builder创建可重复使用的文档模板
 feature: Integrations
 role: User, Admin
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Document Builder版本 [!DNL Salesforce]
+# 适用于[!DNL Salesforce]的Document Builder
 
 了解如何使用适用于Salesforce的Document Builder创建可重复使用的文档模板。 可重复使用的文档模板可确保Sign事务的速度和一致性，并能够管理文档修订和更改。
 

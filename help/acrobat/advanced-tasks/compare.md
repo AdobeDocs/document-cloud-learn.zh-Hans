@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
-本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！
+此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！
 
 >[!NOTE]
 >

@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # 创建PDF
 
-了解如何 [从所有不同类型的文档创建PDF](https://www.adobe.com/acrobat/online/convert-pdf.html). 从在Microsoft Office或Creative Cloud应用程序中创建的文件开始，或者使用图像、扫描文件，甚至网站。 将内容转变为PDF提供了一种方便而可靠的方法，用于在保留原始格式的同时，共享、保留和安全文档。 本视频教程使用 [新的工作区体验](new-workspace.md).
+了解如何[从所有不同类型的文档创建PDF](https://www.adobe.com/acrobat/online/convert-pdf.html)。 从在Microsoft Office或Creative Cloud应用程序中创建的文件开始，或者使用图像、扫描文件，甚至网站。 将内容转变为PDF提供了一种方便而可靠的方法，用于在保留原始格式的同时，共享、保留和安全文档。 此视频教程使用[新工作区体验](new-workspace.md)。
 
 >[!TIP]
 >
->你经常使用Microsoft Office吗？ 查看这些 [集成](../integrate/integrate-overview.md#microsoft) 允许您直接在您喜爱的OfficePDF内创建应用程序。
+>你经常使用Microsoft Office吗？ 查看这些[集成](../integrate/integrate-overview.md#microsoft)，它们允许您直接在您喜爱的OfficePDF内创建应用程序。
 
 <br> 
 
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 需要此教程的便携版本？ 选择PDF图标以打开或下载本教程的书面版本。
 
-[![PDF图标图像](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}
+[![PDF的图标图像](../assets/acrobat_PDF_96.png)](../assets/create_a_pdf.pdf){target="blank"}

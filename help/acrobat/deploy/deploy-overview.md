@@ -9,8 +9,8 @@ thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 4%
+source-wordcount: '101'
+ht-degree: 0%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 4%
 
 与我们的客户合作，获得具有宝贵见解和知识的部署和最佳实践文章。
 
-* 了解如何 [部署Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} 如果您使用的是Adobe®Creative Cloud™团队版或企业版。
+* 了解在使用适用于团队或企业的Adobe®Creative Cloud™时，如何[部署Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"}。
 
-* 了解 [适用于Acrobat产品的企业工具包](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} 要在整个企业内部署自定义产品，请设置虚拟化安装并创建企业PDF工作流程。
+* 了解[适用于Acrobat产品的企业工具包](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}，以在整个组织间部署自定义产品、设置虚拟化安装以及创建企业PDF工作流。
 
-* 了解以下内容的重要更改 [ETLA中包含的Acrobat DC权利](signentitlementchanges.md){target="_blank"} （企业定期许可协议）提供从2020年8月到2020年11月20日的产品。
+* 了解从2020年8月到2020年11月20日对ETLA](signentitlementchanges.md){target="_blank"}（企业定期许可协议）中包含的[Acrobat DC权利的重要更改。

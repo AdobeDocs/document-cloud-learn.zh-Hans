@@ -1,6 +1,6 @@
 ---
-title: 处理文件来自 [!DNL Dropbox]
-description: 了解如何打开、创建、编辑、签名和保存对您的 [!DNL Dropbox] 文件来自Acrobat
+title: 处理来自 [!DNL Dropbox]的文件
+description: 了解如何在Acrobat中打开、创建、编辑、签名和保存对 [!DNL Dropbox] 文件所做的更改
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# 处理文件来自 [!DNL Dropbox]
+# 处理来自[!DNL Dropbox]的文件
 
-了解如何打开、创建、编辑、签名和保存对您的 [!DNL Dropbox] 文件来自Acrobat。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让您所有文件触手可及。
+了解如何在Acrobat中打开、创建、编辑、签名和保存对[!DNL Dropbox]文件所做的更改。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让您所有文件触手可及。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

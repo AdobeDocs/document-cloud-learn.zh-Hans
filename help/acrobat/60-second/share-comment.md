@@ -5,8 +5,8 @@ feature: Share, Collaboration
 role: User
 level: Beginner
 jira: KT-13295
-exl-id: efba836a-17be-44b3-9126-4540aa7ec942
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: d3c633aa-29e8-4878-a3fc-057121d7b0da
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

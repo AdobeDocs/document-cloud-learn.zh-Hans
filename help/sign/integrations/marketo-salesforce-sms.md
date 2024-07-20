@@ -12,24 +12,24 @@ thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '672'
+ht-degree: 0%
 
 ---
 
-# 使用Acrobat Sign发送通知 [!DNL Salesforce] 和 [!DNL Marketo]
+# 使用Acrobat Sign为[!DNL Salesforce]和[!DNL Marketo]发送通知
 
-了解如何发送短信、电子邮件或推送通知，让签名者知道即将使用Acrobat Sign、适用于Salesforce的Acrobat Sign、Marketo和Marketo Salesforce Sync签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo短信管理功能。 此演练使用 [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但其他Marketo短信解决方案可用。
+了解如何发送短信、电子邮件或推送通知，让签名者知道即将使用Acrobat Sign、适用于Salesforce的Acrobat Sign、Marketo和Marketo Salesforce Sync签署协议。 要从Marketo发送通知，您首先需要购买或配置Marketo短信管理功能。 此演练使用[Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但其他Marketo SMS解决方案可用。
 
 ## 先决条件
 
 1. 安装Marketo Salesforce Sync。
 
-   已提供适用于Salesforce Sync的信息和最新插件 [这里。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供了有关Salesforce Sync的信息和最新插件。
 
 1. 安装适用于Salesforce的Acrobat Sign。
 
-   有关此插件的信息，请参阅 [这里。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   [此处](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供了有关此插件的信息。
 
 ## 查找自定义对象
 
@@ -39,15 +39,15 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ![对象同步](assets/salesforceAdmin.png)
 
-1. 点击 **同步架构** 如果这是你第一次。 否则，请单击 **刷新架构**.
+1. 如果这是您第一次这样做，请单击&#x200B;**同步架构**。 否则，请单击&#x200B;**刷新架构**。
 
    ![刷新](assets/refreshSchema1.png)
 
-1. 如果全局同步正在运行，请单击 **禁用全局同步**.
+1. 如果全局同步正在运行，请单击&#x200B;**禁用全局同步**&#x200B;将其禁用。
 
    ![禁用](assets/disableGlobal.png)
 
-1. 点击 **刷新架构**.
+1. 单击&#x200B;**刷新架构**。
 
    ![刷新2](assets/refreshSchema2.png)
 
@@ -55,17 +55,17 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 在右侧，请参阅基于潜在客户、联系人和客户的自定义对象。
 
-**启用同步** 如果您希望在将潜在客户添加到Salesforce中的协议时触发，请为潜在客户下的对象执行此操作。
+如果您希望在将潜在客户添加到Salesforce中的协议时触发，请为潜在客户下的对象&#x200B;**启用同步**。
 
-**启用同步** 用于联系人下的对象，如果您希望在将联系人添加到Salesforce中的协议时触发。
+如果要在将联系人添加到Salesforce中的协议时触发，请为联系人下的对象&#x200B;**启用同步**。
 
-**启用同步** 用于帐户下的对象（如果您要在将帐户添加到Salesforce中的协议时触发）。
+如果要在Salesforce中将帐户添加到协议时触发，请为帐户下的对象启用&#x200B;**同步**。
 
-1. **启用同步** 显示在所需父级（潜在客户、联系人或帐户）下的自定义对象。
+1. 为所需父级（潜在客户、联系人或帐户）下显示的自定义对象&#x200B;**启用同步**。
 
    ![自定义对象](assets/customObjects.png)
 
-1. 以下资源演示了如何 **启用同步**.
+1. 以下资源显示如何&#x200B;**启用同步**。
 
    ![自定义同步1](assets/customObjectSync1.png)
 
@@ -77,15 +77,15 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ## 创建程序
 
-1. 在Marketo的Marketing Activities部分，右键单击 **营销活动** 在左栏中，选择 **新市场活动文件夹**，并为其命名。
+1. 在Marketo的“营销活动”部分，右键单击左栏上的&#x200B;**“营销活动”**，选择&#x200B;**“新营销活动文件夹”**，然后为其命名。
 
    ![新建文件夹](assets/newFolder.png)
 
-1. 右键单击已创建的文件夹，选择 **新计划**，并为其命名。 将其余所有内容保留为默认值，然后单击 **创建**.
+1. 右键单击已创建的文件夹，选择&#x200B;**新建程序**，然后为其命名。 将其余所有内容保留为默认值，然后单击“**创建**”。
 
-   ![新计划1](assets/newProgram1.png)
+   ![新程序1](assets/newProgram1.png)
 
-   ![新计划2](assets/newProgram2.png)
+   ![新程序2](assets/newProgram2.png)
 
 ## 设置Twilio SMS
 
@@ -99,25 +99,25 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 从您的帐户检索这些参数，现在即可打开您的Marketo实例。
 
-1. 单击 **管理员** 右上角的。
+1. 单击右上角的&#x200B;**管理员**。
 
    ![管理员](assets/adminTab.png)
 
-1. 单击 **Webhook**，然后 **新Webhook**.
+1. 单击&#x200B;**Webhook**，然后单击&#x200B;**新建Webhook**。
 
    ![Webhook](assets/webhooks.png)
 
-1. 输入 **Webhook名称** 和 **描述**.
+1. 输入&#x200B;**Webhook名称**&#x200B;和&#x200B;**描述**。
 
-1. 输入以下URL，并确保将 **[ACCOUNT_SID]** 和 **[AUTH_TOKEN]** 使用您的Twilio凭据。
+1. 输入以下URL，并确保将&#x200B;**[ACCOUNT_SID]**&#x200B;和&#x200B;**[AUTH_TOKEN]**&#x200B;替换为您的Twilio凭据。
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. 选择 **POST** 作为您的请求类型。
+1. 选择&#x200B;**POST**&#x200B;作为请求类型。
 
-1. 输入以下内容 **模板** 并确保将 **[MY_TWILIO_NUMBER]** 用你的Twilio电话号码和 **[您的消息(_M)]** 你选了什么口信。
+1. 输入以下&#x200B;**模板**，并确保将&#x200B;**[MY_TWILIO_NUMBER]**&#x200B;替换为您的Twilio电话号码，将&#x200B;**[YOUR_MESSAGE]**&#x200B;替换为您选择的消息。
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
@@ -125,15 +125,15 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 1. 将请求令牌编码设置为表单/URL。
 
-1. 将“Response type”（响应类型）设置为JSON，然后单击 **保存**.
+1. 将响应类型设置为JSON，然后单击“**保存**”。
 
 ## 设置Smart Campaign触发器
 
-1. 在Marketing Activities部分，右键单击您创建的计划，然后选择 **新的Smart Campaign**.
+1. 在“营销活动”部分，右键单击您创建的计划，然后选择&#x200B;**新建Smart Campaign**。
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. 为其命名，然后单击 **创建**.
+1. 为其命名，然后单击&#x200B;**创建**。
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
@@ -145,7 +145,7 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ## 设置智能营销活动流
 
-1. 单击 **流量** 选项卡。 搜索并拖动 **调用Webhook** 流到画布上，并选择您在上一节中创建的Webhook。
+1. 单击“智能营销活动”中的&#x200B;**流**&#x200B;选项卡。 搜索&#x200B;**调用Webhook**&#x200B;流并将其拖动到画布上，并选择您在上一节中创建的Webhook。
 
    ![调用Webhook](assets/callWebhook.png)
 
@@ -153,4 +153,4 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 >[!TIP]
 >
->本教程是本课程的一部分 [使用适用于Salesforce的Acrobat Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 可在Experience League上免费获得！
+>本教程是[使用适用于Salesforce的Acrobat Sign和Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)加速销售周期课程的一部分，该课程可在Experience League上免费获取！

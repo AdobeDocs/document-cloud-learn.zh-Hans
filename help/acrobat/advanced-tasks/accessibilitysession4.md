@@ -9,7 +9,7 @@ thumbnail: KT-8611.jpg
 exl-id: c5935e90-3167-4de2-a1d9-5a80ceb5e5f1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 此按需会话解决了人们经常遇到的更复杂的问题，如扫描文档和复杂列表。
 
-点击 [此处](../assets/accessibilitysession4.zip) 下载此会话实际操作文件的zip文件。
+单击[此处](../assets/accessibilitysession4.zip)下载此会话的实操文件的zip文件。
 
 选择图像可在单独的浏览器选项卡中查看视频。
 

@@ -9,7 +9,7 @@ thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是课程的一部分 [Acrobat Sign快速入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) 可在Experience League上免费获得！
+>此视频是Experience League上免费提供的课程[ Acrobat Sign入门](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1)的一部分！

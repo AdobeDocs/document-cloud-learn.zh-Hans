@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 
-![QR代码](../assets/Scanqrcode.jpg)
+![二维码](../assets/Scanqrcode.jpg)
 
 扫描二维码获取应用程序。

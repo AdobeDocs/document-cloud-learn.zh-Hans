@@ -9,7 +9,7 @@ thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![表单数据步骤1](../assets/FormData_1.png)
 
-1. 打开一个已完成的表单文件，然后选择 **[!UICONTROL Prepare Form]** 从“工具”中心或右侧窗格。
+1. 打开一个已完成的表单文件，然后从“工具”中心或右侧窗格中选择&#x200B;**[!UICONTROL Prepare Form]**。
 
    ![表单数据步骤2](../assets/FormData_2.png)
 
-1. 选择 **[!UICONTROL 更多]** **>** **[!UICONTROL 将数据文件合并到电子表格中]** 在右侧窗格中。
+1. 在右侧窗格中选择&#x200B;**[!UICONTROL 更多]** **>** **[!UICONTROL 将数据文件合并到电子表格中]**。
 
    ![表单数据步骤3](../assets/FormData_3.png)
 

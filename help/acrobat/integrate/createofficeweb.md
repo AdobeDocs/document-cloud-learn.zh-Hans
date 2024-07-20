@@ -1,6 +1,6 @@
 ---
-title: 创建PDF [!DNL Office] 用于Web
-description: 了解如何在不离开的情况下创建PDF文件 [!DNL Microsoft Office] 对于Web应用程序
+title: 在 [!DNL Office] 中为Web创建PDF
+description: 了解如何在不离开您的 [!DNL Microsoft Office] Web应用程序的情况下创建PDF文件
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -11,18 +11,18 @@ thumbnail: KT-8497.jpg
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# 创建PDF [!DNL Office] 用于web
+# 在[!DNL Office]中创建WebPDF
 
-了解如何在不离开的情况下创建PDF文件 [!DNL Microsoft Office] 用于Web应用程序。 此加载项需要订阅Acrobat团队版或Acrobat企业版。
+了解如何在不离开[!DNL Microsoft Office]的情况下创建Web应用PDF文件。 此加载项需要订阅Acrobat团队版或Acrobat企业版。
 
 >[!NOTE]
 >
->Adobe Acrobat用于 [!DNL Microsoft 365] 包括可供所有用户使用的免费功能(如在PDF内查看和搜索)。 其他功能(如创建和合并PDF)需要付费的Acrobat团队版或Acrobat企业版订阅。
+>适用于[!DNL Microsoft 365]的Adobe Acrobat包含可供所有用户使用的免费功能(如在PDF内查看和搜索)。 其他功能(如创建和合并PDF)需要付费的Acrobat团队版或Acrobat企业版订阅。
 
 <br> 
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是课程的一部分 [使用Acrobat DC和Microsoft 365更智能地工作](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) 可在Experience League上免费获得！
+>此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！

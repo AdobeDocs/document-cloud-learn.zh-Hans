@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 GigaSign的功能将添加到产品中的 [Send in Bulk](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) 功能。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
+>GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 正在将GigaSign的功能添加到产品的[批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)功能下。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
@@ -29,15 +29,15 @@ ht-degree: 1%
 
 [下载GigaSign Zip文件](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8下载链接（仅在需要时使用）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Java 1.8下载链接（仅在需要时）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[将IP地址列入白名单（仅在需要时使用）](https://helpx.adobe.com/cn/sign/system-requirements.html#IPs){target="_blank"}
+[要列入白名单的IP地址（仅在需要时）](https://helpx.adobe.com/cn/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本设置说明
 
 1. 登录到您的Acrobat Sign帐户。
 
-1. 点击 **[!UICONTROL 群组]** 或 **[!UICONTROL 帐户]**，以您在顶部看到的为准。
+1. 单击&#x200B;**[!UICONTROL 组]**&#x200B;或&#x200B;**[!UICONTROL 帐户]**，具体取决于您在顶部看到的内容。
 
 1. 在屏幕左侧的搜索字段中键入“访问令牌”。
 
@@ -49,7 +49,7 @@ ht-degree: 1%
 
 1. 打开GigaSign。
 
-1. 单击 **[!UICONTROL 设置]** 图标。
+1. 单击右上角的&#x200B;**[!UICONTROL 设置]**&#x200B;图标。
 
 1. 将集成密钥粘贴到第一行。
 

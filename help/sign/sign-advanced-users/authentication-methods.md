@@ -5,8 +5,8 @@ feature: Security, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-10982
-exl-id: 2341c6f4-457b-467c-94a2-4504b4e32dbd
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+exl-id: d1e28be4-333b-4f84-822c-ae45fcdc31e3
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%

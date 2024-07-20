@@ -1,20 +1,21 @@
 ---
 title: Microsoft Dynamics 365 for Field Service
-description: 了解Acrobat Sign， [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务
+description: 了解如何使用Acrobat Sign， [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] for Field Service来简化客户现场服务
 feature: Integrations
 role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13723
-source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
+exl-id: 1a82ddf7-8584-441f-b745-785e5d5b3c90
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Dynamics 365] 对于外勤人员
+# 外勤服务[!DNL Microsoft Dynamics 365]
 
-了解外勤服务派遣员和技术人员如何使用Acrobat Sign， [!DNL Power Automate]和 [!DNL Dynamics 365] 简化外勤事务。
+了解外勤服务调度员和技术人员如何使用Acrobat Sign、[!DNL Power Automate]和[!DNL Dynamics 365]来简化外勤服务合同。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)

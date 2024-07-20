@@ -12,7 +12,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [文档选项卡集成 [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-了解如何直接从中的文档选项卡发送文档进行签名 [!DNL Microsoft Teams]
-* [Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
-* [使用以下工具创建高级工作流 [!DNL Power Automate]](advanced-workflow-power-automate.md)
-了解如何使用创建高级工作流 [!DNL Power Automate] 连接器
+*  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)的[“文档”选项卡集成
+了解如何直接从[!DNL Microsoft Teams]中的“文档”选项卡发送文档以供签名
+* [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)使用
+了解如何创建类似于[!DNL Microsoft Teams]会议期间亲自签名的在线签名体验
+* [使用 [!DNL Power Automate]](advanced-workflow-power-automate.md)创建高级工作流
+了解如何使用[!DNL Power Automate]连接器创建高级工作流
 
 ## Microsoft集成教程
 
@@ -72,7 +72,7 @@ ht-degree: 0%
       <img alt="SharePoint Online中的跟踪" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>SharePoint Online中的跟踪</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong>在SharePoint Online中跟踪</strong></a>
     </div>
     <em>直接在Microsoft Sharepoint中跟踪协议的进度</em>
     <br>
@@ -84,19 +84,19 @@ ht-degree: 0%
       <img alt="将Web表单与 [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>将Web表单与 [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>将Web表单与[!DNL SharePoint Online]</strong></a>集成
     </div>
-    <em>了解如何将从Web表单收集的数据映射到 [!DNL SharePoint] 列表</em>
+    <em>了解如何将从Web表单收集的数据映射到[!DNL SharePoint]列表</em>
     <br>
   </td>
   <td>
     <a href="auto-archive-sharepoint-power-automate.md">
-      <img alt="自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
+      <img alt="自动存档文件[!DNL SharePoint]时使用 [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="auto-archive-sharepoint-power-automate.md"><strong>自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>使用[!DNL Power Automate]</strong></a>自动存档[!DNL SharePoint]中的文件
     </div>
-    <em>了解如何自动将已签名文档归档到 [!DNL SharePoint] 库使用 [!DNL Power Automate]</em>
+    <em>了解如何使用[!DNL Power Automate]</em>将已签名的文档自动存档到[!DNL SharePoint]库
     <br>
   </td>
   <td>
@@ -104,9 +104,9 @@ ht-degree: 0%
       <img alt="文档自动化处理 [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>文档自动化处理 [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    <a href="documentautomation.md"><strong>使用[!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>实现文档自动化
     </div>
-    <em>了解如何激活和使用 [!DNL Acrobat Sign] 和 [!DNL Adobe PDF Tools] 连接器 [!DNL Microsoft Power] 应用程序</em>
+    <em>了解如何为[!DNL Microsoft Power]个应用程序激活和使用[!DNL Acrobat Sign]和[!DNL Adobe PDF Tools]连接器</em>
     <br>
   </td>
    <td>
@@ -114,9 +114,9 @@ ht-degree: 0%
       <img alt="发送文档以请求签名 [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>发送以请求签名 [!DNL Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>在[!DNL Microsoft Teams]</strong></a>中发送以供签名
     </div>
-    <em>直接在以下位置发送文档以供签名 [!DNL Microsoft Teams]</em>
+    <em>直接在[!DNL Microsoft Teams]</em>内发送文档以供签名
     <br>
   </td>
 </tr>
@@ -126,9 +126,9 @@ ht-degree: 0%
       <img alt="Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>适用于[!DNL Microsoft Teams]</strong></a>的Adobe Acrobat Sign实时登录
     </div>
-    <em>了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议</em>
+    <em>了解如何创建类似于[!DNL Microsoft Teams]会议期间的亲自签名的在线签名体验</em>
     <br>
   </td>
    <td>
@@ -136,9 +136,9 @@ ht-degree: 0%
       <img alt="文档选项卡集成 [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>文档选项卡集成 [!DNL Microsoft Teams]</strong></a>
+    [!DNL Microsoft Teams]</strong></a>的<a href="acrobat-sign-teams-documents-tab.md"><strong>“文档”选项卡集成
     </div>
-    <em>了解如何直接从中的文档选项卡发送文档进行签名 [!DNL Microsoft Teams]</em>
+    <em>了解如何直接从[!DNL Microsoft Teams]</em>中的“文档”选项卡发送文档以供签名
     <br>
   </td>
  <td>
@@ -146,9 +146,9 @@ ht-degree: 0%
       <img alt="使用Power Automate创建简单的工作流程" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>使用以下工具创建简单的工作流程 [!DNL Power Automate]</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>使用[!DNL Power Automate]</strong></a>创建简单的工作流
     </div>
-    <em>了解如何使用创建简单的工作流程 [!DNL Power Automate] 连接器</em>
+    <em>了解如何使用[!DNL Power Automate]连接器创建简单的工作流</em>
     <br>
   </td>
   <td>
@@ -158,7 +158,7 @@ ht-degree: 0%
     <div>
     <a href="advanced-workflow-power-automate.md"><strong>使用Power Automate创建高级工作流</strong></a>
     </div>
-    <em>了解如何使用创建高级工作流 [!DNL Power Automate] 连接器</em>
+    <em>了解如何使用[!DNL Power Automate]连接器创建高级工作流</em>
     <br>
   </td>
 <tr>
@@ -169,7 +169,7 @@ ht-degree: 0%
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] 用于在自助服务客户Web门户上提高客户满意度</em>
+    <em>了解如何使用Acrobat Sign和[!DNL Microsoft Dynamics 365] for Customer Service在自助服务客户Web门户上提高客户满意度</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ ht-degree: 0%
     <div>
     <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
     </div>
-    <em>了解Acrobat Sign， [!DNL Power Automate]和 [!DNL Microsoft Dynamics 365] 用于外勤服务，用于简化客户现场服务</em>
+    <em>了解如何使用Acrobat Sign、[!DNL Power Automate]和[!DNL Microsoft Dynamics 365]外勤服务来简化客户现场服务</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ ht-degree: 0%
     <div>
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
-    <em>了解Acrobat Sign和 [!DNL Microsoft Dynamics 365] for Sales用于自动化销售报价签名流程</em>
+    <em>了解如何使用Acrobat Sign和[!DNL Microsoft Dynamics 365]销售版自动执行销售报价签名流程</em>
     <br>
   </td>
   <td>
@@ -200,7 +200,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## [!DNL Notarize] 集成教程
+## [!DNL Notarize]个集成教程
 
 <table style="table-layout:fixed">
 <tr>
@@ -241,9 +241,9 @@ ht-degree: 0%
       <img alt="Document Builder版本 [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Document Builder版本 [!DNL Salesforce]</strong></a>
+    <a href="create-an-agreement-template.md"><strong>适用于[!DNL Salesforce]</strong></a>的Document Builder
     </div>
-    <em>了解如何使用Document Builder为创建可重复使用的文档模板 [!DNL Salesforce]</em>
+    <em>了解如何使用Document Builder为[!DNL Salesforce]</em>创建可重复使用的文档模板
     <br>
   </td>
   <td>
@@ -273,7 +273,7 @@ ht-degree: 0%
     <div>
     <a href="create-a-custom-button.md"><strong>创建自定义按钮</strong></a>
     </div>
-    <em>创建一个自定义按钮，以启动发送流程并在Salesforce中自动填充协议</em>
+    <em>创建自定义按钮，以启动发送流程并自动填充Salesforce中的协议</em>
     <br>
   </td>
 </tr>
@@ -288,7 +288,7 @@ ht-degree: 0%
       <img alt="Acrobat Sign + Workday新员工入职培训" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday新员工入职培训</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Acrobat Sign + Workday新员工入职</strong></a>
     </div>
     <em>了解如何使用Acrobat Sign + Workday简化入门培训工作流程</em>
     <br>
@@ -322,7 +322,7 @@ ht-degree: 0%
     <div>
     <a href="marketo-salesforce-sms.md"><strong>使用适用于Salesforce的Acrobat Sign和Marketo发送通知</strong></a>
     </div>
-    <em>了解如何发送短信、电子邮件或推送通知，让签名者知道协议正在执行中</em>
+    <em>了解如何发送短信、电子邮件或推送通知来让签名者知道协议正在执行中</em>
     <br>
   </td>
   <td>
@@ -350,7 +350,7 @@ ht-degree: 0%
       <img alt="使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送提醒" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送提醒</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>使用Acrobat Sign for Microsoft Dynamics和Marketo发送提醒</strong></a>
     </div>
     <em>了解如何在协议在一段时间后仍未签名时发送电子邮件提醒</em>
     <br>
@@ -362,9 +362,9 @@ ht-degree: 0%
       <img alt="使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>使用适用于Microsoft Dynamics和Marketo的Acrobat Sign发送通知</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>使用Acrobat Sign for Microsoft Dynamics和Marketo发送通知</strong></a>
     </div>
-    <em>了解如何发送短信、电子邮件或推送通知，让签名者知道协议正在执行中</em>
+    <em>了解如何发送短信、电子邮件或推送通知来让签名者知道协议正在执行中</em>
     <br>
   </td>
   <td>

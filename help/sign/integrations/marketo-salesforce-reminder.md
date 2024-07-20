@@ -12,8 +12,8 @@ thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 1%
+source-wordcount: '947'
+ht-degree: 0%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 1%
 
 1. 安装Marketo Salesforce Sync。
 
-   已提供适用于Salesforce Sync的信息和最新插件 [这里。](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供了有关Salesforce Sync的信息和最新插件。
 
 1. 安装适用于Salesforce的Acrobat Sign。
 
-   有关此插件的信息，请参阅 [这里。](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   [此处](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供了有关此插件的信息。
 
 ## 查找自定义对象
 
@@ -39,15 +39,15 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ![对象同步](assets/salesforceAdmin.png)
 
-1. 点击 **同步架构** 如果这是你第一次。 否则，请单击 **刷新架构**.
+1. 如果这是您第一次这样做，请单击&#x200B;**同步架构**。 否则，请单击&#x200B;**刷新架构**。
 
    ![刷新](assets/refreshSchema1.png)
 
-1. 如果全局同步正在运行，请单击 **禁用全局同步**.
+1. 如果全局同步正在运行，请单击&#x200B;**禁用全局同步**&#x200B;将其禁用。
 
    ![禁用](assets/disableGlobal.png)
 
-1. 点击 **刷新架构**.
+1. 单击&#x200B;**刷新架构**。
 
    ![刷新2](assets/refreshSchema2.png)
 
@@ -55,17 +55,17 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 在右侧，请参阅基于潜在客户、联系人和客户的自定义对象。
 
-**启用同步** 如果您希望在潜在客户尚未在Salesforce中签署协议时发送提醒，请为潜在客户下的对象执行此操作。
+如果您希望在潜在客户尚未在Salesforce中签署协议时发送提醒，请为潜在客户下的对象&#x200B;**启用同步**。
 
-**启用同步** 如果要在联系人尚未在Salesforce中签署协议时发送提醒，请为联系人下的对象执行此操作。
+如果要在联系人尚未在Salesforce中签署协议时发送提醒，请为联系人下的对象启用&#x200B;**同步**。
 
-**启用同步** 如果要在帐户尚未在Salesforce中签署协议时发送提醒，请为帐户下的对象执行此操作。
+如果要在帐户尚未在Salesforce中签署协议时发送提醒，请为帐户下的对象启用&#x200B;**同步**。
 
-1. **启用同步** 用于 **协议** 在所需父项（潜在客户、联系人或帐户）下显示的对象。 对要同步的任何其他自定义对象执行此操作。
+1. 为所需父级（潜在客户、联系人或帐户）下显示的&#x200B;**协议**&#x200B;对象&#x200B;**启用同步**。 对要同步的任何其他自定义对象执行此操作。
 
    ![协议对象](assets/agreementObject.png)
 
-1. 以下资源演示了如何 **启用同步**.
+1. 以下资源显示如何&#x200B;**启用同步**。
 
    ![自定义同步1](assets/customObjectSync1.png)
 
@@ -73,9 +73,9 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ## 向触发器公开自定义对象字段
 
-1. 在停用全局同步时，选择您为其启用同步的协议自定义对象，然后 **编辑可见字段**.
+1. 在停用全局同步时，选择您为其启用同步的协议自定义对象，然后&#x200B;**编辑可见字段**。
 
-1. 选中触发器列中的“协议名称”字段，使其向您的市场活动操作触发器显示。 选中要作为筛选依据的任何其他字段，然后 **保存**.
+1. 选中触发器列中的“协议名称”字段，使其向您的市场活动操作触发器显示。 选中要作为筛选依据的任何其他字段，然后&#x200B;**保存**。
 
    ![编辑可见字段1](assets/editVisible1.png)
 
@@ -87,25 +87,25 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ## 创建程序和令牌
 
-1. 在Marketo的Marketing Activities部分，右键单击 **营销活动** 在左栏中，选择 **新市场活动文件夹**，并为其命名。
+1. 在Marketo的“营销活动”部分，右键单击左栏上的&#x200B;**“营销活动”**，选择&#x200B;**“新营销活动文件夹”**，然后为其命名。
 
    ![新建文件夹](assets/newFolder.png)
 
-1. 右键单击已创建的文件夹，选择 **新计划**，并为其命名。 将其余所有内容保留为默认值，然后单击 **创建**.
+1. 右键单击已创建的文件夹，选择&#x200B;**新建程序**，然后为其命名。 将其余所有内容保留为默认值，然后单击“**创建**”。
 
-   ![新计划1](assets/newProgram1.png)
+   ![新程序1](assets/newProgram1.png)
 
-   ![新计划2](assets/newProgram2.png)
+   ![新程序2](assets/newProgram2.png)
 
-1. 单击 **我的令牌**，然后拖动  **电子邮件脚本** 到画布上。
+1. 单击“**我的令牌**”，然后将“**电子邮件脚本**”拖到画布上。
 
    ![电子邮件脚本](assets/emailScript.png)
 
-1. 为其命名，然后单击 **单击以编辑**.
+1. 为其命名，然后单击&#x200B;**单击以编辑**。
 
-   ![命名和编辑](assets/nameAndSave.png)
+   ![命名并编辑](assets/nameAndSave.png)
 
-1. 展开 **自定义对象** 在右侧，展开 **协议** 对象。 查找协议名称、协议状态、签名日期和签名URL并将其拖动到画布上。
+1. 在右侧展开&#x200B;**自定义对象**，然后展开&#x200B;**协议**&#x200B;对象。 查找协议名称、协议状态、签名日期和签名URL并将其拖动到画布上。
 
 1. 使用这些令牌编写Velocity脚本以显示为期一周未签名的协议的协议URL。 以下示例将当前日期与“发送日期”进行比较：
 
@@ -139,19 +139,19 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 个性化设置示例包括：签名者的姓名、协议名称、协议链接等。
 
-1. 右键单击您创建的程序，然后单击 **新建本地资源**，然后选择 **电子邮件**.
+1. 右键单击您创建的程序，单击&#x200B;**新建本地资源**，然后选择&#x200B;**电子邮件**。
 
    ![新电子邮件](assets/createNewEmail.png)
 
-1. 在新选项卡中，输入 **名称** 和 **描述** ，然后从模板选择器中选择一个模板。 单击&#x200B;**创建**.
+1. 在新选项卡中，为电子邮件输入&#x200B;**名称**&#x200B;和&#x200B;**描述**，然后从模板选取器中选择一个模板。 单击&#x200B;**创建**。
 
    ![模板选择器](assets/templatePicker.png)
 
-1. 设置 **发件人姓名** 和 **发件人地址**.
+1. 设置&#x200B;**发件人姓名**&#x200B;和&#x200B;**发件人地址**。
 
    ![提醒电子邮件](assets/reminderEmail.png)
 
-1. 单击消息正文以激活编辑器。 单击 **插入令牌** 按钮，查找您创建的自定义协议URL令牌，然后单击 **插入**. 完成自定义电子邮件，然后单击 **保存**.
+1. 单击消息正文以激活编辑器。 单击&#x200B;**插入令牌**&#x200B;按钮，查找您创建的自定义协议URL令牌，然后单击&#x200B;**插入**。 完成自定义电子邮件，然后单击&#x200B;**保存**。
 
    ![插入令牌](assets/insertToken.png)
 
@@ -161,46 +161,46 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
 ## 设置Smart Campaign筛选器
 
-1. 右键单击您创建的程序，然后单击 **新的Smart Campaign**.
+1. 右键单击您创建的程序，然后单击&#x200B;**新建Smart Campaign**。
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. 为您选择的名称命名，然后单击 **创建**.
+1. 为它指定您选择的名称，然后单击“**创建**”。
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
-1. 搜索，然后单击并拖动 **有协议** 添加到智能列表。
+1. 搜索，然后单击并将&#x200B;**具有协议**&#x200B;拖动到智能列表中。
 
    ![有协议](assets/hasAgreement.png)
 
-1. 现在应可在以下位置找到您向触发器显示的字段 **添加约束**. 选择 **协议状态** 以及您希望作为筛选依据的任何其他字段。 对于添加的每个字段，定义作为筛选依据的值。 在这种情况下，仅当 **协议状态** 已发出进行签名，且 **发送日期** 在7天前已过。
+1. 您向触发器公开的字段现在应在&#x200B;**添加约束**&#x200B;中可用。 选择&#x200B;**协议状态**&#x200B;以及您希望作为筛选依据的任何其他字段。 对于添加的每个字段，定义作为筛选依据的值。 在这种情况下，仅当&#x200B;**协议状态**&#x200B;处于“已发出进行签名”状态且&#x200B;**发送日期**&#x200B;在7天之前过期时，才会触发该操作。
 
    ![协议状态](assets/agreementStatus.png)
 
    >[!NOTE]
    >
-   > 为约束设置唯一标识符，如 **协议名称**，如果您希望此营销活动仅针对某些协议运行。
+   > 如果希望此市场活动仅针对某些协议运行，请为约束（如&#x200B;**协议名称**）设置唯一标识符。
 
 1. 确认市场活动受众，并在“计划”选项卡中查看符合条件的受众。
 
-   ![限定词](assets/qualifiers.png)
+   ![限定符](assets/qualifiers.png)
 
 ## 设置智能营销活动流
 
-因为市场活动过滤器 **未签名天数** 已使用，您可以对市场活动使用计划的重复。
+由于使用了&#x200B;**天未签名促销活动筛选条件**，因此您可以对该促销活动使用计划的重复周期。
 
-1. 单击 **流量** 选项卡。 搜索并拖动 **发送电子邮件** 排到画布上，然后选择您在上一部分中创建的提醒电子邮件。
+1. 单击“智能营销活动”中的&#x200B;**流**&#x200B;选项卡。 搜索&#x200B;**发送电子邮件**&#x200B;流并将其拖动到画布上，然后选择您在上一部分中创建的提醒电子邮件。
 
    ![发送电子邮件](assets/sendEmail.png)
 
-1. 单击 **计划** 选项卡。 确保市场活动流仅限在 **Smart Campaign设置**. 然后，单击 **计划重复周期** 选项卡。
+1. 单击“智能营销活动”中的&#x200B;**计划**&#x200B;选项卡。 请确保在&#x200B;**智能营销活动设置**&#x200B;中，营销活动流限制为每个人仅运行一次。 然后，单击&#x200B;**计划定期**&#x200B;选项卡。
 
-   ![“计划”选项卡](assets/scheduleTab.png)
+   ![计划选项卡](assets/scheduleTab.png)
 
-1. 设置 **计划** 对于每日，根据需要选择市场活动的起始日期和时间以及终止日期。
+1. 将&#x200B;**计划**&#x200B;设置为“每日”，并根据需要选择市场活动的开始日期和时间以及结束日期。
 
    ![计划设置](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->本教程是本课程的一部分 [使用适用于Salesforce的Acrobat Sign和Marketo加快销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) 可在Experience League上免费获得！
+>本教程是[使用适用于Salesforce的Acrobat Sign和Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)加速销售周期课程的一部分，该课程可在Experience League上免费获取！

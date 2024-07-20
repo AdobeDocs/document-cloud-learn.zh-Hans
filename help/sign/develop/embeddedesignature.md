@@ -11,8 +11,8 @@ kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 2%
+source-wordcount: '832'
+ht-degree: 0%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 2%
 
 1. 使用您的开发人员帐户访问Acrobat Sign。
 
-1. 选择 **发布Web表单** 在主页上。
+1. 在主页上选择&#x200B;**Publish Web表单**。
 
-   ![Acrobat Sign主页的屏幕截图](assets/embeddedesignature/embed_1.png)
+   ![屏幕截图Acrobat Sign主页](assets/embeddedesignature/embed_1.png)
 
 1. 创建您的协议。
 
-   ![有关如何创建Web表单的屏幕快照](assets/embeddedesignature/embed_2.png)
+   ![如何创建Web表单的屏幕截图](assets/embeddedesignature/embed_2.png)
 
 1. 将协议嵌入到平面HTML页面上。
 
@@ -69,19 +69,19 @@ ht-degree: 2%
 
 首先，您需要建立访问权限。 使用Acrobat Sign，有两种方法通过API进行连接。 OAuth令牌和集成密钥。 除非您有非常具体的原因要在应用程序中使用OAuth，否则您应首先探索集成密钥。
 
-1. 选择 **集成密钥** 在 **API信息** 下方的菜单 **帐户** Acrobat Sign选项卡。
+1. 在Acrobat Sign的&#x200B;**“帐户”**&#x200B;选项卡下的&#x200B;**“API信息”**&#x200B;菜单中选择&#x200B;**“集成密钥”**。
 
    ![在何处查找集成密钥的屏幕截图](assets/embeddedesignature/embed_4.png)
 
 现在您有权访问并可与API交互，请查看您可以对API执行哪些操作。
 
-1. 导航至 [Acrobat Sign REST API版本6方法](http://adobesign.com/public/docs/restapi/v6).
+1. 导航至[Acrobat Sign REST API Version 6方法](http://adobesign.com/public/docs/restapi/v6)。
 
    ![导航Acrobat Sign REST API版本6方法的屏幕截图](assets/embeddedesignature/embed_5.png)
 
 1. 将令牌用作“持有人”值。
 
-   ![持有者价值的屏幕截图](assets/embeddedesignature/embed_6.png)
+   ![持有者值的屏幕截图](assets/embeddedesignature/embed_6.png)
 
 要发送您的第一个协议，最好了解如何使用API。
 
@@ -91,7 +91,7 @@ ht-degree: 2%
 >
 >基于JSON的请求调用具有“模型”和“最小模型架构”选项。 这将提供规范和最小负载集。
 
-![创建临时文档的屏幕快照](assets/embeddedesignature/embed_7.png)
+![创建临时文档的屏幕截图](assets/embeddedesignature/embed_7.png)
 
 在首次发送协议后，您就可以添加逻辑了。 建立一些帮助者以尽量减少重复始终是个好主意。 以下是一些示例：
 
@@ -99,22 +99,24 @@ ht-degree: 2%
 
 ![验证逻辑的屏幕截图](assets/embeddedesignature/embed_8.png)
 
-**页眉/身份验证**
+**标头/身份验证**
 
-![标头/身份验证逻辑的屏幕快照](assets/embeddedesignature/embed_9.png)
+![标头/验证逻辑的屏幕截图](assets/embeddedesignature/embed_9.png)
 
 **基本URI**
 
 ![基本URI逻辑的屏幕截图](assets/embeddedesignature/embed_10.png)
 
 请留意Sign生态系统宏伟计划内的临时文档落点。
-临时 — >协议临时 — >模板 — >协议临时 — >构件 — >协议
+临时 — >协议
+临时 — >模板 — >协议
+临时 — >构件 — >协议
 
 此示例使用模板作为文档源。 这通常是最佳路径，除非您有充分理由动态生成文档以供签名（例如，生成旧版代码或文档）。
 
-代码相当简单；它使用库文档（模板）作为文档源。 第一和第二签名者被动态分配。 该 `IN_PROCESS` state表示文档将立即发送。 此外， `mergeFieldInfo` 用于动态填充字段。
+代码相当简单；它使用库文档（模板）作为文档源。 第一和第二签名者被动态分配。 `IN_PROCESS`状态表示文档将立即发送。 此外，还利用`mergeFieldInfo`动态填充字段。
 
-![用于动态添加签名的代码屏幕快照](assets/embeddedesignature/embed_11.png)
+![用于动态添加签名的代码屏幕截图](assets/embeddedesignature/embed_11.png)
 
 +++
 
@@ -134,13 +136,13 @@ ht-degree: 2%
 
 更新协议创建过程后，最后一步是生成签名URL。 此调用也非常简单，可生成一个签名者可用于访问其签名过程的URL。
 
-![用于生成签名者URL的代码屏幕截图](assets/embeddedesignature/embed_14.png)
+![生成签名者URL的代码屏幕截图](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >
 >请注意，协议创建调用从技术上讲是异步的。 这意味着可以进行“POST”协议调用，但协议尚未就绪。 最佳做法是建立重试循环。 重试或采用适合您环境的最佳实践。
 
-![说明建立重试循环的最佳实践的屏幕截图](assets/embeddedesignature/embed_15.png)
+![表示建立重试循环的最佳实践的屏幕截图](assets/embeddedesignature/embed_15.png)
 
 当所有内容都整合在一起时，解决方案非常简单。 您正在创建一个协议，然后生成一个签名URL，以供签名者单击并开始进行签名仪式。
 
@@ -157,6 +159,6 @@ ht-degree: 2%
 * 自定义提醒
    * 通过初始创建
 
-     ![导航到Power Automate的屏幕快照](assets/embeddedesignature/embed_16.png)
+     ![导航到Power Automate的屏幕截图](assets/embeddedesignature/embed_16.png)
 
-   * 或添加一个 [in-flight](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * 或添加一个[正在运行中](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

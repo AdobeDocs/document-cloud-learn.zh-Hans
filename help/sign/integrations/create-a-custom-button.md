@@ -16,8 +16,8 @@ ht-degree: 16%
 
 ---
 
-# 在Acrobat Sign中为创建自定义按钮 [!DNL Salesforce]
+# 在Acrobat Sign中为[!DNL Salesforce]创建自定义按钮
 
-了解如何在 Salesforce.com 中创建标准对象中的自定义按钮。在此示例中，自定义按钮被添加到 **联系人** 英寸 [!DNL Salesforce]. 单击该按钮后，将开始发送流程，并填充 **联系人** 直接导入协议。
+了解如何在 Salesforce.com 中创建标准对象中的自定义按钮。在此示例中，自定义按钮被添加到[!DNL Salesforce]中的&#x200B;**联系人**。 单击该按钮后，它将启动发送过程并将来自&#x200B;**联系人**&#x200B;的信息直接填充到协议中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

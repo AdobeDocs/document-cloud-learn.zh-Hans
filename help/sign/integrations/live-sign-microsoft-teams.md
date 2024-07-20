@@ -1,6 +1,6 @@
 ---
-title: Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]
-description: 了解如何创建与在线签名过程中的亲自签名相似的在线签名体验 [!DNL Microsoft Teams] 会议
+title: 适用于 [!DNL Microsoft Teams]的Adobe Acrobat Sign Live Sign
+description: 了解如何创建类似于 [!DNL Microsoft Teams] 会议期间的亲自签名的在线签名体验
 feature: Integrations
 role: User
 topic: Integrations
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# Live Sign in Adobe Acrobat Sign for [!DNL Microsoft Teams]
+# 适用于[!DNL Microsoft Teams]的Adobe Acrobat Sign Live Sign
 
 了解如何创建类似于Microsoft Teams会议期间亲自签名的在线签名体验。 通过Live Sign，您可以从任何设备提供个人、快速且安全的签名体验。
 

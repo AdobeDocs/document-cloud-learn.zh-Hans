@@ -9,7 +9,7 @@ thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '45'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->本视频是课程的一部分 [用户的高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) 可在Experience League上免费获得！
+>此视频是可在Experience League上免费参加的[“用户的高级任务”](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)课程的一部分！

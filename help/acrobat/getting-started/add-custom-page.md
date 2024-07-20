@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # 添加自定义页面
 
-了解如何使用集成的Adobe Express应用程序将自定义页面添加到PDF，该应用程序提供数千个模板供您选择。 本视频教程使用 [新的工作区体验](new-workspace.md).
+了解如何使用集成的Adobe Express应用程序将自定义页面添加到PDF，该应用程序提供数千个模板供您选择。 此视频教程使用[新工作区体验](new-workspace.md)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

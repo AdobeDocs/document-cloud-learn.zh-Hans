@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 政府业务补助及贷款
 
-通过自助访问赠款、贷款和税收递延申请表，为企业提供快速帮助。 了解如何创建可以完成的在线Web表单 **和** 无需打印或邮寄任何内容即可签名。
+通过自助访问赠款、贷款和税收递延申请表，为企业提供快速帮助。 了解如何创建无需打印或邮寄任何内容即可完成&#x200B;**和**&#x200B;签名的在线Web表单。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 选择以下载或打开业务授权和贷款的分步PDF方案。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms.pdf)

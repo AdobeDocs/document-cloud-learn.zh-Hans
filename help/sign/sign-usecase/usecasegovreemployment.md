@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 再就业援助
 
-帮助市民获得所需的帮助，而无需排队等待数天即可上线的全数字申请表。 了解如何创建可以完成的在线Web表单 **和** 无需打印或邮寄任何内容即可签名。
+帮助市民获得所需的帮助，而无需排队等待数天即可上线的全数字申请表。 了解如何创建无需打印或邮寄任何内容即可完成&#x200B;**和**&#x200B;签名的在线Web表单。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
 选择以下载或打开再就业协助的分步PDF方法。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

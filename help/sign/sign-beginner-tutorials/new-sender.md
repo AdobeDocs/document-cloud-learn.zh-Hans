@@ -10,7 +10,7 @@ kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
 source-git-commit: 68305a58ae7f9d5844568f2195be734245b8846d
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true"><strong>登录</strong></a>
          <br>
-        <em>0:00开始</em>
+        <em>开始于0:00</em>
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56">
@@ -45,7 +45,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=56"><strong>主页</strong></a>
          <br>
-        <em>0点56分开始</em>
+        <em>从0:56开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=153">
@@ -55,7 +55,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=153"><strong>设置您的个人资料</strong></a>
         <br>
-        <em>2点33分开始</em>
+        <em>从2:33开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272">
@@ -65,7 +65,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=272"><strong>发送设置</strong></a>
         <br>
-        <em>4点32分开始</em>
+        <em>从4:32开始</em>
     </td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=551"><strong>添加可填写的字段</strong></a>
          <br>
-        <em>9点11分开始</em>
+        <em>从9:11开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719">
@@ -87,7 +87,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=719"><strong>签名体验</strong></a>
         <br>
-        <em>11点59分开始</em>
+        <em>11:59开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774">
@@ -97,7 +97,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=774"><strong>管理和跟踪文档</strong></a>
         <br>
-        <em>12点54分开始</em>
+        <em>12:54开始</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true&t=898">
@@ -107,7 +107,7 @@ ht-degree: 0%
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?quality=12&learn=on&hidetitle=true&t=898"><strong>支持和资源</strong></a>
         <br>
-        <em>14点58分开始</em>
+        <em>14:58开始</em>
     </td>
   </tr>
   </table>

@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Acrobat Sign中的Liquid Mode
 
-了解Liquid Mode如何改善移动签名体验。 在尝试读取和签署文档时，不再执行捏合和缩放操作。 本教程介绍如何发送 _HTML表单_ 已发出进行签名，并自动为移动用户创建增强的签名体验。
+了解Liquid Mode如何改善移动签名体验。 在尝试读取和签署文档时，不再执行捏合和缩放操作。 本教程介绍如何发送&#x200B;_HTML表单_&#x200B;进行签名，并自动为移动用户创建增强的签名体验。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

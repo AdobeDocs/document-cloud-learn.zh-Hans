@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 商业政策协议
 
-高效地收集所有员工对策略协议、策略更新等的签名。 了解如何创建可以完成的在线Web表单 **和** 无需打印或邮寄任何内容即可签名。
+高效地收集所有员工对策略协议、策略更新等的签名。 了解如何创建无需打印或邮寄任何内容即可完成&#x200B;**和**&#x200B;签名的在线Web表单。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 选择以下载或打开政策协议的分步PDF方法。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

@@ -9,8 +9,8 @@ thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 18%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 17%
 
 >[!TIP]
 >
->本视频是课程的一部分 [Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) 可在Experience League上免费获得！
+>此视频是Experience League上可免费参加的[管理员用Acrobat Sign入门](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)课程的一部分！

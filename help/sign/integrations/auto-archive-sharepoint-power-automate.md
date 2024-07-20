@@ -1,6 +1,6 @@
 ---
-title: 自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]
-description: 了解如何自动将已签名文档归档到 [!DNL SharePoint] 库使用 [!DNL Power Automate]
+title: 使用 [!DNL Power Automate]自动存档 [!DNL SharePoint] 中的文件
+description: 了解如何使用 [!DNL Power Automate]将已签名的文档自动存档到 [!DNL SharePoint] 库
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 自动存档文件 [!DNL SharePoint] 与 [!DNL Power Automate]
+# 使用[!DNL Power Automate]自动存档[!DNL SharePoint]中的文件
 
-了解如何自动将已签名文档归档到 [!DNL SharePoint] 库使用 [!DNL Power Automate].
+了解如何使用[!DNL Power Automate]将已签名的文档自动存档到[!DNL SharePoint]库。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

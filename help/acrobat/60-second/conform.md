@@ -5,8 +5,8 @@ feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13287
-exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: ea0645d9-d0c4-4256-8a17-87fc8839a087
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

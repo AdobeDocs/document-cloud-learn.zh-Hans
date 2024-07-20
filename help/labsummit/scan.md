@@ -8,7 +8,7 @@ level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -23,40 +23,40 @@ ht-degree: 0%
 
 ## 扫描名片
 
-**第1步：** 从Apple App store或Google Play下载Adobe Scan应用程序。
+**步骤1：**&#x200B;从Apple App store或Google Play下载Adobe Scan应用程序。
 
-**第2步：** 打开Adobe Scan应用程序。
+**步骤2：**&#x200B;打开Adobe Scan应用程序。
 
-**第3步：** 在应用程序中，对名片拍一张照片，其中包含您希望保存到手机的联系信息。
+**步骤3：**&#x200B;从应用程序中，对名片拍一张照片，其中包含您希望保存到手机的联系信息。
 
 ![b卡图像](assets/scanbcard.png)
 
 
-**第4步：** 扫描完成后，请进行调整，以确保您的卡在定界框内。
+**步骤4：**&#x200B;完成扫描后，请进行调整，以确保您的卡在定界框内。
 
-**第5步：** 点击 **[!UICONTROL 保存PDF]** 在右上角。 然后，点击 **[!UICONTROL 保存联系人]**.
+**步骤5：**&#x200B;点按右上角的&#x200B;**[!UICONTROL 保存PDF]**。 然后，点击&#x200B;**[!UICONTROL 保存联系人]**。
 
 
 ![保存b卡图像](assets/savecontact.jpg)
 
 ![b卡图像](assets/savecontact.png)
 
-**第6步：** 在存储到手机中之前，对联系人信息进行任何所需的编辑或添加。 再次点击“保存”以完成保存到联系人。
+**步骤6：**&#x200B;在存储到手机中之前，对联系人信息进行任何所需的编辑或添加。 再次点击“保存”以完成保存到联系人。
 
 ## 扫描并存储收据
 
 Adobe Scan应用程序还可用于扫描和存储您以后需要的收据（例如，费用报告或其他报销）。
 
-**第1步：** 打开Adobe Scan应用程序，对要存储的收据拍照。
+**步骤1：**&#x200B;打开Adobe Scan应用程序，拍摄要存储的收据照片。
 
 ![扫描收据图像](assets/scanreceipt.png)
 
 
-**第2步：** 观察应用程序是否自动检测您的收据并捕获其内容。
+**步骤2：**&#x200B;观察应用程序自动检测您的收据并捕获其内容。
 
 ![b卡图像](assets/receiptoutput.jpg)
 
-**第3步：** 点击 **[!UICONTROL 保存PDF]** 右上角的收据保存位置。
+**步骤3：**&#x200B;点按右上角的&#x200B;**[!UICONTROL 保存PDF]**，将收据存储在手机中。
 
 
 ## 重述：

@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# 注册和签名使用 [!DNL D-Trust]
+# 使用[!DNL D-Trust]注册和签名
 
-了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] 在Acrobat Sign中对文档进行数字签名。
+了解如何向[!DNL D-Trust]注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

@@ -25,9 +25,9 @@ ht-degree: 0%
 ## 新增功能
 
 * [使用Digidentity注册和签名](digidentity-sign.md)
-了解如何注册和使用您的 [!DNL Digidentity] 使用Acrobat Sign创建数字身份证
+了解如何在Acrobat Sign中注册和使用您的[!DNL Digidentity]数字身份证
 * [使用D-Trust进行注册和签名](d-trust.md)
-了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] 在Acrobat Sign中对文档进行数字签名
+了解如何向[!DNL D-Trust]注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名
 
 ## [!DNL Aadhaar]
 
@@ -38,9 +38,9 @@ ht-degree: 0%
       <img alt="签名使用 [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
     </a>
     <div>
-    <a href="aadhaar-sign.md"><strong>签名使用 [!DNL Aadhaar]</strong></a>
+    <a href="aadhaar-sign.md"><strong>使用[!DNL Aadhaar]</strong></a>进行签名
     </div>
-    <em>了解如何使用您的 [!DNL Aadhaar] 使用Acrobat Sign创建数字身份证</em>
+    <em>了解如何在Acrobat Sign中使用您的[!DNL Aadhaar]数字ID</em>
     <br>
   </td>
   <td>
@@ -67,12 +67,12 @@ ht-degree: 0%
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="注册并签名使用 [!DNL Digidentity] 数字身份证" src="assets/Digidentitysign_1280.png" />
+      <img alt="使用[!DNL Digidentity]数字身份证进行注册和签名" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-sign.md"><strong>注册和签名使用 [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>使用[!DNL Digidentity]</strong></a>注册和签名
     </div>
-    <em>了解如何注册和使用您的 [!DNL Digidentity] 使用Acrobat Sign创建数字身份证</em>
+    <em>了解如何在Acrobat Sign中注册和使用您的[!DNL Digidentity]数字身份证</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ ht-degree: 0%
     <div>
     <a href="d-trust.md"><strong>使用D-Trust进行注册和签名</strong></a>
     </div>
-    <em>了解如何注册您的身份 [!DNL D-Trust]，然后使用 [!DNL D-Trust] 在Acrobat Sign中对文档进行数字签名</em>
+    <em>了解如何向[!DNL D-Trust]注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名</em>
     <br>
   </td>
   <td>
@@ -134,19 +134,19 @@ ht-degree: 0%
       <img alt="从Intesi Group获取数字ID（高级）" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>获取数字ID [!DNL Intesi Group] （高级）</strong></a>
+    <a href="intesi-advanced.md"><strong>从[!DNL Intesi Group]获取数字ID（高级）</strong></a>
     </div>
-    <em>了解如何从获取高级数字签名证书 [!DNL Intesi Group]</em>
+    <em>了解如何从[!DNL Intesi Group]</em>获取高级数字签名证书
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="获取数字ID [!DNL Intesi Group] （合格）" src="assets/IntesiQualified_1280.png" />
+      <img alt="从[!DNL Intesi Group]获取数字ID （限定）" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>获取数字ID [!DNL Intesi Group] （合格）</strong></a>
+    <a href="intesi-qualified.md"><strong>从[!DNL Intesi Group]获取数字ID （限定）</strong></a>
     </div>
-    <em>了解如何从获取合格的数字签名证书 [!DNL Intesi Group]</em>
+    <em>了解如何从[!DNL Intesi Group]</em>获取合格数字签名证书
     <br>
   </td>
   <td>
@@ -154,9 +154,9 @@ ht-degree: 0%
       <img alt="使用Intesi Group进行签名" src="assets/IntesiSign_1280.png" />
     </a>
     <div>
-    <a href="intesi-sign.md"><strong>签名使用 [!DNL Intesi Group]</strong></a>
+    <a href="intesi-sign.md"><strong>使用[!DNL Intesi Group]</strong></a>进行签名
     </div>
-    <em>了解如何使用您的 [!DNL Intesi Group] 使用Acrobat Sign创建数字身份证</em>
+    <em>了解如何在Acrobat Sign中使用您的[!DNL Intesi Group]数字ID</em>
     <br>
   </td>
   <td>

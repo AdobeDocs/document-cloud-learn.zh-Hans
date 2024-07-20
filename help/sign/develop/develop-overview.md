@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、�
       <img alt="了解您可以执行的操作" src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>了解您可以执行的操作</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>了解您可以做些什么</strong></a>
     </div>
     <em>了解如何将Acrobat Sign的功能合并到任何外部应用程序中</em>
     <br>
@@ -58,7 +58,7 @@ Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、�
     <div>
     <a href="embeddedesignature.md"><strong>创建嵌入式电子签名和文档体验</strong></a>
     </div>
-    <em>了解如何使用Acrobat Sign API将电子签名和文档体验嵌入到Web平台以及内容和文档管理系统</em>
+    <em>了解如何使用Acrobat Sign API将电子签名和文档体验嵌入您的Web平台以及内容和文档管理系统</em>
     <br>
   </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
-title: 获取数字ID [!DNL Intesi Group] （合格）
-description: 了解如何从获取合格的数字签名证书 [!DNL Intesi Group]
+title: 从 [!DNL Intesi Group] 获取数字ID（合格）
+description: 了解如何从 [!DNL Intesi Group]获取合格数字签名证书
 feature: Digital ID
 role: User
 level: Beginner
@@ -10,18 +10,18 @@ exl-id: aea17112-0a06-4ea6-8a44-9f4ba5eebc29
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# 获取数字ID [!DNL Intesi Group] （合格）
+# 从[!DNL Intesi Group]获取数字ID （限定）
 
-了解如何从获取合格的数字签名证书 [!DNL Intesi Group]. 注册并确认身份后， [!DNL Intesi Group] 用于应用Acrobat Sign云签名的数字ID有问题。
+了解如何从[!DNL Intesi Group]获取合格的数字签名证书。 注册并验证您的身份后，[!DNL Intesi Group]将向您发放用于应用Acrobat Sign云签名的数字ID。
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**选择下图，了解如何使用您的合格产品 [!DNL Intesi Group] Acrobat Sign中的数字身份证。**
+**选择下面的图像，了解如何在Acrobat Sign中使用限定的[!DNL Intesi Group]数字ID。**
 
 [![图像](assets/IntesiSign_400.png)](intesi-sign.md)

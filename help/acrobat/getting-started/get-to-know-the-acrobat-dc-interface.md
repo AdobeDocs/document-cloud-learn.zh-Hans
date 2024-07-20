@@ -20,7 +20,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->有兴趣了解您可以在Acrobat中激活的新工作区体验吗？ 签出 [新的工作区体验](new-workspace.md).
+>有兴趣了解您可以在Acrobat中激活的新工作区体验吗？ 查看[新的工作区体验](new-workspace.md)。
 
 <br> 
 

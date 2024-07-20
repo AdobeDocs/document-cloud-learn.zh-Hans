@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 3%
 
 ## 新增功能
 
-* [Send in Bulk](../sign-advanced-users/megasign.md)
+* [批量发送](../sign-advanced-users/megasign.md)
 了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
 * [报告选项](report-options.md)
 了解如何为用户设置报告选项
-* [添加用户](add-users-to-your-account.md)
+* [正在添加用户](add-users-to-your-account.md)
 了解如何添加和管理Acrobat Sign用户
 
 ## 开始使用
@@ -39,7 +39,7 @@ ht-degree: 3%
     <div>
     <a href="get-started-admin.md"><strong>新管理员快速入门</strong></a>
     </div>
-    <em>在本全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
+    <em>在这个全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
     <br>
   </td>
   <td>
@@ -47,7 +47,7 @@ ht-degree: 3%
       <img alt="管理员启动并运行" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>管理员启动并运行</strong></a>
+    <a href="up-and-running-admin.md"><strong>为管理员启动并运行</strong></a>
     </div>
     <em>管理员可在Acrobat Sign中快速启动和运行的7个关键领域概述</em>
     <br>
@@ -67,9 +67,9 @@ ht-degree: 3%
       <img alt="添加用户" src="../assets/Adding-Users.png" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>添加用户</strong></a>
+    <a href="add-users-to-your-account.md"><strong>正在添加用户</strong></a>
     </div>
-    <em>添加和管理Acrobat Sign用户</em>
+    <em>添加和管理Acrobat Sign的用户</em>
     <br>
   </td>
 </tr>
@@ -99,7 +99,7 @@ ht-degree: 3%
       <img alt="创建文档模板" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>正在创建文档模板</strong></a>
     </div>
     <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
@@ -111,7 +111,7 @@ ht-degree: 3%
     <div>
     <a href="create-a-report.md"><strong>创建报告图表</strong></a>
     </div>
-    <em>了解如何构建、保存和管理自己的自定义报告和数据导出</em>
+    <em>了解如何生成、保存和管理自己的自定义报告和数据导出</em>
     <br>
   </td>
 </tr>
@@ -131,9 +131,9 @@ ht-degree: 3%
       <img alt="创建Web表单" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/webform.md"><strong>创建Web表单</strong></a>
+    <a href="../sign-advanced-users/webform.md"><strong>正在创建Web表单</strong></a>
     </div>
-    <em>创建一个可以在您的网站上直接进行电子签名的文档</em>
+    <em>创建可以在您的网站上直接进行电子签名的文档</em>
     <br>
   </td>
   <td>
@@ -206,7 +206,7 @@ ht-degree: 3%
     <div>
     <a href="share-account-access.md"><strong>共享帐户访问权限</strong></a>
     </div>
-    <em>在另一用户帐户中设置对事务的仅查看访问权限</em>
+    <em>设置对另一个用户帐户中的事务的仅查看访问权限</em>
     <br>
   </td>
   <td>
@@ -216,7 +216,7 @@ ht-degree: 3%
     <div>
     <a href="advanced-account-sharing.md"><strong>高级帐户共享</strong></a>
     </div>
-    <em>设置帐户共享，以允许管理员和用户委派其发送、修改和查看权限</em>
+    <em>设置帐户共享以允许管理员和用户委派其发送、修改和查看权限</em>
     <br>
   </td>
   <td>
@@ -226,7 +226,7 @@ ht-degree: 3%
     <div>
     <a href="use-bio-pharma-settings.md"><strong>使用生物识别设置</strong></a>
     </div>
-    <em>设置生物识别设置，以使您可满足FDA 21 CFR Part 11要求</em>
+    <em>设置生物识别设置，以使您符合FDA 21 CFR Part 11要求</em>
     <br>
   </td> 
 </tr>

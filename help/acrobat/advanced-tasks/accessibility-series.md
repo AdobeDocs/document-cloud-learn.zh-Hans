@@ -37,9 +37,9 @@ ht-degree: 0%
       <img alt="修正不可访问的PDF" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>修正不可访问的PDF</strong></a>
+    <a href="accessibilitysession2.md"><strong>正在修正无法访问的PDF</strong></a>
     </div>
-    <em>在此按需会话中，了解如何使用“简介”网络研讨会中显示的Acrobat Pro工具转换Word文档并修复一些基本的标记问题</em>
+    <em>在此按需会话中，了解转换Word文档的工作流程，并使用简介网络研讨会中显示的Acrobat Pro工具修复一些基本的标记问题</em>
     <br>
   </td>  
   <td>
@@ -47,7 +47,7 @@ ht-degree: 0%
       <img alt="复杂表格" src="../assets/Accessibilitysession3_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession3.md"><strong>复杂表格</strong></a>
+    <a href="accessibilitysession3.md"><strong>复杂表</strong></a>
     </div>
     <em>此按需会话解决了为辅助功能修正PDF时比较常见且更具挑战性的问题之一 — 复杂表格</em>
     <br>
@@ -69,7 +69,7 @@ ht-degree: 0%
       <img alt="向带标签的PDF添加表单字段" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>向带标签的PDF添加表单字段</strong></a>
+    <a href="accessibilitysession5.md"><strong>将表单域添加到加标签的PDF</strong></a>
     </div>
     <em>此按需会话侧重于将表单字段添加到之前标记的PDF</em>
     <br>
@@ -81,7 +81,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession6.md"><strong>将表单字段添加到未加标签的PDF</strong></a>
     </div>
-    <em>此按需会话深入探讨了创建手动表单字段和其他表单字段属性</em>
+    <em>此按需会话更深入地探讨了创建手动表单字段和其他表单字段属性</em>
     <br>
   </td> 
 </tr>

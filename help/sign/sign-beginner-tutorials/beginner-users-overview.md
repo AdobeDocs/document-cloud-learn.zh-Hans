@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 ## 新增功能
 
-* [Acrobat Sign快速入门](new-sender.md)
+* [开始使用Acrobat Sign](new-sender.md)
 您是初次使用Acrobat Sign吗？ 本教程是一个很好的起点。
 * [设置截止日期和提醒](set-deadlines-reminders.md)
 了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署文档
@@ -36,7 +36,7 @@ ht-degree: 5%
     <div>
     <a href="quick-tour.md"><strong>工作区基础知识</strong></a>
     </div>
-    <em>快速浏览Acrobat Sign工作区以启动并运行</em>
+    <em>快速浏览Acrobat Sign工作区以启动并运行该工作区</em>
     <br>
   </td>
   <td>
@@ -44,9 +44,9 @@ ht-degree: 5%
       <img alt="Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Acrobat Sign快速入门</strong></a>
+    <a href="new-sender.md"><strong>开始使用Acrobat Sign</strong></a>
     </div>
-    <em>本综合教程是开始使用Acrobat Sign中新发件人的好办法</em>
+    <em>本全面的教程是开始使用Acrobat Sign创建新发件人的好办法</em>
     <br>
   </td>
   <td>
@@ -56,7 +56,7 @@ ht-degree: 5%
     <div>
     <a href="send-to-single-recipient.md"><strong>发送给单个收件人</strong></a>
     </div>
-    <em>登录并了解如何轻松地发送文档以供签名</em>
+    <em>加入并了解发送文档以请求签名是多么简单</em>
     <br>
   </td>
   <td>
@@ -64,9 +64,9 @@ ht-degree: 5%
       <img alt="发送给多个接收者" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>发送给多个接收者</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>发送给多个收件人</strong></a>
     </div>
-    <em>按照您想要的顺序，将文档发送给多个人进行电子签名</em>
+    <em>按照您想要的顺序，将文档发送给多人以进行电子签名</em>
     <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ ht-degree: 5%
       <div>
       <a href="set-deadlines-reminders.md"><strong>设置截止日期和提醒</strong></a>
       </div>
-      <em>了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署文档</em>
+      <em>了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署您的文档</em>
       <br>
     </td> 
   <td>
@@ -162,7 +162,7 @@ ht-degree: 5%
     <div>
     <a href="fill-and-sign.md"><strong>填写并签署文档</strong></a>
     </div>
-    <em>填写表单并将电子签名添加到文档</em>
+    <em>填写表单并将您的电子签名添加到文档</em>
     <br>
   </td>
   <td>
@@ -204,7 +204,7 @@ ht-degree: 5%
     <div>
     <a href="sign-with-a-stamp.md"><strong>使用图章进行签名</strong></a>
     </div>
-    <em>使用图章将文档标记为已批准或已完成</em>
+    <em>使用图章标记已批准或已完成的文档</em>
      <br>
   </td> 
  <td>
@@ -229,7 +229,7 @@ ht-degree: 5%
       <img alt="管理和跟踪协议" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>管理和跟踪协议</strong></a>
+    <a href="manage-and-track.md"><strong>管理和跟踪您的协议</strong></a>
     </div>
     <em>了解如何管理和跟踪发送以供签名的协议</em>
     <br>
@@ -239,9 +239,9 @@ ht-degree: 5%
       <img alt="创建文档模板" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>创建文档模板</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>正在创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板，以提高企业速度和一致性</em>
+    <em>创建可重复使用的文档模板以提高组织速度和一致性</em>
     <br>
   </td>
   <td>

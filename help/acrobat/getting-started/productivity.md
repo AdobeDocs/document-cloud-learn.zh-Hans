@@ -20,12 +20,12 @@ ht-degree: 0%
 
 >[!TIP]
 >
->有兴趣进一步了解可以从任何地方访问的Acrobat工具？ 签出 [随时随地使用Acrobat Web](acrobatweb.md).
+>有兴趣进一步了解可以从任何地方访问的Acrobat工具？ 查看[随时随地使用Acrobat Web](acrobatweb.md)。
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
 
-![QR代码](../assets/Acrobatqrcode.jpg)
+![二维码](../assets/Acrobatqrcode.jpg)
 
 扫描二维码获取应用程序。

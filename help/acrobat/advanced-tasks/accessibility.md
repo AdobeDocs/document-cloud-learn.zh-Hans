@@ -10,7 +10,7 @@ thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 ## 辅助工具检查
 
-1. 选择 **[!UICONTROL 辅助功能]** 从“工具”中心或右侧窗格。
+1. 从“工具”中心或右侧窗格中选择&#x200B;**[!UICONTROL 辅助功能]**。
 
    ![辅助功能步骤1](../assets/Accessibility_1.png)
 
-1. 选择 **[!UICONTROL 辅助工具检查]** 在右侧窗格中。
+1. 在右侧窗格中选择&#x200B;**[!UICONTROL 辅助功能检查]**。
 
    ![辅助功能步骤2](../assets/Accessibility_2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    保持选中每个复选框以生成完整的报告。
 
-1. 选择 **[!UICONTROL 开始检查]** 以开始报告。
+1. 选择&#x200B;**[!UICONTROL 开始检查]**&#x200B;以开始报告。
 
    ![辅助功能步骤3](../assets/Accessibility_3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![辅助功能步骤4](../assets/Accessibility_4.png)
 
-您也可以使用 [!UICONTROL 使其可访问] 中的操作 [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html) 工具，用于完成创建辅助PDF的一系列基本步骤。
+您还可以使用[工具](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)Action Wizard中的[!UICONTROL 使其可访问]操作，该操作将逐步完成一组创建可访问PDF的基本步骤。
 
 ## 修复辅助功能问题
 

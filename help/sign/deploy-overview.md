@@ -9,8 +9,8 @@ thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 15%
+source-wordcount: '98'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 15%
     <div>
     <a href="https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html" target="_blank"><strong>在Admin Console上管理Acrobat Sign</strong></a>
     </div>
-    <em>了解如何在Adobe的企业平台Adobe Admin Console上管理Acrobat Sign用户和许可证</em>
+    <em>了解如何在AdobeAdobe Admin Console的企业平台上管理Acrobat Sign用户和许可证</em>
     <br>
   </td>
   <td>
@@ -35,7 +35,7 @@ ht-degree: 15%
       <img alt="Adobe 信任中心" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe 信任中心</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
     <em>了解我们在Acrobat Sign的安全性、合法性和标准方面持续作出的努力</em>
     <br>
@@ -47,7 +47,7 @@ ht-degree: 15%
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials学习指南</strong></a>
     </div>
-    <em>用于Acrobat Sign基本功能评估的Acrobat Sign研究指南(AD3-D104)</em>
+    <em>适用于Acrobat Sign Essentials评估的Acrobat Sign研究指南(AD3-D104)</em>
     <br>
   </td>
   <td>

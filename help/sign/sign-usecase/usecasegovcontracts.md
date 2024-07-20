@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # 政府合同和请购单
 
-使用合规的数字工作流程快速取代纸面处理，辅以审核报告。 了解如何使用Acrobat Sign的工作流设计器工具帮助简化整个流程。
+使用合规的数字工作流程快速取代纸面处理，辅以审核报告。 了解如何使用Acrobat Sign的“工作流程Designer”工具来帮助简化整个流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 选择以下载或打开合同和申请表单的分步PDF处方。
 
-[![下载PDF方法](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![下载PDF配方](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

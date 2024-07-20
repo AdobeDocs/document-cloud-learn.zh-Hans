@@ -21,10 +21,10 @@ Adobe Acrobat Sign已与Notarize， Inc.合作，提供在线公证服务。 在
 
 >[!NOTE]
 >
->Acrobat Sign集成 [!DNL Notarize] Inc.的在线公证服务仅适用于美国的商业和企业级服务计划。
+>Acrobat Sign与[!DNL Notarize] Inc.的在线公证服务的集成仅适用于美国的商业和企业级服务计划。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->为Acrobat Sign帐户启用公证后，发件人可以选择 **要求公证** 通过选择收件人记录右侧的省略号。 公证选项仅适用于具有签名者角色的收件人。
+>为Acrobat Sign帐户启用公证后，发件人可以通过选择收件人记录右侧的省略号来选择&#x200B;**需要公证**。 公证选项仅适用于具有签名者角色的收件人。

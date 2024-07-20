@@ -9,7 +9,7 @@ thumbnail: KT-6820.jpg
 exl-id: 586bf1a8-6dc0-4293-b6b2-c6509f0937f1
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 单击下图，了解如何使用Acrobat Sign将付款保护计划表单转换为在线交互式表单。
 
-[![Payment Capture交互式演练](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)
+[![付款捕获交互式演练](../assets/Paycheck.jpg)](https://acrobatusers.com/paycheck-protection-program-resource-hub/walkthrough/)

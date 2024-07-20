@@ -28,7 +28,7 @@ ht-degree: 0%
     <div>
     <a href="innovation-series.md"><strong>技能生成器</strong></a>
     </div>
-    <em>加入我们，花30分钟时间使用技能构建器，了解如何在不增加任何额外工作的情况下让您的电子签名发挥作用</em>
+    <em>加入我们，使用30分钟的技能构建器，了解如何在不增加任何额外工作的情况下让您的电子签名发挥作用</em>
     <br>
   </td>
   <td>
@@ -38,7 +38,7 @@ ht-degree: 0%
     <div>
     <a href="recipes.md"><strong>用例</strong></a>
     </div>
-    <em>探索各种组织如何通过这些实际用例使用Acrobat Sign</em>
+    <em>探索各种组织如何将这些实际用例与Acrobat Sign结合使用</em>
     <br>
   </td>
   <td>
