@@ -7,16 +7,16 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 40960e4931e5491275f63775590e7029ff698c49
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 4%
 
 ---
 
 # Acrobat教程
 
-Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑、共享和签署PDF来帮助保持业务运转。 您将在此处找到大量学习体验，旨在快速让初学者和高级用户了解Adobe Acrobat的最新动态。
+Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑、共享和签署PDF来帮助保持业务运转。 您可以在此处找到大量学习体验，旨在快速让初学者或高级用户了解Adobe Acrobat的最新动态。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -25,50 +25,28 @@ Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑�
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-## 学习路径
+## 特色学习路径
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="getting-started/getting-started-overview.md">
-      <img alt="开始使用" src="assets/acrobat_title_getting_started.png" />
+      <img alt="开始使用" src="assets/start.png" />
     </a>
   </td>
   <td>
     <a href="advanced-tasks/advanced-tasks-overview.md">
-      <img alt="高级任务" src="assets/acrobat_title_advanced_tasks.png" />
+      <img alt="高级任务" src="assets/advanced-tasks.png" />
     </a>
   </td>
   <td>
-    <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="技能生成器" src="assets/acrobat_title_skill_builder.png" />
+    <a href="60-second/60-second-overview.md">
+      <img alt="60秒Acrobat" src="assets/60-sec.png" />
     </a>
   </td>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="集成" src="assets/acrobat_title_integrate.png" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="industry/industry-overview.md">
-      <img alt="行业和部门" src="assets/acrobat_title_industry.png" />
-    </a>
-  </td>  
-  <td>
-    <a href="develop/develop-overview.md">
-      <img alt="开发" src="assets/acrobat_title_develop.png" />
-    </a>
-  </td>
-  <td>
-  <a href="deploy/deploy-overview.md">
-      <img alt="部署" src="assets/acrobat_title_deploy.png" />
-    </a>
-  </td>
-  <td>
-    <a href="mobile/mobile-overview.md">
-      <img alt="移动设备" src="assets/acrobat_title_mobile.png" />
+      <img alt="集成" src="assets/integrations.png" />
     </a>
   </td>
 </tr>
