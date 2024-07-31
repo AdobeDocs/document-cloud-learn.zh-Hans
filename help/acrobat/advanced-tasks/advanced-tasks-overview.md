@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -31,65 +31,113 @@ ht-degree: 3%
     <a href="bookmarks.md">
       <img alt="添加书签和超链接" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong>添加书签和超链接</strong></a>
+      </div>
+      添加书签和超链接以便更好地导航
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="优化扫描的文档" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong>优化扫描的文档</strong></a>
+      </div>
+      了解如何增强扫描的文档
   </td>
   <td>
     <a href="custom.md">
       <img alt="自定义命令和工具" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong>自定义命令和工具</strong></a>
+      </div>
+      了解如何提高文档工作流程的效率
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="高级表单字段" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong>高级表单字段</strong></a>
+      </div>
+      了解如何构建高级表单字段
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="用于SEO（搜索引擎优化）的Optimize PDF" src="../assets/seo.png" />
+      <img alt="SEO的Optimize PDF" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong>SEOOptimize PDF</strong></a>
+      </div>
+      为SEO优化PDF（搜索引擎优化）
   </td>
   <td>
     <a href="workforms.md">
       <img alt="处理表单域" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong>处理表单域</strong></a>
+      </div>
+      了解如何添加各种类型的表单域和属性
   </td>
   <td>
     <a href="enhance.md">
       <img alt="增强您的PDF" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong>增强您的PDF</strong></a>
+      </div>
+      了解如何转变您的PDF
   </td>
  <td>
     <a href="compare.md">
       <img alt="检测两个PDF之间的差异" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong>检测两个PDF之间的差异</strong></a>
+      </div>
+      快速检测两个PDF文件之间的差异
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong>Action Wizard</strong></a>
+      </div>
+      了解如何使用操作提高效率
   </td>
   <td>
     <a href="redact.md">
       <img alt="标记密文并进行整理" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong>标记密文并进行整理</strong></a>
+      </div>
+      了解如何永久删除敏感信息
   </td>
  <td>
     <a href="reduce.md">
       <img alt="减小文件大小并进行优化" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong>减小文件大小并优化</strong></a>
+      </div>
+      在不影响质量的情况下减少大型文件
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="处理表单数据" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong>处理表单数据</strong></a>
+      </div>
+      了解如何编译表单数据
   </td>
 </tr>
 <tr>
@@ -97,11 +145,19 @@ ht-degree: 3%
     <a href="accessibility.md">
       <img alt="检查PDF辅助功能" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong>检查PDF辅助功能</strong></a>
+      </div>
+      了解如何检查您的PDF是否可普遍访问
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="准备可访问的PDF文件" src="../assets/accessibility-series.png" />
+      <img alt="Acrobat辅助功能系列" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong>Acrobat辅助功能系列</strong></a>
+      </div>
+      六节点播PDF辅助功能系列
   </td>
   <td>
    <img alt="间隔物" src="../assets/Grayspacer.png" />

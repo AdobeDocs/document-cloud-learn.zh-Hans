@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
@@ -48,7 +48,7 @@ ht-degree: 1%
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>工作区基础知识</strong></a>
     </div>
-    了解如何跨桌面、Web和移动设备访问文件和工具
+    了解Acrobat工作区的基础知识
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ ht-degree: 1%
     <div>
     <a href="ai-assistant.md"><strong>使用AI Assistant发现PDF见解</strong></a>
     </div>
-    了解如何使用AI Assistant从PDF文件中获得见解
+    使用AI Assistant从PDF文件中获取见解
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatweb.md"><strong>随时随地使用Acrobat Web</strong></a>
     </div>
-    了解如何随时随地处理业务文档请求
+    了解如何随时随地工作
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ ht-degree: 1%
     <div>
     <a href="productivity.md"><strong>随时随地提高工作效率</strong></a>
     </div>
-    了解如何直接从平板电脑或手机执行更多操作
+    了解如何通过平板电脑或手机执行更多操作
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ ht-degree: 1%
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>使用Microsoft 365</strong></a>
       </div>
-      了解如何直接在Microsoft 365中无缝地使用PDF文件
+      直接在Microsoft 365中无缝使用PDF文件
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ ht-degree: 1%
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>PDF来自哪里？</strong></a>
       </div>
-      了解PDF来自何处以及如何在数字工作流程中使用它们
+      了解PDF来自何处以及如何使用它们
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ ht-degree: 1%
       <div>
       <a href="create-pdf.md"><strong>创建PDF文件</strong></a>
       </div>
-      了解如何从所有不同类型的文档创建PDF
+      从所有不同类型的文档创建PDF
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ ht-degree: 1%
       <div>
       <a href="combine-to-pdf.md"><strong>将文件合并为单个PDF</strong></a>
       </div>
-      了解如何将多种不同类型的文件无缝合并为一个PDF
+      将多种不同类型的文件无缝合并为一个PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ ht-degree: 1%
       <div>
       <a href="edit-pdf.md"><strong>编辑PDF中的文本</strong></a>
       </div>
-      了解如何编辑PDF中的单词、短语甚至整个页面
+      在PDF中编辑单词、短语甚至整个页面
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ ht-degree: 1%
       <div>
       <a href="export-pdf.md"><strong>将PDF转换为其他文件格式</strong></a>
       </div>
-      了解如何将PDF文件转换为不同的文件格式
+      将PDF文件转换为不同的文件格式
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ ht-degree: 1%
       <div>
       <a href="comment-on-pdf-files.md"><strong>对PDF发表评论</strong></a>
       </div>
-      了解如何向PDF文件添加注释，然后与他人共享文件
+      添加注释，然后与他人共享您的PDF
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ ht-degree: 1%
     <div>
     <a href="scan-and-ocr.md"><strong>扫描和OCR</strong></a>
     </div>
-    将文档的扫描件或图像转换为可搜索、可编辑的PDF文件
+    将扫描件或图像转换为可搜索、可编辑的PDF文件
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ ht-degree: 1%
     <div>
     <a href="signatures.md"><strong>获取签名</strong></a>
     </div>
-    通过收集具有法律约束力的电子签名来保持业务运转
+    了解如何收集具有法律约束力的电子签名
     <br>
   </td>
   <td>
@@ -330,7 +330,7 @@ ht-degree: 1%
     <div>
     <a href="track.md"><strong>跟踪您的文档</strong></a>
     </div>
-    了解如何跟踪和管理您的电子签名文档
+    跟踪和管理您的电子签名文档
     <br>
   </td>
   <td>
