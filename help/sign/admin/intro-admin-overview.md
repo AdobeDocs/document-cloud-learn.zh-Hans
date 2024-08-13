@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '522'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,12 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [审核报告](audit-reports.md)
+了解如何访问、利用和配置审核报告以满足您组织的需要
 * [批量发送](../sign-advanced-users/megasign.md)
 了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
 * [报告选项](report-options.md)
 了解如何为用户设置报告选项
-* [正在添加用户](add-users-to-your-account.md)
-了解如何添加和管理Acrobat Sign用户
 
 ## 开始使用
 
@@ -169,8 +169,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <a href="audit-reports.md">
+      <img alt="审计报告" src="../assets/audit-reports-configure.png" />
+    </a>
     <div>
+    <a href="audit-reports.md"><strong>审核报告</strong></a>
+    </div>
+    <em>了解如何访问、利用和配置审核报告</em>
     <br>
   </td>
   <td>
