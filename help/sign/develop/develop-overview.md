@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # 修改照片概述
 
 Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、合作伙伴和客户创建自定义应用程序。
+
+## 新增功能
+
+* [如何设置Webhook](webhooks.md)
+了解如何创建Webhook以自动执行通常需要手动干预的流程
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,6 +64,33 @@ Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、�
     <a href="embeddedesignature.md"><strong>创建嵌入式电子签名和文档体验</strong></a>
     </div>
     <em>了解如何使用Acrobat Sign API将电子签名和文档体验嵌入您的Web平台以及内容和文档管理系统</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="如何设置Webhook" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>如何设置Webhook</strong></a>
+    </div>
+    <em>了解如何创建Webhook以自动执行通常需要手动干预的流程</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>

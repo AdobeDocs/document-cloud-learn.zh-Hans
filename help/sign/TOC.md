@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e36b369cea4c8c27a7ccf058f0793bca9851178f
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '525'
 ht-degree: 7%
 
 ---
@@ -84,8 +84,10 @@ ht-degree: 7%
       + [全局设置](admin/learn-about-global-settings.md)
       + [共享帐户访问权限](admin/share-account-access.md)
       + [高级帐户共享](admin/advanced-account-sharing.md)
-      + [使用生物识别设置](admin/use-bio-pharma-settings.md)
+      + [批量下载工具](admin/bulk-download-tool.md)
       + [Acrobat Sign文本标记](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [使用生物识别设置](admin/use-bio-pharma-settings.md)
+      + [如何设置隐私管理员](admin/privacy.md)
 + 数字ID {#digital-id}
    + [概述](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -158,9 +160,10 @@ ht-degree: 7%
       + [Showcase](sign-usecase/use-case-showcase.md)
 + 开发{#develop}
    + [概述](develop/develop-overview.md)
-   + 自定义API {#custom}
+   + API和Webhook {#custom}
       + [使用GigaSign收集大量文档](develop/gigasign.md)
       + [创建嵌入式电子签名和文档体验](develop/embeddedesignature.md)
+      + [如何设置Webhook](develop/webhooks.md)
 + 部署{#deploy}
    + [概述](deploy-overview.md)
 + 移动设备{#mobile}

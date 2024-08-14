@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [如何设置隐私管理员](privacy.md)
+了解如何设置和使用隐私管理员
+* [批量下载工具](bulk-download-tool.md)
+了解如何使用批量下载工具快速下载所有已签名的协议
 * [审核报告](audit-reports.md)
 了解如何访问、利用和配置审核报告以满足您组织的需要
-* [批量发送](../sign-advanced-users/megasign.md)
-了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
-* [报告选项](report-options.md)
-了解如何为用户设置报告选项
+
 
 ## 开始使用
 
@@ -225,13 +226,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="使用生物识别设置" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="批量下载工具" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>使用生物识别设置</strong></a>
+    <a href="bulk-download-tool.md"><strong>批量下载工具</strong></a>
     </div>
-    <em>设置生物识别设置，以使您符合FDA 21 CFR Part 11要求</em>
+    <em>了解如何使用批量下载工具快速下载所有已签名的协议</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="使用生物识别设置" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>使用生物识别设置</strong></a>
+    </div>
+    <em>设置生物识别设置，以使您符合FDA 21 CFR Part 11要求</em>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="如何设置隐私管理员" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>如何设置隐私管理员</strong></a>
+    </div>
+    <em>了解如何设置和使用隐私管理员</em>
     <br>
   </td>
   <td>
