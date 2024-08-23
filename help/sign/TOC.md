@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [在 [!DNL Microsoft Word]中使用文本标记](sign-advanced-users/text-tagging-word.md)
    + 管理{#advanced-tasks-managing}
-      + [创建报告](sign-advanced-users/creating-a-report.md)
+      + [报告和交易使用情况](sign-advanced-users/creating-a-report.md)
       + [管理文档模板](sign-advanced-users/edit-a-template.md)
       + [修改现有Web表单](sign-advanced-users/modify-webform.md)
       + [管理Web表单数据](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [创建和管理组](admin/create-and-manage-groups.md)
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建模板](sign-advanced-users/create-a-template.md)
-      + [创建报告图表](admin/create-a-report.md)
+      + [报告和交易使用情况](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用户的报告选项](admin/report-options.md)
       + [创建Web表单](sign-advanced-users/webform.md)
       + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [设置数据映射](integrations/set-up-data-mapping.md)
       + [设置合并映射](integrations/set-up-merging-map.md)
       + [创建自定义按钮](integrations/create-a-custom-button.md)
+      + [设置自动更新](integrations/salesforce-automatic-updates.md)
+      + [设置大文件和推送映射](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [正在使用 [!DNL Workday]配置Acrobat Sign](integrations/workday.md)
       + [Acrobat Sign + Workday新员工入职培训](integrations/acrobat-sign-workday-onboarding.md)

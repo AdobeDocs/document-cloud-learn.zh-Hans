@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 0%
 
 ## 新增功能
 
+* [设置大文件和推送映射](salesforce-large-files.md)
+了解如何在Salesforce中设置大文档和推送协议服务
+* [设置自动更新](salesforce-automatic-updates.md)
+了解如何轻松地将您的帐户链接到Salesforce以获取自动更新
 *  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)的[“文档”选项卡集成
 了解如何直接从[!DNL Microsoft Teams]中的“文档”选项卡发送文档以供签名
-* [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)使用
-了解如何创建类似于[!DNL Microsoft Teams]会议期间亲自签名的在线签名体验
-* [使用 [!DNL Power Automate]](advanced-workflow-power-automate.md)创建高级工作流
-了解如何使用[!DNL Power Automate]连接器创建高级工作流
 
 ## Microsoft集成教程
 
@@ -275,6 +275,38 @@ ht-degree: 0%
     </div>
     <em>创建自定义按钮，以启动发送流程并自动填充Salesforce中的协议</em>
     <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="设置自动更新" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>设置自动更新</strong></a>
+    </div>
+    <em>了解如何轻松地将您的帐户链接到Salesforce以获取自动更新</em>
+    <br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="设置大文件和推送映射" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>设置大文件和推送映射</strong></a>
+    </div>
+    <em>了解如何在Salesforce中设置大文档和推送协议服务</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔物" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="间隔物" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>

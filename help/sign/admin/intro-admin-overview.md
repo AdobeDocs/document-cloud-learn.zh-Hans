@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="创建报告图表" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="报告和交易使用情况" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>创建报告图表</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>报告和交易使用情况</strong></a>
     </div>
-    <em>了解如何生成、保存和管理自己的自定义报告和数据导出</em>
+    <em>了解如何生成报告和跟踪交易使用情况</em>
     <br>
   </td>
 </tr>

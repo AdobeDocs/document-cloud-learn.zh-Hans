@@ -1,22 +1,22 @@
 ---
-title: 创建报告
-description: 了解如何构建您自己的报告以了解文档签名过程
+title: 报告和交易使用情况
+description: 了解如何生成报告和跟踪交易使用情况
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# 创建报告
+# 报告和交易使用情况
 
-了解如何构建您自己的报告来了解您的文档签名过程，或了解单个组或用户的操作方式。
+了解如何生成报告和跟踪交易使用情况。 这些报告可能包含已签名协议的百分比或平均签名时间等信息。 通过生成报告和跟踪使用情况，您可以了解文档签名流程。
 
 >[!NOTE]
 >
