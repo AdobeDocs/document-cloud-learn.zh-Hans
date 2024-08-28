@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 使用Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复平凡的任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。
 
 ## 新增功能
+
+* [引导式操作](action.md)
+了解如何使用引导式操作提高效率
 
 * [SEO（搜索引擎优化）的Optimize PDF](optimizeseo.md)
 了解如何优化PDF以提高可发现性并改善搜索引擎在Web上的排名
@@ -105,12 +108,12 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="引导式操作" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>引导式操作</strong></a>
       </div>
-      了解如何使用操作提高效率
+      了解如何使用引导式操作提高效率
   </td>
   <td>
     <a href="redact.md">

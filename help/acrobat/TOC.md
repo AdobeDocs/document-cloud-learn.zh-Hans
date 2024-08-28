@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 91017fe122eae4de793037372f249aba9308350b
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
    + [处理表单域](advanced-tasks/workforms.md)
    + [增强您的PDF](advanced-tasks/enhance.md)
    + [检测两个PDF之间的差异](advanced-tasks/compare.md)
-   + [Action Wizard](advanced-tasks/action.md)
+   + [引导式操作](advanced-tasks/action.md)
    + [标记密文并进行整理](advanced-tasks/redact.md)
    + [减小文件大小并进行优化](advanced-tasks/reduce.md)
    + [使用表单数据](advanced-tasks/formdata.md)
