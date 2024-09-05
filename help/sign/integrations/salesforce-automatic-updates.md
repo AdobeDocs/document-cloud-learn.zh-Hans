@@ -7,7 +7,8 @@ topic: Integrations
 level: Intermediate
 jira: KT-15913
 topic-revisit: Integrations
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+exl-id: c97a1026-e82c-4e43-abe5-0241a623deb4
+source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%

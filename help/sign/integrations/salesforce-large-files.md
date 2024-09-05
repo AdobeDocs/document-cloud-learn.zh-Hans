@@ -6,7 +6,8 @@ role: Admin
 topic: Integrations
 level: Intermediate
 jira: KT-15911
-source-git-commit: 0c27e6fcb26905cda9bf92a9dfd1bb36a5b7c5b5
+exl-id: 6dc846c6-a64c-4488-bc5e-a1c7509fdb0f
+source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
