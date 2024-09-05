@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>快速入门</strong></a>
       </div>
-      <em>了解如何发送、签署和跟踪文档</em>
+      了解如何发送、签署和跟踪文档
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>高级任务</strong></a>
       </div>
-      <em>通过特定的任务和自动化超越基础知识</em>
+      通过特定的任务和自动化完成基础知识以外的工作
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="admin/intro-admin-overview.md"><strong>管理</strong></a>
       </div>
-      <em>您的组织的基本到高级设置提示</em>
+      适用于您的组织的从基本到高级设置提示
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>数字ID</strong></a>
       </div>
-      <em>了解如何在Acrobat Sign中使用单词周围的数字身份证</em>
+      了解如何在Acrobat Sign中使用单词周围的数字身份证
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="integrations/integrations-overview.md"><strong>集成</strong></a>
       </div>
-      <em>直接将Acrobat Sign添加到您的组织已使用的其他应用程序中</em>
+      直接将Acrobat Sign添加到您的组织已使用的其他应用程序中
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>行业和部门</strong></a>
       </div>
-      <em>探索现实行业和部门的用例</em>
+      探索真实的行业和部门用例
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="develop/develop-overview.md"><strong>修改照片</strong></a>
       </div>
-      <em>获取有关Acrobat Sign I/O的开发资源</em>
+      获取有关Acrobat Sign I/O的开发资源
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="deploy-overview.md"><strong>部署</strong></a>
       </div>
-      <em>在组织内部署Acrobat Sign的洞察力和最佳实践</em>
+      深入了解在您的组织内部署Acrobat Sign的最佳做法
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
       <a href="mobile/mobile-overview.md"><strong>移动设备</strong></a>
       </div>
-      <em>在移动设备上发送、签名和获取实时更新</em>
+      在移动设备上发送、签名和获取实时更新
       <br>
   </td>  
 </tr>
