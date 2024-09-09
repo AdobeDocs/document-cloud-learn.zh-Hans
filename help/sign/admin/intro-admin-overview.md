@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,8 @@ ht-degree: 2%
 
 ## 新增功能
 
+* [如何将用户提升为管理员角色](promote-admin.md)
+了解如何使用Admin Console将用户提升为Acrobat Sign管理员角色
 * [如何使用多个配置文件](multiple-profiles.md)
 了解如何使用配置文件选取器处理多个Acrobat Sign帐户
 * [如何设置隐私管理员](privacy.md)
@@ -189,8 +191,13 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="如何将用户提升为管理员角色" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>如何将用户提升为管理员角色</strong></a>
+    </div>
+    <em>了解如何使用Admin Console将用户提升为Acrobat Sign管理员角色</em>
     <br>
   </td>
 </table>
