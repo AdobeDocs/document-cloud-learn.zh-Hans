@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ ht-degree: 1%
 
 ## 新增功能
 
-* [设计新页面](add-custom-page.md)
-了解如何使用Adobe Express在PDF中创建具有专业外观的新页面
-* [在PDF中编辑图形](edit-graphics.md)
-了解如何在PDF中创建、编辑和增强图形
-* [新的工作区体验](new-workspace.md)
-了解Acrobat中的新工作区，该工作区可帮助您快速发现工具并高效完成PDF任务
-* [使用AI Assistant发现PDF见解](ai-assistant.md)
-了解如何使用AI Assistant从PDF文件中获得见解
+>[!BEGINTABS]
+
+>[!TAB 设计新页面]
+
+了解如何使用Adobe Express在PDF中[设计具有专业外观的新页面](add-custom-page.md)。
+
+>[!TAB 在PDF中编辑图形]
+
+了解如何[在您的PDF中创建、编辑和增强图形](edit-graphics.md)。
+
+>[!TAB 新的工作区体验]
+
+了解Acrobat中的[新工作区](new-workspace.md)，它可帮助您快速发现工具并高效完成PDF任务。
+
+>[!TAB 使用AI Assistant发现PDF见解]
+
+了解如何使用AI Assistant从PDF文件中获得见解。
+
+>[!ENDTABS]
 
 ## 快速入门教程
 
