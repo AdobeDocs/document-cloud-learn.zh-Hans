@@ -1,21 +1,21 @@
 ---
-title: 添加自定义页面
-description: 了解如何使用集成的Adobe Express应用程序将自定义页面添加到PDF
+title: 设计新页面
+description: 了解如何使用Adobe Express在PDF中创建具有专业外观的新页面
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-10836
 thumbnail: KT-10836.jpg
 exl-id: 900815b4-6242-457e-86cf-7aa995016f29
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 5%
+source-wordcount: '65'
+ht-degree: 0%
 
 ---
 
-# 添加自定义页面
+# 设计新页面
 
-了解如何使用集成的Adobe Express应用程序将自定义页面添加到PDF，该应用程序提供数千个模板供您选择。 此视频教程使用[新工作区体验](new-workspace.md)。
+了解如何使用Adobe Express在PDF中新建具有专业外观的页面。 通过设计新页面，您可以在几分钟内创建具有专业外观的品牌定制内容，这些内容真正与众不同。 此视频教程使用[新工作区体验](new-workspace.md)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)
