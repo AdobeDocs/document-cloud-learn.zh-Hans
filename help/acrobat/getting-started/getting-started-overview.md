@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
+source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -36,7 +36,7 @@ ht-degree: 1%
 
 >[!TAB 使用AI Assistant发现PDF见解]
 
-了解如何使用AI Assistant从PDF文件中获得见解。
+了解如何使用[AI Assistant](ai-assistant.md)从PDF文件中获取见解。
 
 >[!ENDTABS]
 
