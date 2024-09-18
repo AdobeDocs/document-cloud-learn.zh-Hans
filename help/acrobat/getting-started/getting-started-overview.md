@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
+source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -196,11 +196,11 @@ ht-degree: 1%
       <br>
     </td>
     <td>
-      <a href="stylize-this-PDF.md">
+      <a href="stylize-this-pdf.md">
         <img alt="设置此PDF的风格" src="../assets/stylize-pdf.png" />
       </a>
       <div>
-      <a href="stylize-this-PDF.md"><strong>风格化此PDF</strong></a>
+      <a href="stylize-this-pdf.md"><strong>风格化此PDF</strong></a>
       </div>
       了解如何创建具有专业外观的PDF
       <br>
