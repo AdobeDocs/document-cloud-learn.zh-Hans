@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ ht-degree: 1%
 
 ## 新增功能
 
-* [引导式操作](action.md)
-了解如何使用引导式操作提高效率
+>[!BEGINTABS]
 
-* [SEO（搜索引擎优化）的Optimize PDF](optimizeseo.md)
-了解如何优化PDF以提高可发现性并改善搜索引擎在Web上的排名
+>[!TAB 引导式操作]
+
+了解如何使用[引导式操作](action.md)提高效率。
+
+>[!TAB SEO（搜索引擎优化）的Optimize PDF]
+
+了解如何[优化PDF](optimizeseo.md)以提高可发现性并改善搜索引擎在Web上的排名。
+
+>[!ENDTABS]
 
 ## 高级任务教程
 

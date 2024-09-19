@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [适用于教育的IEP进程的自定义工作流](usecase-edu-iep.md)
-了解如何使用Designer中的自定义工作流程将个性化教育计划(IEP)流程数字化
-* [教育Web表单实习申请](usecase-edu-intern.md)
-了解如何使用Web表单改善学生对所需表单的访问
-* [创建教育Web表单实习申请](usecase-edu-intern-create.md)
-了解如何创建实习Web表单
-* [具有多个未知签名者的政府贷款申请](webform-multiple-signers.md)
-了解如何使用Web表单处理涉及多个未知参与者的复杂政府贷款申请工作流程
+>[!BEGINTABS]
+
+>[!TAB 适用于教育的IEP进程的自定义工作流]
+
+了解如何使用[自定义工作流程Designer](usecase-edu-iep.md)将个性化教育计划(IEP)流程数字化。
+
+>[!TAB 教育Web表单实习申请]
+
+了解如何使用[Web表单](usecase-edu-intern.md)来改善学生对所需表单的访问。
+
+>[!TAB 创建教育Web表单实习申请]
+
+了解如何创建实习[Web表单](usecase-edu-intern-create.md)。
+
+>[!TAB 具有多个未知签名者的政府贷款申请]
+
+了解[Web表单](webform-multiple-signers.md)如何用于涉及多个未知参与者的复杂政府贷款申请工作流程。
+
+>[!ENDTABS]
 
 ## 政府用例
 

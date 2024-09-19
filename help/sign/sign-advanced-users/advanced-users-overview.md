@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ ht-degree: 2%
 
 ## 新增功能
 
-* [批量发送](megasign.md)
-了解如何只需几个简单的步骤即可一次性为任何文档收集数千个签名
-* [Acrobat Sign中的身份验证方法](authentication-methods.md)
-了解Acrobat Sign中可用于验证文档签名者身份的一系列方法
+>[!BEGINTABS]
+
+>[!TAB 批量发送]
+
+了解如何只需几个简单的步骤，即可同时[收集任何文档的数千个](megasign.md)签名。
+
+>[!TAB Acrobat Sign中的身份验证方法]
+
+了解Acrobat Sign中可用的一系列方法，以[验证](authentication-methods.md)签名文档的人员的身份。
+
+>[!ENDTABS]
 
 ## 发送
 

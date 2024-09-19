@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [使用Digidentity注册和签名](digidentity-sign.md)
-了解如何在Acrobat Sign中注册和使用您的[!DNL Digidentity]数字身份证
-* [使用D-Trust进行注册和签名](d-trust.md)
-了解如何向[!DNL D-Trust]注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名
+>[!BEGINTABS]
+
+>[!TAB 使用Digidentity注册和签名]
+
+了解如何在Acrobat Sign中注册和使用您的[[!DNL Digidentity]](digidentity-sign.md)数字身份证。
+
+>[!TAB 使用D-Trust进行注册和签名]
+
+了解如何向[[!DNL D-Trust]](d-trust.md)注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名。
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 

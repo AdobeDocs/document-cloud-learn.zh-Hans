@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ ht-degree: 1%
 
 ## 新增功能
 
-* [如何将用户提升为管理员角色](promote-admin.md)
-了解如何使用Admin Console将用户提升为Acrobat Sign管理员角色
-* [如何使用多个配置文件](multiple-profiles.md)
-了解如何使用配置文件选取器处理多个Acrobat Sign帐户
-* [如何设置隐私管理员](privacy.md)
-了解如何设置和使用隐私管理员
-* [批量下载工具](bulk-download-tool.md)
-了解如何使用批量下载工具快速下载所有已签名的协议
+>[!BEGINTABS]
+
+>[!TAB 如何将用户提升为管理员角色]
+
+了解如何使用Admin Console[将用户](promote-admin.md)提升为Acrobat Sign管理员角色。
+
+>[!TAB 如何使用多个配置文件]
+
+了解如何使用[配置文件选择器](multiple-profiles.md)来处理多个Acrobat Sign帐户。
+
+>[!TAB 如何设置隐私管理员]
+
+了解如何设置和使用[隐私管理员](privacy.md)。
+
+>[!TAB 批量下载工具]
+
+了解如何使用[批量下载工具](bulk-download-tool.md)快速下载所有已签名的协议。
+
+>[!ENDTABS]
 
 ## 开始使用
 

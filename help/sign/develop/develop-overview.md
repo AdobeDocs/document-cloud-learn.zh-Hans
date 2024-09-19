@@ -8,7 +8,7 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 3%
@@ -21,8 +21,13 @@ Acrobat Sign中40%的协议是使用API创建的。 使用API为您的团队、�
 
 ## 新增功能
 
-* [如何设置Webhook](webhooks.md)
-了解如何创建Webhook以自动执行通常需要手动干预的流程
+>[!BEGINTABS]
+
+>[!TAB 如何设置Webhook]
+
+了解如何创建[Webhook](webhooks.md)以自动执行通常需要手动干预的流程。
+
+>[!ENDTABS]
 
 <table style="table-layout:fixed">
 <tr>

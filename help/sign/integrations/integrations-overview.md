@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ ht-degree: 0%
 
 ## 新增功能
 
-* [设置大文件和推送映射](salesforce-large-files.md)
-了解如何在Salesforce中设置大文档和推送协议服务
-* [设置自动更新](salesforce-automatic-updates.md)
-了解如何轻松地将您的帐户链接到Salesforce以获取自动更新
-*  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)的[“文档”选项卡集成
-了解如何直接从[!DNL Microsoft Teams]中的“文档”选项卡发送文档以供签名
+>[!BEGINTABS]
+
+>[!TAB 设置大文件和推送映射]
+
+了解如何在Salesforce中设置[大文档和推送协议服务](salesforce-large-files.md)。
+
+>[!TAB 设置自动更新]
+
+了解如何轻松地将您的帐户链接到Salesforce以获取[自动更新](salesforce-automatic-updates.md)。
+
+>Microsoft Teams的[!TAB “文档”选项卡集成]
+
+了解如何直接从[!DNL Microsoft Teams]中的[“文档”选项卡](acrobat-sign-teams-documents-tab.md)发送文档以供签名。
+
+>[!ENDTABS]
 
 ## Microsoft集成教程
 
