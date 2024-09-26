@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
+source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -38,7 +38,7 @@ ht-degree: 3%
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="工作区基础知识" src="../assets/workspace_1280.png" />
+      <img alt="工作区基础知识" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>工作区基础知识</strong></a>
@@ -196,7 +196,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="什么是数字签名" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="什么是数字签名" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>什么是数字签名</strong></a>
@@ -233,7 +233,7 @@ ht-degree: 3%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="管理和跟踪协议" src="../assets/Manage_1280.png" />
+      <img alt="管理和跟踪协议" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>管理和跟踪您的协议</strong></a>
