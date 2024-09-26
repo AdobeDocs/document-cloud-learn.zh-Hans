@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ ht-degree: 3%
     <div>
     <a href="quick-tour.md"><strong>工作区基础知识</strong></a>
     </div>
-    <em>快速浏览Acrobat Sign工作区以启动并运行该工作区</em>
+    快速浏览Acrobat Sign工作区以启动并运行
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ ht-degree: 3%
     <div>
     <a href="new-sender.md"><strong>开始使用Acrobat Sign</strong></a>
     </div>
-    <em>本全面的教程是开始使用Acrobat Sign创建新发件人的好办法</em>
+    本综合教程是开始使用Acrobat Sign中新发件人的好办法
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ ht-degree: 3%
     <div>
     <a href="send-to-single-recipient.md"><strong>发送给单个收件人</strong></a>
     </div>
-    <em>加入并了解发送文档以请求签名是多么简单</em>
+    登录并了解如何轻松地发送文档以供签名
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ ht-degree: 3%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>发送给多个收件人</strong></a>
     </div>
-    <em>按照您想要的顺序，将文档发送给多人以进行电子签名</em>
+    按照您想要的顺序，将文档发送给多个人进行电子签名
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ ht-degree: 3%
     <div>
     <a href="sending-options.md"><strong>配置发送选项</strong></a>
     </div>
-    <em>了解如何在发送文档以请求签名时配置各种选项</em>
+    了解如何在发送文档以请求签名时配置各种选项
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ ht-degree: 3%
     <div>
     <a href="adding-fields.md"><strong>向文档中添加字段</strong></a>
     </div>
-    <em>了解如何向文档添加不同类型的字段</em>
+    了解如何向文档添加不同类型的字段
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ ht-degree: 3%
     <div>
     <a href="modify-in-flight.md"><strong>发送后修改文档</strong></a>
     </div>
-    <em>修改已在进行的文档</em>
+    修改已在进行的文档
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ ht-degree: 3%
     <div>
     <a href="replace-signer.md"><strong>替换签名者</strong></a>
     </div>
-    <em>了解如何更改已在进行中的文档的签名者</em>
+    了解如何更改已在进行中的文档的签名者
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ ht-degree: 3%
       <div>
       <a href="set-deadlines-reminders.md"><strong>设置截止日期和提醒</strong></a>
       </div>
-      <em>了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署您的文档</em>
+      了解如何发送定期电子邮件提醒和截止日期，以帮助快速签署文档
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ ht-degree: 3%
     <div>
     <a href="electronically-sign-a-document.md"><strong>对文档进行电子签名</strong></a>
     </div>
-    <em>了解如何使用Acrobat Sign签署发送给您的文档</em>
+    了解如何使用Acrobat Sign签署发送给您的文档
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ ht-degree: 3%
     <div>
     <a href="fill-and-sign.md"><strong>填写并签署文档</strong></a>
     </div>
-    <em>填写表单并将您的电子签名添加到文档</em>
+    填写表单并将电子签名添加到文档
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ ht-degree: 3%
     <div>
     <a href="sign-in-person.md"><strong>获取亲自签名</strong></a>
     </div>
-    <em>使用Acrobat Sign移动应用程序亲自获取他人的签名</em>
+    使用Acrobat Sign移动应用程序亲自获取他人的签名
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ ht-degree: 3%
     <div>
     <a href="delegate-signing.md"><strong>将签名委派给其他人</strong></a>
     </div>
-    <em>了解如何将文档的签名委派给其他人</em>
+    了解如何将文档的签名委派给其他人
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ ht-degree: 3%
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>什么是数字签名</strong></a>
     </div>
-    <em>了解基于证书的数字签名</em>
+    了解基于证书的数字签名
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ ht-degree: 3%
     <div>
     <a href="sign-with-a-stamp.md"><strong>使用图章进行签名</strong></a>
     </div>
-    <em>使用图章标记已批准或已完成的文档</em>
+    使用图章将文档标记为已批准或已完成
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ ht-degree: 3%
     <div>
     <a href="manage-and-track.md"><strong>管理和跟踪您的协议</strong></a>
     </div>
-    <em>了解如何管理和跟踪发送以供签名的协议</em>
+    了解如何管理和跟踪发送以供签名的协议
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ ht-degree: 3%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>正在创建文档模板</strong></a>
     </div>
-    <em>创建可重复使用的文档模板以提高组织速度和一致性</em>
+    创建可重复使用的文档模板，以提高企业速度和一致性
     <br>
   </td>
   <td>
