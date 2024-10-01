@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 3%
@@ -29,4 +29,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
-此视频是[用户高级任务](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3)和[管理员快速入门Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)课程的一部分，这些课程可在Experience League上免费使用！
+此视频是[“用户高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)和[“Acrobat Sign管理员版入门”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放列表的一部分，可在Experience League上免费使用！

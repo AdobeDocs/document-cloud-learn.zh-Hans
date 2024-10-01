@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-8573
 thumbnail: KT-8573.jpg
 exl-id: 4d87faf3-758e-49d5-a1d4-7418ace14709
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '65'
 ht-degree: 1%
 
 ---
@@ -22,4 +22,4 @@ ht-degree: 1%
 
 >[!TIP]
 >
->此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！
+>此视频是Experience League上免费提供的播放列表[“开始使用Adobe Acrobat”](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)的一部分！

@@ -10,9 +10,9 @@ jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -201,6 +201,3 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
 
    ![计划设置](assets/scheduleSettings.png)
 
->[!TIP]
->
->本教程是[使用适用于Salesforce的Acrobat Sign和Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)加速销售周期课程的一部分，该课程可在Experience League上免费获取！

@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-7119
 thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Adobe Acrobat for Teams允许用户通过查看、批注和审阅PDF来与同事
 
 >[!TIP]
 >
->此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！
+>此视频是播放列表[集成Acrobat和Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)的一部分，可在Experience League上免费获取！

@@ -1,5 +1,5 @@
 ---
-title: 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
+title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
 description: 了解如何发送短信、电子邮件或推送通知，让签名者知道协议正在执行中
 feature: Integrations
 role: Admin
@@ -10,14 +10,14 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
 
-# 使用适用于Microsoft Dynamics 365和Marketo的Acrobat Sign发送通知
+# 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
 
 了解如何使用Acrobat Sign、Acrobat Sign for Microsoft Dynamic、Marketo和Marketo Microsoft Dynamics Sync发送文本消息、电子邮件或推送通知，让签名者知道协议正在执行中。 要从Marketo发送通知，您首先需要购买或配置Marketo短信管理功能。 此演练使用[Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/)，但其他Marketo SMS解决方案可用。
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安装Marketo Microsoft Dynamics Sync。
 
-   有关Microsoft Dynamics Sync的信息和最新增效工具可在[此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)获得。
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)提供了Microsoft Dynamics Sync的信息和最新插件。
 
 1. 安装适用于Microsoft Dynamics的Acrobat Sign。
 
@@ -152,6 +152,3 @@ ht-degree: 0%
    ![调用Webhook](assets/callWebhook.png)
 
 1. 现已设置您针对添加到协议中的潜在顾客的短信通知营销活动。
->[!TIP]
->
->本教程是Experience League免费提供的课程[使用Acrobat Sign for Microsoft Dynamics和Marketo加速销售周期](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)的一部分！

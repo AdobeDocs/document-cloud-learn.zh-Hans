@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
-此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！
+此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分！
 
 >[!NOTE]
 >

@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,3 @@ Marketo Salesforce Sync和适用于Salesforce的Acrobat Sign配置完成后，Ma
    ![调用Webhook](assets/callWebhook.png)
 
 1. 现已设置您针对添加到协议中的潜在顾客的短信通知营销活动。
-
->[!TIP]
->
->本教程是[使用适用于Salesforce的Acrobat Sign和Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)加速销售周期课程的一部分，该课程可在Experience League上免费获取！

@@ -11,10 +11,10 @@ jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -33,8 +33,4 @@ ht-degree: 0%
    [此处](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供了有关此插件的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
-
->[!TIP]
->
->此视频是[使用适用于Salesforce的Acrobat Sign和Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1)加速销售周期课程的一部分，该课程可在Experience League上免费获取！
 

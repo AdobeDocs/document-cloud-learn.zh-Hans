@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '91'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ ht-degree: 2%
 
 >[!TIP]
 >
-此视频是可在Experience League上免费参加的[更智能地使用Acrobat DC和Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365)课程的一部分！
+此视频是Experience League上免费提供的播放列表[“开始使用Adobe Acrobat”](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)的一部分！
