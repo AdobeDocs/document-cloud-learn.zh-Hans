@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 1%
     <div>
     <a href="createofficeweb.md"><strong>在[!DNL Office]中为Web创建PDF</strong></a>
     </div>
-    了解如何直接从Microsoft Word中创建丰富而强大的PDF文件
+    了解如何在不离开[!DNL Microsoft Office]的情况下创建Web应用PDF文件
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ ht-degree: 1%
     <div>
     <a href="acrobatandteams.md"><strong>在[!DNL Microsoft Teams]</strong></a>中PDF协作
     </div>
-    无需离开[!DNL Microsoft Teams]，即可通过查看、注释和审阅PDF与同事协作和协作
+    无需离开[!DNL Microsoft Teams]即可协作和审阅PDF
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ ht-degree: 1%
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>使用[!DNL Microsoft Purview Information]敏感度标签的ProtectPDF</strong></a>
     </div>
-    了解如何通过直接在Acrobat中添加、编辑、自定义和删除Microsoft Purview信息敏感度标签来保护PDF
+    了解如何直接在Acrobat中使用Microsoft Purview信息敏感度标签保护PDF
     <br>
   </td>
   <td>
