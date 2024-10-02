@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # 快速入门概述
 
-通过这些简单的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或[编辑您的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松使用PDF工作流程。
+通过这些简单的分步教程了解如何开始使用Adobe Acrobat。 从创建文档到保护或[编辑您的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松使用PDF工作流程。 请查看此精心策划的[播放列表](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users)，了解如何开始使用Acrobat。
 
 ## 新增功能
 

@@ -8,9 +8,9 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 1%
     <a href="../getting-started/productivity.md">
       <img alt="随时随地提高工作效率" src="../assets/productivity.png" />
     </a>
+    </div>
+    <em>了解如何使用Acrobat Reader移动应用程序直接从平板电脑或手机执行更多操作</em>
+    <br>
   </td>
   <td>
    <img alt="间隔物" src="../assets/Whitespacer.png" />
