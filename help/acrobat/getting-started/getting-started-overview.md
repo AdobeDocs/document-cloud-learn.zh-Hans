@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
+source-git-commit: c1c7429dbfe1d693d89bb7e93139a6a602af8a85
 workflow-type: tm+mt
 source-wordcount: '577'
 ht-degree: 1%
@@ -41,6 +41,24 @@ ht-degree: 1%
 >[!ENDTABS]
 
 ## 快速入门教程
+
+<!-- CARDS
+
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
+  {title = New workspace experience}
+  {description = Learn about the new workspace in Acrobat}
+  {cta = Watch}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
+  {title = Workspace basics}
+  {description = Learn the basics of the Acrobat workspace}
+  {cta = Watch}
+  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=2000&format=webply&optimize=medium}
+* https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview 
+   { image = "https://cdn.experienceleague.adobe.com/thumbs/example.png" }
+* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
+
+-->
 
 <table style="table-layout:fixed">
 <tr>
