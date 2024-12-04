@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ba51d2849ffe75db53f062f67a9899147c1b2d1d
+source-git-commit: cce27a2470b64de753992cbaa849043b79c936b3
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 1%
@@ -41,28 +41,6 @@ ht-degree: 1%
 >[!ENDTABS]
 
 ## 快速入门教程
-
-<!-- Original HTML
-<!-- CARDS
-
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
-  {title = New workspace experience}
-  {description = Learn about the new workspace in Acrobat}
-  {cta = Watch}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
-   {title = Workspace basics}
-   {description = Learn the basics of the Acrobat workspace}
-   {cta = Watch}
-   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant
-   {title = Discover PDF insights with the AI Assistant}
-   {description = Gain insights from your PDF files using the AI Assistant}
-   {cta = Watch}
-   {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium}
-
--->
--->
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
