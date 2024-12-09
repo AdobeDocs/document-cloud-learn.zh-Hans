@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3d4e070f3484fd6a5bef14de871490825112d37e
+source-git-commit: 793325dd8d6be74071edab4aac59e0d4471e6e22
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 1%
@@ -42,40 +42,6 @@ ht-degree: 1%
 
 ## 快速入门教程
 
-<!-- CARDS
-
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace
-  {title = New workspace experience}
-  {description = Learn about the new workspace in Acrobat}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium}
-  {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface
-  {title = Workspace basics}
-  {description = Learn the basics of the Acrobat workspace}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium}
-  {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant
-  {title = Discover PDF insights with the AI Assistant}
-  {description = Gain insights from your PDF files using the AI Assistant}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium}
-  {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb
-  {title = Work anywhere with Acrobat web}
-  {description = Learn how to work from anywhere}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium}
-  {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/productivity
-  {title = Productivity on the go}
-  {description = Learn how to do more from your tablet or mobile phone}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium}
-  {cta = Watch}
-* https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/user-interface
-  {title = Work with Microsoft 365}
-  {description = Work seamlessly with PDF files, right inside Microsoft 365}
-  {image = https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium}
-  {cta = View tutorials}
-
--->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
