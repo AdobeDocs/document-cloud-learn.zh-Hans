@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
