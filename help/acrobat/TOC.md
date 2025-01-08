@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
+source-git-commit: 934c602b0339ff016379a06a734b3dbbaf01ecb4
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -56,7 +56,7 @@ ht-degree: 3%
    + [引导式操作](advanced-tasks/action.md)
    + [标记密文并进行整理](advanced-tasks/redact.md)
    + [减小文件大小并进行优化](advanced-tasks/reduce.md)
-   + [使用表单数据](advanced-tasks/formdata.md)
+   + [处理表单数据](advanced-tasks/formdata.md)
    + [检查PDF辅助功能](advanced-tasks/accessibility.md)
    + Acrobat辅助功能系列{#accessibility-series}
       + [概述](advanced-tasks/accessibility-series.md)
