@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="使PDF可访问（14:11完成）" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>使PDF可访问（完成14:11）</strong></a>
-    </div>
-    <em>了解创建可访问PDF文件的最佳工作流程</em>
-    <br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="使PDF可访问：了解辅助功能" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>使PDF可访问：了解可访问性</strong></a>
-    </div>
-    <em>了解使残障人士可访问PDF意味着什么</em>
-    <br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="使PDF可访问：在Word中创作" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>使PDF可访问：在Word中创作</strong></a>
-    </div>
-    <em>了解创建在[!DNL Microsoft Word]</em>中创建的PDF文件的最佳做法
-    <br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="使PDF可访问：在Acrobat中完成" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>使PDF可访问：在Acrobat中完成</strong></a>
-    </div>
-    <em>了解如何使用Acrobat Pro中的工具完成对PDF文件的访问</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="使PDF选票更易于获得" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>使PDF选票更易于访问</strong></a>
-    </div>
-    <em>此网络研讨会涵盖了辅助技术（如屏幕阅读器）用户阅读和完成选票所必需的PDF辅助功能关键领域</em>
-    <br>
-  </td>  
-  <td>
-   <img alt="间隔物" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔物" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="间隔物" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
