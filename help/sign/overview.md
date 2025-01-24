@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 637a8159281bbb496db45059d47b0ae6cbad225d
+source-git-commit: a091d08a0a8a3bd7ce1080658a22a4d4931b8b04
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 8%
@@ -86,6 +86,8 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
   {cta = Browse tutorials}
   
 -->
+<!-- END COMMENT -->
+
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
@@ -297,4 +299,3 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<!-- End Comment -->

@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 251d7aa679e53d55a9cc1d827ff41898b89aefd9
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 7%
+source-wordcount: '99'
+ht-degree: 9%
 
 ---
 
 # 部署概述
 
-有关在您的组织内部署Acrobat Sign的宝贵见解的最佳实践文章。
+包含有关在您的组织内部署Acrobat Sign的宝贵见解和最佳实践的文章。
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,11 +31,11 @@ ht-degree: 7%
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/cn/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe 信任中心" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
+    <a href="https://www.adobe.com/cn/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
     <em>了解我们在Acrobat Sign的安全性、合法性和标准方面持续作出的努力</em>
     <br>
