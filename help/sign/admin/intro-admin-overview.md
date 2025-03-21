@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
+source-git-commit: 1d7e3bf8a00967726b0b4200a047e3519ddfe484
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '615'
 ht-degree: 1%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 1%
     <div>
     <a href="promote-admin.md"><strong>分配产品和支持管理员角色</strong></a>
     </div>
-    <em>了解如何使用Admin Console将用户提升为Acrobat Sign产品或支持管理员角色</em>
+    <em>了解如何在Admin Console中分配Acrobat Sign用户产品管理员和支持管理员角色</em>
     <br>
   </td>
 </tr> 
