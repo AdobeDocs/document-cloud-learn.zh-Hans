@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-17584
 topic-revisit: Administration
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 4afc82415974a51f7f2a78cc8aa5d7c2a2359c71
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 3%

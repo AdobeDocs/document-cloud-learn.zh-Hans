@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
+source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -72,18 +72,28 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="add-users-to-your-account.md">
-      <img alt="添加新用户" src="../assets/Add-a-new-user.jpg" />
+    <a href="add-admin.md">
+      <img alt="添加新帐户管理员" src="../assets/Add-a-new-admin.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>添加新用户</strong></a>
+    <a href="add-admin.md"><strong>添加新帐户管理员</strong></a>
     </div>
-    <em>向Acrobat Sign添加新用户</em>
+    <em>了解如何创建新用户或将现有用户提升为Acrobat Sign管理员角色</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
+    <a href="create-and-manage-groups.md">
+      <img alt="创建和管理组" src="../assets/Creating-Groups.png" />
+    </a>
+    <div>
+    <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
+    </div>
+    <em>创建组、将用户添加到组和编辑组设置</em>
+    <br>
+  </td>
+  <td>
     <a href="create-and-manage-groups.md">
       <img alt="创建和管理组" src="../assets/Creating-Groups.png" />
     </a>
@@ -113,6 +123,8 @@ ht-degree: 1%
     <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="报告和交易使用情况" src="../assets/reporting.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>了解如何生成报告和跟踪交易使用情况</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="report-options.md">
       <img alt="用户的报告选项" src="../assets/report-options.png" />
@@ -155,6 +165,8 @@ ht-degree: 1%
     <em>了解如何禁用、编辑和重新启用现有Web表单</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="批量发送" src="../assets/send-in-bulk.png" />
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>一次为任何文档收集数千个签名</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="设置工作流" src="../assets/BuildingWorkflow.png" />
@@ -197,11 +207,7 @@ ht-degree: 1%
     <em>了解如何使用Admin Console将用户提升为Acrobat Sign产品或支持管理员角色</em>
     <br>
   </td>
-   <td>
-    <img alt="间隔物" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
+</tr> 
 </table>
 
 ## 高级任务
