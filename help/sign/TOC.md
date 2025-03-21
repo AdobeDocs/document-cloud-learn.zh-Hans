@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 6%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 6%
       + [新管理员快速入门](admin/get-started-admin.md)
       + [管理员启动并运行](admin/up-and-running-admin.md)
       + [配置事件和警告的通知](admin/set-up-shared-events-and-alert.md)
-      + [添加用户](admin/add-users-to-your-account.md)
+      + [添加新用户](admin/add-users-to-your-account.md)
       + [创建和管理组](admin/create-and-manage-groups.md)
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建模板](sign-advanced-users/create-a-template.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
       + [批量发送](sign-advanced-users/megasign.md)
       + [构建自定义工作流](admin/building-a-custom-workflow.md)
       + [审计报告](admin/audit-reports.md)
-      + [如何将用户提升为管理员角色](admin/promote-admin.md)
+      + [分配产品和支持管理员角色](admin/promote-admin.md)
    + 高级任务{#advanced-tasks-admins}
       + [全局设置](admin/learn-about-global-settings.md)
       + [共享帐户访问权限](admin/share-account-access.md)

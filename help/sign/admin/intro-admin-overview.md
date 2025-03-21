@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ ht-degree: 1%
     <div>
     <a href="add-users-to-your-account.md"><strong>添加新用户</strong></a>
     </div>
-    <em>添加和管理Acrobat Sign的用户</em>
+    <em>向Acrobat Sign添加新用户</em>
     <br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ ht-degree: 1%
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="如何将用户提升为管理员角色" src="../assets/promote-admin.png" />
+      <img alt="分配产品和支持管理员角色" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>如何将用户提升为管理员角色</strong></a>
+    <a href="promote-admin.md"><strong>分配产品和支持管理员角色</strong></a>
     </div>
-    <em>了解如何使用Admin Console将用户提升为Acrobat Sign管理员角色</em>
+    <em>了解如何使用Admin Console将用户提升为Acrobat Sign产品或支持管理员角色</em>
     <br>
   </td>
    <td>
