@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!TAB 添加新用户]
 
-了解如何[添加和管理Acrobat Sign用户](add-users-to-your-account.md)。
+了解如何[向Acrobat Sign添加新用户](add-users-to-your-account.md)。
 
 >[!TAB 如何设置隐私管理员]
 
@@ -72,6 +72,18 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="添加新用户" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>添加新用户</strong></a>
+    </div>
+    <em>了解如何向Acrobat Sign添加新用户</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="添加新帐户管理员" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ ht-degree: 1%
     <a href="add-admin.md"><strong>添加新帐户管理员</strong></a>
     </div>
     <em>了解如何创建新用户或将现有用户提升为Acrobat Sign管理员角色</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="创建和管理组" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
-    </div>
-    <em>创建组、将用户添加到组和编辑组设置</em>
     <br>
   </td>
   <td>

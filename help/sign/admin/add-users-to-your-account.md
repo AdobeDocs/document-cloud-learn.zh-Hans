@@ -1,15 +1,15 @@
 ---
 title: 添加新用户
-description: 向Acrobat Sign添加新用户
+description: 了解如何向Acrobat Sign添加新用户
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
 jira: KT-17584
 topic-revisit: Administration
 exl-id: c714969c-79b5-4ba7-aae8-1803555a50ca
-source-git-commit: 4afc82415974a51f7f2a78cc8aa5d7c2a2359c71
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '31'
 ht-degree: 3%
 
 ---
