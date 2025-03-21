@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 2%
+source-wordcount: '593'
+ht-degree: 1%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 2%
 
 >[!BEGINTABS]
 
->[!TAB 如何将用户提升为管理员角色]
+>[!TAB 添加新用户]
 
-了解如何使用Admin Console[将用户](promote-admin.md)提升为Acrobat Sign管理员角色。
+了解如何[添加和管理Acrobat Sign用户](add-users-to-your-account.md)。
 
 >[!TAB 如何设置隐私管理员]
 
@@ -73,10 +73,10 @@ ht-degree: 2%
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="添加用户" src="../assets/Adding-Users.png" />
+      <img alt="添加新用户" src="../assets/Add-a-new-user.jpg" />
     </a>
     <div>
-    <a href="add-users-to-your-account.md"><strong>正在添加用户</strong></a>
+    <a href="add-users-to-your-account.md"><strong>添加新用户</strong></a>
     </div>
     <em>添加和管理Acrobat Sign的用户</em>
     <br>
