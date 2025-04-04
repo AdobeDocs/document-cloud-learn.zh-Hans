@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 将PDF转换为其他文件格式
 
-了解如何将PDF文件转换为不同的文件格式，如[Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和[Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)。 还包括将您的PDF转换为[Adobe Express](https://express.adobe.com)以添加品牌化设计元素。 当您将PDF转换为其他文件格式(如Microsoft Word)时，它会提高文档工作流程的效率，并在对长文档进行大量更改时节省大量时间。 本视频教程将采用全新的工作区体验。
+了解如何将PDF文件转换为不同的文件格式，如[Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和[Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)。 还包括将您的PDF转换为[Adobe Express](https://express.adobe.com)以添加品牌化设计元素。 当您将PDF转换为其他文件格式(如Microsoft Word)时，它会提高文档工作流程的效率，并在对长文档进行大量更改时节省大量时间。 本视频教程将使用新的Acrobat体验。
 
 >[!TIP]
 >
