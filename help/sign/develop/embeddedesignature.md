@@ -9,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 0a299592f0616988b6208fc98d3140f4ac22057e
 workflow-type: tm+mt
 source-wordcount: '832'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 +++查看有关如何获取API凭据的详细信息
 
-* [Acrobat Sign 开发人员帐户](https://acrobat.adobe.com/cn/zh-Hans/sign/developer-form.html)
+* [Acrobat Sign 开发人员帐户](https://www.adobe.com/acrobat/business/developer-form.html)
 * [入门代码](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS代码（或您选择的编辑器）](https://code.visualstudio.com)
 * Python 3.x
