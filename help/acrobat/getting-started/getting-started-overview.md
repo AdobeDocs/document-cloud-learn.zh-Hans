@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 对PDF发表评论]
+
+了解如何只使用Web浏览器[对共享PDF添加注释](comment-on-pdf-files.md)。
+
 >[!TAB 实时协作]
 
 了解如何创建文档[审阅流程](collaborate.md)，以便不仅提高效率，而且还提高内容质量。
@@ -33,10 +37,6 @@ ht-degree: 1%
 >[!TAB 在PDF中编辑图形]
 
 了解如何[在您的PDF中创建、编辑和增强图形](edit-graphics.md)。
-
->[!TAB 新的Acrobat体验]
-
-了解[新的Acrobat体验](new-workspace.md)，它可帮助您快速发现工具并高效完成PDF任务。
 
 >[!ENDTABS]
 
