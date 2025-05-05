@@ -22,4 +22,4 @@ ht-degree: 0%
 
 * 了解[适用于Acrobat产品的企业工具包](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}，以在整个组织间部署自定义产品、设置虚拟化安装以及创建企业PDF工作流。
 
-* 了解从2020年8月到2020年11月20日对ETLA](signentitlementchanges.md){target="_blank"}（企业定期许可协议）中包含的[Acrobat DC权利的重要更改。
+* 了解从2020年8月到2020年11月20日对ETLA[&#128279;](signentitlementchanges.md){target="_blank"}（企业定期许可协议）中包含的Acrobat DC权利的重要更改。

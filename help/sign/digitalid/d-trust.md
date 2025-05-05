@@ -1,6 +1,6 @@
 ---
-title: 使用[！DNL D-Trust]注册和签名
-description: 了解如何在[！DNL D-Trust]中注册您的身份，然后在Acrobat Sign中对文档使用[！DNL D-Trust]数字签名
+title: 使用[!DNL D-Trust]注册和签名
+description: 了解如何在[!DNL D-Trust]中注册您的身份，然后在Acrobat Sign中对文档使用[!DNL D-Trust]数字签名
 feature: Digital ID
 role: User
 solution: Acrobat Sign

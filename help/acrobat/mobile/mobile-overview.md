@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # 移动设备概述
 
-在移动设备上创建、填写和签署PDF](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}。[
+在移动设备上创建、填写和签署PDF[&#128279;](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}。
 
 ## Acrobat Reader移动应用程序教程
 

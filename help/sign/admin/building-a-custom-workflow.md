@@ -27,10 +27,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-组管理员可将工作流程分配给他们管理的任何组（而不仅仅是主要组）。 组管理员还可以编辑分配给他们管理的任何组的任何工作流程。
+>组管理员可将工作流程分配给他们管理的任何组（而不仅仅是主要组）。 组管理员还可以编辑分配给他们管理的任何组的任何工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-此视频是Experience League上免费提供的[Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放列表的一部分！
+>此视频是Experience League上免费提供的[Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放列表的一部分！

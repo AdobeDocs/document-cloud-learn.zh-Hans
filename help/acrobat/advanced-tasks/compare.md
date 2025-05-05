@@ -28,8 +28,8 @@ ht-degree: 0%
 
 >[!TIP]
 >
-此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分！
+>此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分！
 
 >[!NOTE]
 >
-仅适用于Acrobat Pro。
+>仅适用于Acrobat Pro。

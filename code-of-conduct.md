@@ -74,5 +74,5 @@ ht-degree: 0%
 
 ## 归因
 
-本《行为守则》根据《[贡献者公约》第1.4版，
-位于[https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)](https://contributor-covenant.org)
+本《行为守则》根据《[&#128279;](https://contributor-covenant.org)贡献者公约》第1.4版，
+位于[https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)

@@ -35,7 +35,7 @@ ht-degree: 6%
       + [发送后修改文档](sign-beginner-tutorials/modify-in-flight.md)
       + [替换签名者](sign-beginner-tutorials/replace-signer.md)
       + [设置截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + 签署“{#getting-started-signing}”
+   + 签署“”{#getting-started-signing}
       + [对文档进行电子签名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签署文档](sign-beginner-tutorials/fill-and-sign.md)
       + [获取亲自签名](sign-beginner-tutorials/sign-in-person.md)
@@ -97,7 +97,7 @@ ht-degree: 6%
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]进行注册和签名](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
-      + [使用[！DNL D-Trust]注册和签名](digitalid/d-trust.md)
+      + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [从Intesi Group获取数字ID（高级）](digitalid/intesi-advanced.md)
       + [从Intesi Group获取数字ID（符合条件）](digitalid/intesi-qualified.md)
@@ -113,7 +113,7 @@ ht-degree: 6%
       + [使用 [!DNL Power Automate]自动存档 [!DNL SharePoint] 中的文件](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]的Acrobat Sign的文档自动化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中发送以供签名](integrations/adobe-sign-teams-mortgage.md)
-      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)使用
+      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]使用](integrations/live-sign-microsoft-teams.md)
       + [ [!DNL Microsoft Teams]的“文档”选项卡集成](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中创建简单的工作流](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中创建高级工作流](integrations/advanced-workflow-power-automate.md)

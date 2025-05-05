@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # 面向ETLA客户的重要Acrobat DC产品更新
 
-仅从2020年8月开始，将从ETLA（企业定期许可协议）中包含的所有Acrobat DC权利中取消配置[!DNL Adobe Sign Individual](也称为Adobe Sign Pro)，并将持续到2020年11月20日。 [!DNL Adobe Sign Individual]不提供企业级功能，应替换为Adobe Sign Enterprise企业版客户。 其中包括作为独立应用程序许可的Acrobat DC以及作为企业版Creative Cloud — 所有应用程序的一部分许可的Acrobat DC。
+仅从2020年8月开始，将从ETLA（企业定期许可协议）中包含的所有Acrobat DC权利中取消配置[!DNL Adobe Sign Individual] (也称为Adobe Sign Pro)，并将持续到2020年11月20日。 [!DNL Adobe Sign Individual]不提供企业级功能，应替换为Adobe Sign Enterprise企业版客户。 其中包括作为独立应用程序许可的Acrobat DC以及作为企业版Creative Cloud — 所有应用程序的一部分许可的Acrobat DC。
 
 可通过&#x200B;**Adobe Sign**&#x200B;工具或&#x200B;**Fill &amp; Sign**&#x200B;工具在Acrobat中访问[!DNL Adobe Sign Individual] （[请求签名](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}）。
 
-在Acrobat DC](../assets/Deploy_SignEntitle1.png)中访问![[!DNL Adobe Sign Individual]
+在Acrobat DC![&#128279;](../assets/Deploy_SignEntitle1.png)中访问[!DNL Adobe Sign Individual]
 
 如果您尚未将Acrobat DC更新到最新版本，则该工具可能被标记为“Send for Signature”。
 

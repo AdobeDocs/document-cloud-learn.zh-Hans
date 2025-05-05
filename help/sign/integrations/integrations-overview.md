@@ -36,7 +36,7 @@ ht-degree: 0%
 
 了解如何轻松地将您的帐户链接到Salesforce以获取[自动更新](salesforce-automatic-updates.md)。
 
->Microsoft Teams的[!TAB “文档”选项卡集成]
+>[!TAB Microsoft Teams的 “文档”选项卡集成]
 
 了解如何直接从[!DNL Microsoft Teams]中的[“文档”选项卡](acrobat-sign-teams-documents-tab.md)发送文档以供签名。
 
