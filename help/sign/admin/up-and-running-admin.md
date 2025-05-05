@@ -26,4 +26,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的[Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放列表的一部分！
+>此视频是Experience League上免费提供的[Acrobat Sign管理员快速入门](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-get-started-administrators)播放列表的一部分！

@@ -20,17 +20,17 @@ ht-degree: 0%
 
 [!BADGE 用例]
 
-* [教育Web表单实习申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [教育Web表单实习申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=zh-Hans)
 了解如何使用Web表单改善学生对所需表单的访问
-* [创建教育Web表单实习申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [创建教育Web表单实习申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=zh-Hans)
 了解如何创建实习Web表单
-* [具有多个未知签名者的政府贷款申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [具有多个未知签名者的政府贷款申请](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=zh-Hans)
 了解如何使用Web表单处理涉及多个未知参与者的复杂政府贷款申请工作流程
-* [商业补助和贷款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [再就业帮助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [商业补助和贷款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=zh-Hans)
+* [再就业帮助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=zh-Hans)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此视频是[“用户高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)和[“Acrobat Sign管理员版入门”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators)播放列表的一部分，可在Experience League上免费使用！
+>此视频是[“用户高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-perform-advanced-tasks-business-users)和[“Acrobat Sign管理员版入门”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-get-started-administrators)播放列表的一部分，可在Experience League上免费使用！

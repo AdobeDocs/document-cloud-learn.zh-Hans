@@ -28,4 +28,4 @@ ht-degree: 0%
 [Adobe PDF提取API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
 [Adobe的Document Generation API](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [Adobe PDF Embed API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Adobe Acrobat Services教程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Adobe Acrobat Services教程](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=zh-Hans){target="_blank"}

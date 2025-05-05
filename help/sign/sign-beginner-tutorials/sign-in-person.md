@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # 获取亲自签名
 
-了解如何使用[Acrobat Sign移动应用程序](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html)获取他人的亲自签名。
+了解如何使用[Acrobat Sign移动应用程序](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=zh-Hans)获取他人的亲自签名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

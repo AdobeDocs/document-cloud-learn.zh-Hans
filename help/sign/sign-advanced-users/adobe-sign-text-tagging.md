@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的[“用户高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)和[“管理员高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)播放列表的一部分！
+>此视频是Experience League上免费提供的[“用户高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-get-started-business-users)和[“管理员高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-perform-advanced-tasks-administrators)播放列表的一部分！

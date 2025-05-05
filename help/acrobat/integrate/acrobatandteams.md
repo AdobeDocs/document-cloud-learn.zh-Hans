@@ -36,4 +36,4 @@ Adobe Acrobat for Teams允许用户通过查看、批注和审阅PDF来与同事
 
 >[!TIP]
 >
->此视频是播放列表[集成Acrobat和Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365)的一部分，可在Experience League上免费获取！
+>此视频是播放列表[集成Acrobat和Microsoft 365](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-integrate-microsoft-365)的一部分，可在Experience League上免费获取！

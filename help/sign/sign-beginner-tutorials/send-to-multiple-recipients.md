@@ -22,4 +22,4 @@ ht-degree: 10%
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的播放列表[ Acrobat Sign入门](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users)的一部分！
+>此视频是Experience League上免费提供的播放列表[ Acrobat Sign入门](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-get-started-business-users)的一部分！

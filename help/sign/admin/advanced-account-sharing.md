@@ -27,4 +27,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->此视频是播放列表[管理员高级Experience League](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators)的一部分，该列表可在上免费获取！
+>此视频是播放列表[管理员高级Experience League](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-perform-advanced-tasks-administrators)的一部分，该列表可在上免费获取！

@@ -26,4 +26,4 @@ ht-degree: 3%
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的[“用户的高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users)播放列表的一部分！
+>此视频是Experience League上免费提供的[“用户的高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-perform-advanced-tasks-business-users)播放列表的一部分！

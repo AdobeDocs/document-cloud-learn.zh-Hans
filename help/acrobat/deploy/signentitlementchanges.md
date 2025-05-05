@@ -70,8 +70,8 @@ Adobe Sign是业界领先的全球公认解决方案，用于捕获符合法律�
 
 ## 有关更多信息，请访问以下页面：
 
-* [登录 Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [管理文件（我的文件在哪里？）](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [登录 Adobe Document Cloud](https://helpx.adobe.com/cn/document-cloud/help/sign-in.html)
+* [管理文件（我的文件在哪里？）](https://helpx.adobe.com/cn/document-cloud/help/manage-files.html)
 * [使用[!UICONTROL AcrobatCustomization Wizard]进行配置](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [[!UICONTROL Admin Console]](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)概述
 * [在[!UICONTROL Admin Console]](https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html)上管理Adobe Sign

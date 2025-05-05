@@ -24,4 +24,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的播放列表[“在Microsoft应用程序中使用Acrobat Sign”](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps)的一部分！
+>此视频是Experience League上免费提供的播放列表[“在Microsoft应用程序中使用Acrobat Sign”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-sign-integrate-microsoft-apps)的一部分！

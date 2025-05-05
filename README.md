@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## 关于您对Adobe内容的贡献
 
-请参阅[Adobe文档贡献者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+请参阅[Adobe文档贡献者指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
 
 贡献的方式取决于您的身份和希望贡献的更改类型：
 
 ### 小改动
 
-如果您出于好心而提供次要更新，请访问文章，然后单击文章中的&#x200B;**编辑**&#x200B;链接，该文章将转到GitHub源中以获取该文章。 然后，只需使用GitHub UI进行更新。 有关详细信息，请参阅常规[Adobe文档贡献者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+如果您出于好心而提供次要更新，请访问文章，然后单击文章中的&#x200B;**编辑**&#x200B;链接，该文章将转到GitHub源中以获取该文章。 然后，只需使用GitHub UI进行更新。 有关详细信息，请参阅常规[Adobe文档贡献者指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
 
 您为此回购协议中的文档和代码示例提交的细微更正或澄清均由Adobe使用条款涵盖。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 社区参与者可以使用GitHub UI进行基本编辑，或者将回购分配给进行主要贡献。
 
-有关详细信息，请参阅[Adobe文档贡献者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+有关详细信息，请参阅[Adobe文档贡献者指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
 
 ## 如何使用标记来设置主题的格式
 
