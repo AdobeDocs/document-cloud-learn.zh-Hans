@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何使用 Adobe Express[&#128279;](https://express.adobe.com) 中集成的易于使用的设计工具创建具有专业外观的 PDF。本视频教程使用 [新增 Acrobat 体验](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445551?enablevpops&quality=12&learn=on&hidetitle=true&captions=chi_hans)

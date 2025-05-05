@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何使用免费的Adobe Scan移动应用程序将任何纸质文档转换为PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412787?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ![二维码](../assets/Scanqrcode.jpg)
 

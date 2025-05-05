@@ -18,5 +18,5 @@ ht-degree: 0%
 
 了解如何添加书签和超链接，以便更好地导航和与PDF文件交互。
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347055?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 

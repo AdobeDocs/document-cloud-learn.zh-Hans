@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何使用适用于Salesforce的Document Builder创建可重复使用的文档模板。 可重复使用的文档模板可确保Sign事务的速度和一致性，并能够管理文档修订和更改。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412827?quality=12&learn=on&hidetitle=true&captions=chi_hans)

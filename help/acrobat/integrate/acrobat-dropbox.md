@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在Acrobat中打开、创建、编辑、签名和保存对[!DNL Dropbox]文件所做的更改。 将您的Dropbox帐户连接到Acrobat可以真正节省时间 — 让您所有文件触手可及。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412812?quality=12&learn=on&hidetitle=true&captions=chi_hans)

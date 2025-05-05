@@ -18,7 +18,7 @@ ht-degree: 0%
 
 由于远程工作无处不在，无缝协作对于快速、大规模地交付内容至关重要。 随时随地通过收集评论、协作处理响应以及跟踪文档进度来推进您的项目。 了解如何创建不仅能提高效率，还能提高内容质量的文档审阅流程。 本视频教程使用 [新增 Acrobat 体验](new-workspace.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409196?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

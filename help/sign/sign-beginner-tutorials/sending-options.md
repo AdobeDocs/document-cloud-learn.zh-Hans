@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何在发送文档以请求签名时配置各种选项。 了解如何设置文档消息、文件格式、提醒频率和文档过期。
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412762?quality=12&learn=on&hidetitle=true&captions=chi_hans)

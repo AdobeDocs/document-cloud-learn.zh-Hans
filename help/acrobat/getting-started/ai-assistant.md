@@ -39,4 +39,4 @@ ht-degree: 0%
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445832?enablevpops&quality=12&learn=on&hidetitle=true&captions=chi_hans)

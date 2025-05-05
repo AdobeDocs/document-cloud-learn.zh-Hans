@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何创建PDF文件中所有注释和标记的摘要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436977?quality=12&learn=on&hidetitle=true&captions=chi_hans)

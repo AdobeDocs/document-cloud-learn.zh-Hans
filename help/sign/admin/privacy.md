@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何在Admin Console中为Acrobat Sign工作流程设置和使用隐私管理员。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448226?quality=12&learn=on&hidetitle=true&captions=chi_hans)

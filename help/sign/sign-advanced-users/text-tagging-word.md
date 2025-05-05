@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何通过在[!DNL Microsoft Word]中添加Acrobat Sign文本标记来创建可重用的文档模板。 当文档发送以供签名时，文本标记会自动在文档上创建表单字段，无需手动放置字段。 此流程可显着缩短对您发送以供签名的[!DNL Microsoft Word]文档进行修订和更改所需的时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412817?quality=12&learn=on&hidetitle=true&captions=chi_hans)

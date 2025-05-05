@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >自定义命令仅在Acrobat Pro中可用。
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347067?quality=12&learn=on&hidetitle=true&captions=chi_hans)

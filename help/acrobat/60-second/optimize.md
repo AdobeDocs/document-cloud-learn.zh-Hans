@@ -22,4 +22,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何使用Optimize PDF工具显着减小PDF文件的大小。
 
->[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347094?quality=12&learn=on&hidetitle=true&captions=chi_hans)

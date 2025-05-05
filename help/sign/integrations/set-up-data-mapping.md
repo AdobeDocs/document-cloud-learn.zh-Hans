@@ -20,4 +20,4 @@ ht-degree: 0%
 
 了解如何在[!DNL Salesforce]中为Acrobat Sign设置数据映射。 数据映射允许您在签署协议后将数据&#x200B;_拉回_&#x200B;到[!DNL Salesforce]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412802?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Acrobat Sign中最常见的工作流程 — 发送文档以供签名。 了解如何上传文档、添加表单字段和发送给某人以供签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425276?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

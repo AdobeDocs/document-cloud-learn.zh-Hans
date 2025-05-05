@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何创建类似于Microsoft Teams会议期间亲自签名的在线签名体验。 通过Live Sign，您可以从任何设备提供个人、快速且安全的签名体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445950?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解外勤服务调度员和技术人员如何使用Acrobat Sign、[!DNL Power Automate]和[!DNL Dynamics 365]来简化外勤服务合同。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447308?quality=12&learn=on&hidetitle=true&captions=chi_hans)

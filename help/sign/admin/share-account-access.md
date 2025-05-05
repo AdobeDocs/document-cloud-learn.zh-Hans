@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何设置对另一个用户帐户中的事务的仅查看访问权限。
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411192?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

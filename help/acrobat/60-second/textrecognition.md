@@ -18,4 +18,4 @@ ht-degree: 0%
 
 观看这个60秒的视频教程，了解如何转换扫描的PDF以便在PDF中搜索文本。
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347076?quality=12&learn=on&hidetitle=true&captions=chi_hans)

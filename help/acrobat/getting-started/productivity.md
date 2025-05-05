@@ -24,7 +24,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347144?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ![二维码](../assets/Acrobatqrcode.jpg)
 

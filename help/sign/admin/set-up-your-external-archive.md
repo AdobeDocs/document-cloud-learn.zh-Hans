@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何为已签名协议的备份副本创建外部归档。 您可以将副本归档到任何电子邮件地址，也可以归档到[!DNL Box]和Evernote。 已签名并完成的电子邮件的副本将发送到指定的电子邮件地址或云服务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412807?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -18,7 +18,7 @@ ht-degree: 10%
 
 您是否有多人必须与您的文档交互？ 了解如何按照您想要的顺序，将文档发送给多个人进行电子签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425287?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

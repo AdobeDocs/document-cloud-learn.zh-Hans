@@ -18,4 +18,4 @@ ht-degree: 2%
 
 在此60秒的视频教程中，了解如何[将Word文件和表单转换为PDF](https://www.adobe.com/acrobat/online/word-to-pdf.html){target="_blank"}并自动生成表单字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347088?quality=12&learn=on&hidetitle=true&captions=chi_hans)

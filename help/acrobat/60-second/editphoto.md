@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何使用Photoshop对PDF中的照片进行高级编辑！ 从编辑PDF工具到Photoshop，然后再返回，整个过程无缝衔接，助您快速轻松地完成工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409123?quality=12&learn=on&hidetitle=true&captions=chi_hans)

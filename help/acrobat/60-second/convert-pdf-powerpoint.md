@@ -17,4 +17,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何将PDF文件转换为完全可编辑的Microsoft PowerPoint文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/342629?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437342?quality=12&learn=on&hidetitle=true&captions=chi_hans)

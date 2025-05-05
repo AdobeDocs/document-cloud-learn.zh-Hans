@@ -19,7 +19,7 @@ ht-degree: 23%
 
 了解如何通过审批流程发送文档。 在本例中，了解如何通过HR、潜在员工和招聘经理发送招聘合同。 如果文档在发送给签名者之前需要呈交相关人员审核，那么“审批人”的角色会非常有用。
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411216?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

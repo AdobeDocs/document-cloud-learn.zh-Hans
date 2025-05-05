@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何使用[!DNL Aadhaar]数字ID来验证您的身份，并在Acrobat Sign中授权对文档进行远程数字签名（云签名）。
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444522?quality=12&learn=on&hidetitle=true&captions=chi_hans)

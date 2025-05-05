@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何将文档的签名委派给其他人。
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411240?quality=12&learn=on&hidetitle=true&captions=chi_hans)

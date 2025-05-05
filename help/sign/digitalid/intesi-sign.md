@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何使用您的[!DNL Intesi Group]数字ID来验证您的身份并授权文档上的远程数字签名（云签名）。
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443671?quality=12&learn=on&hidetitle=true&captions=chi_hans)

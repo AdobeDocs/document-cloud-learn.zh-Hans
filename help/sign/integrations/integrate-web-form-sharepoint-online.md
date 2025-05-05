@@ -23,4 +23,4 @@ ht-degree: 0%
 >
 >Acrobat Sign Web表单和[!DNL SharePoint]列表之间的字段映射仅适用于联机安装，不适用于内部部署安装。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423558?quality=12&learn=on&hidetitle=true&captions=chi_hans)

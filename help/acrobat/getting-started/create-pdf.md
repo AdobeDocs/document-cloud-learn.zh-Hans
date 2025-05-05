@@ -24,7 +24,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409189?enablevpops&quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 需要此教程的便携版本？ 选择PDF图标以打开或下载本教程的书面版本。
 

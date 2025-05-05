@@ -18,4 +18,4 @@ ht-degree: 8%
 
 了解如何在您的文档中设置和接受在线付款。 Acrobat Sign中的在线支付服务集成了[!DNL Braintree]，并以此作为与签名流程关联的支付网关。
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412752?quality=12&learn=on&hidetitle=true&captions=chi_hans)

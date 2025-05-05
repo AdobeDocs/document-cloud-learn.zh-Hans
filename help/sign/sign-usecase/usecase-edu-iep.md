@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何使用“自定义工作流程”Designer为K-12学校实现个性化教育计划(IEP)流程的数字化。 IEP是书面教育计划，旨在满足学生的需求，并要求多个IEP团队成员签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423327?quality=12&learn=on&hidetitle=true&captions=chi_hans)

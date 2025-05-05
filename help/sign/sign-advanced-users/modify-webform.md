@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何禁用、编辑和重新启用现有Web表单。 禁用Web表单后，您可以为最终用户重定向URL或创建自定义消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412767?quality=12&learn=on&hidetitle=true&captions=chi_hans)

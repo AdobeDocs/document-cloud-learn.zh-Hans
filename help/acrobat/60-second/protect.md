@@ -18,4 +18,4 @@ ht-degree: 3%
 
 在此60秒的视频教程中，了解如何[保护PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}，以便打开或[编辑PDF](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}需要密码。
 
->[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347108?quality=12&learn=on&hidetitle=true&captions=chi_hans)

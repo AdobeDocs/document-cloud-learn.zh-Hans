@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何从[!DNL Intesi Group]获取合格的数字签名证书。 注册并验证您的身份后，[!DNL Intesi Group]将向您发放用于应用Acrobat Sign云签名的数字ID。
 
->[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449038?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 <br> 
 

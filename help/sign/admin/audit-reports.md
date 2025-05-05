@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何访问、利用和配置审核报告以满足您组织的需要。 Acrobat Sign中的每份文档都经历了一系列的事件“里程碑”，里程碑定义了事务的进度。 这些里程碑会详细记录在每一交易的审计报告中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448555?quality=12&learn=on&hidetitle=true&captions=chi_hans)

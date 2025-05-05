@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何使用Acrobat Sign和[!DNL Microsoft Dynamics 365] for Customer Service在自助服务客户Web门户上提高客户满意度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422046?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445983?quality=12&learn=on&hidetitle=true&captions=chi_hans)

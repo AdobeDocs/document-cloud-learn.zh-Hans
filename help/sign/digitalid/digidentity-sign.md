@@ -20,4 +20,4 @@ Digidentity是欧盟合格信任服务提供商(QTSP)。 Digidentity身份识别
 
 本视频教程详细介绍了从收到注册邀请电子邮件到使用数字ID在Acrobat Sign中进行身份验证并应用云签名的过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449792?quality=12&learn=on&hidetitle=true&captions=chi_hans)

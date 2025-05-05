@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何创建实习Web表单，使学生能够更好地访问从任何设备和任何位置提交的必需表单。 在本例中，根据学生的学习课程，每个学生的工作流程都是独特的，因为每个学生都需要添加自己的教职员工主管和部门主管以供审批。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423374?quality=12&learn=on&hidetitle=true&captions=chi_hans)

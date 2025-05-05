@@ -27,7 +27,7 @@ ht-degree: 0%
 >
 >发送后修改文档仅适用于企业级计划。 您的Acrobat Sign管理员需要在&#x200B;**帐户设置**&#x200B;的&#x200B;**发送设置**&#x200B;部分中启用&#x200B;**修改协议**&#x200B;才能使用此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410732?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

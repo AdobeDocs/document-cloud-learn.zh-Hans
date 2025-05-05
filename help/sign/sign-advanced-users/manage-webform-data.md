@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >只有商业和企业级计划才能选择配置Web表单访问和签名者选项。 在帐户或组级别，可以在帐户>帐户设置>全局设置> Web表单下启用或禁用Web表单访问和签名者选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417071?quality=12&learn=on&hidetitle=true&captions=chi_hans)

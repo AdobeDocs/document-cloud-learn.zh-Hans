@@ -20,4 +20,4 @@ ht-degree: 0%
 
 要了解如何共享PDF，请查看[实时协作](collaborate.md)教程。
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409182?quality=12&learn=on&hidetitle=true&captions=chi_hans)

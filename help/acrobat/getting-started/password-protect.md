@@ -25,7 +25,7 @@ ht-degree: 2%
 [!BADGE 组织影响]
 信息保护、风险管理
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409642?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

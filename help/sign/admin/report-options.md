@@ -21,4 +21,4 @@ ht-degree: 0%
 >
 >报告仅适用于商业和企业级别计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437154?quality=12&learn=on&hidetitle=true&captions=chi_hans)

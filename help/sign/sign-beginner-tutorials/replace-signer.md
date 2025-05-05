@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >替换收件人的默认设置是用新收件人完全替换当前收件人。 商业和企业级别计划还有其他可用选项。
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425309?quality=12&learn=on&hidetitle=true&captions=chi_hans)

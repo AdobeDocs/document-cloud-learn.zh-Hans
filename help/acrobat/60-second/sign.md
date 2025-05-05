@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在本教程（60秒）视频中，了解如何使用Adobe Scan签署打印的表单。 只需扫描、签名并以PDF形式发送即可。
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347122?quality=12&learn=on&hidetitle=true&captions=chi_hans)

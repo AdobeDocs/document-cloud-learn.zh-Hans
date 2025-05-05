@@ -22,7 +22,7 @@ ht-degree: 1%
 >
 >除了Acrobat Sign企业版订阅之外，您还必须拥有Acrobat企业版权利。
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347160?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

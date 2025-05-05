@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何合并文档中的表单数据，以便在报表或Excel电子表格中查看和管理这些数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443528?quality=12&learn=on&hidetitle=true&captions=chi_hans)

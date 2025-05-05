@@ -23,7 +23,7 @@ ht-degree: 3%
 >
 >高级帐户共享仅适用于企业级计划。 技术支持可以启用高级共享，但启用后，它将以无法撤消的方式更改共享对象的关系。 因此，建议您联系Adobe帐户团队并设置一个试用帐户，以测试该功能并验证其允许执行您想要完成的所有操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411210?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

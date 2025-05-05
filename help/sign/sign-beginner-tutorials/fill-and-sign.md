@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何填写表单&#x200B;**和**&#x200B;将您的电子签名添加到文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410706?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 查看[创建教育Web表单实习申请](usecase-edu-intern-create.md)，了解如何构建此Web表单。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430546?quality=12&learn=on&hidetitle=true&captions=chi_hans)

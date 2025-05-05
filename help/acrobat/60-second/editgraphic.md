@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何使用Illustrator对PDF中的图形进行高级编辑！ 选择“编辑PDF”后，右键单击图形，然后选择在Illustrator中对其进行编辑。 完成后，只需选择“保存在Illustrator中” ，Acrobat即会更新PDF中的图稿。
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409115?quality=12&learn=on&hidetitle=true&captions=chi_hans)

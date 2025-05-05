@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解Acrobat Sign中可用于验证文档签名者身份的一系列方法。 身份验证有助于减少欺诈，并为已签名的文档增添了一层额外的安全性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447592?quality=12&learn=on&hidetitle=true&captions=chi_hans)

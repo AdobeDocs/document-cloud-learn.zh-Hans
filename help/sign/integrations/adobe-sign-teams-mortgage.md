@@ -20,7 +20,7 @@ ht-degree: 0%
 
 了解如何从[!DNL Microsoft Teams]内发送协议以供签名、检查协议状态以及发送提醒。 以下示例将介绍一家抵押贷款经纪人如何直接在Teams中发出贷款申请以供签名。 这种紧密整合加快了抵押贷款流程 — 即使在远程工作环境中与抵押贷款申请人合作时也是如此。
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446203?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

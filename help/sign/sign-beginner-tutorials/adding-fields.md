@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何自动将字段放置在文档上，或在Acrobat Sign中使用拖放编辑环境。
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425298?quality=12&learn=on&hidetitle=true&captions=chi_hans)

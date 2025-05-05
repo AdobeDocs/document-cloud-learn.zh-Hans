@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何在PDFPDF文件中开始搜索，然后打开“Advanced Search”（高级搜索）并搜索搜索搜索文件的整个文件夹。
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409468?quality=12&learn=on&hidetitle=true&captions=chi_hans)

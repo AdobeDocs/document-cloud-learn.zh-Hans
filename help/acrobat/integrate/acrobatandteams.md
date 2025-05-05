@@ -32,7 +32,7 @@ Adobe Acrobat for Teams允许用户通过查看、批注和审阅PDF来与同事
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409680?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

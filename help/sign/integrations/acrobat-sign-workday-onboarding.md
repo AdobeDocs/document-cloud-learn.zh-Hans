@@ -19,4 +19,4 @@ ht-degree: 0%
 
 借助Workday中的Acrobat Sign，您可使用100%的数字流程来收集签名，从而轻松简化入门流程。 使您的团队能够花更少的时间管理签名流程，用更多的时间完成有价值的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446643?quality=12&learn=on&hidetitle=true&captions=chi_hans)

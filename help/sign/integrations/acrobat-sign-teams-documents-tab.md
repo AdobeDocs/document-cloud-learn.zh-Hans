@@ -19,4 +19,4 @@ ht-degree: 0%
 
 了解如何直接从[!DNL Microsoft Teams]中的“文档”选项卡发送文档以供签名。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439658?quality=12&learn=on&hidetitle=true&captions=chi_hans)

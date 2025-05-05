@@ -22,7 +22,7 @@ ht-degree: 3%
 >
 >委派人角色仅适用于企业级计划。 您的Acrobat Sign管理员可能需要在&#x200B;**帐户设置**&#x200B;的&#x200B;**发送设置**&#x200B;部分中启用&#x200B;**允许发送人将某些接收者标记为委派人**&#x200B;设置，才能使用此功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412747?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

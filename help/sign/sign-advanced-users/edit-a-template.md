@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何编辑或删除库中的模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411198?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >

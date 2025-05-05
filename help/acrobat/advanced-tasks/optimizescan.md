@@ -22,4 +22,4 @@ ht-degree: 0%
 >
 >如果您有Acrobat Pro，请在Action Wizard工具中运行优化扫描文档以自动执行此过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347061?quality=12&learn=on&hidetitle=true&captions=chi_hans)
