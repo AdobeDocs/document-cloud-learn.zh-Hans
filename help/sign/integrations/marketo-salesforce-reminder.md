@@ -3,14 +3,14 @@ title: 使用适用于Salesforce的Acrobat Sign和Marketo配置指南发送提�
 description: 了解当协议在一段时间后仍未签名时，如何从Marketo发送电子邮件提醒
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '921'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安装Marketo Salesforce Sync。
 
-   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hans)提供了有关Salesforce Sync的信息和最新插件。
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供了有关Salesforce Sync的信息和最新插件。
 
 1. 安装适用于Salesforce的Acrobat Sign。
 

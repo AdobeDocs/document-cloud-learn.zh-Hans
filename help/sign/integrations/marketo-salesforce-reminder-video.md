@@ -4,14 +4,14 @@ description: 了解当协议在一段时间后仍未签名时，如何从Marketo
 feature: Integrations
 role: Admin
 product: adobe sign
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 1%
@@ -26,11 +26,11 @@ ht-degree: 1%
 
 1. 安装Marketo Salesforce Sync。
 
-   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=zh-Hans)提供了有关Salesforce Sync的信息和最新插件。
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)提供了有关Salesforce Sync的信息和最新插件。
 
 1. 安装适用于Salesforce的Acrobat Sign。
 
    [此处](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供了有关此插件的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410388?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 

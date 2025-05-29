@@ -3,14 +3,14 @@ title: 使用Acrobat Sign for Microsoft Dynamics 365和Marketo发送通知
 description: 了解如何发送短信、电子邮件或推送通知，让签名者知道协议正在执行中
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 1. 安装Marketo Microsoft Dynamics Sync。
 
-   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=zh-Hans)提供了Microsoft Dynamics Sync的信息和最新插件。
+   [此处](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)提供了Microsoft Dynamics Sync的信息和最新插件。
 
 1. 安装适用于Microsoft Dynamics的Acrobat Sign。
 
