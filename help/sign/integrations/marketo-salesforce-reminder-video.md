@@ -32,5 +32,5 @@ ht-degree: 1%
 
    [此处](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)提供了有关此插件的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410388?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
