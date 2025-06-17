@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1d7e3bf8a00967726b0b4200a047e3519ddfe484
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -115,7 +115,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="创建文档模板" src="../assets/Template.png" />
+      <img alt="创建文档模板" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>正在创建文档模板</strong></a>
