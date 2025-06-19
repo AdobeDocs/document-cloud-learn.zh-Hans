@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="设置签名顺序" src="../assets/Routing.png">
+      <img alt="设置签名顺序" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>设置签名顺序</strong></a>
@@ -48,7 +48,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="委托给其他人" src="../assets/Delegating.png" />
+      <img alt="委托给其他人" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>使用委派人角色</strong></a>
@@ -58,7 +58,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="使用审批人角色" src="../assets/Approver.png" />
+      <img alt="使用审批人角色" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>使用审批人角色</strong></a>
@@ -90,7 +90,7 @@ ht-degree: 2%
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="设置在线支付" src="../assets/Payments.png" />
+      <img alt="设置在线支付" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>设置在线付款</strong></a>
@@ -110,7 +110,7 @@ ht-degree: 2%
   </td>
  <td>
       <a href="webform.md">
-        <img alt="创建Web表单" src="../assets/Webform.png" />
+        <img alt="创建Web表单" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>正在创建Web表单</strong></a>
@@ -122,7 +122,7 @@ ht-degree: 2%
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign文本标记" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
@@ -132,7 +132,7 @@ ht-degree: 2%
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="使用文本标记 [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="使用文本标记 [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>在[!DNL Microsoft Word]</strong></a>中使用文本标记
@@ -169,7 +169,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="管理文档模板" src="../assets/ManageTemplate.png" />
+      <img alt="管理文档模板" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>管理文档模板</strong></a>
@@ -179,7 +179,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="修改现有Web表单" src="../assets/Modifywebform.png" />
+      <img alt="修改现有Web表单" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>修改现有Web表单</strong></a>
@@ -189,7 +189,7 @@ ht-degree: 2%
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="管理Web表单数据" src="../assets/Managewebform.png" />
+      <img alt="管理Web表单数据" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>管理Web表单数据</strong></a>

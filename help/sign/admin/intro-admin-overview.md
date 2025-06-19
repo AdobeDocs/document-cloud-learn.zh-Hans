@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -147,7 +147,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
-      <img alt="创建Web表单" src="../assets/Webform.png" />
+      <img alt="创建Web表单" src="../assets/web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/webform.md"><strong>正在创建Web表单</strong></a>
@@ -157,7 +157,7 @@ ht-degree: 1%
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
-      <img alt="修改现有Web表单" src="../assets/Modifywebform.png" />
+      <img alt="修改现有Web表单" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>修改现有Web表单</strong></a>
@@ -258,7 +258,7 @@ ht-degree: 1%
 <tr>
    <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign文本标记" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign文本标记" src="../assets/tagging.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
