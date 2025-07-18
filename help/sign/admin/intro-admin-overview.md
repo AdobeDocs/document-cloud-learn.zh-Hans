@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
+source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 迁移Docusign模板]
+
+了解如何通过三个简单的步骤无缝[迁移您的Docusign模板](docusign-templates.md)和工作流。
+
 >[!TAB 添加新用户]
 
 了解如何[向Acrobat Sign添加新用户](add-users-to-your-account.md)。
@@ -30,10 +34,6 @@ ht-degree: 1%
 >[!TAB 如何设置隐私管理员]
 
 了解如何设置和使用[隐私管理员](privacy.md)。
-
->[!TAB 批量下载工具]
-
-了解如何使用[批量下载工具](bulk-download-tool.md)快速下载所有已签名的协议。
 
 >[!ENDTABS]
 
@@ -62,13 +62,13 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="set-up-shared-events-and-alert.md">
-      <img alt="设置共享事件和警告" src="../assets/notifications.png" />
+    <a href="docusign-templates.md">
+      <img alt="迁移Docusign模板" src="../assets/migrate-templates.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告的通知</strong></a>
+    <a href="docusign-templates.md"><strong>迁移Docusign模板</strong></a>
     </div>
-    <em>为您的帐户配置事件和警告通知</em>
+    <em>了解如何无缝迁移Docusign模板和工作流</em>
     <br>
   </td>
   <td>
@@ -83,7 +83,7 @@ ht-degree: 1%
   </td>
 </tr>
 <tr>
- <td>
+  <td>
     <a href="add-admin.md">
       <img alt="添加新帐户管理员" src="../assets/add-admin.png" />
     </a>
@@ -94,25 +94,37 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="创建和管理组" src="../assets/groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
-    </div>
-    <em>创建组、将用户添加到组和编辑组设置</em>
-    <br>
-  </td>
-  <td>
-    <a href="set-up-your-external-archive.md">
-      <img alt="设置外部归档" src="../assets/external-archive.png" />
-    </a>
-    <div>
-    <a href="set-up-your-external-archive.md"><strong>设置外部归档</strong></a>
-    </div>
-    <em>为已签名协议的备份副本创建外部归档</em>
-    <br>
-  </td>
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="设置共享事件和警告" src="../assets/notifications.png" />
+      </a>
+      <div>
+      <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告的通知</strong></a>
+      </div>
+      <em>为您的帐户配置事件和警告通知</em>
+      <br>
+    </td>
+    <td>
+      <a href="create-and-manage-groups.md">
+        <img alt="创建和管理组" src="../assets/groups.png" />
+      </a>
+      <div>
+      <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
+      </div>
+      <em>创建组、将用户添加到组和编辑组设置</em>
+      <br>
+    </td>
+    <td>
+      <a href="set-up-your-external-archive.md">
+        <img alt="设置外部归档" src="../assets/external-archive.png" />
+      </a>
+      <div>
+      <a href="set-up-your-external-archive.md"><strong>设置外部归档</strong></a>
+      </div>
+      <em>为已签名协议的备份副本创建外部归档</em>
+      <br>
+    </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="创建文档模板" src="../assets/create-template.png" />
@@ -123,8 +135,6 @@ ht-degree: 1%
     <em>创建可重复使用的文档模板以提高速度和一致性</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
       <img alt="报告和交易使用情况" src="../assets/reporting.png" />
@@ -155,7 +165,9 @@ ht-degree: 1%
     <em>创建可以在您的网站上直接进行电子签名的文档</em>
     <br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="修改现有Web表单" src="../assets/modify-web-form.png" />
     </a>
@@ -165,8 +177,6 @@ ht-degree: 1%
     <em>了解如何禁用、编辑和重新启用现有Web表单</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="批量发送" src="../assets/send-in-bulk.png" />
@@ -197,17 +207,34 @@ ht-degree: 1%
     <em>了解如何访问、利用和配置审核报告</em>
     <br>
   </td>
-  <td>
-    <a href="promote-admin.md">
-      <img alt="分配产品和支持管理员角色" src="../assets/assign-product.png" />
-    </a>
-    <div>
-    <a href="promote-admin.md"><strong>分配产品和支持管理员角色</strong></a>
-    </div>
-    <em>了解如何在Admin Console中分配Acrobat Sign用户产品管理员和支持管理员角色</em>
-    <br>
-  </td>
-</tr> 
+</tr>
+<tr>
+    <td>
+      <a href="promote-admin.md">
+        <img alt="分配产品和支持管理员角色" src="../assets/assign-product.png" />
+      </a>
+      <div>
+      <a href="promote-admin.md"><strong>分配产品和支持管理员角色</strong></a>
+      </div>
+      <em>了解如何在Admin Console中分配Acrobat Sign用户产品管理员和支持管理员角色</em>
+      <br>
+    </td>
+    <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+</tr>    
 </table>
 
 ## 高级任务
