@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1cdbd8bd8753bf570d09219a6ca17f93ac317547
+source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 1%
 
 >[!TAB 迁移Docusign模板]
 
-了解如何通过三个简单的步骤无缝[迁移您的Docusign模板](docusign-templates.md)和工作流。
+了解如何通过三个简单的步骤无缝[迁移Docusign模板](docusign-templates.md)和工作流。
 
 >[!TAB 添加新用户]
 
