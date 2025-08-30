@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [随时随地提高工作效率](getting-started/productivity.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [创建PDF](getting-started/create-pdf.md)
    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
@@ -66,7 +66,7 @@ ht-degree: 5%
       + [扫描的文档和复杂列表](advanced-tasks/accessibilitysession4.md)
       + [向带标签的PDF添加表单字段](advanced-tasks/accessibilitysession5.md)
       + [将表单字段添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
-+ 辅助工具系列 {#accessibility-tutorials}
++ 辅助功能系列 {#accessibility-tutorials}
    + [概述](accessibility-series/accessibility-overview.md)
    + [可访问PDF文件的内容及其原因](accessibility-series/what-why-accessible-pdf.md)
    + [设置工作区](accessibility-series/set-up-workspace.md)
@@ -119,7 +119,7 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hans)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
