@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 可访问PDF文件的方式和原因]
+>[!TAB 可访问PDF文件的内容及其原因]
 
-了解[如何以及为什么使PDF文件可访问非常重要](how-why-accessible-pdf.md)。
+了解[什么是可访问的PDF文件及其重要性](what-why-accessible-pdf.md)。
 
 >[!TAB 设置工作区]
 
@@ -43,13 +44,13 @@ ht-degree: 1%
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="可访问PDF文件的方式和原因" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="可访问PDF文件的内容及其原因" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>可访问PDF文件的方式和原因</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>可访问PDF文件的内容及其原因</strong></a>
     </div>
-    <em>了解使PDF文件可访问的方式和重要性。</em>
+    <em>了解可访问的PDF文件及其重要性</em>
     <br>
   </td>
   <td>
