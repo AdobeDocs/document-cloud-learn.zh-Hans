@@ -30,4 +30,4 @@ ht-degree: 0%
 * 管理和跟踪协议
 * 访问支持和资源
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454393?quality=12&learn=on&hidetitle=true&captions=chi_hans)
