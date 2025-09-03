@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
+source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
