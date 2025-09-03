@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 3%
     <div>
     <a href="new-sender.md"><strong>开始使用Acrobat Sign</strong></a>
     </div>
-    本综合教程是开始使用Acrobat Sign中新发件人的好办法
+    本教程非常适合Acrobat Sign的新用户
     <br>
   </td>
   <td>

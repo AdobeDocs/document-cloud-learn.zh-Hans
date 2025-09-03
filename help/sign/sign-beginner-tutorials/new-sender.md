@@ -1,14 +1,14 @@
 ---
 title: Acrobat Sign快速入门
-description: 本综合教程是开始使用Adobe Sign中新发件人的好办法
+description: 本教程非常适合Acrobat Sign的新用户
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ ht-degree: 0%
 * 管理和跟踪协议
 * 访问支持和资源
 
->[!VIDEO](https://video.tv.adobe.com/v/3454393?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
