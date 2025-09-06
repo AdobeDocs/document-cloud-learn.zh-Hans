@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何使表单可在Acrobat中访问。 按照这七个步骤操作，可帮助加快处理带有交互式表单字段的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471672?quality=12&learn=on&hidetitle=true&captions=chi_hans)
