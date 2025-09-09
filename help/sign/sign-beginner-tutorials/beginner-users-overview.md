@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
+source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '472'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TAB 将文档发送给一位签名者]
 
-登录并了解[发送文档以请求签名](send-to-single-recipient.md)有多么简单
+登录并了解[发送文档以请求签名](send-to-single-recipient.md)是多么简单。
 
 >[!TAB 开始使用Acrobat Sign]
 
@@ -63,7 +63,7 @@ ht-degree: 3%
     <div>
     <a href="send-to-single-recipient.md"><strong>将文档发送给一位签名者</strong></a>
     </div>
-    登录并了解如何轻松地发送文档以供签名
+    立即了解如何轻松发送文档以请求签名
     <br>
   </td>
   <td>
