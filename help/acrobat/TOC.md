@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
-   + [随时随地提高工作效率](getting-started/productivity.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+   + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [创建PDF](getting-started/create-pdf.md)
    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect带密码的PDF文件](getting-started/password-protect.md)
    + [获取签名](getting-started/signatures.md)
    + [跟踪文档](getting-started/track.md)
+   + [随时随地提高工作效率](getting-started/productivity.md)
    + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
 + 高级任务 {#advanced-tasks}
    + [概述](advanced-tasks/advanced-tasks-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hans)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
