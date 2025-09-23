@@ -24,7 +24,7 @@ ht-degree: 5%
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
    + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [创建PDF](getting-started/create-pdf.md)
    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
@@ -140,5 +140,5 @@ ht-degree: 5%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hans)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
