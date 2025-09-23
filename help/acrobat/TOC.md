@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+source-git-commit: 5f890cce38215bd0e3a507d1bbb313058246ebd9
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 5%
@@ -21,11 +21,11 @@ ht-degree: 5%
    + [概述](getting-started/getting-started-overview.md)
    + [新的Acrobat体验](getting-started/new-workspace.md)
    + [工作区基础知识](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
-   + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
+   + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
    + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [创建PDF](getting-started/create-pdf.md)
    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
    + [组织页面](getting-started/organize.md)
@@ -121,7 +121,7 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
@@ -140,5 +140,5 @@ ht-degree: 5%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hans)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
