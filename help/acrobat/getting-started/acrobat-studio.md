@@ -16,4 +16,4 @@ ht-degree: 0%
 
 了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂工作，以便您的团队可以更快地移动。 Acrobat Studio是一款多合一解决方案，其中包括Acrobat Pro、AI Assistant、PDF空间以及Adobe ExpressPremium。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475066?quality=12&learn=on&hidetitle=true&captions=chi_hans)
