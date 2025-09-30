@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
+source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
 workflow-type: tm+mt
 source-wordcount: '666'
 ht-degree: 1%
@@ -85,7 +85,7 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="automatic-assignment-rules.md">
-      <img alt="启用自动用户分配规则" src="../assets/add-admin.png" />
+      <img alt="启用自动用户分配规则" src="../assets/automatic-assignment.png" />
     </a>
     <div>
     <a href="automatic-assignment-rules.md"><strong>启用自动用户分配规则</strong></a>
