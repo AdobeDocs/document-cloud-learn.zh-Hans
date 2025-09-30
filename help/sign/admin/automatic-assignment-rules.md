@@ -17,4 +17,4 @@ ht-degree: 1%
 
 了解如何在[Admin Console](https://adminconsole.adobe.com/)中设置自动分配规则，以向用户授予对Acrobat Sign的访问权限，从而简化设置并减少手动管理任务。 用户可以通过从Admin Console生成的产品访问URL邀请其他用户访问Acrobat Sign。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475294?quality=12&learn=on&hidetitle=true&captions=chi_hans)
