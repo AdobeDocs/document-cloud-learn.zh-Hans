@@ -2,19 +2,19 @@
 user-guide-title: Acrobat SignTutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/cn/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/cn/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/cn/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat SignTutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 9d1ff1524588cb56779e3f2ea0957241fc54182c
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 10%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 10%
       + [使用图章进行签名](sign-beginner-tutorials/sign-with-a-stamp.md)
    + 管理 {#getting-started-managing}
       + [管理和跟踪协议](sign-beginner-tutorials/manage-and-track.md)
-      + [正在创建文档模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hans)
+      + [正在创建文档模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + 高级任务 {#advanced-tasks}
    + [概述](sign-advanced-users/advanced-users-overview.md)
    + 发送 {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Acrobat Sign中的身份验证方法](sign-advanced-users/authentication-methods.md)
       + [管理表单数据](sign-advanced-users/manage-form-data.md)
       + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
-      + [批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hans)
-      + [正在创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=zh-Hans)
-      + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=zh-Hans)
+      + [批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [正在创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [在 [!DNL Microsoft Word]中使用文本标记](sign-advanced-users/text-tagging-word.md)
    + 管理 {#advanced-tasks-managing}
       + [报告和交易使用情况](sign-advanced-users/creating-a-report.md)
@@ -70,19 +70,20 @@ ht-degree: 10%
       + [管理员启动并运行](admin/up-and-running-admin.md)
       + [迁移Docusign模板](admin/docusign-templates.md)
       + [添加新用户](admin/add-users-to-your-account.md)
+      + [启用自动用户分配规则](admin/automatic-assignment-rules.md)
       + [添加新帐户管理员](admin/add-admin.md)
-      + [配置事件和警告的通知](admin/set-up-shared-events-and-alert.md)
+      + [分配产品和支持管理员角色](admin/promote-admin.md)
       + [创建和管理组](admin/create-and-manage-groups.md)
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建模板](sign-advanced-users/create-a-template.md)
-      + [报告和交易使用情况](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [报告和交易使用情况](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用户的报告选项](admin/report-options.md)
       + [创建Web表单](sign-advanced-users/webform.md)
-      + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=zh-Hans)
+      + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [批量发送](sign-advanced-users/megasign.md)
       + [构建自定义工作流](admin/building-a-custom-workflow.md)
       + [审计报告](admin/audit-reports.md)
-      + [分配产品和支持管理员角色](admin/promote-admin.md)
+      + [配置事件和警告的通知](admin/set-up-shared-events-and-alert.md)
    + 高级任务 {#advanced-tasks-admins}
       + [全局设置](admin/learn-about-global-settings.md)
       + [共享帐户访问权限](admin/share-account-access.md)
@@ -98,7 +99,7 @@ ht-degree: 10%
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]进行注册和签名](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
-      + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
+      + [使用[！DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [从Intesi Group获取数字ID（高级）](digitalid/intesi-advanced.md)
       + [从Intesi Group获取数字ID（符合条件）](digitalid/intesi-qualified.md)
@@ -114,7 +115,7 @@ ht-degree: 10%
       + [使用 [!DNL SharePoint] 自动存档 [!DNL Power Automate]中的文件](integrations/auto-archive-sharepoint-power-automate.md)
       + [ [!DNL Microsoft Power Platform]的Acrobat Sign的文档自动化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中发送以供签名](integrations/adobe-sign-teams-mortgage.md)
-      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]使用](integrations/live-sign-microsoft-teams.md)
+      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)使用
       + [ [!DNL Microsoft Teams]的“文档”选项卡集成](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中创建简单的工作流](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中创建高级工作流](integrations/advanced-workflow-power-automate.md)
