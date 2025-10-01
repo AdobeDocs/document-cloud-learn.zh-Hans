@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->发送选项可由管理员配置，因此您可能看不到本教程中提到的完全相同的选项。
+>您的管理员可能已自定义发送选项，因此您看到的选项可能与本教程中显示的选项不同。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412762?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
