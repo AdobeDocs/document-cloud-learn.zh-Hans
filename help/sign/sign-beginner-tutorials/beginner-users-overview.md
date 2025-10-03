@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
+source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 创建可重复使用的模板]
+
+了解如何创建[可重复使用的文档模板](../sign-advanced-users/create-a-template.md)。
 
 >[!TAB 配置发送选项]
 
