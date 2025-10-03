@@ -18,7 +18,7 @@ ht-degree: 5%
 
 了解如何创建可重复使用的文档模板并将其添加到您的Acrobat Sign Library以供将来使用。 文档模板可确保Sign事务的速度和一致性，并能够管理文档修订和更改。
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347137?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 >[!TIP]
 >
