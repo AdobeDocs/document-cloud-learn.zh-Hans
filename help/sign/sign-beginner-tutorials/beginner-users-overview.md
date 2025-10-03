@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ ht-degree: 2%
       <br>
     </td> 
   <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="创建可重用模板" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>创建可重复使用的模板</strong></a>
+    </div>
+    创建可重复使用的文档模板，以提高企业速度和一致性
+    <br>
+  </td>
     <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="创建文档模板" src="../assets/create-template.png" />
-    </a>
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>正在创建文档模板</strong></a>
-    </div>
-    创建可重复使用的文档模板，以提高企业速度和一致性
     <br>
   </td>
   <td>

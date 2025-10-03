@@ -6,12 +6,11 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +32,7 @@ ht-degree: 0%
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="用例" src="../assets/Usecase.png" />
+      <img alt="使用案例" src="../assets/Usecase.png" />
     </a>
     <div>
     <a href="recipes.md"><strong>用例</strong></a>
@@ -41,14 +40,10 @@ ht-degree: 0%
     <em>探索各种组织如何将这些实际用例与Acrobat Sign结合使用</em>
     <br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="用例展示" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>用例展示</strong></a>
-    </div>
-    <em>观看实时或录制的会议，向您介绍新的Acrobat Sign用例和趋势</em>
     <br>
   </td>
   <td>
