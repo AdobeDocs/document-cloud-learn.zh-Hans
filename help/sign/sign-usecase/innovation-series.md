@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Acrobat Sign技能构建器提供时长30分钟的课程，旨在确保您的电子签名正常使用，而无需额外增加任何日常工作。 每月都会突出显示一个新主题。
 
-在[此处](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview)查看所有按需网络研讨会。
+在[此处](https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-sign-webinars/overview)查看所有按需网络研讨会。
