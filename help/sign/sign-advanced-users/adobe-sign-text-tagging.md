@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ ht-degree: 2%
 
 ## 入门
 
-文本标记是放置在文档中任意位置的带有唯一格式的文本片段，这些文本片段
-上传到Acrobat Sign时自动识别为字段。
+文本标记是放置于文档中任意位置的带有唯一格式的文本片段，在上传到Acrobat Sign时，这些文本会自动识别为字段。
 
-    ！[文本标记的语法](../assets/syntax.png)
+![文本标记的语法](../assets/syntax.png)
 
-可将文本标记直接添加到创作工具，如Microsoft Word、Adobe InDesign，或者
-你有一个PDF— Acrobat。 文本标记可显着减少准备工作量
-在Acrobat Sign中使用的文档。
+文本标记可以直接添加到创作工具(如Microsoft Word、Adobe InDesign)中，或者如果您有PDF— Acrobat，也可以直接添加到创作工具中。 文本标记可显着减少在Acrobat Sign中准备文档时所用的工作量。
 
-## 在Microsoft Word中添加标签
+### 在Microsoft Word中添加标签
 
 要将文本标记添加到Microsoft Word文档，请观看此[视频教程](text-tagging-word.md)。
 
-## 在Acrobat中添加标签
+### 在Acrobat中添加标签
 
 Adobe Acrobat具有强大的拖放表单创作环境。 通过在Acrobat中应用文本标签，可以利用Acrobat Sign中提供的其他功能。
 
@@ -69,7 +66,7 @@ Adobe Acrobat具有强大的拖放表单创作环境。 通过在Acrobat中应�
 
 1. 在Acrobat Sign中上传文件，并创建可重复使用的模板，如下一部分所述。
 
-## 创建可重用模板
+### 创建可重用模板
 
 创建加标签的文档后，将其设置为可重复使用的模板，无需任何人为文档添加字段。
 
