@@ -15,6 +15,6 @@ ht-degree: 5%
 
 # 随时随地签署文档
 
-了解如何使用[iOS](https://apps.apple.com/cn/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en)的Acrobat Sign移动应用程序对文档进行签名。
+了解如何使用[iOS](https://apps.apple.com/cn/app/adobe-sign/id481082197)或[Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en)的Acrobat Sign移动应用程序对文档进行签名。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439048?quality=12&learn=on&hidetitle=true&captions=chi_hans)

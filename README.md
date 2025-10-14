@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ## Adobe开放源代码行为守则
 
-本项目已通过[&#128279;](https://dotnetfoundation.org/code-of-conduct)《Adobe开放源代码行为守则》或[.NET Foundation Code of Codos(a3/>)。 ](code-of-conduct.md)有关详细信息，请参阅[贡献](contributing.md)一文。
+本项目已通过[&#128279;](https://dotnetfoundation.org/code-of-conduct)《Adobe开放源代码行为守则》或[.NET Foundation Code of Codos(a3/>)。 &#x200B;](code-of-conduct.md)有关详细信息，请参阅[贡献](contributing.md)一文。
 
 ## 关于您对Adobe内容的贡献
 
