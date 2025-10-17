@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-19422
-source-git-commit: 6fe3549230e9c277ba4e936b947d5c9d5d6c481d
+source-git-commit: d23c32d7123e1611d667358b1b070d5d421d2887
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '196'
 ht-degree: 1%
 
 ---
 
 # AI支持概述
 
-了解Acrobat中由AI提供支持的工具的所有相关信息。
+了解AI如何转变您的PDF工作流程。 了解可简化文档任务并提高生产率的工具。
 
 ## 新增功能
 
@@ -82,7 +82,7 @@ ht-degree: 1%
 <tr>
   <td>
   <a href="../getting-started/stylize-this-pdf.md">
-      <img alt="设置此PDF的风格" src="../assets/ai-powered.png" />
+      <img alt="设置此PDF的风格" src="../assets/stylize-pdf.png" />
     </a>
     <div>
     <a href="../getting-started/stylize-this-pdf.md"><strong>风格化此PDF</strong></a>
