@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 查找文本并将文本标记为密文]**&#x200B;以搜索特定单词或短语，或搜索模式以查找特定类型的信息。 设置搜索并选择“搜索并删除文本”。
 
-![将步骤4](../assets/Redact_4.png)标记为密文
+   ![将步骤4](../assets/Redact_4.png)标记为密文
 
 1. 在搜索结果对话框中，选中项目旁边的框，然后选择&#x200B;**[!UICONTROL 将选中结果标记为密文]**。
 
