@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ ht-degree: 0%
 
 1. 选择&#x200B;**[!UICONTROL 将文本和图像标记为密文]**，并使用光标选择要标记为密文的内容。
 
-   ![将步骤4](../assets/Redact_3.png)标记为密文
+   ![将步骤3](../assets/Redact_3.png)标记为密文
 
    将鼠标悬停在选定内容上，可以看到密文的预览。
 
-   ![将步骤5a](../assets/Redact_4.png)标记为密文
-
 1. 选择&#x200B;**[!UICONTROL 查找文本并将文本标记为密文]**&#x200B;以搜索特定单词或短语，或搜索模式以查找特定类型的信息。 设置搜索并选择“搜索并删除文本”。
+
+![将步骤4](../assets/Redact_4.png)标记为密文
 
 1. 在搜索结果对话框中，选中项目旁边的框，然后选择&#x200B;**[!UICONTROL 将选中结果标记为密文]**。
 
-   ![将步骤5b标记为密文](../assets/Redact_5.png)
+   ![将步骤5](../assets/Redact_5.png)标记为密文
 
 1. 选择&#x200B;**[!UICONTROL 将页面标记为密文]**&#x200B;以将整个页面标记为密文。
 
@@ -56,13 +56,15 @@ ht-degree: 0%
 
 1. 选择您的页面，然后选择&#x200B;**[!UICONTROL 确定]**。
 
+   ![将步骤7](../assets/Redact_7.png)标记为密文
+
 1. 在“将PDF标记为密文”面板中选择&#x200B;**[!UICONTROL 应用]**&#x200B;以应用标记的密文。
 
-   ![将步骤6](../assets/Redact_7.png)标记为密文
+   ![将步骤8](../assets/Redact_8.png)标记为密文
 
 1. 选择“**[!UICONTROL 继续]**”以整理并删除隐藏信息。
 
-   ![将步骤6](../assets/Redact_8.png)标记为密文
+   ![将步骤9](../assets/Redact_9.png)标记为密文
 
 确认后，密文和隐藏信息将被永久删除并保存到新文件。
 
