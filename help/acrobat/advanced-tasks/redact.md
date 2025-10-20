@@ -1,5 +1,5 @@
 ---
-title: 标记密文并进行整理
+title: 删除敏感信息
 description: 了解如何从PDF中永久删除私人或敏感信息
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# 标记密文并进行整理
+# 删除敏感信息
 
-了解如何使用“Redact Tool”（标记密文）工具永久删除PDF中的私人或敏感信息。 使用整理工具移除文件中不可见的信息，如注释、元数据或隐藏的图层。
+了解如何使用“Redact Tool”（标记密文）工具永久删除PDF中的私人或敏感信息，然后整理文档以删除文件中不可见的信息，如注释、元数据或隐藏图层。 永久删除敏感内容和隐藏数据很重要，这样在发布PDF时信息就不会一起传递。 本教程使用[新的Acrobat体验](../getting-started/new-workspace.md)。
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ ht-degree: 0%
 [!BADGE 组织影响]
 客户数据保护、风险管理
 
-## 将文本和图像标记为密文
+## 如何在Acrobat桌面应用程序中将信息标记为密文
 
-1. 从[!UICONTROL 工具]中心或右侧窗格中选择&#x200B;**[!UICONTROL 标记密文]**。
-
+1. 打开文件并从工具栏中选择&#x200B;**[!UICONTROL 所有工具]**，然后选择&#x200B;**[!UICONTROL 将PDF标记为密文]**。
    ![将步骤1](../assets/Redact_1.png)标记为密文
 
-1. 选择&#x200B;**[!UICONTROL 将文本和图像标记为密文]** **>** **[!UICONTROL 属性]**&#x200B;以自定义密文的外观，包括密文框或文本叠加的颜色。
+1. 选择&#x200B;**[!UICONTROL 设置属性]**&#x200B;以自定义密文的外观，包括密文框或文本叠加的颜色。
 
    ![将步骤2](../assets/Redact_2.png)标记为密文
 
-要将信息标记为密文，请首先标记要删除的项目，然后应用密文。 您可以将整个页面或所选内容标记为密文。
+   要将信息标记为密文，请首先标记要删除的项目，然后应用密文。 您可以将整个页面或所选内容标记为密文。
 
-1. 选择“**[!UICONTROL 将页面标记为密文]**”，然后选择要标记为密文的页面或页面范围，并选择“**[!UICONTROL 确定]**”。
+1. 选择&#x200B;**[!UICONTROL 将文本和图像标记为密文]**，并使用光标选择要标记为密文的内容。
 
    ![将步骤4](../assets/Redact_3.png)标记为密文
 
-或者，使用光标选择要标记密文的内容。 将鼠标悬停在选定内容上，可以看到密文的预览。
+   将鼠标悬停在选定内容上，可以看到密文的预览。
 
    ![将步骤5a](../assets/Redact_4.png)标记为密文
 
-1. 选择&#x200B;**[!UICONTROL 将文本和图像标记为密文]** **>** **[!UICONTROL 查找文本和密文]**&#x200B;以查找要标记为密文的特定内容。
+1. 选择&#x200B;**[!UICONTROL 查找文本并将文本标记为密文]**&#x200B;以搜索特定单词或短语，或搜索模式以查找特定类型的信息。 设置搜索并选择“搜索并删除文本”。
 
-使用搜索框可搜索特定的单词或短语。
-
-1. 选择&#x200B;**[!UICONTROL 图案]**&#x200B;以查找某些类型 of 信息，然后选中这些框并选择&#x200B;**[!UICONTROL 搜索并删除文本]**。
+1. 在搜索结果对话框中，选中项目旁边的框，然后选择&#x200B;**[!UICONTROL 将选中结果标记为密文]**。
 
    ![将步骤5b标记为密文](../assets/Redact_5.png)
 
-1. 在[!UICONTROL 标记密文]顶部菜单中选择&#x200B;**[!UICONTROL 应用]**&#x200B;以应用标记的密文并保存密文处理后的文件。
+1. 选择&#x200B;**[!UICONTROL 将页面标记为密文]**&#x200B;以将整个页面标记为密文。
 
    ![将步骤6](../assets/Redact_6.png)标记为密文
 
-## 整理文档
+1. 选择您的页面，然后选择&#x200B;**[!UICONTROL 确定]**。
 
-1. 在[!UICONTROL 标记密文]顶部菜单中选择&#x200B;**[!UICONTROL 整理文档]**。
+1. 在“将PDF标记为密文”面板中选择&#x200B;**[!UICONTROL 应用]**&#x200B;以应用标记的密文。
 
-1. 选择“**[!UICONTROL 确定]**”以确认删除隐藏信息。 或者，选择&#x200B;**[!UICONTROL 单击此处]**&#x200B;以有选择地删除隐藏信息。
+   ![将步骤6](../assets/Redact_7.png)标记为密文
 
-   ![整理步骤2](../assets/Redact_7.png)
+1. 选择“**[!UICONTROL 继续]**”以整理并删除隐藏信息。
+
+   ![将步骤6](../assets/Redact_8.png)标记为密文
+
+确认后，密文和隐藏信息将被永久删除并保存到新文件。
 
 >[!TIP]
 >
 >要加快密文过程，请查看[Action Wizard](../advanced-tasks/action.md)。
-
->[!TIP]
->
->此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-peform-advanced-tasks)的一部分！
