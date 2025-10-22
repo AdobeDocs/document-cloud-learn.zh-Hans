@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ ht-degree: 0%
 
    ![减少步骤1](../assets/Reduce_1.png)
 
-1. 在&#x200B;**[!UICONTROL 压缩PDF]**&#x200B;面板中选择&#x200B;**[!UICONTROL 单个文件]**&#x200B;或&#x200B;**[!UICONTROL 多个文件]**，然后选择&#x200B;**[!UICONTROL 保存]**。
-
-   在保持文档质量的同时，文件会尽可能减小到最小。
+1. 在&#x200B;**[!UICONTROL 压缩PDF]**&#x200B;面板中选择&#x200B;**[!UICONTROL 单个文件]**&#x200B;或&#x200B;**[!UICONTROL 多个文件]**。
 
    ![减少步骤2](../assets/Reduce_2.png)
 
 1. 选择&#x200B;**[!UICONTROL 保存]**。
 
    ![减少步骤3](../assets/Reduce_3.png)
+
+   在保持文档质量的同时，文件会尽可能减小到最小。
 
 
 ## 如何在Acrobat Web版中压缩PDF
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    ![减少步骤4](../assets/Reduce_4.png)
 
-1. 选择&#x200B;**[!UICONTROL 选择文件]**，选择您的文件，然后选择[!UICONTROL 打开]。
+1. 选择&#x200B;**[!UICONTROL 选择文件]**，选择您的文件，然后选择&#x200B;**[!UICONTROL 打开]**。
 
    ![减少步骤5](../assets/Reduce_5.png)
 
