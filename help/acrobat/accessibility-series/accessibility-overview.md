@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 可访问PDF文件的内容及其原因]
+>[!TAB 扫描的文档]
 
-了解[什么是可访问的PDF文件及其重要性](what-why-accessible-pdf.md)。
+了解如何使[扫描的文档](scanned-documents.md)可访问。
 
 >[!TAB 设置工作区]
 
@@ -74,14 +74,41 @@ ht-degree: 1%
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="扫描的文档" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>扫描的文档</strong></a>
+    </div>
+    <em>了解如何使扫描的文档可在Acrobat Pro中访问</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="创建具有辅助工具的表单" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>创建可访问的表单</strong></a>
     </div>
-    <em>了解如何在Acrobat中访问表单</em>
+    <em>了解如何在Acrobat Pro中访问表单</em>
     <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>

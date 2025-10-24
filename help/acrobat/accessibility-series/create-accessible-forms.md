@@ -6,9 +6,10 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18733
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 2ba77a77-6dd0-4e05-8a7a-690542569061
+source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 了解如何使表单可在Acrobat中访问。 按照这七个步骤操作，可帮助加快处理带有交互式表单字段的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471672?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!NOTE]
+>
+>本教程的某些功能仅在Acrobat Pro中可用。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
