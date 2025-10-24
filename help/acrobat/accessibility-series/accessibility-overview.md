@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
+source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
     <div>
     <a href="set-up-workspace.md"><strong>设置工作区</strong></a>
     </div>
-    <em>了解如何将所有无障碍工具放在指尖，以帮助简化使可访问的PDF文件成为可访问文件的过程</em>
+    <em>了解如何将所有辅助工具放在指尖</em>
     <br>
   </td>
   <td>
