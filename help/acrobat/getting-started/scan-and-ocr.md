@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # 纸张到PDF
 
-了解如何扫描（或拍照）纸质文档，并将其转换为智能、可搜索、[可编辑的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}。 将纸张转换为PDF可提高您快速查找信息的能力，并使残障人士能够访问这些信息。 此外，通过将纸张转换为PDF，您可以轻松地以电子方式与他人共享和协作。
+了解如何扫描（或拍照）纸质文档，并将其转换为可搜索且[可编辑的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}。 将纸张转换为PDF可提高您快速查找信息的能力，并使残障人士能够访问这些信息。
 
 ## 如何在Acrobat桌面版中将纸张转换为PDF
 
