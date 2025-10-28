@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ ht-degree: 0%
 >[!TIP]
 >
 >要OCR多个PDF文件，请尝试使用Acrobat Pro桌面版中的[Action Wizard](../advanced-tasks/action.md)。
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="纸张到PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>纸张到PDF</strong></a>
-    </div>
-    <em>了解如何将纸质文档转换为智能、可搜索、可编辑的PDF文件功能</em>
-    <br>
-  </td>
-  <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
