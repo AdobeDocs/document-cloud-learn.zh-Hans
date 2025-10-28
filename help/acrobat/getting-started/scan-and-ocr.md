@@ -1,51 +1,108 @@
 ---
-title: 扫描和OCR
-description: 将文档的扫描件或图像转换为可搜索、可编辑的PDF文件，并调整生成文件的质量
+title: 纸张到PDF
+description: 了解如何将纸质文档转换为智能、可搜索、可编辑的PDF文件
 feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# 扫描和OCR
+# 纸张到PDF
 
-通过将PDF的扫描件或图像转换为可搜索、[可编辑的文档文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，使业务不断向前发展。
+了解如何扫描（或拍照）纸质文档，并将其转换为智能、可搜索、[可编辑的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}。 将纸张转换为PDF可提高您快速查找信息的能力，并使残障人士能够访问这些信息。 此外，通过将纸张转换为PDF，您可以轻松地以电子方式与他人共享和协作。
 
->[!TIP]
->
->若要对多个PDF文件执行OCR，请尝试使用[Action Wizard](../advanced-tasks/action.md)。
+## 如何在Acrobat桌面版中将纸张转换为PDF
 
-1. 从[!UICONTROL 工具]中心或右侧窗格中选择&#x200B;**[!UICONTROL 扫描和OCR]**。
+1. 打开照片或文档的扫描图像。 或者，使用连接的扫描仪创建新文件或使用免费的[Adobe Scan移动应用程序](https://adobescan.app.link/GpBqG8Bkoeb)。
+
+1. 从工具栏中选择&#x200B;**[!UICONTROL 所有工具]**，然后在左侧窗格中选择&#x200B;**[!UICONTROL 扫描和OCR]**。
 
    ![扫描步骤1](../assets/Scan_1.png)
 
-1. 选择一个文件。
-
-   此文件可以是文档的照片，也可以是使用扫描仪或Adobe Scan移动应用程序创建的已扫描文件。 或者，您可以使用连接的扫描仪扫描文档以创建新文件。
+1. 根据您的文件类型，选择&#x200B;**[!UICONTROL 增强扫描的图像]**&#x200B;或&#x200B;**[!UICONTROL 增强相机图像]**。
 
    ![扫描步骤2](../assets/Scan_2.png)
 
-1. 选择&#x200B;**[!UICONTROL 扫描的文档]**&#x200B;或&#x200B;**[!UICONTROL 相机图像]**&#x200B;以增强文档。
-
-1. 选择“**[!UICONTROL 增强]**”以清理图像。
+1. 拖动手柄以调整页面边框，然后选择&#x200B;**[!UICONTROL 增强]**。
 
    ![扫描步骤3](../assets/Scan_3.png)
 
-   Acrobat会自动识别扫描文档中的文本。
+   Acrobat会自动清理并拉直图像。
 
-1. 选择“**[!UICONTROL 识别文本]**”以手动识别图像文件中的文本。
+1. 选择“**[!UICONTROL 在此文件中]**”，然后选择“**[!UICONTROL 识别文本]**”，使文本可搜索且可编辑。
 
    ![扫描步骤4](../assets/Scan_4.png)
 
 该文件现在是一个可搜索、可编辑的PDF文件。
 
+## 如何在Acrobat Web中将纸张转换为PDF
+
+1. 在浏览器中登录到[acrobat.adobe.com](https://acrobat.adobe.com/cn)。
+
+1. 从顶部菜单中选择&#x200B;**[!UICONTROL 转换>识别带有OCR的文本]**。
+
+   ![扫描步骤5](../assets/Scan_5.png)
+
+1. 选择&#x200B;**[!UICONTROL 选择文件]**，选择您的文件，然后选择&#x200B;**[!UICONTROL 打开]**。
+
+   ![扫描步骤6](../assets/Scan_6.png)
+
+1. 选择&#x200B;**[!UICONTROL 识别文本]**。
+
+   ![扫描步骤7](../assets/Scan_7.png)
+
+   文件中的文本现在可搜索且可编辑。
+
+1. 若要移除背景，请选择图像并选择&#x200B;**[!UICONTROL 编辑图像]**。
+
+   ![扫描步骤8](../assets/Scan_8.png)
+
+1. 从Adobe Express编辑器中选择&#x200B;**[!UICONTROL 移除背景]**。
+
+   ![扫描步骤9](../assets/Scan_9.png)
+
+1. 拖动手柄以调整页面边框，然后选择&#x200B;**[!UICONTROL 应用]**。
+
+   ![扫描步骤10](../assets/Scan_10.png)
+
+
 >[!TIP]
 >
->此视频是Experience League上免费提供的播放列表[“开始使用Adobe Acrobat”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-get-started-business-users)的一部分！
+>要OCR多个PDF文件，请尝试使用Acrobat Pro桌面版中的[Action Wizard](../advanced-tasks/action.md)。
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-and-ocr.md">
+      <img alt="纸张到PDF" src="../assets/scan.png" />
+    </a>
+    <div>
+    <a href="scan-and-ocr.md"><strong>纸张到PDF</strong></a>
+    </div>
+    <em>了解如何将纸质文档转换为智能、可搜索、可编辑的PDF文件功能</em>
+    <br>
+  </td>
+  <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+  </td>
+</tr>
+</table>

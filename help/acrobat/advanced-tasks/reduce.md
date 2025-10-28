@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
    在保持文档质量的同时，文件会尽可能减小到最小。
 
 
-## 如何在Acrobat Web版中压缩PDF
+## 如何在Acrobat Web中压缩PDF
 
 1. 在浏览器中登录到[acrobat.adobe.com](https://acrobat.adobe.com/cn)。
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->若要优化多个PDF文件，请尝试使用[Action Wizard](../advanced-tasks/action.md)。
+>要优化多个PDF文件，请尝试在Acrobat Pro桌面版中使用[Action Wizard](../advanced-tasks/action.md)。
