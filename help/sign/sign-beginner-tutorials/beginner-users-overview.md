@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 对文档进行电子签名]
+
+了解如何[签署](../sign-beginner-tutorials/electronically-sign-a-document.md)通过Acrobat Sign发送给您的文档。
 
 >[!TAB 创建可重复使用的模板]
 
@@ -34,14 +38,6 @@ ht-degree: 2%
 
 了解如何按照您想要的顺序，向[多位人员](send-to-multiple-recipients.md)发送文档以供电子签名。
 
->[!TAB 将文档发送给一位签名者]
-
-登录并了解[发送文档以请求签名](send-to-single-recipient.md)是多么简单。
-
->[!TAB 开始使用Acrobat Sign]
-
-您是初次使用Acrobat Sign吗？ 此[教程](new-sender.md)是一个很好的起点。
-
 >[!ENDTABS]
 
 ## 发送
@@ -50,7 +46,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Acrobat Sign快速入门" src="../assets/gettingstartednew.png" />
+      <img alt="开始使用 Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
     <a href="new-sender.md"><strong>开始使用Acrobat Sign</strong></a>
@@ -70,7 +66,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="将文档发送给一位签名者" src="../assets/send-single-recipient.png" />
+      <img alt="发送文档至单个签名者" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>将文档发送给一位签名者</strong></a>
@@ -80,7 +76,7 @@ ht-degree: 2%
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="发送给多个签名者" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="发送给多位签名者" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>发送给多个签名者</strong></a>
@@ -250,7 +246,7 @@ ht-degree: 2%
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="管理和跟踪协议" src="../assets/manage-track.png" />
+      <img alt="管理并跟踪您的协议" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>管理和跟踪您的协议</strong></a>
