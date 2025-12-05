@@ -22,4 +22,4 @@ ht-degree: 0%
 
 观看这段60秒的视频教程，了解如何查看PDF是否可访问。
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347082?captions=chi_hans&quality=12&learn=on&hidetitle=true)

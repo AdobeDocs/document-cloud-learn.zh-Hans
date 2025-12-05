@@ -21,4 +21,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何根据PDF标准(如PDF/X、PDF/A或PDF/E)验证PDF内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437312?captions=chi_hans&quality=12&learn=on&hidetitle=true)
