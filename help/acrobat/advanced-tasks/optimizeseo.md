@@ -31,7 +31,7 @@ PDF内容应具有唯一性，其结构如下：
 * 使用包含关键字和列表的短段落
 * 添加内部和外部（网站或其他网站上的内容）超链接
 * 为超过25页的文档添加超链接目录
-* 对所有扫描的文档运行[文本识别](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html)
+* 对所有扫描的文档运行[文本识别](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=zh-Hans)
 * 构建移动友好的PDF
 要检查PDF的移动查看体验，请在[Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中打开文件并打开Liquid Mode。 包括必要附加子标题以改进导航。
 
@@ -64,7 +64,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 ## 3.为您的PDF添加标签
 
-为PDF中的内容添加标签不仅可以让残障人士访问您的文件[&#128279;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html)，还可以改善SEO。
+为PDF中的内容添加标签不仅可以让残障人士访问您的文件[&#128279;](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=zh-Hans)，还可以改善SEO。
 
 +++查看有关如何为PDF添加标签的详细信息
 

@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![辅助功能步骤4](../assets/Accessibility_4.png)
 
-您还可以使用[!UICONTROL 工具]Action Wizard中的[使其可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)操作，该操作将逐步完成一组创建可访问PDF的基本步骤。
+您还可以使用[!UICONTROL 工具]Action Wizard中的[使其可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=zh-Hans)操作，该操作将逐步完成一组创建可访问PDF的基本步骤。
 
 ## 修复辅助功能问题
 
