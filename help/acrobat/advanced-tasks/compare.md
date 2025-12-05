@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,12 @@ ht-degree: 0%
 [!BADGE 组织影响]
 成本节约，组织效率，时间节约，质量保证
 
->[!VIDEO](https://video.tv.adobe.com/v/3409322?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-peform-advanced-tasks)的一部分！
+>此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分！
 
 >[!NOTE]
 >
->仅适用于Acrobat Pro。
+>仅适用于Acrobat Pro、Premium或Studio。

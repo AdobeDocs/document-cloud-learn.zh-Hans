@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅适用于Acrobat Pro。
+>仅适用于Acrobat Pro、Premium或Studio。
 
 ## 辅助工具检查
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![辅助功能步骤4](../assets/Accessibility_4.png)
 
-您还可以使用[工具](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=zh-Hans)Action Wizard中的[!UICONTROL 使其可访问]操作，该操作将逐步完成一组创建可访问PDF的基本步骤。
+您还可以使用[!UICONTROL 工具]Action Wizard中的[使其可访问](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)操作，该操作将逐步完成一组创建可访问PDF的基本步骤。
 
 ## 修复辅助功能问题
 

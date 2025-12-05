@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6803
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅适用于Acrobat Pro。
+>仅适用于Acrobat Pro、Premium或Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3444885?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-peform-advanced-tasks)的一部分！
+>此视频是Experience League上免费提供的播放列表[“在Adobe Acrobat中执行高级任务”](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)的一部分！

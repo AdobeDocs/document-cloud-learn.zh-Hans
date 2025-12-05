@@ -7,9 +7,9 @@ level: Intermediate
 topics: Accessibility
 jira: KT-18733
 exl-id: 2ba77a77-6dd0-4e05-8a7a-690542569061
-source-git-commit: eff134abca23b6d460e10881979496cd5255fb6f
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->本教程的某些功能仅在Acrobat Pro中可用。
+>本教程的某些功能仅在Acrobat Pro、Premium和Studio中提供。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471672?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)

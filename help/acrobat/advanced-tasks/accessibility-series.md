@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession1.md"><strong>PDF辅助功能简介</strong></a>
     </div>
-    <em>在此按需会话中，了解使PDF可访问意味着什么，如何设置Acrobat Pro以处理可访问性PDF，以及如何从源文档转换为PDF</em>
+    <em>在此按需会话中，了解使PDF可访问意味着什么，如何设置Acrobat Pro（Premium或Studio）以处理可访问性PDF，以及如何从源文档转换为PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ ht-degree: 0%
     <div>
     <a href="accessibilitysession2.md"><strong>正在修正无法访问的PDF</strong></a>
     </div>
-    <em>在此按需会话中，了解转换Word文档的工作流程，并使用简介网络研讨会中显示的Acrobat Pro工具修复一些基本的标记问题</em>
+    <em>在此按需会话中，了解转换Word文档的工作流程，并使用“简介”网络研讨会中显示的Acrobat Pro（高级或工作室）工具解决一些基本的标记问题</em>
     <br>
   </td>  
   <td>

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9749
 thumbnail: KT-9749.jpg
 exl-id: 916a17bb-bd84-4561-ab1f-e2776099fcfc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->仅适用于Acrobat Pro。
+>仅适用于Acrobat Pro、Premium和Studio。
 
 观看这段60秒的视频教程，了解如何查看PDF是否可访问。
 
->[!VIDEO](https://video.tv.adobe.com/v/347082?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)

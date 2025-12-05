@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->优化PDF功能仅在桌面版Acrobat Pro中可用。
+>优化PDF仅在Acrobat Pro、Premium或Studio桌面版中可用。
 
 1. 打开文件并从工具栏中选择&#x200B;**[!UICONTROL 所有工具]**，然后选择&#x200B;**[!UICONTROL 压缩PDF]**。
 
@@ -77,4 +77,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->要优化多个PDF文件，请尝试在Acrobat Pro桌面版中使用[Action Wizard](../advanced-tasks/action.md)。
+>要优化多个PDF文件，请尝试在Acrobat Pro、Premium或Studio桌面版中使用[Action Wizard](../advanced-tasks/action.md)。

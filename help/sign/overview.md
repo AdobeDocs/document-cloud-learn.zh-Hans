@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 5%
@@ -108,7 +108,7 @@ Acrobat Sign是一款Adobe Document Cloud解决方案，可进行扩展以满足
     <div>
     <a href="deploy-overview.md"><strong>部署</strong></a>
     </div>
-    深入了解在您的组织内部署Acrobat Sign的最佳做法
+    在公司内部部署Acrobat Sign的洞察和最佳实践
     <br>
   </td>
 </tr>

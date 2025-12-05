@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 4e790be5fe4ce6f142c0ac001671c19fd25fb8e4
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 1%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 0%
     <div>
     <a href="scanned-documents.md"><strong>扫描的文档</strong></a>
     </div>
-    <em>了解如何使扫描的文档可在Acrobat Pro中访问</em>
+    <em>了解如何使扫描的文档可在Acrobat中访问</em>
     <br>
   </td>
 </tr>
@@ -92,7 +92,7 @@ ht-degree: 0%
     <div>
     <a href="create-accessible-forms.md"><strong>创建可访问的表单</strong></a>
     </div>
-    <em>了解如何在Acrobat Pro中访问表单</em>
+    <em>了解如何在Acrobat中访问表单</em>
     <br>
   </td>
   <td>
