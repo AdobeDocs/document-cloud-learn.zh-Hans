@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 1%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 复杂列表]
+
+了解如何在Acrobat中为[复杂列表](complex-lists.md)添加辅助功能标签。
 
 >[!TAB 扫描的文档]
 
@@ -32,10 +36,6 @@ ht-degree: 1%
 >[!TAB 从Word创建可访问的PDF]
 
 了解如何[从Microsoft Word创建可访问的PDF文件](create-accessible-from-word.md)。
-
->[!TAB 创建可访问的表单]
-
-了解如何在Acrobat中使[表单具有辅助功能](create-accessible-forms.md)。
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-        <img alt="间隔物" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="复杂列表" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>复杂列表</strong></a>
+    </div>
+    <em>了解如何在Acrobat中为辅助功能复杂列表添加标签</em>
+    <br>
   </td>
   <td>
         <img alt="间隔物" src="../assets/Grayspacer.png" />
