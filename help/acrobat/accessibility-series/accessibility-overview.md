@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -78,7 +78,7 @@ ht-degree: 0%
       <img alt="标记的基础知识" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>标记“</strong></a>”的基础知识
+    <a href="basics-tagging.md"><strong>标记的基础知识</strong></a>
     </div>
     <em>了解有关如何为PDF文件添加标签以使其可访问的基础知识</em>
     <br>
