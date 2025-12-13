@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何在Acrobat Sign中管理和跟踪已发送以供签名的文档。 获取您签署或发送以供签名的每个文档的实时状态更新和通知。
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436628?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
