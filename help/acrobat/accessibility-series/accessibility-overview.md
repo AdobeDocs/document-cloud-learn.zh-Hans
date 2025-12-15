@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ ht-degree: 0%
 
 >[!BEGINTABS]
 
+>[!TAB 复杂表]
+
+了解如何在Acrobat中[为表添加标签](complex-tables.md)以实现无障碍访问。
+
+>[!TAB 使引导操作易于使用]
+
+了解如何使用[使引导操作易于访问](make-accessible-action.md)。
+
 >[!TAB 在Acrobat中创建可访问的PDF]
 
 了解如何从Acrobat[开始创建](accessible-acrobat.md)可访问的PDF。
@@ -28,14 +36,6 @@ ht-degree: 0%
 >[!TAB 标记的基础知识]
 
 了解如何[为PDF](basics-tagging.md)文件添加标签以使其可访问的基础知识。
-
->[!TAB 复杂列表]
-
-了解如何在Acrobat中为[复杂列表](complex-lists.md)添加辅助功能标签。
-
->[!TAB 扫描的文档]
-
-了解如何使[扫描的文档](scanned-documents.md)可访问。
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ ht-degree: 0%
     <em>了解如何在Acrobat中为辅助功能复杂列表添加标签</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="复杂表格" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>复杂表</strong></a>
+    </div>
+    <em>了解如何在Acrobat中为表添加辅助功能标签</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="提供无障碍引导式操作" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>使引导操作易于使用</strong></a>
+    </div>
+    <em>了解如何使用“使其可访问”引导式操作</em>
+    <br>
+  </td>
+   <td>
+        <img alt="间隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="间隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
