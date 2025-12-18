@@ -29,7 +29,7 @@ ht-degree: 0%
 >
 >组管理员可将工作流程分配给他们管理的任何组（而不仅仅是主要组）。 组管理员还可以编辑分配给他们管理的任何组的任何工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412782?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
