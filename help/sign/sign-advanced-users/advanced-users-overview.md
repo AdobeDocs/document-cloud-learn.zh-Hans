@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 2%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 生成自定义工作流]
+
+
 
 >[!TAB 批量发送]
 
@@ -67,38 +71,6 @@ ht-degree: 2%
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Acrobat Sign中的身份验证方法" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Acrobat Sign中的身份验证方法</strong></a>
-    </div>
-    <em>了解Acrobat Sign中可用的身份验证方法范围</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="管理表单数据" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>管理表单数据</strong></a>
-      </div>
-      <em>了解如何合并文档中的表单数据</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="设置在线支付" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>设置在线付款</strong></a>
-    </div>
-    <em>了解如何在您的文档中设置和接受在线付款</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="批量发送" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ ht-degree: 2%
       <em>只需几个简单的步骤，即可一次为任何文档收集数百个签名</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="创建Web表单" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ ht-degree: 2%
       <a href="webform.md"><strong>正在创建Web表单</strong></a>
       </div>
       <em>了解如何创建可以在您的网站上直接进行电子签名的文档</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="构建自定义工作流" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>生成自定义工作流</strong></a>
+      </div>
+      <em>了解如何创建和使用自定义工作流以加快创建和发送协议的过程</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="设置在线支付" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>设置在线付款</strong></a>
+      </div>
+      <em>了解如何在您的文档中设置和接受在线付款</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Acrobat Sign中的身份验证方法" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Acrobat Sign中的身份验证方法</strong></a>
+      </div>
+      <em>了解Acrobat Sign中可用的身份验证方法范围</em>
       <br>
   </td>
 </tr>
@@ -159,7 +163,7 @@ ht-degree: 2%
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="报告和交易使用情况" src="../assets/reporting.png" />
+      <img alt="报表与事务用量" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>报告和交易使用情况</strong></a>
@@ -197,5 +201,32 @@ ht-degree: 2%
     <em>了解如何跟踪、管理和导出Web表单中的数据</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="管理表单数据" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>管理表单数据</strong></a>
+      </div>
+      <em>了解如何合并文档中的表单数据</em>
+      <br>
+    </td>
+    <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
