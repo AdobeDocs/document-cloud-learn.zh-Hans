@@ -20,4 +20,4 @@ ht-degree: 0%
 >
 >仅适用于Acrobat Pro、Premium和Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477962?captions=chi_hans&quality=12&learn=on&hidetitle=true)
