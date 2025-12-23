@@ -100,7 +100,7 @@ ht-degree: 15%
    + Digidentity {#digidentity}
       + [使用 [!DNL Digidentity]进行注册和签名](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
-      + [使用[！DNL D-Trust]注册和签名](digitalid/d-trust.md)
+      + [使用[!DNL D-Trust]注册和签名](digitalid/d-trust.md)
    + Intesi Group {#intesi}
       + [从Intesi Group获取数字ID（高级）](digitalid/intesi-advanced.md)
       + [从Intesi Group获取数字ID（符合条件）](digitalid/intesi-qualified.md)
@@ -111,13 +111,13 @@ ht-degree: 15%
       + [填写并登录 [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [在 [!DNL Outlook]中发送以供签名](integrations/send-for-signature-with-outlook.md)
       + [在 [!DNL SharePoint Online]中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
-      + [ [!DNL SharePoint Online]中的跟踪](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [&#x200B; [!DNL SharePoint Online]中的跟踪](integrations/track-an-agreement-with-sharepoint-online.md)
       + [将Web表单与 [!DNL SharePoint Online]集成](integrations/integrate-web-form-sharepoint-online.md)
       + [使用 [!DNL SharePoint] 自动存档 [!DNL Power Automate]中的文件](integrations/auto-archive-sharepoint-power-automate.md)
-      + [ [!DNL Microsoft Power Platform]的Acrobat Sign的文档自动化](integrations/documentautomation.md)
+      + [&#x200B; [!DNL Microsoft Power Platform]的Acrobat Sign的文档自动化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中发送以供签名](integrations/adobe-sign-teams-mortgage.md)
-      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)使用
-      + [ [!DNL Microsoft Teams]的“文档”选项卡集成](integrations/acrobat-sign-teams-documents-tab.md)
+      + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]使用](integrations/live-sign-microsoft-teams.md)
+      + [&#x200B; [!DNL Microsoft Teams]的“文档”选项卡集成](integrations/acrobat-sign-teams-documents-tab.md)
       + [在 [!DNL Power Automate]中创建简单的工作流](integrations/simple-workflow-power-automate.md)
       + [在 [!DNL Power Automate]中创建高级工作流](integrations/advanced-workflow-power-automate.md)
       + [客户服务的[!DNL Microsoft Dynamics 365]](integrations/dynamics-customer-service.md)
