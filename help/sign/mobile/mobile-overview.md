@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 1%
 >[!TAB 适合移动设备的视图]
 
 了解如何使用[移动友好视图](mobile-friendly.md)在移动设备上填写表单。
+
+>[!TAB 创建适合移动设备的视图]
+
+了解如何无缝生成[移动友好](create-mobile-friendly.md)文档，无需任何开发人员支持。
 
 >[!ENDTABS]
 
@@ -58,7 +62,7 @@ ht-degree: 1%
     <div>
     <a href="create-mobile-friendly.md"><strong>创建适合移动设备的视图</strong></a>
     </div>
-    <em>了解如何创建文档的移动友好视图</em>
+    <em>了解如何无缝生成对移动设备友好的文档，无需任何开发人员支持</em>
     <br>
   </td>
    <td>
@@ -84,11 +88,11 @@ ht-degree: 1%
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="下载适用于Android的Acrobat Sign移动应用程序" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>
     </div>
     <em>从Google Play下载Acrobat Sign移动应用程序</em>
     <br>
