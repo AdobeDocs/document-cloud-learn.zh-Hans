@@ -8,7 +8,7 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: ec258dc58cefb5ac22143f75755a47f122e4ccae
+source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -62,11 +62,11 @@ ht-degree: 1%
     <br>
   </td>
    <td>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197">
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="下载适用于iOS的Acrobat Sign移动应用程序" src="../assets/mobile-ios.png" />
     </a>
     <div>
-    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197"><strong>下载适用于iOS的Acrobat Sign移动应用程序</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank"><strong>下载适用于iOS的Acrobat Sign移动应用程序</strong></a>
     </div>
     <em>从App Store下载Acrobat Sign移动应用程序</em>
     <br>
@@ -74,11 +74,11 @@ ht-degree: 1%
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="下载适用于Android的Acrobat Sign移动应用程序" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>下载适用于Android的Acrobat Sign移动应用程序</strong></a>
     </div>
     <em>从Google Play下载Acrobat Sign移动应用程序</em>
     <br>
