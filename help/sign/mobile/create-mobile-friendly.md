@@ -23,4 +23,4 @@ ht-degree: 0%
 * 无需任何技术专业知识：只需花费最少精力即可生成动态、适合移动设备的表单
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478408?captions=chi_hans&quality=12&learn=on&hidetitle=true)

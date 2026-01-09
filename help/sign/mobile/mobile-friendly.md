@@ -22,4 +22,4 @@ ht-degree: 0%
 * 提高准确性：减少错误并确保捕获所有必要的信息
 * 连续性：用户可以随时启动并返回到移动友好型表单，而不会失去进度
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478396?captions=chi_hans&quality=12&learn=on&hidetitle=true)
