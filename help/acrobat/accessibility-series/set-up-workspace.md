@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何将所有无障碍工具放在指尖，以帮助简化使可访问的PDF文件可用的过程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471626?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

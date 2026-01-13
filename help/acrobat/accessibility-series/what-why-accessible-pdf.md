@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解什么是可访问的PDF文件及其重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471639?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

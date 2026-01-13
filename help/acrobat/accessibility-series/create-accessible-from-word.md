@@ -18,7 +18,7 @@ ht-degree: 0%
 
 了解如何从Microsoft Word创建可访问的PDF文件。 从结构良好的Word文件开始，在创建可访问的PDF时可以创造与众不同的世界。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471661?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
