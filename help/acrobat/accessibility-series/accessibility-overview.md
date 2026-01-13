@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # 辅助功能系列概述
 
-了解有关如何提供可访问的PDF文件的所有信息。 系列中的Tutorials涵盖从标记到使用表单的基础知识。 定期添加新内容。
+了解有关如何提供可访问的PDF文件的所有信息。 系列中的Tutorials涵盖从标记到使用表单的基础知识。 此系列现在可以在Experience League时以[课程格式](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials)提供。
 
 ## 新增功能
 

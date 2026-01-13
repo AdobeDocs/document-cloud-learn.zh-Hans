@@ -6,9 +6,10 @@ role: User
 level: Beginner, Intermediate
 topics: Accessibility
 jira: KT-18728
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: c30beeec-861d-4ffb-9e6e-57e7f9306d2e
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 了解如何从Microsoft Word创建可访问的PDF文件。 从结构良好的Word文件开始，在创建可访问的PDF时可以创造与众不同的世界。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471661?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>此视频是可在Experience League上免费使用的播放列表[PDF辅助功能系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分！

@@ -6,9 +6,10 @@ role: User
 level: Beginner
 topics: Accessibility
 jira: KT-18725
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+exl-id: 0073aeb2-ae73-4a41-93a8-834706904f2c
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -17,4 +18,8 @@ ht-degree: 0%
 
 了解什么是可访问的PDF文件及其重要性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471639?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>此视频是可在Experience League上免费使用的播放列表[PDF辅助功能系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分！

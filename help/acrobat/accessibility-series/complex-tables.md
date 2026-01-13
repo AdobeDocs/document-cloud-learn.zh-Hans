@@ -5,9 +5,9 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: 17b60b29a28f78b244670026e6812e4457ec79fc
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -20,4 +20,8 @@ ht-degree: 0%
 >
 >仅适用于Acrobat Pro、Premium和Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3477962?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>此视频是可在Experience League上免费使用的播放列表[PDF辅助功能系列](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility)的一部分！
