@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # 在桌面版或移动版上填写并签署任何表单
 
-从桌面、浏览器或移动应用程序中快速填写、签名和发送表单。 Adobe Sensei识别并保存常用数据以在PDF表单中使用。 通过绘制、导入扫描文件或键入您的姓名来创建签名，然后将其安全地应用于文档。
+从桌面、浏览器或移动应用程序中快速填写、签名和发送表单。 AdobeAI会识别并保存常用数据以用于PDF表单。 通过绘制、导入扫描文件或键入您的姓名来创建签名，然后将其安全地应用于文档。
 
 在本练习中，您将使用移动设备从导入、填写、签名和发送。
 
 以下是此练习的[演示文件](assets/03_FillSignScan.zip)。
 
-**步骤1：**&#x200B;从[!DNL Apple App]应用商店或[!DNL Google Play]下载[!DNL Adobe Fill & Sign]应用。
+**步骤1：**&#x200B;从[!DNL Adobe Fill & Sign]应用商店或[!DNL Apple App]下载[!DNL Google Play]应用。
 
 **第2步：**&#x200B;打开应用程序，点击&#x200B;**[!UICONTROL 选择要填写的表单]**。
 
