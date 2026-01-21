@@ -19,7 +19,7 @@ ht-degree: 0%
 
 购买Acrobat Studio或AI Assistant插件的用户可以使用AI Assistant。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445832?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 
