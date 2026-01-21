@@ -5,17 +5,50 @@ feature: Gen AI
 role: User
 level: Beginner
 jira: KT-18747
-source-git-commit: d535bb4312111833c0cd7f64a62ea6494ca9ede9
+exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '310'
+ht-degree: 1%
 
 ---
 
 # 利用PDF空间提高团队效率
 
-使用个性化的AI助理将文件和网站集合转换为可共享、对话的知识中心。 在本例中，了解PDF空间如何帮助内部法律团队快速安全地更新几项公司范围的策略，以响应新的法规变化。
+了解内部法律团队如何使用PDF空间将政策文件、法律备忘录和监管指导整合到一个工作区。 它展示了AI生成的摘要、突出显示的更改和引用的见解如何帮助团队更高效地审核更新，同时保持准确性和合规性。
 
 购买Acrobat Studio或AI Assistant插件的用户可以使用PDF空间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475142?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+
+[!BADGE 按角色]
+
+## PDF空间如何帮助不同的团队
+
+* 法律与合规
+
+  法律团队使用PDF空间将合同、政策和法规指导整合到单一工作区，从而更轻松地共同审阅文档、识别更改和生成引用的摘要，以支持准确且可审核的决策。
+
+* 人力资源
+
+  HR团队使用PDF空间来整理策略文档、入门材料和培训资源，并快速生成清晰的摘要或参考注释，以便在整个企业内一致共享。
+
+* 销售团队
+
+  销售团队使用PDF空间将计划书、 RFP文档和支持材料收集到一个地方，使他们能够高效地审查内容，提取关键点，并更快地准备客户响应。
+
+* 营销与通信
+
+  营销团队使用PDF空间一起分析研究报告和源文档，以帮助他们在创建演示文稿、简报或活动之前提取见解并调整讯息。
+
+* 财务
+
+  财务团队使用PDF空间来查看报告、电子表格和支持文档，从而更方便地比较信息、提供关键洞察并支持执行报告。
+
+* 运营和计划管理
+
+  运营团队使用PDF空间将SOP、项目文档和更新整理到共享工作区中，从而实现更快的协调以及团队间更清晰的沟通。
+
+* 执行官和领导者
+
+  执行官使用PDF空间跨多个文档审阅AI生成的摘要，以帮助他们快速了解关键信息，同时保留对原始源内容的访问权限（如果需要）。
