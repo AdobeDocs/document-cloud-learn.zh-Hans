@@ -19,7 +19,7 @@ ht-degree: 1%
 
 购买Acrobat Studio或AI Assistant插件的用户可以使用PDF空间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475142?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 
