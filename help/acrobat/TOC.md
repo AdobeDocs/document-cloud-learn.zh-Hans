@@ -24,7 +24,7 @@ ht-degree: 4%
    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
    + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
    + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
-   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
    + [创建PDF](getting-started/create-pdf.md)
    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
@@ -81,11 +81,11 @@ ht-degree: 4%
       + [将表单字段添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
 + AI支持 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
-   + [用AI Assistant发现PDF见解](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [使用PDF空间提高团队效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [在PDF中编辑图形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [风格化此PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [用AI Assistant发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [使用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [风格化此PDF](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + 60秒Acrobat {#60-second}
    + [概述](60-second/60-second-overview.md)
    + [使用Acrobat Web版编辑PDF](60-second/edit.md)
@@ -152,5 +152,5 @@ ht-degree: 4%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=zh-Hans)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
