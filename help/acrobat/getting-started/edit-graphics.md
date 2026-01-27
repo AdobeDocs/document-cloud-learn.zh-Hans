@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用Acrobat中的“编辑”模式直接在PDF中通过桌面和Web添加、替换、裁切、调整大小、旋转和排列图像。 本教程还介绍了如何使用由Adobe Express支持的应用程序内图像生成器，根据文本提示生成和优化图像。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446939?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

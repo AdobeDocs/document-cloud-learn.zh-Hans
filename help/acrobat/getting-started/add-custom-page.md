@@ -18,4 +18,4 @@ ht-degree: 0%
 
 了解如何使用Adobe Express在PDF中新建具有专业外观的页面。 通过设计新页面，您可以在几分钟内创建具有专业外观的品牌定制内容，这些内容真正与众不同。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417490?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
