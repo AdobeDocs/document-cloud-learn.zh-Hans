@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 了解基本信息 {#basics}
       + [工作区基础知识](getting-started/workspace-basics.md)
       + [新的Acrobat体验](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
       + [随时随地提高工作效率](getting-started/productivity.md)
       + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [提供无障碍引导式操作](accessibility-series/make-accessible-action.md)
 + 高级任务 {#advanced-tasks}
    + [概述](advanced-tasks/advanced-tasks-overview.md)
-   + [添加书签和超链接](advanced-tasks/bookmarks.md)
-   + [优化扫描的文档](advanced-tasks/optimizescan.md)
-   + [自定义命令和工具](advanced-tasks/custom.md)
-   + [高级表单字段](advanced-tasks/advancedforms.md)
-   + [SEO的Optimize PDF](advanced-tasks/optimizeseo.md)
-   + [处理表单域](advanced-tasks/workforms.md)
-   + [增强您的PDF](advanced-tasks/enhance.md)
-   + [检测两个PDF之间的差异](advanced-tasks/compare.md)
-   + [引导式操作](advanced-tasks/action.md)
-   + [删除敏感信息](advanced-tasks/redact.md)
-   + [压缩和优化PDF](advanced-tasks/reduce.md)
-   + [处理表单数据](advanced-tasks/formdata.md)
-   + Acrobat无障碍网络研讨会 {#accessibility-series}
-      + [概述](advanced-tasks/accessibility-series.md)
-      + [PDF辅助功能简介](advanced-tasks/accessibilitysession1.md)
-      + [修正不可访问的PDF](advanced-tasks/accessibilitysession2.md)
-      + [复杂表格](advanced-tasks/accessibilitysession3.md)
-      + [扫描的文档和复杂列表](advanced-tasks/accessibilitysession4.md)
-      + [向带标签的PDF添加表单字段](advanced-tasks/accessibilitysession5.md)
-      + [将表单字段添加到未加标签的PDF](advanced-tasks/accessibilitysession6.md)
+   + 准备和增强 {#prepare}
+      + [压缩和优化PDF](advanced-tasks/reduce.md)
+      + [优化扫描的文档](advanced-tasks/optimizescan.md)
+      + [SEO的Optimize PDF](advanced-tasks/optimizeseo.md)
+      + [添加书签和超链接](advanced-tasks/bookmarks.md)
+      + [检测两个PDF之间的差异](advanced-tasks/compare.md)
+      + [增强您的PDF](advanced-tasks/enhance.md)
+   + 创建和管理表单 {#forms}
+      + [处理表单域](advanced-tasks/workforms.md)
+      + [高级表单字段](advanced-tasks/advancedforms.md)
+      + [处理表单数据](advanced-tasks/formdata.md)
+   + 保护 {#protect}
+      + [删除敏感信息](advanced-tasks/redact.md)
+   + 自动化和缩放工作流 {#automate}
+      + [引导式操作](advanced-tasks/action.md)
+      + [自定义命令和工具](advanced-tasks/custom.md)
 + AI支持 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
    + [用AI Assistant发现PDF见解](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
@@ -127,7 +123,7 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
    + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
@@ -139,7 +135,7 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)

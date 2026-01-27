@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 373617da9ea100eed5aff88960d6e7e9210fc65c
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '449'
 ht-degree: 2%
 
 ---
 
 # 高级任务概述
 
-使用Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复平凡的任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。 查看这组精心编制的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-peform-advanced-tasks)，了解如何在Acrobat中执行高级任务。
+使用Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复平凡的任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。 查看这组精心编制的[播放列表](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)，了解如何在Acrobat中执行高级任务。
 
 ## 新增功能
 
@@ -36,16 +36,16 @@ ht-degree: 2%
 
 >[!ENDTABS]
 
-## 高级任务教程
+## 准备和增强
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adding bookmarks and hyperlinks">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reduce file size & optimize">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks" title="添加书签和超链接" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="添加书签和超链接"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" title="压缩和优化PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="压缩和优化PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,12 +53,12 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks" target="_self" rel="referrer" title="添加书签和超链接">添加书签和超链接</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" title="压缩和优化PDF">压缩和优化PDF</a>
                     </p>
-                    <p class="is-size-6">添加书签和超链接以便更好地导航</p>
+                    <p class="is-size-6">在不影响质量的情况下减少大型文件</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
                 </a>
             </div>
         </div>
@@ -67,8 +67,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan" title="优化扫描的文档" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="优化扫描的文档"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" title="优化扫描的文档" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="优化扫描的文档"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,57 +76,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan" target="_self" rel="referrer" title="优化扫描的文档">优化扫描的文档</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" title="优化扫描的文档">优化扫描的文档</a>
                     </p>
                     <p class="is-size-6">了解如何增强扫描的文档</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Custom Commands and Tools">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom" title="自定义命令和工具" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="自定义命令和工具"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom" target="_self" rel="referrer" title="自定义命令和工具">自定义命令和工具</a>
-                    </p>
-                    <p class="is-size-6">了解如何提高文档工作流程的效率</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced form fields">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms" title="高级表单字段" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="高级表单字段"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms" target="_self" rel="referrer" title="高级表单字段">高级表单字段</a>
-                    </p>
-                    <p class="is-size-6">了解如何构建高级表单字段</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
@@ -136,8 +90,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizeseo" title="用于SEO（搜索引擎优化）的Optimize PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="用于SEO（搜索引擎优化）的Optimize PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" title="用于SEO（搜索引擎优化）的Optimize PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="用于SEO（搜索引擎优化）的Optimize PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,22 +99,22 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizeseo" target="_self" rel="referrer" title="用于SEO（搜索引擎优化）的Optimize PDF">SEO（搜索引擎优化）的Optimize PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" title="用于SEO（搜索引擎优化）的Optimize PDF">SEO（搜索引擎优化）的Optimize PDF</a>
                     </p>
                     <p class="is-size-6">为SEO优化PDF（搜索引擎优化）</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizeseo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with form fields">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adding bookmarks and hyperlinks">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/workforms" title="处理表单域" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="处理表单域"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" title="添加书签和超链接" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="添加书签和超链接"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,12 +122,12 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/workforms" target="_self" rel="referrer" title="处理表单域">处理表单域</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" title="添加书签和超链接">添加书签和超链接</a>
                     </p>
-                    <p class="is-size-6">在本实际操作教程中，了解如何添加各种类型的表单域和属性</p>
+                    <p class="is-size-6">添加书签和超链接以便更好地导航</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/workforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">开始使用</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
         </div>
@@ -182,8 +136,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/enhance" title="增强您的PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="增强您的PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" title="增强您的PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="增强您的PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,11 +145,11 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/enhance" target="_self" rel="referrer" title="增强您的PDF">增强您的PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" title="增强您的PDF">增强您的PDF</a>
                     </p>
                     <p class="is-size-6">在本实际操作教程中了解如何转换PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/enhance" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">开始使用</span>
                 </a>
             </div>
@@ -205,8 +159,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare" title="检测两个PDF之间的差异" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="检测两个PDF之间的差异"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" title="检测两个PDF之间的差异" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="检测两个PDF之间的差异"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,22 +168,29 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare" target="_self" rel="referrer" title="检测两个PDF之间的差异">检测两个PDF之间的差异</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" title="检测两个PDF之间的差异">检测两个PDF之间的差异</a>
                     </p>
                     <p class="is-size-6">快速检测两个PDF文件之间的差异</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Guided actions">
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 创建和管理表单
+
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Work with form fields">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action" title="引导式操作" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="引导式操作"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" title="处理表单域" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="处理表单域"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,58 +198,35 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action" target="_self" rel="referrer" title="引导式操作">引导式操作</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" title="处理表单域">处理表单域</a>
                     </p>
-                    <p class="is-size-6">了解如何使用引导式操作提高效率</p>
+                    <p class="is-size-6">在本实际操作教程中，了解如何添加各种类型的表单域和属性</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">开始使用</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced form fields">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" title="高级表单字段" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="高级表单字段"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" title="高级表单字段">高级表单字段</a>
+                    </p>
+                    <p class="is-size-6">了解如何构建高级表单字段</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Redact & Sanitize">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact" title="删除敏感信息" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="删除敏感信息"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact" target="_self" rel="referrer" title="删除敏感信息">删除敏感信息</a>
-                    </p>
-                    <p class="is-size-6">了解如何永久删除敏感信息</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Reduce file size & optimize">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce" title="压缩和优化PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="压缩和优化PDF"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce" target="_self" rel="referrer" title="压缩和优化PDF">压缩和优化PDF</a>
-                    </p>
-                    <p class="is-size-6">在不影响质量的情况下减少大型文件</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
                 </a>
             </div>
         </div>
@@ -297,8 +235,8 @@ ht-degree: 2%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/formdata" title="处理表单数据" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="处理表单数据"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" title="处理表单数据" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="处理表单数据"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -306,22 +244,29 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/formdata" target="_self" rel="referrer" title="处理表单数据">处理表单数据</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" title="处理表单数据">处理表单数据</a>
                     </p>
                     <p class="is-size-6">了解如何将表单数据编译为单个电子表格</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/formdata" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
                 </a>
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Accessibility series">
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 保护
+
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Redact & Sanitize">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series" title="Acrobat辅助功能系列" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_14a125304463a4ba2686a3d38b44552d67d53d6e6.png?width=400&format=webply&optimize=medium" alt="Acrobat辅助功能系列"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" title="删除敏感信息" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="删除敏感信息"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -329,12 +274,65 @@ ht-degree: 2%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series" target="_self" rel="referrer" title="Acrobat辅助功能系列">Acrobat辅助功能系列</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" title="删除敏感信息">删除敏感信息</a>
                     </p>
-                    <p class="is-size-6">六节点播PDF辅助功能系列</p>
+                    <p class="is-size-6">了解如何永久删除敏感信息</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看系列</span>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">阅读</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## 自动化和缩放工作流
+
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Guided actions">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" title="引导式操作" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="引导式操作"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" title="引导式操作">引导式操作</a>
+                    </p>
+                    <p class="is-size-6">了解如何使用引导式操作提高效率</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Custom Commands and Tools">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" title="自定义命令和工具" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="自定义命令和工具"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" title="自定义命令和工具">自定义命令和工具</a>
+                    </p>
+                    <p class="is-size-6">了解如何提高文档工作流程的效率</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate.custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
         </div>
