@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 了解基本信息 {#basics}
       + [工作区基础知识](getting-started/workspace-basics.md)
       + [新的Acrobat体验](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
       + [随时随地提高工作效率](getting-started/productivity.md)
       + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
@@ -123,7 +123,7 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
    + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
@@ -135,18 +135,12 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](industry/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + 使用Acrobat随时随地工作的[5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
          + [提示#4 — 处理表单和签名](industry/gov/work-with-forms-and-signatures.md)
          + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
-      + 无障碍访问 {#pdfs}
-         + [使PDF可访问](industry/gov/making-pdfs-accessible.md)
-         + [#1 — 了解辅助功能](industry/gov/understanding-accessibility.md)
-         + [#2 — 在Word中创作](industry/gov/authoring-in-word.md)
-         + [#3 — 在Acrobat中完成](industry/gov/finishing-in-acrobat.md)
-         + [使PDF选票更易于获得](industry/gov/making-pdf-ballots-accessible.md)
 + 开发 {#develop}
    + [概述](develop/develop-overview.md)
 + 部署 {#deploy}
