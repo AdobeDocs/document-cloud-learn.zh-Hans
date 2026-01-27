@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 在PDF中编辑图形
 
-了解如何使用Acrobat中的“编辑”模式直接在PDF中通过桌面和Web添加、替换、裁切、调整大小、旋转和排列图像。 本教程还介绍了如何使用由Adobe Express支持的应用程序内图像生成器，根据文本提示生成和优化图像。 本视频教程使用[新的Acrobat体验](new-workspace.md)。
+了解如何使用Acrobat中的“编辑”模式直接在PDF中通过桌面和Web添加、替换、裁切、调整大小、旋转和排列图像。 本教程还介绍了如何使用由Adobe Express支持的应用程序内图像生成器，根据文本提示生成和优化图像。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446939?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 删除敏感信息
 
-了解如何使用“Redact Tool”（标记密文）工具永久删除PDF中的私人或敏感信息，然后整理文档以删除文件中不可见的信息，如注释、元数据或隐藏图层。 永久删除敏感内容和隐藏数据很重要，这样在发布PDF时信息就不会一起传递。 本教程使用[新的Acrobat体验](../getting-started/new-workspace.md)。
+了解如何使用“Redact Tool”（标记密文）工具永久删除PDF中的私人或敏感信息，然后整理文档以删除文件中不可见的信息，如注释、元数据或隐藏图层。 永久删除敏感内容和隐藏数据很重要，这样在发布PDF时信息就不会一起传递。 本教程使用[新的Acrobat体验](../getting-started/new-experience.md)。
 
 >[!NOTE]
 >

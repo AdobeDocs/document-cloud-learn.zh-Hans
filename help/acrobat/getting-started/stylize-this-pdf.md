@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # 设置此PDF的风格
 
-了解如何使用风格化此PDF通过使用由Adobe Express[Adobe Express](https://express.adobe.com)提供支持的应用程序内工具来应用PDF推荐、颜色主题、图像和设计元素，以改善字体的视觉外观。 本教程还介绍了如何优化版面、添加Adobe Stock或AI生成的图像以及自定义文本样式以创建精美专业外观的文档。 本视频教程使用[新的Acrobat体验](new-workspace.md)。
+了解如何使用风格化此PDF通过使用由Adobe Express[Adobe Express](https://express.adobe.com)提供支持的应用程序内工具来应用PDF推荐、颜色主题、图像和设计元素，以改善字体的视觉外观。 本教程还介绍了如何优化版面、添加Adobe Stock或AI生成的图像以及自定义文本样式以创建精美专业外观的文档。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445551?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 

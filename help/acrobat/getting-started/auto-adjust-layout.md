@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10835
 thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # 自动调整布局
 
-了解新的编辑模式，该模式可在PDF中自动重排内容和跨页面自动调整布局。 本视频教程使用[新的Acrobat体验](new-workspace.md)。
+了解新的编辑模式，该模式可在PDF中自动重排内容和跨页面自动调整布局。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
 >[!NOTE]
 >
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441230?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)

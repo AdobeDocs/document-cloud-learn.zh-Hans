@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # 用AI助手发现PDF见解
 
-了解如何使用AI Assistant从PDF文件中获得见解。 AI Assistant会分析PDF以生成摘要、回答问题并提取源内容的属性明确的见解，从而减少手动阅读长文档的需要。 AI生成的响应可以通过直接链接回文档中的确切位置进行验证，从而实现更快、更可信的决策。 本视频教程使用[新的Acrobat体验](new-workspace.md)。
+了解如何使用AI Assistant从PDF文件中获得见解。 AI Assistant会分析PDF以生成摘要、回答问题并提取源内容的属性明确的见解，从而减少手动阅读长文档的需要。 AI生成的响应可以通过直接链接回文档中的确切位置进行验证，从而实现更快、更可信的决策。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
 购买Acrobat Studio或AI Assistant插件的用户可以使用AI Assistant。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445832?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 按角色]
 
