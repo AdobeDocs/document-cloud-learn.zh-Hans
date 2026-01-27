@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # 高级任务概述
 
-使用Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复平凡的任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。 查看这组精心编制的[播放列表](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks)，了解如何在Acrobat中执行高级任务。
+使用Acrobat中的这些高级工具，超越基础知识。 了解如何创建动作以重复平凡的任务、删除敏感信息、减少和优化大型文件、快速收集表单数据以及创建可普遍访问的PDF文件。 查看这组精心编制的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-peform-advanced-tasks)，了解如何在Acrobat中执行高级任务。
 
 ## 新增功能
 
@@ -45,7 +45,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" title="压缩和优化PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="压缩和优化PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="压缩和优化PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +68,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" title="优化扫描的文档" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="优化扫描的文档"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="优化扫描的文档"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,7 +91,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" title="用于SEO（搜索引擎优化）的Optimize PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="用于SEO（搜索引擎优化）的Optimize PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="用于SEO（搜索引擎优化）的Optimize PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +114,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" title="添加书签和超链接" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="添加书签和超链接"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="添加书签和超链接"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" title="增强您的PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="增强您的PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="增强您的PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -160,7 +160,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" title="检测两个PDF之间的差异" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="检测两个PDF之间的差异"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="检测两个PDF之间的差异"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +190,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" title="处理表单域" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="处理表单域"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="处理表单域"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +213,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" title="高级表单字段" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="高级表单字段"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="高级表单字段"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +236,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" title="处理表单数据" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="处理表单数据"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="处理表单数据"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +266,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" title="删除敏感信息" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="删除敏感信息"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="删除敏感信息"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -296,7 +296,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" title="引导式操作" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="引导式操作"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="引导式操作"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ ht-degree: 2%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" title="自定义命令和工具" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="自定义命令和工具"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="自定义命令和工具"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

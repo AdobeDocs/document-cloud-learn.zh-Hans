@@ -22,7 +22,7 @@ ht-degree: 5%
    + 了解基本信息 {#basics}
       + [工作区基础知识](getting-started/workspace-basics.md)
       + [新的Acrobat体验](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
       + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
       + [随时随地提高工作效率](getting-started/productivity.md)
       + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
