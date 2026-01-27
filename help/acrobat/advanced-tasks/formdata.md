@@ -1,5 +1,5 @@
 ---
-title: 使用表单数据
+title: 处理表单数据
 description: 在Acrobat中将表单字段数据合并到一个电子表格中
 feature: Form, Workflow
 role: User
@@ -7,14 +7,14 @@ level: Experienced
 jira: KT-6828
 thumbnail: KT-6828.jpg
 exl-id: d1284027-7df6-4242-9756-e0d401156498
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: b806cdc83632abc02a401550c77f32513926a3ef
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# 使用表单数据
+# 处理表单数据
 
 如果您有一组已完成的表单，并且需要编译数据，则可以使用Acrobat将响应合并到一个电子表格中。
 
