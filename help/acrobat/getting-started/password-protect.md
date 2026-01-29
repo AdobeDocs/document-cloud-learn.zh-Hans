@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 9eff21212e67567d2fda1ac595af3b661adc1b39
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 2%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
@@ -23,3 +23,28 @@ ht-degree: 2%
 >[!TIP]
 >
 >要使用密码保护多个PDF文件，请尝试使用[Action Wizard](../advanced-tasks/action.md)。
+
+[!BADGE 特定于团队]
+
+## 保护PDF如何帮助不同的团队
+
+* **法律**
+
+  保护PDF确保只有授权方才能访问机密合同、案例文件和客户端通信，从而降低了合规性和隐私风险。
+
+* **销售**
+
+  保护计划书、定价表和合作伙伴协议，确保竞争对手或未经授权的利益相关者无法访问战略信息。
+
+* **小时**
+
+  保护PDF安全保护员工记录、绩效考核和招聘文档，有助于维护隐私并满足法规要求。
+
+* **财务**
+
+  密码保护可以确保敏感的财务报告、预测和客户数据的安全，有助于防止未经授权的访问和潜在的欺诈。
+
+* **采购**
+
+  密码保护PDF可确保供应商合同、投标和定价文档的安全性，从而确保只有获得授权的利益相关者才能访问敏感的洽谈和来源补充信息。
+

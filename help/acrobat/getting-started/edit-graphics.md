@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -17,24 +17,28 @@ ht-degree: 0%
 
 了解如何使用Acrobat中的“编辑”模式直接在PDF中通过桌面和Web添加、替换、裁切、调整大小、旋转和排列图像。 本教程还介绍了如何使用由Adobe Express支持的应用程序内图像生成器，根据文本提示生成和优化图像。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446939?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
-[!BADGE 按角色]
+[!BADGE 特定于团队]
 
 ## 编辑模式如何帮助不同的团队
 
-* **法律与合规**
+* **法律**
 
   法律团队使用编辑模式更新合同、政策和指南中的图形和视觉元素，而无需重新创建文件，这有助于在审核或法规更改期间保持文档准确且最新。
-
-* **人力资源**
-
-  HR团队使用编辑模式来修改策略文档、入门资料和培训PDF中的图像和布局，以便可以快速进行更新，而无需返回源设计文件。
 
 * **销售**
 
   销售团队使用编辑模式来替换图像、调整布局以及更新建议书和销售资料中的视觉效果，以根据特定客户或业务机会定制文档。
 
-* **营销和通信**
+* **小时**
 
-  营销团队使用编辑模式优化PDF中的图像和视觉内容，确保素材保持精美并与品牌更新或营销活动更改保持一致。
+  HR团队使用编辑模式来修改策略文档、入门资料和培训PDF中的图像和布局，以便可以快速进行更新，而无需返回源设计文件。
+
+* **财务**
+
+  财务团队可以使用编辑模式快速更新财务PDF中的图表和视觉效果，保持报告准确清晰，而无需返回源文件。
+
+* **采购**
+
+  采购团队可以使用编辑模式快速更新供应商图表、产品图像和供应商计划书或合同中的可视详细信息，从而确保采购文档准确无误且易于呈现，而无需原始文件。
