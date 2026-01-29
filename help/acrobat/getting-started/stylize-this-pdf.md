@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用风格化此PDF通过使用由Adobe Express[Adobe Express](https://express.adobe.com)提供支持的应用程序内工具来应用PDF推荐、颜色主题、图像和设计元素，以改善字体的视觉外观。 本教程还介绍了如何优化版面、添加Adobe Stock或AI生成的图像以及自定义文本样式以创建精美专业外观的文档。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445551?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
