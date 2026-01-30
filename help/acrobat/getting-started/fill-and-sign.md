@@ -18,4 +18,4 @@ ht-degree: 2%
 
 了解如何快速轻松地[填写和签署PDF表单](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}。 不需要进行凌乱的打印或扫描。
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409626?captions=chi_hans&quality=12&learn=on&hidetitle=true)

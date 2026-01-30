@@ -24,7 +24,7 @@ ht-degree: 0%
 [!BADGE 组织影响]
 成本节约，组织效率，时间节约，质量保证
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409322?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
