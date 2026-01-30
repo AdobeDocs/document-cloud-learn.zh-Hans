@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![优化步骤2](../assets/Optimize_2.png)
 
-   默认情况下，在&#x200B;**设置**&#x200B;菜单中选择了&#x200B;**标准**。 如果在“PDF优化器”对话框中更改任何设置，**设置**&#x200B;菜单将自动切换到&#x200B;**自定义**。 要防止在优化期间执行面板中的所有选项，请取消选中该面板的复选框。
+   默认情况下，在&#x200B;**设置**&#x200B;菜单中选择&#x200B;**标准**。 如果在“PDF优化器”对话框中更改任何设置，**设置**&#x200B;菜单将自动切换到&#x200B;**自定义**。 要防止在优化期间执行面板中的所有选项，请取消选中该面板的复选框。
 
 1. （可选）要保存自定义设置，请选择&#x200B;**[!UICONTROL 保存]**&#x200B;并命名设置。 要删除保存的设置，请在&#x200B;**设置**&#x200B;下拉菜单中选择该设置，然后选择&#x200B;**[!UICONTROL 删除]**。
 

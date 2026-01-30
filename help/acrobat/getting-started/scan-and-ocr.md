@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    文件中的文本现在可搜索且可编辑。
 
-1. 若要移除背景，请选择图像并选择&#x200B;**[!UICONTROL 编辑图像]**。
+1. 要移除背景，请选择图像并选择&#x200B;**[!UICONTROL 编辑图像]**。
 
    ![扫描步骤8](../assets/Scan_8.png)
 

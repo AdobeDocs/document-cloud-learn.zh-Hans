@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 >[!TIP]
 >
->要使用密码保护多个PDF文件，请尝试使用[Action Wizard](../advanced-tasks/action.md)。
+>使用[Action Wizard](../advanced-tasks/action.md)用密码保护多个PDF文件。
 
 [!BADGE 特定于团队]
 
@@ -30,11 +30,11 @@ ht-degree: 1%
 
 * **法律**
 
-  保护PDF确保只有授权方才能访问机密合同、案例文件和客户端通信，从而降低了合规性和隐私风险。
+  保护PDF可确保只有授权方才能访问机密合同、案例文件和客户端通信，从而减少合规性和隐私风险。
 
 * **销售**
 
-  保护计划书、定价表和合作伙伴协议，确保竞争对手或未经授权的利益相关者无法访问战略信息。
+  保护计划书、定价表和合作伙伴协议可确保竞争对手或未经授权的利益相关者无法访问战略信息。
 
 * **小时**
 

@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448521?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 1. 选择并删除&#x200B;*HQ位置*&#x200B;文本字段。
 1. 在工具栏中选择&#x200B;**列表框**，并在已删除的文本字段位置放置一个新字段。
-1. 在&#x200B;**字段名称**&#x200B;中键入&#x200B;*HQ位置*。
+1. 在&#x200B;*字段名称*&#x200B;中键入&#x200B;**HQ位置**。
 1. 选择“**所有属性**”，然后选择“**选项**”选项卡。
 1. 在&#x200B;**项：**&#x200B;字段中添加三个不同的位置。
 1. 在&#x200B;**项目列表：**&#x200B;字段中选择默认位置。
@@ -70,7 +70,7 @@ ht-degree: 0%
 
 1. 选择并删除&#x200B;*项目时间线*&#x200B;和&#x200B;*结束日期*&#x200B;字段。
 1. 在工具栏中选择&#x200B;**日期域**，并将新域放置在已删除的&#x200B;*项目时间轴*&#x200B;域位置。
-1. 在&#x200B;**字段名称**&#x200B;中键入&#x200B;*项目开始*。
+1. 在&#x200B;*字段名称*&#x200B;中键入&#x200B;**项目开始**。
 1. 选择“**所有属性**”，然后选择“**格式**”选项卡。
 1. 选择日期格式选项，然后选择&#x200B;**关闭**。
 1. 按住Ctrl + Shift键(在Mac上为Cmd + Shift)以复制字段。
@@ -94,7 +94,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439902?hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -104,7 +104,7 @@ ht-degree: 0%
 
 1. 按住Shift键并选择右侧窗格中的所有文本和列表字段。
 1. 右键单击并选择&#x200B;**属性……**。
-1. 从&#x200B;**字体大小：**&#x200B;下拉菜单中选择&#x200B;*12*。
+1. 从&#x200B;*字体大小：*&#x200B;下拉菜单中选择&#x200B;**12**。
 1. 选择&#x200B;**关闭**。
 
 设置Tab键顺序可确保表单填写人在填写表单时可以轻松地在字段之间移动。

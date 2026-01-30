@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用Acrobat中的“编辑”模式直接在PDF中通过桌面和Web添加、替换、裁切、调整大小、旋转和排列图像。 本教程还介绍了如何使用由Adobe Express支持的应用程序内图像生成器，根据文本提示生成和优化图像。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446939?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 * **采购**
 
-  采购团队可以使用编辑模式快速更新供应商图表、产品图像和供应商计划书或合同中的可视详细信息，从而确保采购文档准确无误且易于呈现，而无需原始文件。
+  采购团队可以使用编辑模式快速更新供应商图表、产品图像和供应商提案或合同中的视觉细节，而无需原始文件。

@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # 设置此PDF的风格
 
-了解如何使用风格化此PDF通过使用由Adobe Express[Adobe Express](https://express.adobe.com)提供支持的应用程序内工具来应用PDF推荐、颜色主题、图像和设计元素，以改善字体的视觉外观。 本教程还介绍了如何优化版面、添加Adobe Stock或AI生成的图像以及自定义文本样式以创建精美专业外观的文档。 本视频教程使用[新的Acrobat体验](new-experience.md)。
+了解如何使用风格化此PDF通过使用[Adobe Express](https://express.adobe.com)支持的应用程序内工具来应用PDF推荐、颜色主题、图像和设计元素，从而改善字体的视觉外观。 本教程还介绍了如何优化版面、添加Adobe Stock或AI生成的图像以及自定义文本样式以创建精美专业外观的文档。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445551?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 * **法律**
 
-  法律团队使用“风格化此PDF”将一致的格式、排版和视觉效果应用于政策和指导文档，使它们看起来专业且易于阅读，同时保持合规性和原创性。
+  法律团队使用“风格化此PDF”来应用一致的格式和视觉效果，从而使政策和指导文件看起来专业，并保持清晰准确。
 
 * **销售**
 
-  销售团队使用“风格化此PDF”，可通过应用品牌字体、颜色和图像来快速润色建议书和演示文稿，从而帮助交付客户就绪的文档，而无需返回设计工具。
+  销售团队使用“风格化此PDF”，可以通过应用品牌字体、颜色和图像来快速润色提案和演示文稿，从而帮助交付客户就绪的文档而无需返回设计工具。
 
 * **小时**
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 * **财务**
 
-  财务团队可以使用“风格化此PDF”将精美一致的视觉风格立即应用于报告和演示文稿，使财务文档更专业，更易于与执行官和利益相关者共享。
+  财务团队使用“风格化此PDF”，可完善报表和演示文稿，并立即为其添加视觉风格。
 
 * **采购**
 
