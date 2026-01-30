@@ -18,7 +18,7 @@ ht-degree: 0%
 
 通过与客户合作而获得的有价值洞察力和知识，介绍部署和最佳实践文章。
 
-* 了解在使用适用于团队或企业的Adobe®Creative Cloud™时，如何[部署Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"}。
+* 了解在使用适用于团队或企业的Adobe®Creative Cloud™时，如何[部署Adobe Acrobat](https://helpx.adobe.com/cn/enterprise/using/deploying-acrobat.html){target="_blank"}。
 
 * 了解[适用于Acrobat产品的企业工具包](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}，以跨您的组织部署自定义产品、设置虚拟化安装以及创建企业PDF工作流。
 
