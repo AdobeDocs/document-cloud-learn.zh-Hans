@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # 什么是Acrobat Studio？
 
-了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂工作，以便您的团队可以更快地移动。 Acrobat Studio是一款多合一解决方案，其中包括Acrobat Pro、AI Assistant、PDF空间以及Adobe ExpressPremium。 这些集成工具通过集中文件、实现AI驱动的分析以及支持在统一的工作区内创建端到端内容来提高团队工作效率。
+了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂工作，以便您的团队可以更快地移动。 Acrobat Studio是一款多合一解决方案，其中包括Acrobat Pro、AI Assistant、PDF空间以及Adobe ExpressPremium。 探索下面的&#x200B;*立即试用*&#x200B;交互式选项，了解Acrobat Studio如何简化您团队的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475066?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
@@ -25,20 +25,20 @@ ht-degree: 0%
 
 * **法律与合规**
 
-  将政策、合同和监管指导集中在一个工作区，然后使用AI Assistant呈现变化、识别风险并生成具有可验证引文的合规更新。
+  将政策、合同和监管指导集中在一个工作区，然后使用AI Assistant呈现变化、识别风险并生成具有可验证引文的合规更新。[立即试用](https://w.adobedemo.com/s/ujZN1y)。
 
 * **人力资源**
 
-  将复杂的策略文档转换为清晰的摘要、常见问题解答和员工就绪材料，同时保持消息传递的一致性和法规遵从性。
+  将复杂的策略文档转换为清晰的摘要、常见问题解答和员工就绪材料，同时保持消息传递的一致性和法规遵从性。[立即试用](https://w.adobedemo.com/s/NvvfVm)。
 
 * **销售**
 
-  从现有文档中提取经过批准的内容，并将其转换为精美的、可供客户使用的文件，从而快速收集建议书和RFP响应。
+  从现有文档中提取经过批准的内容，并将其转换为精美的、可供客户使用的文件，从而快速收集建议书和RFP响应。[立即试用](https://w.adobedemo.com/s/HEEljN)。
 
 * **营销和通信**
 
   从源文档中提取见解，并使用Adobe Express将它们转换为品牌演示、单页和视觉内容。
 
-* **主管和领导**
+* **财务**
 
-  跨多个文档获取简明的、与源链接的摘要，以便无需审阅每个文件即可更快地做出决策。
+  了解财务团队如何能够在不影响准确性、信任或控制力的情况下更快地通过财务报告开展工作。[立即试用]https://w.adobedemo.com/s/31LpAI。
