@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: cbd35489e8b5736ef7461ea60d357bf4df1f5fd9
+source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂工作，以便您的团队可以更快地移动。 Acrobat Studio是一款多合一解决方案，其中包括Acrobat Pro、AI Assistant、PDF空间以及Adobe ExpressPremium。 探索下面的&#x200B;**立即试用**&#x200B;交互式选项，了解Acrobat Studio如何简化您团队的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475066?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
@@ -41,4 +41,4 @@ ht-degree: 0%
 
 * **财务**
 
-  了解财务团队如何能够在不影响准确性、信任或控制力的情况下更快地通过财务报告开展工作。**[立即试用](https://w.adobedemo.com/s/31LpAI.){target="_blank"}**
+  了解财务团队如何能够在不影响准确性、信任或控制力的情况下更快地通过财务报告开展工作。**[立即试用](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
