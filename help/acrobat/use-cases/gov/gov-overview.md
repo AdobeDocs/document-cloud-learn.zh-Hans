@@ -27,7 +27,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="使用Acrobat随时随地工作的5个提示（15:12完成）" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="使用Acrobat随时随地工作的5个提示（15:12完成）"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="使用Acrobat随时随地工作的5个提示（15:12完成）"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -50,7 +50,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/get-your-tools" title="提示#1 — 获取工具" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="提示#1 — 获取工具"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="提示#1 — 获取工具"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/collaborate-on-documents" title="提示#2 — 协作处理文档" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="提示#2 — 协作处理文档"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="提示#2 — 协作处理文档"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +96,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/protect-digital-documents" title="小技巧#3 - Protect数字文档" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="小技巧#3 - Protect数字文档"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="小技巧#3 - Protect数字文档"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +119,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/work-with-forms-and-signatures" title="提示#4 — 处理表单和签名" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="提示#4 — 处理表单和签名"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="提示#4 — 处理表单和签名"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/scan-and-edit-on-mobile" title="提示#5 — 在移动设备上扫描和编辑" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="提示#5 — 在移动设备上扫描和编辑"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="提示#5 — 在移动设备上扫描和编辑"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
