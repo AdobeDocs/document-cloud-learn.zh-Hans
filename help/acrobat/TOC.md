@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
+source-git-commit: 3a947947f9eaac8e369a2236b5795fb5a74fb01b
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 5%
+source-wordcount: '634'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 5%
    + 了解基本信息 {#basics}
       + [工作区基础知识](getting-started/workspace-basics.md)
       + [新的Acrobat体验](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
       + [随时随地提高工作效率](getting-started/productivity.md)
       + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,22 @@ ht-degree: 5%
       + [自定义命令和工具](advanced-tasks/custom.md)
 + AI支持 {#ai-powered}
    + [概述](ai-powered/ai-overview.md)
-   + [用AI Assistant发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [使用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [风格化此PDF](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [在PDF中编辑图形](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [设置此PDF的风格](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ 用例 {#use-cases}
+   + [概述](use-cases/use-cases-overview.md)
+   + 政府版 {#gov}
+      + [概述](use-cases/gov/gov-overview.md)
+      + 使用Acrobat随时随地工作的5个提示 {#tips}
+         + 使用Acrobat随时随地工作的[5个提示](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [提示#1 — 获取工具](use-cases/gov/get-your-tools.md)
+         + [提示#2 — 协作处理文档](use-cases/gov/collaborate-on-documents.md)
+         + [小技巧#3 - Protect数字文档](use-cases/gov/protect-digital-documents.md)
+         + [提示#4 — 处理表单和签名](use-cases/gov/work-with-forms-and-signatures.md)
+         + [提示#5 — 在移动设备上扫描和编辑](use-cases/gov/scan-and-edit-on-mobile.md)
 + 60秒Acrobat {#60-second}
    + [概述](60-second/60-second-overview.md)
    + [使用Acrobat Web版编辑PDF](60-second/edit.md)
@@ -123,24 +134,13 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
    + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
    + [使用 [!DNL Microsoft Purview Information] 敏感度标签的ProtectPDF](integrate/microsoftsensitivitylabels.md)
    + [适用于 [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [处理来自 [!DNL Dropbox]的文件](integrate/acrobat-dropbox.md)
-+ 行业和部门 {#by-industry}
-   + [概述](industry/industry-overview.md)
-   + 政府版 {#gov}
-      + [概述](industry/gov/gov-overview.md)
-      + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [提示#1 — 获取工具](industry/gov/get-your-tools.md)
-         + [提示#2 — 协作处理文档](industry/gov/collaborate-on-documents.md)
-         + [小技巧#3 - Protect数字文档](industry/gov/protect-digital-documents.md)
-         + [提示#4 — 处理表单和签名](industry/gov/work-with-forms-and-signatures.md)
-         + [提示#5 — 在移动设备上扫描和编辑](industry/gov/scan-and-edit-on-mobile.md)
 + 开发 {#develop}
    + [概述](develop/develop-overview.md)
 + 部署 {#deploy}
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
    + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [随时随地提高工作效率](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
