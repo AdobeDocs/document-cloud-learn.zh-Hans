@@ -1,22 +1,56 @@
 ---
-title: 用例
-description: 了解如何通过探索不同的用例来转变客户和员工体验
+title: 用例概述
+description: 探索各种用例，了解Acrobat如何转变您的作品
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# 用例
+# 用例概述
 
-了解如何使用Acrobat提高工作效率，并将信息转变为适用于团队的见解。
+了解如何使用Acrobat提高工作效率，并将信息转变为适用于您的团队和行业的见解。
+
+## 业务线
+
+了解不同业务领域的团队如何使用Acrobat解决日常文档难题、简化工作流程和支持关键业务工作。
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="财务用例" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>财务用例</strong></a>
+    </div>
+    <em>了解财务团队如何使用Acrobat来创建、管理、分析和保护财务文档</em>
+    <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## 行业
 
@@ -27,7 +61,7 @@ ht-degree: 0%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat政府版" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat政府版"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat政府版"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
