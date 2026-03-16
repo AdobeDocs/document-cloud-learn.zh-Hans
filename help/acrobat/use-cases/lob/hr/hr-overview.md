@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20534
 exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
->[!TAB 从洞察到影响：简化HR工作流程]
+>[!TAB 从洞察到影响：简化入门培训工作流程]
 
 了解HR团队如何使用Acrobat Studio简化从[见解、协作到品牌交付](hr-insights.md)的员工入门培训内容。
 
