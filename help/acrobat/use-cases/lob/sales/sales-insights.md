@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
+source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # 将客户情报转变为成功的销售资产
 
-了解销售团队如何能够更快、更自信地收集客户洞察力、在共享工作区中协作，并将经过验证的情报转换为符合品牌形象的演示文稿和提案。 此用例旨在按顺序完成，每个视频均在上一步中构建。
+了解销售团队如何能够更快、更自信地收集客户见解、在共享工作区中协作，并将经过验证的情报转换为与品牌相符的演示文稿和提案。 此用例旨在按顺序完成，每个视频均在上一步中构建。
 
 **最适合：**&#x200B;客户经理、销售经理、交易团队以及任何为会议、演示或计划书准备面向客户的销售材料的人员。
 
