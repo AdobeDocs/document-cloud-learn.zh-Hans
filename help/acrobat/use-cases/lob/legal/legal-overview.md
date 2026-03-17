@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Acrobat法律用例概述
 
-了解如何通过将文档分析、协作和内容创建整合到一个安全、受管的工作流程中来简化法律审查。
+使法律团队能够更快地移动、减少风险，并在文档审阅和交付的每个阶段保持控制。
 
 ## 新增功能
 
