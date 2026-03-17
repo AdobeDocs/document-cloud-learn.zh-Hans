@@ -1,11 +1,12 @@
 ---
 title: Acrobat销售用例概述
-description: 了解销售团队如何通过更智能的协作和更快的内容创建从洞察力转向影响力。
+description: 了解销售团队如何通过更智能的协作和更快的内容创建从洞察力转向影响力
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -26,7 +27,7 @@ ht-degree: 1%
 
 >[!ENDTABS]
 
-## HR用例教程
+## 销售使用案例教程
 
 <table style="table-layout:fixed">
 <tr>

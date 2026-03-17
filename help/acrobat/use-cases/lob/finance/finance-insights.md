@@ -1,41 +1,41 @@
 ---
-title: 从Insight准备执行就绪的财务文档以进行交付
-description: 了解财务团队如何使用Acrobat Studio从分析转移到交付
+title: 准备从Insight到Delivery的面向执行官的财务文档
+description: 了解财务团队如何使用Acrobat Studio从分析转变为交付
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 3%
 
 ---
 
-# 从insight准备要交付的执行就绪财务文档
+# 准备从洞察到交付的面向执行官的财务文档
 
-了解财务团队如何使用Acrobat管理从insight到提交的财务文档。 此用例介绍了用于分析信息、与利益相关者协作和创建为执行人员准备的财务材料的端到端工作流。 此用例旨在按顺序完成，每个视频都构建在上一步中。
+了解财务团队如何使用Acrobat管理从洞察到交付的财务文档。 此使用案例将逐步完成一个端到端的工作流程，用于分析信息、与利益相关者协作以及创建管理层就绪的财务材料。 此用例旨在按顺序完成，每个视频均在上一步中构建。
 
-**最适合：**&#x200B;财务主管、FP&amp;A团队、分析人员以及准备执行或董事会审核材料的人员。
+**最适合：**&#x200B;财务主管、FP&amp;A团队、分析员以及任何准备执行或董事会审核材料的人。
 
 ## 步骤 1. 理解财务绩效
 
-首先合并财务文档并展示关键见解，以准备信息供执行审核。
+首先整合财务文档和呈现关键见解，以准备供管理层审核的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
-## 步骤 2. 对财务报告进行协作
+## 步骤 2. 协作处理财务报告
 
-分析现已准备就绪，可供团队审核。 将利益相关者聚集在一起，在安全的工作区中审阅财务材料、分享反馈并完善见解。
+Insights现在已准备好供团队审阅。 将利益相关者聚集在一起，在安全的工作区中审阅金融材料、共享反馈并改善见解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
-## 步骤 3. 创建面向执行人员的演示文稿
+## 步骤 3. 创建面向执行官的演示文稿
 
-反馈已完成，内容已准备就绪。 将经过验证的见解转化为精致的品牌演示文稿，并确保为领导力提供金融服务。
+反馈已完成，内容已准备就绪，可以提供。 将经过验证的洞察力转化为优美的、符合品牌形象的演示文稿，并确保为领导力提供的财务交付件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-现在，您拥有了一个可重复的流程，用于使用Acrobat分析、审核和提交执行就绪的财务文档。
+现在，您可以使用Acrobat Studio建立一个可重复执行的流程，用于分析、审阅和提供符合管理要求的财务文档。
 
