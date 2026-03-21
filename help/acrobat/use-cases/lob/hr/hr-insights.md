@@ -23,18 +23,18 @@ ht-degree: 2%
 
 首先了解AI支持的入门体验如何突出显示关键信息、显示后续步骤并帮助确保新员工在适当的时间获得适当的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481484?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481494?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 步骤 2. 查看并调整入门资料
 
 Insights现在已准备好供团队审阅。 了解PDF空间如何整理反馈、评论和更新，以便利益相关者保持同步，并在推进入门培训时避免电子邮件链或版本混淆。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481531?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 步骤 3. 为新员工创建引人入胜的入门培训内容
 
 反馈已完成，内容已准备就绪，可以提供。 了解Acrobat Studio如何使用AI和品牌模板快速创建易于共享和更新的员工就绪演示文稿和材料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481542?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 现在，您可以使用Acrobat Studio建立一个可重复执行的流程，用于分析、审阅和交付员工已做好准备的文档。
