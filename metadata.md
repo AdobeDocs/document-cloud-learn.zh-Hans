@@ -1,13 +1,13 @@
 ---
 cloud: Document Cloud
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
+solution-hub-url: https://helpx.adobe.com/cn/support/document-cloud.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/cn/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/cn/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.zh-Hans
 index: true
 type: Tutorial
 source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
