@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # 已存档
 
-此存储库已迁移到<https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en>。
+此存储库已迁移到<https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.zh-Hans>。
