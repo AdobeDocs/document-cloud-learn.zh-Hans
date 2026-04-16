@@ -1,5 +1,5 @@
 ---
-user-guide-title: Acrobat SignTutorials
+user-guide-title: Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/cn/support/sign.html
@@ -7,20 +7,20 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/cn/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/cn/sign/tutorials.html
-breadcrumb-title: Acrobat SignTutorials
+breadcrumb-title: Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 15%
+source-wordcount: '683'
+ht-degree: 14%
 
 ---
 
 
-# Acrobat SignTutorials {#sign-learning-hub}
+# Tutorials {#sign-learning-hub}
 
 + [概述](overview.md)
 + 开始使用 {#getting-started}
@@ -35,7 +35,7 @@ ht-degree: 15%
       + [发送后修改文档](sign-beginner-tutorials/modify-in-flight.md)
       + [替换签名者](sign-beginner-tutorials/replace-signer.md)
       + [设置截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
-      + [创建可重复使用的模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hans)
+      + [创建可重用模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hans)
    + 签名 {#getting-started-signing}
       + [对文档进行电子签名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签署文档](sign-beginner-tutorials/fill-and-sign.md)
@@ -52,8 +52,8 @@ ht-degree: 15%
       + [使用委派人角色](sign-advanced-users/delegate-signature.md)
       + [使用审批人角色](sign-advanced-users/add-an-approver.md)
       + [批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hans)
-      + [正在创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=zh-Hans)
-      + [生成自定义工作流](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [创建Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=zh-Hans)
+      + [构建自定义工作流](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [设置在线支付](sign-advanced-users/set-up-online-payments.md)
       + [Acrobat Sign中的身份验证方法](sign-advanced-users/authentication-methods.md)
       + [Acrobat Sign文本标记](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=zh-Hans)
@@ -77,7 +77,7 @@ ht-degree: 15%
       + [创建和管理组](admin/create-and-manage-groups.md)
       + [设置外部归档](admin/set-up-your-external-archive.md)
       + [创建可恢复的模板](sign-advanced-users/create-a-template.md)
-      + [报告和交易使用情况](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [报表与事务用量](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [用户的报告选项](admin/report-options.md)
       + [创建Web表单](sign-advanced-users/webform.md)
       + [修改现有Web表单](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=zh-Hans)
@@ -113,7 +113,7 @@ ht-degree: 15%
       + [在 [!DNL SharePoint Online]中发送以供签名](integrations/send-for-signature-with-sharepoint-online.md)
       + [&#x200B; [!DNL SharePoint Online]中的跟踪](integrations/track-an-agreement-with-sharepoint-online.md)
       + [将Web表单与 [!DNL SharePoint Online]集成](integrations/integrate-web-form-sharepoint-online.md)
-      + [使用 [!DNL SharePoint] 自动存档 [!DNL Power Automate]中的文件](integrations/auto-archive-sharepoint-power-automate.md)
+      + [使用 [!DNL Power Automate]自动存档 [!DNL SharePoint] 中的文件](integrations/auto-archive-sharepoint-power-automate.md)
       + [&#x200B; [!DNL Microsoft Power Platform]的Acrobat Sign的文档自动化](integrations/documentautomation.md)
       + [在 [!DNL Microsoft Teams]中发送以供签名](integrations/adobe-sign-teams-mortgage.md)
       + [实时登录Adobe Acrobat Sign以供 [!DNL Microsoft Teams]使用](integrations/live-sign-microsoft-teams.md)

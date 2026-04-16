@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 7%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 发送后修改文档]
+
+了解如何[修改已发送以供签名的文档](../sign-beginner-tutorials/manage-and-track.md)。
 
 >[!TAB 管理和跟踪协议]
 
@@ -33,10 +37,6 @@ ht-degree: 7%
 >[!TAB 创建可重复使用的模板]
 
 了解如何创建[可重复使用的文档模板](../sign-advanced-users/create-a-template.md)。
-
->[!TAB 配置发送选项]
-
-了解如何在发送文档以请求签名时[配置各种选项](sending-options.md)。
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ ht-degree: 7%
     <div>
     <a href="new-sender.md"><strong>开始使用Acrobat Sign</strong></a>
     </div>
-    本教程非常适合Acrobat Sign的新用户
+    本教程是 Acrobat Sign 新用户的理想入门之选
     <br>
   </td>
  <td>
@@ -71,7 +71,7 @@ ht-degree: 7%
     <div>
     <a href="send-to-single-recipient.md"><strong>将文档发送给一位签名者</strong></a>
     </div>
-    立即了解如何轻松发送文档以请求签名
+    立即体验，了解发送文档进行签名是如此简单
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ ht-degree: 7%
     <div>
     <a href="send-to-multiple-recipients.md"><strong>发送给多个签名者</strong></a>
     </div>
-    按照您想要的顺序，将文档发送给多个人进行电子签名
+    按您指定的确切顺序，将文档发送给多人进行电子签名
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ ht-degree: 7%
     <div>
     <a href="sending-options.md"><strong>配置发送选项</strong></a>
     </div>
-    了解如何在发送文档以请求签名时配置各种选项
+    了解在发送文档以供签名时如何配置各种选项
     <br>
   </td>
   <td>
@@ -113,7 +113,7 @@ ht-degree: 7%
     <div>
     <a href="modify-in-flight.md"><strong>发送后修改文档</strong></a>
     </div>
-    修改已在进行的文档
+    了解如何修改已在进行的文档
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ ht-degree: 7%
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建可重复使用的模板</strong></a>
     </div>
-    创建可重复使用的文档模板，以提高企业速度和一致性
+    创建可重复使用的文档模板，为您的组织提升效率并确保风格一致
     <br>
   </td>
     <td>
@@ -172,7 +172,7 @@ ht-degree: 7%
     <div>
     <a href="electronically-sign-a-document.md"><strong>对文档进行电子签名</strong></a>
     </div>
-    了解如何使用Acrobat Sign签署发送给您的文档
+    了解使用 Acrobat Sign 来签署他人发送给您的文档是多么简单
     <br>
   </td>
   <td>
@@ -251,7 +251,7 @@ ht-degree: 7%
     <div>
     <a href="manage-and-track.md"><strong>管理和跟踪您的协议</strong></a>
     </div>
-    了解如何管理和跟踪发送以供签名的协议
+    了解如何管理和跟踪已发送以供签名的协议
     <br>
   </td>
   <td>
