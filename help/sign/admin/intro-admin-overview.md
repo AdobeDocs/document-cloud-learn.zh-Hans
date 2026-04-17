@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
+source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '719'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,10 @@ ht-degree: 3%
 
 >[!BEGINTABS]
 
+>[!TAB 配置和管理修改协议]
+
+了解如何在Acrobat Sign中配置和管理[修改协议](configure-modify-agreement.md)。
+
 >[!TAB 生成自定义工作流]
 
 了解如何创建和使用[自定义工作流](building-a-custom-workflow.md)来加快创建和发送协议的过程。
@@ -34,10 +38,6 @@ ht-degree: 3%
 >[!TAB 启用自动用户分配规则]
 
 了解如何设置[自动分配规则](automatic-assignment-rules.md)，以向用户授予对Admin Console中Acrobat Sign的访问权限。
-
->[!TAB 迁移Docusign模板]
-
-了解如何通过三个简单的步骤无缝[迁移Docusign模板](docusign-templates.md)和工作流。
 
 >[!ENDTABS]
 
@@ -234,8 +234,13 @@ ht-degree: 3%
       <br>
     </td>
     <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
+      <a href="configure-modify-agreement.md">
+        <img alt="配置和管理“修改协议”" src="../assets/configure-modify.png" />
+      </a>
       <div>
+      <a href="configure-modify-agreement.md"><strong>配置和管理修改协议</strong></a>
+      </div>
+      <em>了解如何配置和管理修改协议</em>
       <br>
     </td>
     <td>
