@@ -23,4 +23,4 @@ ht-degree: 0%
 * 修订模式如何保护协议完整性
 * 哪些更改会记录到审核报告中
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483701?captions=chi_hans&quality=12&learn=on&hidetitle=true)
