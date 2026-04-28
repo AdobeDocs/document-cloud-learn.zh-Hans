@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
+source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 26%
+source-wordcount: '539'
+ht-degree: 24%
 
 ---
 
@@ -149,9 +149,14 @@ ht-degree: 26%
     <br>
   </td>
     <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+     <a href="checkbox-groups.md">
+      <img alt="使用复选框组指导所需的选择" src="../assets/checkboxes.png" />
+    </a>
+    <div>
+    <a href="checkbox-groups.md"><strong>使用复选框组引导所需的选择</strong></a>
+    </div>
+    了解如何使用复选框组来控制签名者可以在表单上选择多少个选项
+    <br>
     </td>
     <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
