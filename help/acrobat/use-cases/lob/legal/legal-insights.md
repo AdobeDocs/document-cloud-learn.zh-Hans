@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -18,23 +19,24 @@ ht-degree: 3%
 
 **最适合：**&#x200B;在整个业务中提供法律指导的法律负责人、内部顾问、合同审查员和团队。
 
+**试用：**&#x200B;立即探索此法律工作流程[实操](https://w.adobedemo.com/s/ujZN1y){target="_blank"}。
+
 ## 步骤 1. 分析法律信息和表面洞察
 
 首先分析复杂法律文档，呈现关键变更，并使用AI驱动的见解识别风险。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481644?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
 
 ## 步骤 2. 安全地协作进行法律审查
 
 Insights现在已准备好供团队审阅。 了解如何减少电子邮件混乱、维护版本控制以及安全地协作处理复杂的法律审查。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481657?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
 
 ## 步骤 3. 将法律洞察转化为业务就绪型内容
 
 反馈已完成，内容已准备就绪，可以提供。 了解法律团队如何快速草拟指南、应用获批的品牌推广并提供安全、可访问的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3481668?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 现在，您有一个可重复执行的过程来理解法律文档、安全地协作并创建清晰的业务就绪指南。
-
