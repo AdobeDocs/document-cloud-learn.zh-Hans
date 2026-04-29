@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -17,6 +18,9 @@ ht-degree: 2%
 了解销售团队如何能够更快、更自信地收集客户见解、在共享工作区中协作，并将经过验证的情报转换为与品牌相符的演示文稿和提案。 此用例旨在按顺序完成，每个视频均在上一步中构建。
 
 **最适合：**&#x200B;客户经理、销售经理、交易团队以及任何为会议、演示或计划书准备面向客户的销售材料的人员。
+
+
+**试用：**&#x200B;立即探索此销售工作流程[实操](https://w.adobedemo.com/s/HEEljN){target="_blank"}。
 
 ## 步骤 1. 通过AI提供的见解了解您的客户
 

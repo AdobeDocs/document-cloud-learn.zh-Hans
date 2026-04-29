@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 了解财务团队如何使用Acrobat管理从洞察到交付的财务文档。 此使用案例将逐步完成一个端到端的工作流程，用于分析信息、与利益相关者协作以及创建管理层就绪的财务材料。 此用例旨在按顺序完成，每个视频均在上一步中构建。
 
 **最适合：**&#x200B;财务主管、FP&amp;A团队、分析员以及任何准备执行或董事会审核材料的人。
+
+**试用：**&#x200B;立即探索此财务报告工作流[实操](https://w.adobedemo.com/s/31LpAI){target="_blank"}。
 
 ## 步骤 1. 理解财务绩效
 

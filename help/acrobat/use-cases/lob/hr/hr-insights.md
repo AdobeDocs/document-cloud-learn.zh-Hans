@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 2%
 了解HR团队如何使用Acrobat Studio从头到尾简化员工入职流程。 了解如何将复杂的入门文档转变为清晰的见解，在共享的PDF空间中与利益相关者协作，并创建优美的、符合品牌形象的内容，随时可以快速、更一致且自信地与新员工共享。 此用例旨在按顺序完成，每个视频均在上一步中构建。
 
 **最适合：**&#x200B;人力资源主管、人力资源运营和业务合作伙伴、入职体验和员工体验团队，以及任何为员工或领导层准备人力资源材料的人员。
+
+**试用：**&#x200B;立即探索此HR入门工作流[实操](https://w.adobedemo.com/s/NvvfVm){target="_blank"}。
 
 ## 步骤 1. 将入门文档转化为清晰的见解
 
