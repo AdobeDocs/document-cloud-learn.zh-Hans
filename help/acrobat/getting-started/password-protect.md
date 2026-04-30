@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 5%
 
 ---
 
 # Protect带密码的PDF文件
 
-了解如何[向您的PDF添加密码](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以保护其他人不打开或[编辑PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}。 保护您的PDF文件可防止未经授权的访问，保护敏感信息，维护文档完整性，并有助于遵守某些行业法规。
+了解如何[向您的PDF添加密码](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以保护其他人不打开或[编辑PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}。 保护您的PDF文件可防止未经授权的访问，保护敏感信息，维护文档完整性，并有助于遵守某些行业法规。
+
+**试用：**&#x200B;立即探索保护PDF[动手操作](https://w.adobedemo.com/s/-gNaDL){target="_blank"}。
 
 >[!SLIDE](protect-pdfs)
 
