@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 了解内部法律团队如何使用PDF空间将政策文件、法律备忘录和监管指导整合到一个工作区。 它展示了AI生成的摘要、突出显示的更改和引用的见解如何帮助团队更高效地审核更新，同时保持准确性和合规性。
 
 购买Acrobat Studio或AI Assistant插件的用户可以使用PDF空间。
+
+**试用：**&#x200B;立即探索PDF空间[实操](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475142?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 

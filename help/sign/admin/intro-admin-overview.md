@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
 source-wordcount: '719'
 ht-degree: 3%
@@ -235,7 +235,7 @@ ht-degree: 3%
     </td>
     <td>
       <a href="configure-modify-agreement.md">
-        <img alt="配置和管理“修改协议”" src="../assets/configure-modify.png" />
+        <img alt="配置和管理“修改协议”" src="../assets/configure-modify-govern.png" />
       </a>
       <div>
       <a href="configure-modify-agreement.md"><strong>配置和管理修改协议</strong></a>
