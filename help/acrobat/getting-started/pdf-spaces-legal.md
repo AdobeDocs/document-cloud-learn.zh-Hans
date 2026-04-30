@@ -21,7 +21,7 @@ ht-degree: 0%
 
 **试用：**&#x200B;立即探索PDF空间[实操](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475142?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 [!BADGE 特定于团队]
 
