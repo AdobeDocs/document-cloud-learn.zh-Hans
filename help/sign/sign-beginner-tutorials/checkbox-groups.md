@@ -22,4 +22,4 @@ ht-degree: 0%
 * 通过清晰的内联反馈为签名者提供指导
 * 提高以表格形式收集信息的准确性
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484170?captions=chi_hans&quality=12&learn=on&hidetitle=true)
