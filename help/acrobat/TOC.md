@@ -1,20 +1,22 @@
 ---
-user-guide-title: AcrobatTutorials
+user-guide-title: Tutorials
 solution: Acrobat
-breadcrumb-title: AcrobatTutorials
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+breadcrumb-title: Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: 674
 ht-degree: 5%
 
 ---
 
 
-# AcrobatTutorials {#acrobat-learning}
+# Tutorials {#acrobat-learning}
 
 + [概述](overview.md)
 + 入门 {#get-started}
@@ -47,7 +49,7 @@ ht-degree: 5%
       + [对PDF发表评论](getting-started/comment-on-pdf-files.md)
    + Forms、签名和保护 {#tools}
       + [创建可填写表单](getting-started/create-fillable-forms.md)
-      + [Fill &amp; SignPDF forms](getting-started/fill-and-sign.md)
+      + [PDF forms](getting-started/fill-and-sign.md)
       + [Protect带密码的PDF文件](getting-started/password-protect.md)
       + [获取签名](getting-started/signatures.md)
       + [跟踪文档](getting-started/track.md)
@@ -151,7 +153,7 @@ ht-degree: 5%
    + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
-   + [使用 [!DNL Microsoft Purview Information] 敏感度标签的ProtectPDF](integrate/microsoftsensitivitylabels.md)
+   + [使用 [!DNL Microsoft Purview Information] 敏感度标签的PDF](integrate/microsoftsensitivitylabels.md)
    + [适用于 [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
    + [处理来自 [!DNL Dropbox]的文件](integrate/acrobat-dropbox.md)
 + 开发 {#develop}
