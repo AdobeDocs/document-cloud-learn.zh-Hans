@@ -7,10 +7,14 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -18,7 +22,7 @@ ht-degree: 0%
 
 了解如何优化PDF以提高可发现性并改善搜索引擎在Web上的排名。
 
-## 1.创建独特的内容
+## &#x200B;1. 创建独特内容
 
 创建与网页上的信息不同的PDF内容。
 
@@ -31,7 +35,7 @@ PDF内容应具有唯一性，其结构如下：
 * 使用包含关键字和列表的短段落
 * 向网站或带有超链接的其他网站添加内部和外部内容
 * 为超过25页的文档添加超链接目录
-* 对所有扫描的文档运行[文本识别](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)
+* 对所有扫描的文档运行[文本识别](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)
 * 构建移动友好的PDF
 要检查PDF的移动查看体验，请在[Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中打开文件并打开Liquid Mode。 包括必要附加子标题以改进导航。
 
@@ -41,7 +45,7 @@ PDF内容应具有唯一性，其结构如下：
 
 <br> 
 
-## 2.添加文档属性
+## &#x200B;2. 添加文档属性
 
 PDF文件具有标题和元描述，就像网页一样。
 
@@ -52,7 +56,7 @@ PDF文件具有标题和元描述，就像网页一样。
 1. 选择&#x200B;**[!UICONTROL 文件>属性]**，或者使用Windows上的键盘快捷键&#x200B;*Ctrl + D*&#x200B;或Mac上的&#x200B;*Cmd + D*，然后选择&#x200B;**[!UICONTROL 描述]**&#x200B;选项卡。
 1. 在&#x200B;**[!UICONTROL 标题：]**&#x200B;字段中输入经过关键字优化的标题。
 1. 确保&#x200B;**[!UICONTROL 作者：]**&#x200B;字段未标识您组织内的特定个人。
-1. 在&#x200B;**[!UICONTROL 主题：]**&#x200B;字段中输入经过关键字优化的文档摘要。
+1. 在&#x200B;**[!UICONTROL 主题：]**字段中输入经过关键字优化的文档摘要。
 尝试使用学习、发现、探索等操作动词开始小结。
 1. 选择&#x200B;**[!UICONTROL 其他元数据]**&#x200B;以添加版权或公共域信息（如果适用）。
 
@@ -62,9 +66,9 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 3.为您的PDF添加标签
+## &#x200B;3. 为您的PDF添加标签
 
-为PDF中的内容添加标签不仅可以让残障人士访问您的文件[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，还可以改善SEO。
+为PDF中的内容添加标签不仅可以让残障人士访问您的文件[](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，还可以改善SEO。
 
 +++查看有关如何为PDF添加标签的详细信息
 
@@ -86,7 +90,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 4.准备网页
+## &#x200B;4. 准备使用Web
 
 通过为Web查看做准备并[减小PDF文件大小](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}，优化您的PDF。
 
@@ -110,7 +114,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 5.创建关键字文件名
+## &#x200B;5. 创建关键字文件名
 
 +++查看有关如何创建关键字文件名的详细信息
 
@@ -122,7 +126,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 6.确保PDF安全
+## &#x200B;6. 保护 PDF
 
 最后一步是[保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以防止未经授权的更改。
 

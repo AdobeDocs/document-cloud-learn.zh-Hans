@@ -7,16 +7,19 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
+TQID: https://experienceleague.adobe.com/zhYzOxdS7g86AcptL1ddWr10xbYulG7tBH-WwUVznsI
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 3%
+source-wordcount: 408
+ht-degree: 4%
 
 ---
 
 # Acrobat Sign文本标记
 
-了解如何构建带有文本标记的Acrobat Sign表单字段。 文本标记可以直接添加到创作工具(例如Microsoft Word、Adobe InDesign)中，或者如果您有PDF，也可以在Acrobat中添加。 它们可显着减少在Acrobat Sign中使用的文档准备工作。 在Acrobat Sign中上传带标签的文档后，可将它设置为模板 — 无需任何人为其文档添加字段。
+了解如何构建带有文本标记的Acrobat Sign表单字段。 文本标记可以直接添加到创作工具（例如Microsoft Word、Adobe InDesign）中，或者如果您有PDF，也可以在Acrobat中添加。 它们可显着减少在Acrobat Sign中使用的文档准备工作。 在Acrobat Sign中上传带标签的文档后，可将它设置为模板 — 无需任何人为其文档添加字段。
 
 ## 入门
 
@@ -24,7 +27,7 @@ ht-degree: 3%
 
 ![文本标记的语法](../assets/syntax.png)
 
-文本标记可以直接添加到创作工具(如Microsoft Word、Adobe InDesign)中，或者如果您有PDF— Acrobat，也可以直接添加到创作工具中。 文本标记可显着减少在Acrobat Sign中准备文档时所用的工作量。
+文本标记可以直接添加到创作工具（如Microsoft Word、Adobe InDesign）中，或者如果您有PDF— Acrobat，也可以直接添加到创作工具中。 文本标记可显着减少在Acrobat Sign中准备文档时所用的工作量。
 
 ### 在Microsoft Word中添加标签
 

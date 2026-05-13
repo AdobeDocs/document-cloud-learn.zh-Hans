@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/e6UxLIxTmzvuzAqZ8gId67CWtOzEuMFM8aHnjlmu3cs
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: 737
+ht-degree: 1%
 
 ---
 
@@ -37,7 +42,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448521?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -58,7 +63,7 @@ ht-degree: 0%
 
 1. 选择并删除&#x200B;*HQ位置*&#x200B;文本字段。
 1. 在工具栏中选择&#x200B;**列表框**，并在已删除的文本字段位置放置一个新字段。
-1. 在&#x200B;*字段名称*&#x200B;中键入&#x200B;**HQ位置**。
+1. 在&#x200B;**字段名称**&#x200B;中键入&#x200B;*HQ位置*。
 1. 选择“**所有属性**”，然后选择“**选项**”选项卡。
 1. 在&#x200B;**项：**&#x200B;字段中添加三个不同的位置。
 1. 在&#x200B;**项目列表：**&#x200B;字段中选择默认位置。
@@ -70,10 +75,10 @@ ht-degree: 0%
 
 1. 选择并删除&#x200B;*项目时间线*&#x200B;和&#x200B;*结束日期*&#x200B;字段。
 1. 在工具栏中选择&#x200B;**日期域**，并将新域放置在已删除的&#x200B;*项目时间轴*&#x200B;域位置。
-1. 在&#x200B;*字段名称*&#x200B;中键入&#x200B;**项目开始**。
+1. 在&#x200B;**字段名称**&#x200B;中键入&#x200B;*项目开始*。
 1. 选择“**所有属性**”，然后选择“**格式**”选项卡。
 1. 选择日期格式选项，然后选择&#x200B;**关闭**。
-1. 按住Ctrl + Shift键(在Mac上为Cmd + Shift)以复制字段。
+1. 按住Ctrl + Shift键（在Mac上为Cmd + Shift）以复制字段。
 1. 双击新字段并选择&#x200B;**常规**&#x200B;选项卡，然后重命名字段&#x200B;*项目结束*。
 1. 选择&#x200B;**关闭**。
 1. 按住Shift键并选择所有三个字段。
@@ -94,7 +99,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439902?captions=chi_hans&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -104,7 +109,7 @@ ht-degree: 0%
 
 1. 按住Shift键并选择右侧窗格中的所有文本和列表字段。
 1. 右键单击并选择&#x200B;**属性……**。
-1. 从&#x200B;*字体大小：*&#x200B;下拉菜单中选择&#x200B;**12**。
+1. 从&#x200B;**字体大小：**&#x200B;下拉菜单中选择&#x200B;*12*。
 1. 选择&#x200B;**关闭**。
 
 设置Tab键顺序可确保表单填写人在填写表单时可以轻松地在字段之间移动。
@@ -115,7 +120,7 @@ ht-degree: 0%
 
 保护表单可确保文档的字段或内容不会被修改。
 
-1. 键入&#x200B;*Ctrl + D (Mac上的Cmd + D)*&#x200B;以显示&#x200B;**文档属性**&#x200B;对话框。
+1. 键入&#x200B;*Ctrl + D （Mac上的Cmd + D）*&#x200B;以显示&#x200B;**文档属性**&#x200B;对话框。
 1. 选择“**安全性**”选项卡。
 1. 在&#x200B;**安全方法：**&#x200B;下拉菜单中选择&#x200B;**密码安全性**。
 1. 选中&#x200B;**限制文档的编辑和打印。 需要密码才能更改这些权限设置。**
