@@ -7,9 +7,16 @@ level: Beginner
 jira: KT-9155
 thumbnail: KT-9155.jpg
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/aWW89ncOdInrAueCucbCYazb10StsIoy-Dkmp9oz8cc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: 83
 ht-degree: 0%
 
 ---
@@ -24,7 +31,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/347144?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/347144?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ![二维码](../assets/Acrobatqrcode.jpg)
 

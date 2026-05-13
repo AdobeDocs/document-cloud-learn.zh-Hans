@@ -6,9 +6,19 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+TQID: https://experienceleague.adobe.com/tbtYNqK8p3mnv9HO-zWKMRaXBJwb0FEfY5niTYxAQqA
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: 303
 ht-degree: 0%
 
 ---
@@ -31,7 +41,7 @@ ht-degree: 0%
 
 >[!TAB 在Acrobat中创建可访问的PDF]
 
-了解如何从Acrobat[开始创建](accessible-acrobat.md)可访问的PDF。
+了解如何从Acrobat[&#128279;](accessible-acrobat.md)开始创建可访问的PDF。
 
 >[!TAB 标记的基础知识]
 

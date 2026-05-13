@@ -7,9 +7,19 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
+TQID: https://experienceleague.adobe.com/IRoB4mMiycAzr3EudJSmVI-GCRd4e240YGUxiEJgVKs
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: 359
 ht-degree: 0%
 
 ---

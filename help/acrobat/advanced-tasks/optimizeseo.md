@@ -7,10 +7,20 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -18,7 +28,7 @@ ht-degree: 0%
 
 了解如何优化PDF以提高可发现性并改善搜索引擎在Web上的排名。
 
-## 1.创建独特的内容
+## &#x200B;1. 创建独特内容
 
 创建与网页上的信息不同的PDF内容。
 
@@ -41,7 +51,7 @@ PDF内容应具有唯一性，其结构如下：
 
 <br> 
 
-## 2.添加文档属性
+## &#x200B;2. 添加文档属性
 
 PDF文件具有标题和元描述，就像网页一样。
 
@@ -62,7 +72,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 3.为您的PDF添加标签
+## &#x200B;3. 为您的PDF添加标签
 
 为PDF中的内容添加标签不仅可以让残障人士访问您的文件[&#128279;](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，还可以改善SEO。
 
@@ -86,7 +96,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 4.准备网页
+## &#x200B;4. 准备使用Web
 
 通过为Web查看做准备并[减小PDF文件大小](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}，优化您的PDF。
 
@@ -110,7 +120,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 5.创建关键字文件名
+## &#x200B;5. 创建关键字文件名
 
 +++查看有关如何创建关键字文件名的详细信息
 
@@ -122,7 +132,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 <br> 
 
-## 6.确保PDF安全
+## &#x200B;6. 保护 PDF
 
 最后一步是[保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以防止未经授权的更改。
 

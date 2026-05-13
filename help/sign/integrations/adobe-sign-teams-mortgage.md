@@ -9,9 +9,20 @@ jira: KT-6208
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/KU-ZZzHZjU3w9mdRY-n2Rsm-ZjLLpGAhz-bmhXaMCFM
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: 110
 ht-degree: 0%
 
 ---
@@ -20,7 +31,7 @@ ht-degree: 0%
 
 了解如何从[!DNL Microsoft Teams]内发送协议以供签名、检查协议状态以及发送提醒。 以下示例将介绍一家抵押贷款经纪人如何直接在Teams中发出贷款申请以供签名。 这种紧密整合加快了抵押贷款流程 — 即使在远程工作环境中与抵押贷款申请人合作时也是如此。
 
->[!VIDEO](https://video.tv.adobe.com/v/3446203?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3446203?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

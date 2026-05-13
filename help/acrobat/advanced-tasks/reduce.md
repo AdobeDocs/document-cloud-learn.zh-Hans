@@ -7,10 +7,19 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/BGfks8B4QIaVwe9nTTXQjV2r63uFrO6aqodD2WSpytc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 0%
+source-wordcount: 381
+ht-degree: 1%
 
 ---
 
@@ -37,7 +46,7 @@ ht-degree: 0%
 
 ## 如何在Acrobat Web中压缩PDF
 
-1. 在浏览器中登录到[acrobat.adobe.com](https://acrobat.adobe.com/cn)。
+1. 在浏览器中登录到[acrobat.adobe.com](https://acrobat.adobe.com/cn/zh-Hans/acrobat.html)。
 
 1. 从顶部菜单中选择&#x200B;**[!UICONTROL 转换>压缩PDF]**。
 

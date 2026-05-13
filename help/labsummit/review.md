@@ -6,10 +6,17 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/1krmh5t67j2o9LECT-PwMCLFaCdkuzcrZUCG8cF3pLQ
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 8%
+source-wordcount: 539
+ht-degree: 7%
 
 ---
 
@@ -42,7 +49,7 @@ ht-degree: 8%
 
 ## 审阅者体验
 
-审阅人会收到一封电子邮件邀请，其中包含指向审阅 PDF 的链接。当他们单击邀请中的链接或&#x200B;**[!UICONTROL 审阅]**&#x200B;按钮时，PDF将在Web浏览器中打开。 审阅人可以使用注释工具向 PDF 添加注释。他们还可以使用Acrobat Reader或Acrobat桌面应用程序添加注释。
+审阅人会收到一封电子邮件邀请，其中包含指向审阅 PDF 的链接。 当他们单击邀请中的链接或&#x200B;**[!UICONTROL 审阅]**&#x200B;按钮时，PDF将在Web浏览器中打开。 审阅人可以使用注释工具向 PDF 添加注释。 他们还可以使用Acrobat Reader或Acrobat桌面应用程序添加注释。
 
 ## 以电子邮件的形式发送匿名或公共链接
 

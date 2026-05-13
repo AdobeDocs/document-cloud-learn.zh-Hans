@@ -7,16 +7,26 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: 1991
 ht-degree: 1%
 
 ---
 
 # 开始使用概述
 
-通过这些简单的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护或[编辑您的PDF文件](https://www.adobe.com/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松处理PDF工作流程。 请查看此精心策划的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-get-started-business-users)，了解如何开始使用Acrobat。
+通过这些简单的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护或[编辑您的PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松处理PDF工作流程。 请查看此精心策划的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-get-started-business-users)，了解如何开始使用Acrobat。
 
 ## 新增功能
 
@@ -589,8 +599,8 @@ ht-degree: 1%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Fill &amp; SignPDF表单" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Fill &amp; SignPDF表单"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="PDF表单" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="PDF表单"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -598,7 +608,7 @@ ht-degree: 1%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Fill &amp; SignPDF表单">Fill &amp; SignPDF表单</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="PDF表单">PDF表单</a>
                     </p>
                     <p class="is-size-6">了解如何快速轻松地填写和签署PDF表单</p>
                 </div>
