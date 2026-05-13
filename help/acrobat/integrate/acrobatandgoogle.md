@@ -27,4 +27,4 @@ ht-degree: 0%
 
 了解如何直接在[!DNL Google Drive]应用程序中访问节省时间的PDF工具和电子签名工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409668?captions=chi_hans&quality=12&learn=on&hidetitle=true)

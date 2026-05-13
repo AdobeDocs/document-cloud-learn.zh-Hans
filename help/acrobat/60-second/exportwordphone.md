@@ -25,4 +25,4 @@ ht-degree: 11%
 
 在此60秒的视频教程中，了解如何使用Microsoft移动应用程序[将PDF文件转换为完全可编辑的Acrobat Word文档](https://www.adobe.com/acrobat/online/pdf-to-word.html){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347115?captions=chi_hans&quality=12&learn=on&hidetitle=true)

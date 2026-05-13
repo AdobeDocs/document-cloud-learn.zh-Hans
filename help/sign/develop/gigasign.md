@@ -39,7 +39,7 @@ ht-degree: 2%
 >
 >GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 正在将GigaSign的功能添加到产品的[批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hans？)功能下。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453520?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 下载并安装GigaSign应用程序
 

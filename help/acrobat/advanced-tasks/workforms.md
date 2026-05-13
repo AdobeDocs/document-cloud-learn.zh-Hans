@@ -46,7 +46,7 @@ ht-degree: 1%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448521?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -103,7 +103,7 @@ ht-degree: 1%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439902?captions=chi_hans&hidetitle=true)
 
 <br> 
 

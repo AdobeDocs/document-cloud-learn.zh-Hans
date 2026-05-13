@@ -25,7 +25,7 @@ ht-degree: 6%
 
 在此60秒的视频教程中，了解如何将手机上的电子邮件[PowerPoint附件转换为PDF](https://www.adobe.com/acrobat/online/ppt-to-pdf.html){target="_blank"}。 当文件返回时，查看该文件，然后点击“共享”以将其发送给您的团队 — 您的手机中完全没有PowerPoint。
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409203?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

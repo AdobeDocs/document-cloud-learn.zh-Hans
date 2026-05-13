@@ -39,7 +39,7 @@ ht-degree: 0%
 * [业务赠款和贷款](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=zh-Hans)
 * [再就业援助](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=zh-Hans)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411222?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

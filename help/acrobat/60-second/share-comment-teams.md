@@ -24,4 +24,4 @@ ht-degree: 0%
 
 观看本教程（60秒），了解如何在Microsoft Teams中实时协作处理PDF文件。
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437490?captions=chi_hans&quality=12&learn=on&hidetitle=true)

@@ -27,4 +27,4 @@ ht-degree: 0%
 
 了解如何使用图章标记已批准或已完成的文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411252?captions=chi_hans&quality=12&learn=on&hidetitle=true)

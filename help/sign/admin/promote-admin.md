@@ -31,4 +31,4 @@ ht-degree: 4%
 
 了解如何在[Admin Console](https://adminconsole.adobe.com/)中分配Acrobat Sign用户产品管理员和支持管理员角色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453168?captions=chi_hans&quality=12&learn=on&hidetitle=true)

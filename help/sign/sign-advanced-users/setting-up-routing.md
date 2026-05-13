@@ -31,4 +31,4 @@ ht-degree: 5%
 >
 >混合路由仅适用于企业级计划。 您的Acrobat Sign管理员可能需要在“帐户设置”的“发送设置”部分中启用这些功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410713?captions=chi_hans&quality=12&learn=on&hidetitle=true)

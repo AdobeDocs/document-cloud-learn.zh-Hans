@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解如何通过直接在[!DNL Microsoft Sharepoint Online]中发送文档以供签名来简化文档工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409576?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

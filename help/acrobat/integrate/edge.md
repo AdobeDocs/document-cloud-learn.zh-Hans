@@ -33,7 +33,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409091?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

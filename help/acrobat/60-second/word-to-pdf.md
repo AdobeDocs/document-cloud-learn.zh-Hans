@@ -24,4 +24,4 @@ ht-degree: 18%
 
 在此60秒的视频教程中，了解如何[从Microsoft Word创建PDF](https://www.adobe.com/acrobat/online/word-to-pdf.html){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437088?captions=chi_hans&quality=12&learn=on&hidetitle=true)

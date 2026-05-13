@@ -31,7 +31,7 @@ ht-degree: 0%
 
 了解如何通过直接在[!DNL Microsoft Outlook]中填写并签署表单来简化文档工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443462?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

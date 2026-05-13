@@ -25,7 +25,7 @@ ht-degree: 7%
 
 在此60秒的视频教程中，了解如何在不下载PDF的情况下对文本和图像进行[简单的PDF编辑](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409462?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

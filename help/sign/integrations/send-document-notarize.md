@@ -38,7 +38,7 @@ Adobe Acrobat Sign已与Notarize， Inc.合作，提供在线公证服务。 在
 >
 >Acrobat Sign与[!DNL Notarize] Inc.的在线公证服务的集成仅适用于美国的商业和企业级服务计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420666?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

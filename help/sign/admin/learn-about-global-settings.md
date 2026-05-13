@@ -33,7 +33,7 @@ ht-degree: 32%
 
 “帐户”选项卡的“全局设置”部分是功能最丰富的部分之一，其所有设置都是根据用例来安排的。 了解如何全局编辑整个组织或特定组的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452112?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

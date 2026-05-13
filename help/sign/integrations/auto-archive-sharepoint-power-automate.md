@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何使用[!DNL Power Automate]将已签名的文档自动存档到[!DNL SharePoint]库。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412797?captions=chi_hans&quality=12&learn=on&hidetitle=true)

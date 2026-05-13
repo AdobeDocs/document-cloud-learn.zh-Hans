@@ -25,4 +25,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何在Acrobat共享审阅后将PDF注释加载回InDesign。 此数字工作流程可帮助您在创纪录的时间内完成修订。
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409450?captions=chi_hans&quality=12&learn=on&hidetitle=true)

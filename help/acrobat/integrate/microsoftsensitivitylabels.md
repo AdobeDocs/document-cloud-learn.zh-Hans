@@ -27,4 +27,4 @@ ht-degree: 0%
 
 了解如何通过在Acrobat中直接添加、编辑、自定义和删除[Microsoft Purview信息](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide)敏感度标签来保护PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444308?captions=chi_hans&quality=12&learn=on&hidetitle=true)

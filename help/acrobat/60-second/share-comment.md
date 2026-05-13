@@ -24,4 +24,4 @@ ht-degree: 0%
 
 在本教程（60秒）中，了解如何共享PDF，以便在单个文件中快速收集多个人的反馈。
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437198?captions=chi_hans&quality=12&learn=on&hidetitle=true)

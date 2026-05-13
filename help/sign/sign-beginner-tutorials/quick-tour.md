@@ -30,7 +30,7 @@ ht-degree: 0%
 
 快速观看关于Acrobat Sign工作区的视频导览，以启动并运行该工作区。
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425261?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

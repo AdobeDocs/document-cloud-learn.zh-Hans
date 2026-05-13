@@ -38,7 +38,7 @@ ht-degree: 1%
 
 使用[编辑PDF工具](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}将背景图形添加到您的PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443827?captions=chi_hans&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 使用“编辑”工具将新页脚添加到PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437743?captions=chi_hans&hidetitle=true)
 
 <br> 
 

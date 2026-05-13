@@ -24,4 +24,4 @@ ht-degree: 0%
 
 观看这段60秒的视频教程，了解如何直接在Acrobat桌面应用程序中从Microsoft 365文件创建PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/342628?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437217?captions=chi_hans&quality=12&learn=on&hidetitle=true)

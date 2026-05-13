@@ -25,4 +25,4 @@ ht-degree: 10%
 
 在此60秒的视频教程中，了解如何通过[将多种不同类型的文件合并为单个PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}来快速创建文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409456?captions=chi_hans&quality=12&learn=on&hidetitle=true)

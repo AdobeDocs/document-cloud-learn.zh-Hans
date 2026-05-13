@@ -31,4 +31,4 @@ ht-degree: 0%
 
 了解如何将Salesforce中的数据直接合并到Acrobat Sign文档中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412822?captions=chi_hans&quality=12&learn=on&hidetitle=true)
