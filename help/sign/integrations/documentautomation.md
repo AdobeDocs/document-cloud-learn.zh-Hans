@@ -9,11 +9,20 @@ thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
-feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 2466
@@ -117,9 +126,9 @@ ht-degree: 0%
 
    ![配置SharePoint设置的屏幕截图](assets/documentautomation/automation_6.png)
 
-   **站点地址：**您的SharePoint站点
-   **文件夹路径：**要使用的共享文档的路径
-   **文件名：**接受默认值
+   **站点地址：**&#x200B;您的SharePoint站点
+   **文件夹路径：**&#x200B;要使用的共享文档的路径
+   **文件名：**&#x200B;接受默认值
    **文件内容：**&#x200B;接受默认值
 
 1. 保存工作流。
@@ -156,7 +165,7 @@ ht-degree: 0%
    此流程包含许多预配置步骤，包括错误检查和嵌套条件步骤。
 
 1. 为所选文件&#x200B;**配置**，如下所示：
-   **站点地址：**您的SharePoint站点
+   **站点地址：**&#x200B;您的SharePoint站点
    **库名称：**&#x200B;您的文档存储库
 1. 按如下方式添加输入：
    **类型**：电子邮件
@@ -165,7 +174,7 @@ ht-degree: 0%
    ![配置流的屏幕截图](assets/documentautomation/automation_11.png)
 
 1. 按如下方式配置&#x200B;**获取文件属性：**：
-   **站点地址：**您的SharePoint站点
+   **站点地址：**&#x200B;您的SharePoint站点
    **库名称：**&#x200B;您的文档存储库
 
 1. 向下滚动并查找&#x200B;**如果是**。
@@ -184,7 +193,7 @@ ht-degree: 0%
 
    ![获取文件内容配置的屏幕截图](assets/documentautomation/automation_15.png)
 
-   **站点地址：**您的SharePoint站点。
+   **站点地址：**&#x200B;您的SharePoint站点。
    **文件标识符：**&#x200B;搜索“标识符”，然后从&#x200B;**获取文件属性**&#x200B;步骤中选择标识符。
 1. 搜索“Adobe”并选择&#x200B;**Acrobat Sign**&#x200B;以添加其他操作。
 
@@ -208,11 +217,11 @@ ht-degree: 0%
    ![搜索创建的屏幕截图](assets/documentautomation/automation_19.png)
 
 1. 配置所需信息：
-从**协议名称**&#x200B;中的动态变量助理中选择&#x200B;**名称**。
-从**文档ID**&#x200B;中的动态变量助理中选择&#x200B;**文档ID**。
-从**参与者电子邮件**&#x200B;中的动态变量助理中选择&#x200B;**签名者电子邮件**。
-按**参与者顺序**输入“1”。
-从**参与者角色**&#x200B;的下拉列表中选择&#x200B;**签名者**。
+从&#x200B;**协议名称**&#x200B;中的动态变量助理中选择&#x200B;**名称**。
+从&#x200B;**文档ID**&#x200B;中的动态变量助理中选择&#x200B;**文档ID**。
+从&#x200B;**参与者电子邮件**&#x200B;中的动态变量助理中选择&#x200B;**签名者电子邮件**。
+按&#x200B;**参与者顺序**&#x200B;输入“1”。
+从&#x200B;**参与者角色**&#x200B;的下拉列表中选择&#x200B;**签名者**。
 
    ![所需信息的屏幕截图](assets/documentautomation/automation_20.png)
 
@@ -306,7 +315,7 @@ ht-degree: 0%
 
 1. 在工作流底部编辑&#x200B;**创建文件**&#x200B;操作：
 
-   将&#x200B;**站点地址**更改为您的站点地址。
+   将&#x200B;**站点地址**&#x200B;更改为您的站点地址。
 指定文件夹路径中“已处理合同”文件夹的位置。
 
 1. 单击右上角的&#x200B;**“保存”**。
@@ -412,8 +421,8 @@ ht-degree: 0%
 
 1. 展开&#x200B;**所选文件**&#x200B;作用域操作。
 
-   在&#x200B;**获取文件属性**下，将站点地址和库名称分别更改为您的SharePoint站点和库。
-在**获取文件内容**&#x200B;下将站点地址更改为您的SharePoint站点。
+   在&#x200B;**获取文件属性**&#x200B;下，将站点地址和库名称分别更改为您的SharePoint站点和库。
+在&#x200B;**获取文件内容**&#x200B;下将站点地址更改为您的SharePoint站点。
 
    ![展开的所选文件操作的屏幕截图](assets/documentautomation/automation_47.png)
 
@@ -424,7 +433,7 @@ ht-degree: 0%
 
    ![展开的添加白皮书条件的屏幕截图](assets/documentautomation/automation_48.png)
 
-1. 展开&#x200B;**白皮书1：使用路径**获取文件内容。
+1. 展开&#x200B;**白皮书1：使用路径**&#x200B;获取文件内容。
 编辑指定SharePoint站点的站点地址。
 
 对&#x200B;**条件：添加白皮书2**&#x200B;重复相同的步骤。
@@ -490,7 +499,7 @@ ht-degree: 0%
 1. 更改&#x200B;**创建文件**&#x200B;以从PDF获取文件内容，而不是合并PDF。
 1. 展开&#x200B;**创建文件**。
 1. 清除文件内容字段。
-1. 使用动态内容置入&#x200B;**PDF中来自查看的** PDF文件内容&#x200B;****。
+1. 使用动态内容置入&#x200B;**PDF中来自查看的** PDF文件内容&#x200B;**&#x200B;**。
 
 ### 测试流量
 

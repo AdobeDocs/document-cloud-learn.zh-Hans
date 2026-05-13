@@ -8,9 +8,15 @@ jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 805
@@ -56,7 +62,7 @@ PDF文件具有标题和元描述，就像网页一样。
 1. 选择&#x200B;**[!UICONTROL 文件>属性]**，或者使用Windows上的键盘快捷键&#x200B;*Ctrl + D*&#x200B;或Mac上的&#x200B;*Cmd + D*，然后选择&#x200B;**[!UICONTROL 描述]**&#x200B;选项卡。
 1. 在&#x200B;**[!UICONTROL 标题：]**&#x200B;字段中输入经过关键字优化的标题。
 1. 确保&#x200B;**[!UICONTROL 作者：]**&#x200B;字段未标识您组织内的特定个人。
-1. 在&#x200B;**[!UICONTROL 主题：]**字段中输入经过关键字优化的文档摘要。
+1. 在&#x200B;**[!UICONTROL 主题：]**&#x200B;字段中输入经过关键字优化的文档摘要。
 尝试使用学习、发现、探索等操作动词开始小结。
 1. 选择&#x200B;**[!UICONTROL 其他元数据]**&#x200B;以添加版权或公共域信息（如果适用）。
 
@@ -68,7 +74,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 ## &#x200B;3. 为您的PDF添加标签
 
-为PDF中的内容添加标签不仅可以让残障人士访问您的文件[](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，还可以改善SEO。
+为PDF中的内容添加标签不仅可以让残障人士访问您的文件[&#128279;](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview)，还可以改善SEO。
 
 +++查看有关如何为PDF添加标签的详细信息
 
