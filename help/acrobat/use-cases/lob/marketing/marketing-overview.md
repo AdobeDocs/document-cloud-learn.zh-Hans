@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Acrobat营销用例概述
 
-了解营销团队如何使用Acrobat Studio简化协作、加快审批速度并将新创意更快地推向市场
+了解营销团队如何使用Acrobat Studio简化协作、加快审批速度并将新创意更快地推向市场。
 
 ## 新增功能
 
