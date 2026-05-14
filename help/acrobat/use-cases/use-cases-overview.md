@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 6d5130128ab9c5084b6476ee5bd5c04869a3f0a9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ ht-degree: 0%
     <em>了解营销团队如何简化协作、加快审批速度并将新创意更快地推向市场</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="销售用例" src="../assets/use-case-sales.png" />
@@ -75,6 +75,21 @@ ht-degree: 0%
     </div>
     <em>了解销售团队如何通过更智能的协作和更快的内容创建从洞察力转向影响力</em>
     <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="间隔物" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
