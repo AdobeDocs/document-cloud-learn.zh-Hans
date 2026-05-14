@@ -8,9 +8,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2d052a576516811a855318bc0eff2fc9e355a3e0
+source-git-commit: 02a0d02585936fc89b855bf994ad6b6fa803dec0
 workflow-type: tm+mt
-source-wordcount: 674
+source-wordcount: 681
 ht-degree: 5%
 
 ---
@@ -102,6 +102,8 @@ ht-degree: 5%
       + 法律 {#legal}
          + [概述](use-cases/lob/legal/legal-overview.md)
          + [将法律洞察转化为可操作的指导](use-cases/lob/legal/legal-insights.md)
+      + 营销 {#marketing}
+         + [使用Acrobat Studio加速产品发布](use-cases/lob/marketing/marketing-product-launch.md)
       + 销售团队 {#sales}
          + [概述](use-cases/lob/sales/sales-overview.md)
          + [将客户情报转变为成功的销售资产](use-cases/lob/sales/sales-insights.md)
