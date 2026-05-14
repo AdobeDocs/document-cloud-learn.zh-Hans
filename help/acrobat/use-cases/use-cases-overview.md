@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,18 @@ ht-degree: 0%
     <br>
   </td>
   <td>
+    <a href="lob/marketing/marketing-overview.md">
+      <img alt="营销用例" src="../assets/use-case-marketing.png" />
+    </a>
+    <div>
+    <a href="lob/marketing/marketing-overview.md"><strong>营销用例</strong></a>
+    </div>
+    <em>了解营销团队如何简化协作、加快审批速度并将新创意更快地推向市场</em>
+    <br>
+  </td>
+  </tr>
+  <tr>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="销售用例" src="../assets/use-case-sales.png" />
     </a>
@@ -67,7 +79,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 行业
+## 政府版
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -75,8 +87,8 @@ ht-degree: 0%
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat政府版" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat政府版"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat政府版" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat政府版"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -84,11 +96,11 @@ ht-degree: 0%
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat政府版">Acrobat政府版</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat政府版">Acrobat政府版</a>
                     </p>
                     <p class="is-size-6">探索我们专为联邦、州和地方政府设计的Acrobat教程</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览教程</span>
                 </a>
             </div>
