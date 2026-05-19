@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-21216
-source-git-commit: cfb98b8b463b7217c9b32fab0618e3dc3c81c066
+source-git-commit: 5201568bc89f87becd045c4f60e6baa34cdb1dc2
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '115'
 ht-degree: 1%
 
 ---
@@ -37,8 +37,7 @@ ht-degree: 1%
     <div>
     <a href="marketing-product-launch.md"><strong>使用Acrobat Studio加速产品发布</strong></a>
     </div>
-    <em>了解营销团队如何使用Acrobat Studio来集中产品发布资源、简化利益相关者的审阅并扩展组织就绪性
-功能： Gen AI</em>
+    <em>了解营销团队如何使用Acrobat Studio来集中产品发布资源、简化利益相关者的审阅以及扩展组织就绪性</em>
     <br>
   </td>
   <td>
