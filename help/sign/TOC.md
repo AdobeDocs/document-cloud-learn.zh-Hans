@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '700'
 ht-degree: 13%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 13%
       + [设置截止日期和提醒](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [创建可重用模板](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=zh-Hans)
       + [使用复选框组指导所需的选择](sign-beginner-tutorials/checkbox-groups.md)
+      + [何时使用创建副本](sign-beginner-tutorials/create-a-copy.md)
    + 签名 {#getting-started-signing}
       + [对文档进行电子签名](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [填写并签署文档](sign-beginner-tutorials/fill-and-sign.md)
