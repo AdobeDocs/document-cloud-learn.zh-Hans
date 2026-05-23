@@ -26,4 +26,4 @@ ht-degree: 0%
 >
 >创建副本可用于企业级计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491382?captions=chi_hans&quality=12&learn=on&hidetitle=true)

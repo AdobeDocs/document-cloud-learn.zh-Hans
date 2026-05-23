@@ -19,5 +19,5 @@ ht-degree: 0%
 
 **最适合：**&#x200B;营销经理和潜在客户、项目/计划经理以及沟通和支持团队
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491117?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
