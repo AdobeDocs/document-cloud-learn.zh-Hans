@@ -3,12 +3,13 @@ user-guide-title: Tutorials
 solution: Acrobat
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+usetq: true
 breadcrumb-title: Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8137e92fd1731d6b8f3c03176371b397061d227c
+source-git-commit: 89b2dc5ef550dff86ca2228997b7d1bda3476cd4
 workflow-type: tm+mt
 source-wordcount: 682
 ht-degree: 5%
