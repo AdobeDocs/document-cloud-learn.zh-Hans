@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,16 @@ ht-degree: 0%
       <br>
     </td>
     <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="IT用例" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>IT用例</strong></a>
+      </div>
+      <em>了解IT团队如何使用Acrobat Studio简化文档工作流程、增强安全性和合规性并扩展整个组织的治理计划</em>
+      <br>
+    </td>
+    <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="法律用例" src="../assets/use-case-legal.png" />
       </a>
@@ -54,6 +64,8 @@ ht-degree: 0%
       <em>了解法律团队如何快速了解复杂的文档以及关键风险和更改</em>
       <br>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="营销用例" src="../assets/use-case-marketing.png" />
@@ -64,8 +76,6 @@ ht-degree: 0%
       <em>了解营销团队如何简化协作、加快审批速度并将新创意更快地推向市场</em>
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="销售用例" src="../assets/use-case-sales.png" />
@@ -75,11 +85,6 @@ ht-degree: 0%
       </div>
       <em>了解销售团队如何通过更智能的协作和更快的内容创建从洞察力转向影响力</em>
       <br>
-    </td>
-    <td>
-          <img alt="间隔物" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
     </td>
     <td>
           <img alt="间隔物" src="../assets/Grayspacer.png" />

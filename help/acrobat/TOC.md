@@ -9,9 +9,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 89b2dc5ef550dff86ca2228997b7d1bda3476cd4
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: 682
+source-wordcount: 689
 ht-degree: 5%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 5%
       + HR {#hr}
          + [概述](use-cases/lob/hr/hr-overview.md)
          + [从Insight到Impact：简化入门培训工作流程](use-cases/lob/hr/hr-insights.md)
+      + IT {#it}
+         + [概述](use-cases/lob/it/it-overview.md)
+         + [无瓶颈的IT支持](use-cases/lob/it/it-enablement.md)
       + 法律 {#legal}
          + [概述](use-cases/lob/legal/legal-overview.md)
          + [将法律洞察转化为可操作的指导](use-cases/lob/legal/legal-insights.md)
