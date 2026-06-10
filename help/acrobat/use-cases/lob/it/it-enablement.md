@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # 无瓶颈的IT支持
 
-在本教程中，我们通过三个真实的工作流程来关注SecurFinancial的一位IT团队成员。 删除PII并从事件报告中生成执行摘要。 根据您的内部安全标准分析供应商合同，并生成后续调查表。 然后获取静态策略文档，并将其转换为交互式的组织范围的治理资源，员工可以在任何设备上访问和查询。 每个教程都使用Acrobat Studio的AI Assistant、PDF空间和Adobe Express，将手动工作时间减少到几分钟，同时让IT人员控制每个步骤。此用例旨在按顺序完成，每个视频均在上一步中构建。
+在本教程中，我们通过三个真实的工作流程来关注SecurFinancial的一位IT团队成员。 删除PII并从事件报告中生成执行摘要。 根据您的内部安全标准分析供应商合同，并生成后续调查表。 然后获取静态策略文档，并将其转换为交互式的组织范围的治理资源，员工可以在任何设备上访问和查询。 每个教程都使用Acrobat Studio的AI Assistant、PDF空间和Adobe Express，将手动工作时间减少到几分钟，同时让IT人员控制每个步骤。本用例旨在按顺序完成，每个视频都是在前一个步骤的基础上构建的。
 
 **最适合：**&#x200B;个IT主管、安全和运营团队
 
