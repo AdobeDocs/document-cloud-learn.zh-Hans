@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 96b25ef9f65fc25684ab971a3e5f8cdcfb5ee343
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -178,86 +178,6 @@ ht-degree: 0%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="lob/finance/finance-overview.md">
-        <img alt="财务用例" src="../assets/use-case-finance.png" />
-      </a>
-      <div>
-      <a href="lob/finance/finance-overview.md"><strong>财务用例</strong></a>
-      </div>
-      <em>了解财务团队如何使用Acrobat来创建、管理、分析和保护财务文档</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/hr/hr-overview.md">
-        <img alt="HR用例" src="../assets/use-case-hr.png" />
-      </a>
-      <div>
-      <a href="lob/hr/hr-overview.md"><strong>HR用例</strong></a>
-      </div>
-      <em>探索HR团队如何使用Acrobat在员工生命周期中管理文档和工作流</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/it/it-overview.md">
-        <img alt="IT用例" src="../assets/use-case-it.png" />
-      </a>
-      <div>
-      <a href="lob/it/it-overview.md"><strong>IT用例</strong></a>
-      </div>
-      <em>了解IT团队如何使用Acrobat Studio简化文档工作流程、增强安全性和合规性并扩展整个组织的治理计划</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/legal/legal-overview.md">
-        <img alt="法律用例" src="../assets/use-case-legal.png" />
-      </a>
-      <div>
-      <a href="lob/legal/legal-overview.md"><strong>合法用例</strong></a>
-      </div>
-      <em>了解法律团队如何快速了解复杂的文档以及关键风险和更改</em>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="lob/marketing/marketing-overview.md">
-        <img alt="营销用例" src="../assets/use-case-marketing.png" />
-      </a>
-      <div>
-      <a href="lob/marketing/marketing-overview.md"><strong>营销用例</strong></a>
-      </div>
-      <em>了解营销团队如何简化协作、加快审批速度并将新创意更快地推向市场</em>
-      <br>
-    </td>
-    <td>
-      <a href="lob/sales/sales-overview.md">
-        <img alt="销售用例" src="../assets/use-case-sales.png" />
-      </a>
-      <div>
-      <a href="lob/sales/sales-overview.md"><strong>销售用例</strong></a>
-      </div>
-      <em>了解销售团队如何通过更智能的协作和更快的内容创建从洞察力转向影响力</em>
-      <br>
-    </td>
-    <td>
-          <img alt="间隔物" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-    <td>
-          <img alt="间隔物" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-  </tr>
-</table>
-<!-- END COMMENT -->
 
 ## 政府版
 
