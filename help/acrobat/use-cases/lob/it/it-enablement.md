@@ -22,19 +22,19 @@ ht-degree: 1%
 
 首先从事件报告中删除敏感信息，保护并共享文档，然后生成管理层准备好的演示文稿 — 所有这些操作都无需离开Acrobat Studio。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492193?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 步骤 2. 分析和处理供应商合同
 
 以第1部分的安全事件报告为基础，了解如何根据贵组织的安全标准分析供应商合同、立即找出协调缺口，并生成跟进调查表 — 所有这些都来自单个PDF空间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492202?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 步骤 3. 构建和部署AI治理策略
 
 了解如何将静态策略文档转换为受管理的交互式工作区，然后将其部署为整个组织可以在任何设备上访问和查询的自助式资源。
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492211?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 您已保护和汇总了事件报告，根据您的内部安全标准分析了供应商合同，并将静态策略文档转变为适用于整个组织的受管自助式资源 — 三个工作流程、一个平台、无工具切换。
 
