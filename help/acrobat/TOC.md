@@ -1,7 +1,8 @@
 ---
 user-guide-title: Tutorials
 solution: Acrobat
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
 usetq: true
 breadcrumb-title: Tutorials
 feature-set: Document Cloud
@@ -115,7 +116,7 @@ ht-degree: 5%
    + 政府版 {#gov}
       + [概述](use-cases/gov/gov-overview.md)
       + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + 使用Acrobat随时随地工作的[5个提示](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [使用Acrobat随时随地工作的5个提示](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [提示#1 — 获取工具](use-cases/gov/get-your-tools.md)
          + [提示#2 — 协作处理文档](use-cases/gov/collaborate-on-documents.md)
          + [小技巧#3 - Protect数字文档](use-cases/gov/protect-digital-documents.md)
@@ -156,7 +157,7 @@ ht-degree: 5%
    + [概述](integrate/integrate-overview.md)
    + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
    + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [ [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+   + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
    + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
    + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
    + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
