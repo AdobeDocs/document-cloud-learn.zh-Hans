@@ -9,7 +9,8 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+nudge: true
+source-git-commit: 806a52f9cc168a6eb1b8d136bd8da3f29d5d479a
 workflow-type: tm+mt
 source-wordcount: 689
 ht-degree: 5%
