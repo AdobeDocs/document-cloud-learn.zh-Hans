@@ -24,12 +24,13 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
 workflow-type: tm+mt
 source-wordcount: 719
 ht-degree: 3%
 
 ---
+
 
 # 管理员概述
 
@@ -69,7 +70,7 @@ ht-degree: 3%
     <a href="get-started-admin.md"><strong>新管理员快速入门</strong></a>
     </div>
     <em>在这个全面的视频指南中，了解使您的组织启动并运行Acrobat Sign所需的所有工具</em>
-    <br>
+    
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -79,7 +80,7 @@ ht-degree: 3%
     <a href="up-and-running-admin.md"><strong>为管理员启动并运行</strong></a>
     </div>
     <em>管理员可在Acrobat Sign中快速启动和运行的7个关键领域概述</em>
-    <br>
+    
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -89,7 +90,7 @@ ht-degree: 3%
     <a href="docusign-templates.md"><strong>迁移Docusign模板</strong></a>
     </div>
     <em>了解如何无缝迁移Docusign模板和工作流</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -99,7 +100,7 @@ ht-degree: 3%
     <a href="add-users-to-your-account.md"><strong>添加新用户</strong></a>
     </div>
     <em>了解如何向Acrobat Sign添加新用户</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -111,7 +112,7 @@ ht-degree: 3%
     <a href="automatic-assignment-rules.md"><strong>启用自动用户分配规则</strong></a>
     </div>
     <em>了解如何设置自动分配Admin Console，以向用户授予对Acrobat Sign的访问权限</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-admin.md">
@@ -121,7 +122,7 @@ ht-degree: 3%
     <a href="add-admin.md"><strong>添加新帐户管理员</strong></a>
     </div>
     <em>了解如何创建新用户或将现有用户提升为Acrobat Sign管理员角色</em>
-    <br>
+    
   </td>
     <td>
       <a href="promote-admin.md">
@@ -131,7 +132,7 @@ ht-degree: 3%
       <a href="promote-admin.md"><strong>分配产品和支持管理员角色</strong></a>
       </div>
       <em>了解如何在Admin Console中分配Acrobat Sign用户产品管理员和支持管理员角色</em>
-      <br>
+      
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -141,7 +142,7 @@ ht-degree: 3%
       <a href="create-and-manage-groups.md"><strong>创建和管理组</strong></a>
       </div>
       <em>创建组、将用户添加到组和编辑组设置</em>
-      <br>
+      
     </td>
 </tr>
 <tr>
@@ -153,7 +154,7 @@ ht-degree: 3%
       <a href="set-up-your-external-archive.md"><strong>设置外部归档</strong></a>
       </div>
       <em>为已签名协议的备份副本创建外部归档</em>
-      <br>
+      
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -163,7 +164,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/create-a-template.md"><strong>创建可重复使用的模板</strong></a>
     </div>
     <em>创建可重复使用的文档模板以提高速度和一致性</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -173,7 +174,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/creating-a-report.md"><strong>报告和交易使用情况</strong></a>
     </div>
     <em>了解如何生成报告和跟踪交易使用情况</em>
-    <br>
+    
   </td>
   <td>
     <a href="report-options.md">
@@ -183,7 +184,7 @@ ht-degree: 3%
     <a href="report-options.md"><strong>用户的报告选项</strong></a>
     </div>
     <em>了解如何为用户设置报告选项</em>
-    <br>
+    
   </td>
 </tr>  
 <tr>
@@ -195,7 +196,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/webform.md"><strong>正在创建Web表单</strong></a>
     </div>
     <em>创建可以在您的网站上直接进行电子签名的文档</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -205,7 +206,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/modify-webform.md"><strong>修改现有Web表单</strong></a>
     </div>
     <em>了解如何禁用、编辑和重新启用现有Web表单</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -215,7 +216,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/megasign.md"><strong>批量发送</strong></a>
     </div>
     <em>一次为任何文档收集数千个签名</em>
-    <br>
+    
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -225,7 +226,7 @@ ht-degree: 3%
     <a href="building-a-custom-workflow.md"><strong>生成自定义工作流</strong></a>
     </div>
     <em>了解如何创建和使用自定义工作流以加快创建和发送协议的过程</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -237,7 +238,7 @@ ht-degree: 3%
     <a href="audit-reports.md"><strong>审核报告</strong></a>
     </div>
     <em>了解如何访问、利用和配置审核报告</em>
-    <br>
+    
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -247,7 +248,7 @@ ht-degree: 3%
       <a href="set-up-shared-events-and-alert.md"><strong>配置事件和警告的通知</strong></a>
       </div>
       <em>为您的帐户配置事件和警告通知</em>
-      <br>
+      
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -257,7 +258,7 @@ ht-degree: 3%
       <a href="configure-modify-agreement.md"><strong>配置和管理修改协议</strong></a>
       </div>
       <em>了解如何配置和管理修改协议</em>
-      <br>
+      
     </td>
     <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
@@ -279,7 +280,7 @@ ht-degree: 3%
     <a href="learn-about-global-settings.md"><strong>全局设置</strong></a>
     </div>
     <em>全局编辑整个组织或特定组的产品设置</em>
-    <br>
+    
   </td>
   <td>
     <a href="share-account-access.md">
@@ -289,7 +290,7 @@ ht-degree: 3%
     <a href="share-account-access.md"><strong>共享帐户访问权限</strong></a>
     </div>
     <em>设置对另一个用户帐户中的事务的仅查看访问权限</em>
-    <br>
+    
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -299,7 +300,7 @@ ht-degree: 3%
     <a href="advanced-account-sharing.md"><strong>高级帐户共享</strong></a>
     </div>
     <em>设置帐户共享以允许管理员和用户委派其发送、修改和查看权限</em>
-    <br>
+    
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -309,7 +310,7 @@ ht-degree: 3%
     <a href="bulk-download-tool.md"><strong>批量下载工具</strong></a>
     </div>
     <em>了解如何使用批量下载工具快速下载所有已签名的协议</em>
-    <br>
+    
   </td> 
 </tr>
 <tr>
@@ -321,7 +322,7 @@ ht-degree: 3%
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign文本标记</strong></a>
     <div>
     <em>使用Adobe Acrobat通过文本标记构建Acrobat Sign表单字段</em>
-    <br>
+    
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -331,7 +332,7 @@ ht-degree: 3%
     <a href="use-bio-pharma-settings.md"><strong>使用生物识别设置</strong></a>
     </div>
     <em>设置生物识别设置，以使您符合FDA 21 CFR Part 11要求</em>
-    <br>
+    
   </td>
   <td>
     <a href="privacy.md">
@@ -341,7 +342,7 @@ ht-degree: 3%
     <a href="privacy.md"><strong>如何设置隐私管理员</strong></a>
     </div>
     <em>了解如何设置和使用隐私管理员</em>
-    <br>
+    
   </td>
   <td>
     <img alt="间隔物" src="../assets/Grayspacer.png" />
