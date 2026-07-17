@@ -10,10 +10,10 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 806a52f9cc168a6eb1b8d136bd8da3f29d5d479a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
 source-wordcount: 689
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -22,154 +22,154 @@ ht-degree: 5%
 
 + [概述](overview.md)
 + 入门 {#get-started}
-   + [概述](getting-started/getting-started-overview.md)
-   + 了解基本信息 {#basics}
-      + [工作区基础知识](getting-started/workspace-basics.md)
-      + [新的Acrobat体验](getting-started/new-experience.md)
-      + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
-      + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
-      + [随时随地提高工作效率](getting-started/productivity.md)
-      + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
-   + 使用AI更智能地工作 {#ai}
-      + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
-      + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
-      + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
-   + 创建和整理 {#create}
-      + [创建PDF](getting-started/create-pdf.md)
-      + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
-      + [组织页面](getting-started/organize.md)
-      + [设计新页面](getting-started/add-custom-page.md)
-      + [纸张到PDF](getting-started/scan-and-ocr.md)
-   + 编辑和增强 {#edit}
-      + [编辑PDF中的文本](getting-started/edit-pdf.md)
-      + [在PDF中编辑图形](getting-started/edit-graphics.md)
-      + [设置此PDF的风格](getting-started/stylize-this-pdf.md)
-      + [自动调整布局](getting-started/auto-adjust-layout.md)
-      + [将PDF转换为其他文件格式](getting-started/export-pdf.md)
-   + 协作和审阅 {#collaborate}
-      + [实时协作](getting-started/collaborate.md)
-      + [对PDF发表评论](getting-started/comment-on-pdf-files.md)
-   + Forms、签名和保护 {#tools}
-      + [创建可填写表单](getting-started/create-fillable-forms.md)
-      + [PDF forms](getting-started/fill-and-sign.md)
-      + [Protect带密码的PDF文件](getting-started/password-protect.md)
-      + [获取签名](getting-started/signatures.md)
-      + [跟踪文档](getting-started/track.md)
+  + [概述](getting-started/getting-started-overview.md)
+  + 了解基本信息 {#basics}
+    + [什么是Acrobat Studio？](getting-started/acrobat-studio.md)
+    + [工作区基础知识](getting-started/workspace-basics.md)
+    + [新的Acrobat体验](getting-started/new-experience.md)
+    + [使用 [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=zh-Hans#microsoft)
+    + [随时随地使用Acrobat Web](getting-started/acrobatweb.md)
+    + [随时随地提高工作效率](getting-started/productivity.md)
+    + [PDF来自哪里？](getting-started/where-do-pdfs-come-from.md)
+  + 使用AI更智能地工作 {#ai}
+    + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
+    + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
+  + 创建和整理 {#create}
+    + [创建PDF](getting-started/create-pdf.md)
+    + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
+    + [组织页面](getting-started/organize.md)
+    + [设计新页面](getting-started/add-custom-page.md)
+    + [纸张到PDF](getting-started/scan-and-ocr.md)
+  + 编辑和增强 {#edit}
+    + [编辑PDF中的文本](getting-started/edit-pdf.md)
+    + [在PDF中编辑图形](getting-started/edit-graphics.md)
+    + [设置此PDF的风格](getting-started/stylize-this-pdf.md)
+    + [自动调整布局](getting-started/auto-adjust-layout.md)
+    + [将PDF转换为其他文件格式](getting-started/export-pdf.md)
+  + 协作和审阅 {#collaborate}
+    + [实时协作](getting-started/collaborate.md)
+    + [对PDF发表评论](getting-started/comment-on-pdf-files.md)
+  + Forms、签名和保护 {#tools}
+    + [创建可填写表单](getting-started/create-fillable-forms.md)
+    + [PDF forms](getting-started/fill-and-sign.md)
+    + [Protect带密码的PDF文件](getting-started/password-protect.md)
+    + [获取签名](getting-started/signatures.md)
+    + [跟踪文档](getting-started/track.md)
 + 辅助功能系列 {#accessibility-tutorials}
-   + [概述](accessibility-series/accessibility-overview.md)
-   + [可访问PDF文件的内容及其原因](accessibility-series/what-why-accessible-pdf.md)
-   + [设置工作区](accessibility-series/set-up-workspace.md)
-   + [从Word创建可访问的PDF](accessibility-series/create-accessible-from-word.md)
-   + [在Acrobat中创建可访问的PDF](accessibility-series/accessible-acrobat.md)
-   + [标记的基础知识](accessibility-series/basics-tagging.md)
-   + [扫描的文档](accessibility-series/scanned-documents.md)
-   + [创建具有辅助工具的表单](accessibility-series/create-accessible-forms.md)
-   + [复杂列表](accessibility-series/complex-lists.md)
-   + [复杂表格](accessibility-series/complex-tables.md)
-   + [提供无障碍引导式操作](accessibility-series/make-accessible-action.md)
+  + [概述](accessibility-series/accessibility-overview.md)
+  + [可访问PDF文件的内容及其原因](accessibility-series/what-why-accessible-pdf.md)
+  + [设置工作区](accessibility-series/set-up-workspace.md)
+  + [从Word创建可访问的PDF](accessibility-series/create-accessible-from-word.md)
+  + [在Acrobat中创建可访问的PDF](accessibility-series/accessible-acrobat.md)
+  + [标记的基础知识](accessibility-series/basics-tagging.md)
+  + [扫描的文档](accessibility-series/scanned-documents.md)
+  + [创建具有辅助工具的表单](accessibility-series/create-accessible-forms.md)
+  + [复杂列表](accessibility-series/complex-lists.md)
+  + [复杂表格](accessibility-series/complex-tables.md)
+  + [提供无障碍引导式操作](accessibility-series/make-accessible-action.md)
 + 高级任务 {#advanced-tasks}
-   + [概述](advanced-tasks/advanced-tasks-overview.md)
-   + 准备和增强 {#prepare}
-      + [压缩和优化PDF](advanced-tasks/reduce.md)
-      + [优化扫描的文档](advanced-tasks/optimizescan.md)
-      + [SEO的Optimize PDF](advanced-tasks/optimizeseo.md)
-      + [添加书签和超链接](advanced-tasks/bookmarks.md)
-      + [检测两个PDF之间的差异](advanced-tasks/compare.md)
-      + [增强您的PDF](advanced-tasks/enhance.md)
-   + 创建和管理表单 {#forms}
-      + [处理表单域](advanced-tasks/workforms.md)
-      + [高级表单字段](advanced-tasks/advancedforms.md)
-      + [处理表单数据](advanced-tasks/formdata.md)
-   + 保护 {#protect}
-      + [删除敏感信息](advanced-tasks/redact.md)
-   + 自动化和缩放工作流 {#automate}
-      + [引导式操作](advanced-tasks/action.md)
-      + [自定义命令和工具](advanced-tasks/custom.md)
+  + [概述](advanced-tasks/advanced-tasks-overview.md)
+  + 准备和增强 {#prepare}
+    + [压缩和优化PDF](advanced-tasks/reduce.md)
+    + [优化扫描的文档](advanced-tasks/optimizescan.md)
+    + [SEO的Optimize PDF](advanced-tasks/optimizeseo.md)
+    + [添加书签和超链接](advanced-tasks/bookmarks.md)
+    + [检测两个PDF之间的差异](advanced-tasks/compare.md)
+    + [增强您的PDF](advanced-tasks/enhance.md)
+  + 创建和管理表单 {#forms}
+    + [处理表单域](advanced-tasks/workforms.md)
+    + [高级表单字段](advanced-tasks/advancedforms.md)
+    + [处理表单数据](advanced-tasks/formdata.md)
+  + 保护 {#protect}
+    + [删除敏感信息](advanced-tasks/redact.md)
+  + 自动化和缩放工作流 {#automate}
+    + [引导式操作](advanced-tasks/action.md)
+    + [自定义命令和工具](advanced-tasks/custom.md)
 + AI支持 {#ai-powered}
-   + [概述](ai-powered/ai-overview.md)
-   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [设置此PDF的风格](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
-+ 用例 {#use-cases}
-   + [概述](use-cases/use-cases-overview.md)
-   + 业务线 {#lob}
-      + 财务 {#finance}
-         + [概述](use-cases/lob/finance/finance-overview.md)
-         + [准备从洞察到交付的面向执行官的财务文档](use-cases/lob/finance/finance-insights.md)
-      + HR {#hr}
-         + [概述](use-cases/lob/hr/hr-overview.md)
-         + [从Insight到Impact：简化入门培训工作流程](use-cases/lob/hr/hr-insights.md)
-      + IT {#it}
-         + [概述](use-cases/lob/it/it-overview.md)
-         + [无瓶颈的IT支持](use-cases/lob/it/it-enablement.md)
-      + 法律 {#legal}
-         + [概述](use-cases/lob/legal/legal-overview.md)
-         + [将法律洞察转化为可操作的指导](use-cases/lob/legal/legal-insights.md)
-      + 营销 {#marketing}
-         + [概述](use-cases/lob/marketing/marketing-overview.md)
-         + [使用Acrobat Studio加速产品发布](use-cases/lob/marketing/marketing-product-launch.md)
-      + 销售团队 {#sales}
-         + [概述](use-cases/lob/sales/sales-overview.md)
-         + [将客户情报转变为成功的销售资产](use-cases/lob/sales/sales-insights.md)
-   + 政府版 {#gov}
-      + [概述](use-cases/gov/gov-overview.md)
-      + 使用Acrobat随时随地工作的5个提示 {#tips}
-         + [使用Acrobat随时随地工作的5个提示](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [提示#1 — 获取工具](use-cases/gov/get-your-tools.md)
-         + [提示#2 — 协作处理文档](use-cases/gov/collaborate-on-documents.md)
-         + [小技巧#3 - Protect数字文档](use-cases/gov/protect-digital-documents.md)
-         + [提示#4 — 处理表单和签名](use-cases/gov/work-with-forms-and-signatures.md)
-         + [提示#5 — 在移动设备上扫描和编辑](use-cases/gov/scan-and-edit-on-mobile.md)
+  + [概述](ai-powered/ai-overview.md)
+  + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [设置此PDF的风格](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ 使用案例 {#use-cases}
+  + [概述](use-cases/use-cases-overview.md)
+  + 业务线 {#lob}
+    + 财务 {#finance}
+      + [概述](use-cases/lob/finance/finance-overview.md)
+      + [准备从洞察到交付的面向执行官的财务文档](use-cases/lob/finance/finance-insights.md)
+    + HR {#hr}
+      + [概述](use-cases/lob/hr/hr-overview.md)
+      + [从Insight到Impact：简化入门培训工作流程](use-cases/lob/hr/hr-insights.md)
+    + IT {#it}
+      + [概述](use-cases/lob/it/it-overview.md)
+      + [无瓶颈的IT支持](use-cases/lob/it/it-enablement.md)
+    + 法务 {#legal}
+      + [概述](use-cases/lob/legal/legal-overview.md)
+      + [将法律洞察转化为可操作的指导](use-cases/lob/legal/legal-insights.md)
+    + 市场营销 {#marketing}
+      + [概述](use-cases/lob/marketing/marketing-overview.md)
+      + [使用Acrobat Studio加速产品发布](use-cases/lob/marketing/marketing-product-launch.md)
+    + 销售团队 {#sales}
+      + [概述](use-cases/lob/sales/sales-overview.md)
+      + [将客户情报转变为成功的销售资产](use-cases/lob/sales/sales-insights.md)
+  + 政府版 {#gov}
+    + [概述](use-cases/gov/gov-overview.md)
+    + 使用Acrobat随时随地工作的5个提示 {#tips}
+      + [使用Acrobat随时随地工作的5个提示](use-cases/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + [提示#1 — 获取工具](use-cases/gov/get-your-tools.md)
+      + [提示#2 — 协作处理文档](use-cases/gov/collaborate-on-documents.md)
+      + [小技巧#3 - Protect数字文档](use-cases/gov/protect-digital-documents.md)
+      + [提示#4 — 处理表单和签名](use-cases/gov/work-with-forms-and-signatures.md)
+      + [提示#5 — 在移动设备上扫描和编辑](use-cases/gov/scan-and-edit-on-mobile.md)
 + 60秒Acrobat {#60-second}
-   + [概述](60-second/60-second-overview.md)
-   + [使用Acrobat Web版编辑PDF](60-second/edit.md)
-   + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
-   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-   + [快速整理页面](60-second/organize.md)
-   + [在您的PDF中编辑照片](60-second/editphoto.md)
-   + [在PDF中编辑图形](60-second/editgraphic.md)
-   + [将PDF转换为Word](60-second/convert-pdf-word.md)
-   + [将PDF转换为Excel](60-second/convert-pdf-excel.md)
-   + [将PDF转换为PowerPoint](60-second/convert-pdf-powerpoint.md)
-   + [从手机Export PDF到Word](60-second/exportwordphone.md)
-   + [从Microsoft Word创建PDF](60-second/word-to-pdf.md)
-   + [使用Acrobat创建PDF文件](60-second/create-from-acrobat.md)
-   + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
-   + [立即创建照片PDF](60-second/photo.md)
-   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
-   + [快速创建更高效的PDF文件](60-second/optimize.md)
-   + [对纸质文档进行电子签名](60-second/sign.md)
-   + [使用密码Protect您的PDF文件](60-second/protect.md)
-   + [密文：正确方法](60-second/redaction.md)
-   + [共享以供注释](60-second/share-comment.md)
-   + [在Teams中共享和注释PDF文件](60-second/share-comment-teams.md)
-   + [使用摘要整理PDF注释](60-second/summarize-comments.md)
-   + [将PDF注释加载到InDesign中](60-second/indesign.md)
-   + [让Acrobat帮助您创建可访问的PDF](60-second/accessible.md)
-   + [将PDF匹配到标准格式](60-second/conform.md)
-   + [使用“PDF比较”发现差异](60-second/compare.md)
-   + [一次搜索多个PDF文件](60-second/search.md)
+  + [概述](60-second/60-second-overview.md)
+  + [使用Acrobat Web版编辑PDF](60-second/edit.md)
+  + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
+  + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
+  + [快速整理页面](60-second/organize.md)
+  + [在您的PDF中编辑照片](60-second/editphoto.md)
+  + [在PDF中编辑图形](60-second/editgraphic.md)
+  + [将PDF转换为Word](60-second/convert-pdf-word.md)
+  + [将PDF转换为Excel](60-second/convert-pdf-excel.md)
+  + [将PDF转换为PowerPoint](60-second/convert-pdf-powerpoint.md)
+  + [从手机Export PDF到Word](60-second/exportwordphone.md)
+  + [从Microsoft Word创建PDF](60-second/word-to-pdf.md)
+  + [使用Acrobat创建PDF文件](60-second/create-from-acrobat.md)
+  + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
+  + [立即创建照片PDF](60-second/photo.md)
+  + [在手机上将PPT文件转换为PDF](60-second/phone.md)
+  + [快速创建更高效的PDF文件](60-second/optimize.md)
+  + [对纸质文档进行电子签名](60-second/sign.md)
+  + [使用密码Protect您的PDF文件](60-second/protect.md)
+  + [密文：正确方法](60-second/redaction.md)
+  + [共享以供注释](60-second/share-comment.md)
+  + [在Teams中共享和注释PDF文件](60-second/share-comment-teams.md)
+  + [使用摘要整理PDF注释](60-second/summarize-comments.md)
+  + [将PDF注释加载到InDesign中](60-second/indesign.md)
+  + [让Acrobat帮助您创建可访问的PDF](60-second/accessible.md)
+  + [将PDF匹配到标准格式](60-second/conform.md)
+  + [使用“PDF比较”发现差异](60-second/compare.md)
+  + [一次搜索多个PDF文件](60-second/search.md)
 + 技能构建者 {#skill-builders}
-   + [在线研讨会](skill-builder/skill-builder-webinars.md)
+  + [在线研讨会](skill-builder/skill-builder-webinars.md)
 + 集成 {#integrations}
-   + [概述](integrate/integrate-overview.md)
-   + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
-   + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
-   + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
-   + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
-   + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
-   + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
-   + [使用 [!DNL Microsoft Purview Information] 敏感度标签的PDF](integrate/microsoftsensitivitylabels.md)
-   + [适用于 [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
-   + [处理来自 [!DNL Dropbox]的文件](integrate/acrobat-dropbox.md)
+  + [概述](integrate/integrate-overview.md)
+  + [从 [!DNL Microsoft Word]创建PDF](integrate/createfromword.md)
+  + [在 [!DNL Office] 中为Web创建PDF](integrate/createofficeweb.md)
+  + [&#x200B; [!DNL Microsoft Teams]中的PDF协作](integrate/acrobatandteams.md)
+  + [处理您的 [!DNL SharePoint] 文件](integrate/acrobatandsp.md)
+  + [将电子邮件和附件转换为 [!DNL Outlook]中的PDF](integrate/outlook.md)
+  + [使用 [!DNL Microsoft Edge]浏览时创建PDF内容](integrate/edge.md)
+  + [使用 [!DNL Microsoft Purview Information] 敏感度标签的PDF](integrate/microsoftsensitivitylabels.md)
+  + [适用于 [!DNL Google Drive]的Adobe Acrobat](integrate/acrobatandgoogle.md)
+  + [处理来自 [!DNL Dropbox]的文件](integrate/acrobat-dropbox.md)
 + 开发 {#develop}
-   + [概述](develop/develop-overview.md)
+  + [概述](develop/develop-overview.md)
 + 部署 {#deploy}
-   + [概述](deploy/deploy-overview.md)
-   + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
+  + [概述](deploy/deploy-overview.md)
+  + [面向ETLA客户的重要Acrobat DC产品更新](deploy/signentitlementchanges.md)
 + 移动设备 {#mobile}
-   + [概述](mobile/mobile-overview.md)
-   + [随时随地提高工作效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
-   + [扫描任何内容以PDF](mobile/scan-mobile-app.md)
+  + [概述](mobile/mobile-overview.md)
+  + [随时随地提高工作效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [扫描任何内容以PDF](mobile/scan-mobile-app.md)

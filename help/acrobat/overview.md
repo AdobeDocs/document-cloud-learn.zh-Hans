@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 3%
 
 ---
 
 # Acrobat教程
 
 Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑、共享和签署PDF来帮助保持业务运转。 您可以在此处找到大量学习体验，旨在快速让初学者或高级用户了解Adobe Acrobat的最新动态。
+
+>[!NOTE]
+>
+>功能访问权限取决于您的Acrobat计划。 使用[Acrobat计划比较](https://www.adobe.com/acrobat/pricing.html)确定您可以使用的功能。 某些功能正在分阶段推出，可能尚未向所有人提供。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -136,8 +140,8 @@ Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑�
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="用例" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="用例"
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="使用案例" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="使用案例"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +149,7 @@ Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="用例">用例</a>
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="使用案例">用例</a>
                     </p>
                     <p class="is-size-6">Acrobat真实业务工作流程</p>
                 </div>
