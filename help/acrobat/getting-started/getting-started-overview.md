@@ -127,7 +127,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="随时随地使用Acrobat Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="随时随地使用Acrobat Web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443545?captions=chi_hans&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784301206118" alt="随时随地使用Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -150,7 +150,7 @@ ht-degree: 1%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="随时随地提高工作效率" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="随时随地提高工作效率"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/347144?captions=chi_hans&quality=12&hidetitle=true&format=jpeg&nocache=1784301206074" alt="随时随地提高工作效率"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
