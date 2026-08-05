@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解如何直接在Microsoft SharePoint中跟踪协议的进度。 发送文档以请求签名后，您可以跟踪其状态，而无需离开SharePoint。
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409582?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
