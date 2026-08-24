@@ -9,7 +9,7 @@ role: User
 type: Tutorial
 solution-title: Document Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.zh-Hans
 index: true
 source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
 workflow-type: tm+mt
