@@ -1,7 +1,8 @@
 ---
 cloud: Document Cloud
 solution: Acrobat
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
 usetq: true
 feature-set: Document Cloud
 role: User
