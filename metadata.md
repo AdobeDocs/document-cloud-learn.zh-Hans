@@ -1,18 +1,19 @@
 ---
 cloud: Document Cloud
+solution: Acrobat
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+usetq: true
+feature-set: Document Cloud
+role: User
+type: Tutorial
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/cn/support/document-cloud.html
-getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/cn/acrobat/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/cn/acrobat/tutorials.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/document-cloud-learn.zh-Hans
 index: true
-type: Tutorial
-source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
+source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: 149
 ht-degree: 0%
 
 ---

@@ -1,18 +1,10 @@
 ---
 user-guide-title: Tutorials
-solution: Acrobat
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-usetq: true
-breadcrumb-title: Tutorials
-feature-set: Document Cloud
-role: User
-type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
+source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
 workflow-type: tm+mt
-source-wordcount: 689
+source-wordcount: '687'
 ht-degree: 6%
 
 ---
@@ -89,7 +81,7 @@ ht-degree: 6%
   + [概述](ai-powered/ai-overview.md)
   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [设置此PDF的风格](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 使用案例 {#use-cases}
