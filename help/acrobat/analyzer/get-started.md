@@ -5,8 +5,7 @@ feature: Workflow, Gen AI
 role: User
 level: Beginner
 jira: KT-22299
-product_v2: Acrobat
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: 16e9e75c155262868c06ed67573c26b6cd3e30e1
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
