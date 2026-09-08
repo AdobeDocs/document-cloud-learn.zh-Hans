@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何在Acrobat Studio中使用Analyzer创建、测试和优化属性。 属性定义您希望从文档中提取的信息，帮助您始终如一地捕获关键数据并发现大型收藏集的深入见解。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503139?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503147?captions=chi_hans&quality=12&learn=on&hidetitle=true)
