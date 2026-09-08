@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 6%
   + [概述](analyzer/analyzer-overview.md)
   + [入门](analyzer/get-started.md)
   + [使用收藏集](analyzer/collections.md)
+  + [使用属性](analyzer/attributes.md)
   + [合并与收购集成后合同审计](analyzer/m-and-a-post-audit.md)
 + 使用案例 {#use-cases}
   + [概述](use-cases/use-cases-overview.md)
@@ -124,7 +125,7 @@ ht-degree: 6%
   + [使用Acrobat Web版编辑PDF](60-second/edit.md)
   + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-  + [快速整理页面](60-second/organize.md)
+  + [在捕捉中整理页面](60-second/organize.md)
   + [在您的PDF中编辑照片](60-second/editphoto.md)
   + [在PDF中编辑图形](60-second/editgraphic.md)
   + [将PDF转换为Word](60-second/convert-pdf-word.md)
