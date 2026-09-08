@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="使用属性" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>使用属性</strong></a>
+    </div>
+    了解如何在Acrobat Studio中使用Analyzer创建、测试和优化属性
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="合并与收购集成后合同审计" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     </div>
     了解Analyser如何帮助企业在几分钟而不是几周内完成合并与收购后合同审核
     <br>
-  </td>
-  <td>
-      <img alt="间隔物" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
