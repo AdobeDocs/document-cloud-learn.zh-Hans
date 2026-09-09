@@ -1,6 +1,6 @@
 ---
-title: 从 [!DNL Microsoft Word]创建PDF
-description: 了解如何从 [!DNL Microsoft Word]创建PDF
+title: 如何从 [!DNL Microsoft Word]创建PDF？
+description: 观看有关从 [!DNL Microsoft Word] 文件创建PDF的视频。
 feature: Create PDF
 role: User
 level: Beginner
@@ -13,10 +13,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: 01ccbf30b70146766bca37d3b96caca8e53629f1
 workflow-type: tm+mt
-source-wordcount: 37
-ht-degree: 18%
+source-wordcount: 42
+ht-degree: 16%
 
 ---
 
