@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解Acrobat Studio中的Analyzer如何使用GenAI提取关键信息并帮助查找存在风险的合同，从而帮助企业在几分钟而不是数周内对合并与收购后的合同进行审计。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496362?captions=chi_hans&quality=12&learn=on&hidetitle=true)
