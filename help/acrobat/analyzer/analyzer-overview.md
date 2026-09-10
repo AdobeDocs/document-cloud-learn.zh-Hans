@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: b7d8f600864bafa0c45dfae4e1896180c06e514d
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,11 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
 
 >[!TAB 使用收藏集]
 
-了解如何创建手动和链接的[收藏集](collections.md)、应用属性以及随着内容的增长保持文档井然有序，
+了解如何创建手动和链接的[收藏集](collections.md)、应用属性以及随着内容的增长保持文档井然有序。
+
+>[!TAB 使用属性]
+
+了解如何在Acrobat Studio中使用Analyzer创建、测试和优化[属性](attributes.md)。
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="合并与收购集成后合同审计" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
+      <img alt="Analyzer使用案例" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>合并和收购后集成合同审核</strong></a>
+    &lt;a href="/help/acrobat/analyzer/use-case/m-and-a-post-audit.md&gt;<strong>Analyzer用例</strong></a>
     </div>
-    了解Analyser如何帮助企业在几分钟而不是几周内完成合并与收购后合同审核
+    探索真实使用案例，这些案例可展示组织如何简化审核流程、发现洞察力，以及将文档内容转化为业务就绪型数据
     <br>
   </td>
 </tr>
