@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 2%
@@ -69,11 +69,11 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+    <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio中的Analyzer用例" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Acrobat Studio用例中的Analyzer</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio用例中的Analyzer</strong></a>
     </div>
     探索真实使用案例，这些案例可展示组织如何简化审核流程、发现洞察力，以及将文档内容转化为业务就绪型数据
     <br>
