@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: da98ee8b3d0fdf974740fdaf419c49dde8fe70c2
+source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 1%
@@ -95,17 +95,17 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
     <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
    <td>
-    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
