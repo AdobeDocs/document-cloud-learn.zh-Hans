@@ -1,13 +1,13 @@
 ---
 title: M&A集成后合同审核
-description: 了解Analyser如何帮助企业在几分钟而不是几周内完成合并与收购后合同审核
+description: 了解Acrobat Studio中的Analyser如何帮助企业在几分钟而不是几周内运行合并与收购后合同审核
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [入门](analyzer/get-started.md)
   + [使用收藏集](analyzer/collections.md)
   + [使用属性](analyzer/attributes.md)
-  + [合并与收购集成后合同审计](analyzer/m-and-a-post-audit.md)
+  + 使用案例 {#use-cases}
+    + [概述](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [合并与收购集成后合同审计](analyzer/use-cases/m-and-a-post-audit.md)
+    + [加快财会收入与审计评审](analyzer/use-cases/accelerate-revenue.md)
+    + [将数据隐私风险转变为全面可见性和监控](analyzer/use-cases/data-privacy-risk.md)
   + [在线研讨会](https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用案例 {#use-cases}
   + [概述](use-cases/use-cases-overview.md)
@@ -126,7 +130,7 @@ ht-degree: 6%
   + [使用Acrobat Web版编辑PDF](60-second/edit.md)
   + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-  + [快速整理页面](60-second/organize.md)
+  + [在捕捉中整理页面](60-second/organize.md)
   + [在您的PDF中编辑照片](60-second/editphoto.md)
   + [在PDF中编辑图形](60-second/editgraphic.md)
   + [将PDF转换为Word](60-second/convert-pdf-word.md)
@@ -138,7 +142,7 @@ ht-degree: 6%
   + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
   + [立即创建照片PDF](60-second/photo.md)
   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
-  + [快速创建更高效的PDF文件](60-second/optimize.md)
+  + [在捕捉中创建更高效的PDF文件](60-second/optimize.md)
   + [对纸质文档进行电子签名](60-second/sign.md)
   + [使用密码Protect您的PDF文件](60-second/protect.md)
   + [密文：正确方法](60-second/redaction.md)
