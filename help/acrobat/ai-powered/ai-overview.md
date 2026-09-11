@@ -16,32 +16,32 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
+source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
-source-wordcount: 467
+source-wordcount: 799
 ht-degree: 0%
 
 ---
 
 # AI支持概述
 
-了解AI如何转变您的PDF工作流程。 了解可简化文档任务并提高生产率的工具。
+了解AI如何变换您的PDF工作流。 了解可简化文档任务并提高生产率的工具。
 
 ## 新增功能
 
 >[!BEGINTABS]
 
->[!TAB 使用PDF空间提高团队效率]
-
-使用个性化的AI助理将文件和网站集合转变为[可共享、对话的知识中心](../getting-started/pdf-spaces-legal.md)。
-
 >[!TAB 什么是Acrobat Studio？]
 
 了解如何使用[Acrobat Studio](../getting-started/acrobat-studio.md)创建品牌安全内容、提取见解并简化复杂工作。
 
->[!TAB 用AI Assistant发现PDF见解]
+>[!TAB Acrobat Studio中的分析器]
 
-了解如何[发现PDF中的PDF见解](../getting-started/ai-assistant.md)。
+了解[Acrobat Studio中的Analyzer](../analyzer/analyzer-overview.md)如何帮助业务用户从数以万计的非结构化文档中提取结构化、可审核的见解，以自动执行以文档为中心的业务流程。
+
+>[!TAB 使用PDF空间提高团队效率]
+
+使用个性化的AI助理将文件和网站集合转变为[可共享、对话的知识中心](../getting-started/pdf-spaces-legal.md)。
 
 >[!ENDTABS]
 
@@ -49,6 +49,52 @@ ht-degree: 0%
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="什么是Acrobat Studio？" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="什么是Acrobat Studio？"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" title="什么是Acrobat Studio？">什么是Acrobat Studio？</a>
+                    </p>
+                    <p class="is-size-6">了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂的工作</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">查看教程</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyzer in Acrobat Studio">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Acrobat Studio中的分析器" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/media_1659aa44f13bf62372a46a6a0eb7bc5839cfa59f0.webp?width=2000&format=webply&optimize=medium" alt="Acrobat研究中的Analyzer"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Acrobat Studio中的分析器">Acrobat Studio中的分析器</a>
+                    </p>
+                    <p class="is-size-6">了解Acrobat Studio中的Analyzer如何帮助企业用户从数以万计的非结构化文档中提取结构化、可审核的见解</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">浏览</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -90,29 +136,6 @@ ht-degree: 0%
                     <p class="is-size-6">了解如何将文件和网站集合转变为可共享、对话式的知识中心</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">查看教程</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" title="什么是Acrobat Studio？" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="什么是Acrobat Studio？"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" title="什么是Acrobat Studio？">什么是Acrobat Studio？</a>
-                    </p>
-                    <p class="is-size-6">了解如何使用Acrobat Studio创建品牌安全内容、提取见解并简化复杂工作</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">查看教程</span>
                 </a>
             </div>

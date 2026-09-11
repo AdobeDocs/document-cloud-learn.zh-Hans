@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2884
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 1%
 
 >[!BEGINTABS]
 
+>[!TAB 什么是Acrobat Studio？]
+
+了解如何使用[Acrobat Studio](acrobat-studio.md)创建品牌安全内容、提取见解并简化复杂工作。
+
 >[!TAB 纸张到PDF]
 
 了解如何将[纸质文档](scan-and-ocr.md)转换为可搜索且可编辑的PDF文件
@@ -39,10 +43,6 @@ ht-degree: 1%
 >[!TAB 使用PDF空间提高团队效率]
 
 使用个性化的AI助理将文件和网站集合转变为[可共享、对话的知识中心](pdf-spaces-legal.md)。
-
->[!TAB 什么是Acrobat Studio？]
-
-了解如何使用[Acrobat Studio](acrobat-studio.md)创建品牌安全内容、提取见解并简化复杂工作。
 
 >[!TAB 用AI Assistant发现PDF见解]
 

@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
+source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '736'
 ht-degree: 6%
 
 ---
@@ -79,9 +79,9 @@ ht-degree: 6%
     + [自定义命令和工具](advanced-tasks/custom.md)
 + AI支持 {#ai-powered}
   + [概述](ai-powered/ai-overview.md)
+  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [设置此PDF的风格](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio中的分析器 {#analyzer}
@@ -89,6 +89,7 @@ ht-degree: 6%
   + [入门](analyzer/get-started.md)
   + [使用收藏集](analyzer/collections.md)
   + [使用属性](analyzer/attributes.md)
+  + [探索高级功能](analyzer/advanced.md)
   + 使用案例 {#use-cases}
     + [概述](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [合并与收购集成后合同审计](analyzer/use-cases/m-and-a-post-audit.md)
@@ -130,7 +131,7 @@ ht-degree: 6%
   + [使用Acrobat Web版编辑PDF](60-second/edit.md)
   + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-  + [在捕捉中整理页面](60-second/organize.md)
+  + [快速整理页面](60-second/organize.md)
   + [在您的PDF中编辑照片](60-second/editphoto.md)
   + [在PDF中编辑图形](60-second/editgraphic.md)
   + [将PDF转换为Word](60-second/convert-pdf-word.md)
