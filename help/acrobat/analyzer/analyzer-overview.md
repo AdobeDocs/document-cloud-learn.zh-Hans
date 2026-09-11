@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
+source-git-commit: da98ee8b3d0fdf974740fdaf419c49dde8fe70c2
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,6 +31,10 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
 >[!TAB 使用属性]
 
 了解如何在Acrobat Studio中使用Analyzer创建、测试和优化[属性](attributes.md)。
+
+>[!TAB 探索高级功能]
+
+了解如何[导出提取的数据、共享收藏集、比较两个文档并使用AI Assistant](advanced.md)来快速处理临时问题
 
 >[!ENDTABS]
 
@@ -69,6 +73,18 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
   <td>
+    <a href="advanced.md">
+      <img alt="探索高级功能" src="../assets/analyzer_advanced.png" />
+    </a>
+    <div>
+    <a href="advanced.md"><strong>探索高级功能</strong></a>
+    </div>
+    了解如何导出提取的数据、共享收藏集、比较两个文档以及使用AI Assistant快速提出临时问题
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="use-cases/use-case-overview.md">
       <img alt="Acrobat Studio中的Analyzer用例" src="../assets/analyzer_usecases.png" />
     </a>
@@ -76,6 +92,21 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio用例中的Analyzer</strong></a>
     </div>
     探索真实使用案例，这些案例可展示组织如何简化审核流程、发现洞察力，以及将文档内容转化为业务就绪型数据
+    <br>
+  </td>
+    <td>
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+    <img alt="间隔物" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
