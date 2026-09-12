@@ -2,7 +2,7 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 6%
@@ -79,7 +79,7 @@ ht-degree: 6%
     + [自定义命令和工具](advanced-tasks/custom.md)
 + AI支持 {#ai-powered}
   + [概述](ai-powered/ai-overview.md)
-  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
@@ -143,7 +143,7 @@ ht-degree: 6%
   + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
   + [立即创建照片PDF](60-second/photo.md)
   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
-  + [在捕捉中创建更高效的PDF文件](60-second/optimize.md)
+  + [快速创建更高效的PDF文件](60-second/optimize.md)
   + [对纸质文档进行电子签名](60-second/sign.md)
   + [使用密码Protect您的PDF文件](60-second/protect.md)
   + [密文：正确方法](60-second/redaction.md)
