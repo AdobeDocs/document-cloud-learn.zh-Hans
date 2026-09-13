@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解Acrobat Studio中的Analyzer如何帮助您从大量文档中提取结构化、引用的数据。 而不是一次阅读数百或数千份合同、供应商协议或合规性文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503119?captions=chi_hans&quality=12&learn=on&hidetitle=true)
