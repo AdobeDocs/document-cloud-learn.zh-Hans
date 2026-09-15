@@ -15,4 +15,4 @@ ht-degree: 0%
 
 主合同层不会丢失项目边距。 它一次失去一份分包合同 — 一份是在任何人都未给回收定价之前就到期的变更单，一份悄悄变成延期索偿的RFI，一份从未被纳入分包契约的合同保护。 当它出现在报告中时，这些钱已经花光了。 了解如何通过发现未完成的更改单、RFI过期和合同缺缺来识别分包协议中的隐藏利润损失风险，以防它们影响项目盈利能力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503515?captions=chi_hans&quality=12&learn=on&hidetitle=true)
