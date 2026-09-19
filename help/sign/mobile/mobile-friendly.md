@@ -5,13 +5,12 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18735
-source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
+exl-id: ffa5c39a-c3cc-45b1-a8ae-85b2e813e364
+source-git-commit: ff801a13834e099a1769821e908a65e1e9fc077f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '170'
 ht-degree: 0%
-
 ---
-
 # 支持移动设备的视图
 
 从专业人士签订合同到家长填写学校表格，随时随地完成任务不再是可有可无的，人们对简单的移动解决方案的需求比以往任何时候都大。 了解如何使用移动友好的视图来消除捏合和缩放操作，并减少在移动设备上完成表单时出现的错误。
