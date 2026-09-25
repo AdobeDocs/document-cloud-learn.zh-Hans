@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 6%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 6%
   + 使用AI更智能地工作 {#ai}
     + [用AI助手发现PDF见解](getting-started/ai-assistant.md)
     + [利用PDF空间提高团队效率](getting-started/pdf-spaces-legal.md)
+    + [创建播客](getting-started/podcast.md)
   + 创建和整理 {#create}
     + [创建PDF](getting-started/create-pdf.md)
     + [将多个文件合并为单个PDF](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 6%
   + [什么是Acrobat Studio？](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [用AI助手发现PDF见解](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [利用PDF空间提高团队效率](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [创建播客](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [在PDF中编辑图形](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [设置此PDF的风格](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat Studio中的分析器 {#analyzer}
@@ -130,7 +132,7 @@ ht-degree: 6%
   + [使用Acrobat Web版编辑PDF](60-second/edit.md)
   + [识别扫描PDF文件中的文本](60-second/textrecognition.md)
   + [将多个文件合并为一个PDF](60-second/combine-to-one-pdf.md)
-  + [在捕捉中整理页面](60-second/organize.md)
+  + [快速整理页面](60-second/organize.md)
   + [在您的PDF中编辑照片](60-second/editphoto.md)
   + [在PDF中编辑图形](60-second/editgraphic.md)
   + [将PDF转换为Word](60-second/convert-pdf-word.md)
@@ -142,7 +144,7 @@ ht-degree: 6%
   + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
   + [立即创建照片PDF](60-second/photo.md)
   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
-  + [在捕捉中创建更高效的PDF文件](60-second/optimize.md)
+  + [快速创建更高效的PDF文件](60-second/optimize.md)
   + [对纸质文档进行电子签名](60-second/sign.md)
   + [使用密码Protect您的PDF文件](60-second/protect.md)
   + [密文：正确方法](60-second/redaction.md)

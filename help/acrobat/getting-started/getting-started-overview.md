@@ -10,20 +10,23 @@ exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
 TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
+    internal-label: Insights
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: 2884
+source-wordcount: '2995'
 ht-degree: 0%
-
 ---
-
 # 开始使用概述
 
 通过这些简单的分步教程，了解如何开始使用Adobe Acrobat。 从创建文档到保护或[编辑您的PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}，此内容旨在让您轻松处理PDF工作流程。 请查看此精心策划的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-get-started-business-users)，了解如何开始使用Acrobat。
@@ -31,6 +34,10 @@ ht-degree: 0%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 创建播客]
+
+了解如何从PDF中的文档和研究材料创建AI生成的[播客](podcast.md)。
 
 >[!TAB 什么是Acrobat Studio？]
 
@@ -43,10 +50,6 @@ ht-degree: 0%
 >[!TAB 使用PDF空间提高团队效率]
 
 使用个性化的AI助理将文件和网站集合转变为[可共享、对话的知识中心](pdf-spaces-legal.md)。
-
->[!TAB 用AI Assistant发现PDF见解]
-
-了解如何[发现PDF中的PDF见解](ai-assistant.md)。
 
 >[!ENDTABS]
 
@@ -240,6 +243,29 @@ ht-degree: 0%
                     <p class="is-size-6">了解如何将文件和网站集合转变为可共享、对话式的知识中心</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="创建播客" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="创建播客"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="利用PDF空间提高团队效率">创建播客</a>
+                    </p>
+                    <p class="is-size-6">了解如何根据文档和研究材料创建AI生成的播客</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看</span>
                 </a>
             </div>
