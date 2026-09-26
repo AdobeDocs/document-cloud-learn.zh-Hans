@@ -14,4 +14,4 @@ ht-degree: 0%
 
 了解如何使用Acrobat Studio从文档和研究材料中创建AI生成的播客。 了解播客如何帮助总结关键信息、突出重要见解并使内容更易于随时随地使用。 您还将了解如何为您的受众自定义播客输出，以及在将新信息添加到您的项目时更新播客。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503840?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503848?captions=chi_hans&enablevpops&quality=12&learn=on&hidetitle=true)
