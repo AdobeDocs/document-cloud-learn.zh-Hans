@@ -2,9 +2,9 @@
 user-guide-title: Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '767'
 ht-degree: 6%
 ---
 
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [探索高级功能](analyzer/advanced.md)
   + 使用案例 {#use-cases}
     + [概述](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [合并与收购集成后合同审计](analyzer/use-cases/m-and-a-post-audit.md)
-    + [加快财会收入与审计评审](analyzer/use-cases/accelerate-revenue.md)
-    + [将数据隐私风险转变为全面可见性和监控](analyzer/use-cases/data-privacy-risk.md)
-    + [用于侵蚀余量源检测的转包管理](analyzer/use-cases/identify-margin-erosion.md)
+    + [合并与收购：收购后的审计合同](analyzer/use-cases/m-and-a-post-audit.md)
+    + [财务：审查收入确认和审计的合同](analyzer/use-cases/accelerate-revenue.md)
+    + [隐私与信息安全：查看数据隐私协议](analyzer/use-cases/data-privacy-risk.md)
+    + [施工：查找分包合同中的保证金风险](analyzer/use-cases/identify-margin-erosion.md)
+    + [信息安全审核：识别供应商风险](analyzer/use-cases/vendor-risk.md)
   + [在线研讨会](https://experienceleague.adobe.com/zh-hans/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + 使用案例 {#use-cases}
   + [概述](use-cases/use-cases-overview.md)
@@ -144,7 +145,7 @@ ht-degree: 6%
   + [将Word转换为PDF（包括表单字段）](60-second/wordform.md)
   + [立即创建照片PDF](60-second/photo.md)
   + [在手机上将PPT文件转换为PDF](60-second/phone.md)
-  + [快速创建更高效的PDF文件](60-second/optimize.md)
+  + [在捕捉中创建更高效的PDF文件](60-second/optimize.md)
   + [对纸质文档进行电子签名](60-second/sign.md)
   + [使用密码Protect您的PDF文件](60-second/protect.md)
   + [密文：正确方法](60-second/redaction.md)

@@ -1,20 +1,18 @@
 ---
-title: M&A集成后合同审核
-description: 了解Acrobat Studio中的Analyser如何帮助企业在几分钟而不是几周内运行合并与收购后合同审核
+title: 合并与收购 — 收购后的审计合同
+description: 了解并购团队如何分析大型合同集，在几分钟而不是几周内识别关键义务、条款和潜在风险
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
-
 ---
 
+# 合并与收购：收购后的审计合同
 
-# 合并与收购集成后合同审计
-
-了解Acrobat Studio中的Analyzer如何使用GenAI提取关键信息并帮助查找存在风险的合同，从而帮助企业在几分钟而不是数周内对合并与收购后的合同进行审计。
+在合并或收购后查找合同风险。 了解并购团队如何借助Acrobat Studio中的Analyser分析大型合同集，在几分钟而不是几周内识别关键义务、条款和潜在风险。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496362?captions=chi_hans&quality=12&learn=on&hidetitle=true)

@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '437'
+ht-degree: 0%
 ---
-
 # Acrobat Studio中的Analyzer概述
 
 Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化文档中提取结构化、可审核的见解，以自动化以文档为中心的业务流程。
@@ -34,11 +32,17 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
 
 >[!TAB 探索高级功能]
 
-了解如何[导出提取的数据、共享收藏集、比较两个文档并使用AI Assistant](advanced.md)来快速处理临时问题
+了解如何[导出提取的数据、共享收藏集、比较两个文档并使用AI Assistant](advanced.md)来快速处理临时问题。
+
+>[!TAB 使用中的用例]
+
+了解真实的[用例](use-cases/use-case-overview.md)以及不同团队如何利用Acrobat Studio中的Analyzer更智能、更快速地工作。
 
 >[!ENDTABS]
 
-## Acrobat Studio教程中的Analyzer
+## 基本
+
+开始了解基础知识。 了解如何在Acrobat Studio中使用Analyzer来快速了解、总结文档并与文档进行交互。
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +87,66 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <br>
   </td>
 </tr>
+</table>
+
+## 正在使用的用例
+
+查看真实情景。 了解不同的团队如何利用Acrobat Studio中的Analyzer更智能、更快速地工作。
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Acrobat Studio中的Analyzer用例" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="合并与收购：收购后的审计合同" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Acrobat Studio用例中的Analyzer</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>合并和收购：在收购后审核合同</strong></a>
     </div>
-    探索真实使用案例，这些案例可展示组织如何简化审核流程、发现洞察力，以及将文档内容转化为业务就绪型数据
+    了解并购团队如何分析大型合同集，在几分钟而不是几周内识别关键义务、条款和潜在风险
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="财务：审查收入确认和审计的合同" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>财务：审核合同以进行收入确认和审核</strong></a>
+    </div>
+    了解财务团队如何能够更快地为审计做好准备、支持收入确认和识别会计风险
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="隐私与信息安全：查看数据隐私协议" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>隐私与信息安全：查看数据隐私协议</strong></a>
+    </div>
+    了解隐私和信息安全团队如何识别合规性差距并通过可跟踪结果验证义务
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="施工：查找分包合同中的保证金风险" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>构造：查找分包中的保证金风险</strong></a>
+    </div>
+    了解建筑和项目团队如何能够及时发现错过的更改单、过时的RFI以及分包保护中的漏洞而不影响利润
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="信息安全审核：识别供应商风险" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>信息安全审核：识别供应商风险</strong></a>
+    </div>
+    了解如何主动发现供应商合同中的信息安全风险
+    <br>
+  </td>
+  <td>
     <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +156,11 @@ Acrobat Studio中的Analyzer可帮助业务用户从数以万计的非结构化�
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="间隔物" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

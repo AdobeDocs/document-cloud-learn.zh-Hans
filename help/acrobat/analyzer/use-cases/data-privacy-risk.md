@@ -1,20 +1,19 @@
 ---
-title: 将数据隐私风险转变为全面可见性和监控
-description: 了解Acrobat Studio中的Analyzer如何帮助隐私、法律和采购团队大规模提取、监控和验证关键DPA条款
+title: 隐私与信息安全 — 查看数据隐私协议
+description: 了解隐私和信息安全团队如何识别合规性差距并通过可跟踪结果验证义务
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
 
+# 隐私与信息安全：查看数据隐私协议
 
-# 将数据隐私风险转变为全面可见性和监控
+在供应商协议和DPA中查找并监控关键隐私条款。 了解隐私和信息安全团队如何借助Acrobat Studio中的Analyzer可跟踪结果识别合规性差距和验证义务。
 
-数据隐私义务往往被掩埋在数百个供应商协议中，这使得在法规遵从性差距成为业务风险之前很难发现它们。 了解Acrobat Studio中的Analyzer如何帮助隐私、法律和采购团队通过完全可追溯的结果大规模提取、监控和验证关键DPA条款。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)
