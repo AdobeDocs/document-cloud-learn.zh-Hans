@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '338'
 ht-degree: 0%
 ---
 # Acrobat Studio中的Analyzer使用案例概述
@@ -17,6 +17,10 @@ ht-degree: 0%
 ## 新增功能
 
 >[!BEGINTABS]
+
+>[!TAB 识别供应商合同风险]
+
+了解Acrobat Studio中的Analyzer如何帮助主动识别供应商合同中的[信息安全风险](vendor-risk.md)。
 
 >[!TAB 识别侵蚀边距]
 
@@ -32,48 +36,77 @@ ht-degree: 0%
 
 >[!ENDTABS]
 
-## Acrobat Studio中的Analyzer使用案例教程
+## 正在使用的用例
+
+查看真实情景。 了解不同的团队如何利用Acrobat Studio中的Analyzer更智能、更快速地工作。
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="合并与收购集成后合同审计" src="../../assets/analyzer_m-and-a.png" />
+      <img alt="合并与收购：收购后的审计合同" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>合并和收购后集成合同审核</strong></a>
+    <a href="m-and-a-post-audit.md"><strong>合并和收购：在收购后审核合同</strong></a>
     </div>
-    了解Acrobat Studio中的Analyser如何帮助企业在几分钟而不是几周内运行合并与收购后合同审核
+    了解并购团队如何分析大型合同集，在几分钟而不是几周内识别关键义务、条款和潜在风险
     <br>
   </td>
   <td>
     <a href="accelerate-revenue.md">
-      <img alt="加快财会收入与审计评审" src="../../assets/analyzer_accelerate-revenue.png" />
+      <img alt="财务：审查收入确认和审计的合同" src="../../assets/analyzer_accelerate-revenue.png" />
     </a>
     <div>
-    <a href="accelerate-revenue.md"><strong>加快收入与财务审计审查</strong></a>
+    <a href="accelerate-revenue.md"><strong>财务：审核合同以进行收入确认和审核</strong></a>
     </div>
-    了解Acrobat Studio中的Analyser如何帮助财务团队大规模提取、审阅和验证合同数据
+    了解财务团队如何能够更快地为审计做好准备、支持收入确认和识别会计风险
     <br>
   </td>
   <td>
     <a href="data-privacy-risk.md">
-      <img alt="将数据隐私风险转变为全面可见性和监控" src="../../assets/analyzer_data-privacy.png" />
+      <img alt="隐私与信息安全：查看数据隐私协议" src="../../assets/analyzer_data-privacy.png" />
     </a>
     <div>
-    <a href="data-privacy-risk.md"><strong>将数据隐私风险转变为完全可见和监控</strong></a>
+    <a href="data-privacy-risk.md"><strong>隐私与信息安全：查看数据隐私协议</strong></a>
     </div>
-    了解Acrobat Studio中的Analyzer如何帮助隐私、法律和采购团队大规模提取、监控和验证关键DPA条款
+    了解隐私和信息安全团队如何识别合规性差距并通过可跟踪结果验证义务
     <br>
   </td>
   <td>
     <a href="identify-margin-erosion.md">
-      <img alt="用于侵蚀余量源检测的转包管理" src="../../assets/analyzer_margin-identification.png" />
+      <img alt="施工：查找分包合同中的保证金风险" src="../../assets/analyzer_margin-identification.png" />
     </a>
     <div>
-    <a href="identify-margin-erosion.md"><strong>分包管理，用于识别侵蚀边距源检测</strong></a>
+    <a href="identify-margin-erosion.md"><strong>构造：查找分包中的保证金风险</strong></a>
     </div>
-    了解Acrobat Studio中的Analyzer如何帮助检测各分包商协议利润损失的预警信号，并在成本上升之前采取行动
+    了解建筑和项目团队如何能够及时发现错过的更改单、过时的RFI以及分包保护中的漏洞而不影响利润
+    <br>
+  </td>
+</tr>
+<tr>
+<td>
+    <a href="vendor-risk.md">
+      <img alt="信息安全审核：识别供应商风险" src="../../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="vendor-risk.md"><strong>信息安全审核：识别供应商风险</strong></a>
+    </div>
+    了解如何主动发现供应商合同中的信息安全风险
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
