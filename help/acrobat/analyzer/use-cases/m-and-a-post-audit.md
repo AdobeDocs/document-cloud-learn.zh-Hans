@@ -15,4 +15,4 @@ ht-degree: 0%
 
 在合并或收购后查找合同风险。 了解并购团队如何借助Acrobat Studio中的Analyser分析大型合同集，在几分钟而不是几周内识别关键义务、条款和潜在风险。
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496362?captions=chi_hans&quality=12&learn=on&hidetitle=true)

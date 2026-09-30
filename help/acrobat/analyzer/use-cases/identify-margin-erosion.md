@@ -16,4 +16,4 @@ ht-degree: 0%
 确定可降低项目获利能力的合同问题。 了解建筑和项目团队如何使用Acrobat Studio中的Analyser在更改单丢失、RFI过期和分包保护漏洞影响利润之前发现它们。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503515?captions=chi_hans&quality=12&learn=on&hidetitle=true)

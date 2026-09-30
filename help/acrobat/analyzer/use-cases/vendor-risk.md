@@ -15,4 +15,4 @@ ht-degree: 0%
 
 了解Acrobat Studio中的Analyzer如何主动识别供应商合同中的信息安全风险。
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503861?captions=chi_hans&quality=12&learn=on&hidetitle=true)
