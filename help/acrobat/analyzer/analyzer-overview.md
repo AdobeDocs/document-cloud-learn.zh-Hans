@@ -16,7 +16,7 @@ ht-degree: 0%
 
 了解如何在Acrobat Studio中使用Analyzer将复杂的文档转换为清晰的见解。 这些简短的教程可帮助您快速入门、探索高级功能并查看实际用例。
 
-[!BADGE 有信息]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE 有信息]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
 
 ## 新增功能
 
