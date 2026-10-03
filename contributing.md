@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## 投稿人指南文档
 
-请参阅[投稿人指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+请参阅[投稿人指南](https://docs.adobe.com/content/help/zh-Hans/contributor/contributor-guide/introduction.html)。
 
 ## 有疑问？
 
