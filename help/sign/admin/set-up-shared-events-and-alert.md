@@ -38,4 +38,4 @@ ht-degree: 0%
 
 了解可在Acrobat Sign中配置的共享事件和警告设置。 “警报”是在特定时间帧内未发生的操作，“事件”是已发生的操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411204?captions=chi_hans&quality=12&learn=on&hidetitle=true)

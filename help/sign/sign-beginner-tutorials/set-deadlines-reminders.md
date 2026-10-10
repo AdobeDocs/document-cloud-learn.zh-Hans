@@ -34,5 +34,5 @@ ht-degree: 6%
 >
 >企业和商业计划可以在发送过程中选择性地自动公开提醒选项，或启用帐户/群组范围内的自动操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425320?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
