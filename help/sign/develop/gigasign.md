@@ -8,50 +8,58 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-TQID: https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM
+TQID: 'https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+    internal-label: Target
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Troubleshooting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 331
-ht-degree: 2%
-
+source-wordcount: '331'
+ht-degree: 4%
 ---
-
 # 使用GigaSign收集大量文档
 
 借助Gigasign，您可以同时向数千人发送、收集和跟踪文档，以供其签名。 它旨在与您的员工和客户进行高容量通信 — 每次批量发送最多支持2,500个收件人。 GigaSign使用Acrobat Sign API提供与MegaSign相同的功能，并且包括支持多个签名者、接收者组、接收者角色、协议名称、Carbon Copy等。
 
 >[!IMPORTANT]
 >
->GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 正在将GigaSign的功能添加到产品的[批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=zh-Hans？)功能下。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
+>GigaSign将不再更新到最新版本的Java或Acrobat Sign，并且仅提供有限的支持。 正在将GigaSign的功能添加到产品的[批量发送](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html？)功能下。 对于所有没有明确要求使用GigaSign的使用案例，请使用批量发送。
 
->[!VIDEO](https://video.tv.adobe.com/v/3453520?captions=chi_hans&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## 下载并安装GigaSign应用程序
 
 [下载GigaSign Zip文件](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Java 1.8下载链接（仅在需要时）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
+[Java 1.8下载链接（仅在需要时）](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
 [将IP地址列入白名单（仅在需要时使用）](https://helpx.adobe.com/cn/sign/system-requirements.html#IPs){target="_blank"}
 
 ## 基本设置说明
 
-1. 登录到您的Acrobat Sign帐户。
+1. 登录您的 Adobe Sign 帐户。
 
 1. 单击&#x200B;**[!UICONTROL 组]**&#x200B;或&#x200B;**[!UICONTROL 帐户]**，具体取决于您在顶部看到的内容。
 

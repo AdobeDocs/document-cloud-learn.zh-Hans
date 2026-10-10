@@ -7,22 +7,25 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+TQID: 'https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Reporting
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 480
+source-wordcount: '480'
 ht-degree: 3%
-
 ---
-
 # 高级任务概述
 
 了解如何立即将文档发送给数百个收件人以供签名、为您的网站设置可签名文档、管理签名事务，以及创建和管理文档模板。 这些教程适用于任何熟悉发送和请求签名基本知识并希望了解Acrobat Sign如何为其工作的人。

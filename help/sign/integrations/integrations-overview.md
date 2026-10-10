@@ -10,25 +10,30 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-TQID: https://experienceleague.adobe.com/oLA1KpsFqw0HDbAHJrI-ratPi-3YmAKDOLBTEvzuP0o
+TQID: 'https://experienceleague.adobe.com/oLA1KpsFqw0HDbAHJrI-ratPi-3YmAKDOLBTEvzuP0o'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 875
+source-wordcount: '875'
 ht-degree: 0%
-
 ---
-
 # 集成概述
 
 您可以在公司已使用的其他应用程序（例如Microsoft、Salesforce、Workday和Marketo）中使用Acrobat Sign。 通过这些集成指南和教程，了解如何简化电子签名工作流程。
@@ -48,7 +53,7 @@ ht-degree: 0%
 
 了解如何轻松地将您的帐户链接到Salesforce以获取[自动更新](salesforce-automatic-updates.md)。
 
->[!TAB Microsoft Teams的 “文档”选项卡集成]
+>Microsoft Teams的[!TAB “文档”选项卡集成]
 
 了解如何直接从[!DNL Microsoft Teams]中的[“文档”选项卡](acrobat-sign-teams-documents-tab.md)发送文档以供签名。
 
@@ -127,7 +132,7 @@ ht-degree: 0%
     <div>
     <a href="documentautomation.md"><strong>使用[!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>实现文档自动化
     </div>
-    <em>了解如何为[!DNL Microsoft Power]个应用程序激活和使用[!DNL Acrobat Sign]和[!DNL Adobe PDF Tools]连接器</em>
+    <em>了解如何激活和使用[!DNL Microsoft Power]应用程序的[!DNL Acrobat Sign]和[!DNL Adobe PDF Tools]连接器</em>
     <br>
   </td>
    <td>
@@ -169,7 +174,7 @@ ht-degree: 0%
     <div>
     <a href="simple-workflow-power-automate.md"><strong>使用[!DNL Power Automate]</strong></a>创建简单的工作流
     </div>
-    <em>了解如何使用[!DNL Power Automate]连接器创建简单的工作流</em>
+    <em>了解如何使用[!DNL Power Automate]连接器创建简单的工作流程</em>
     <br>
   </td>
   <td>
