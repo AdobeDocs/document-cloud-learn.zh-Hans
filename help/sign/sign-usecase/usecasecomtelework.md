@@ -7,24 +7,28 @@ level: Intermediate
 jira: KT-5295
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-TQID: https://experienceleague.adobe.com/AXlqR1aDm89aEn0JzO6JB3TU8lTtNHmtgFcxC5Cf45U
+TQID: 'https://experienceleague.adobe.com/AXlqR1aDm89aEn0JzO6JB3TU8lTtNHmtgFcxC5Cf45U'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Customer experience
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # 商业远程工作协议
 
 了解如何高效地收集所有员工对远程工作协议、策略更新等的签名。 首先创建可从文档库快速访问的可重用文档模板。 其次，您使用Mega Sign一次将新文档模板发送给数百名员工进行签名。
