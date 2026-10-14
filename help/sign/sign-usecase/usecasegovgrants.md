@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # 政府业务补助及贷款
 
 通过自助访问赠款、贷款和税收递延申请表，为企业提供快速帮助。 了解如何创建无需打印或邮寄任何内容即可完成&#x200B;**和**&#x200B;签名的在线Web表单。
