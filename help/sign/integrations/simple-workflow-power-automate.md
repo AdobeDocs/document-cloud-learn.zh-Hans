@@ -17,4 +17,4 @@ ht-degree: 0%
 了解组织的非技术成员如何能够创建简单的工作流，即使用Acrobat Sign中免费提供的预构建[!DNL Microsoft Power Automate]连接器连接到其他系统。 这些自动化的文档工作流程有助于提高常见流程的速度和效率，减少重复任务所花费的时间，并最大程度地减少错误和重新工作。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437919?captions=chi_hans&quality=12&learn=on&hidetitle=true)

@@ -20,4 +20,4 @@ ht-degree: 0%
 >
 >组仅适用于商业和企业级别计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411246?captions=chi_hans&quality=12&learn=on&hidetitle=true)
