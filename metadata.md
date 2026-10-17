@@ -3,6 +3,7 @@ cloud: Document Cloud
 solution: Acrobat
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: "Acrobat"
 usetq: true
 feature-set: Document Cloud
 role: User
@@ -13,11 +14,9 @@ git-repo: https://github.com/AdobeDocs/document-cloud-learn.zh-Hans
 index: true
 source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 
 # 供内部使用的元数据
 
