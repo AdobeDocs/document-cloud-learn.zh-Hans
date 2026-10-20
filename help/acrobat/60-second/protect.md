@@ -25,6 +25,6 @@ ht-degree: 19%
 
 # 使用密码Protect您的PDF文件
 
-在此60秒的视频教程中，了解如何[保护PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}，以便打开或[编辑PDF](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}需要密码。
+在此60秒的视频教程中，了解如何[保护PDF](https://www.adobe.com/cn/acrobat/online/password-protect-pdf.html){target="_blank"}，以便打开或[编辑PDF](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}需要密码。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347108?captions=chi_hans&quality=12&learn=on&hidetitle=true)

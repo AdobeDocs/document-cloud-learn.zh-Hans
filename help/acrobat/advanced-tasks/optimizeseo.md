@@ -43,7 +43,7 @@ PDF内容应具有唯一性，其结构如下：
 * 为超过25页的文档添加超链接目录
 * 对所有扫描的文档运行[文本识别](https://experienceleague.adobe.com/zh-hans/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr)
 * 构建移动友好的PDF
-要检查PDF的移动查看体验，请在[Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html)中打开文件并打开Liquid Mode。 包括必要附加子标题以改进导航。
+要检查PDF的移动查看体验，请在[Acrobat Reader移动应用程序](https://www.adobe.com/cn/acrobat/mobile/acrobat-reader.html)中打开文件并打开Liquid Mode。 包括必要附加子标题以改进导航。
 
   ![Acrobat Reader移动应用程序中Liquid Mode的屏幕截图](../assets/optimizeseo1.png)
 
@@ -98,7 +98,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 ## &#x200B;4. 准备使用Web
 
-通过为Web查看做准备并[减小PDF文件大小](https://www.adobe.com/acrobat/online/compress-pdf.html){target="_blank"}，优化您的PDF。
+通过为Web查看做准备并[减小PDF文件大小](https://www.adobe.com/cn/acrobat/online/compress-pdf.html){target="_blank"}，优化您的PDF。
 
 +++查看有关如何准备WebPDF的详细信息
 
@@ -134,7 +134,7 @@ PDF文件具有标题和元描述，就像网页一样。
 
 ## &#x200B;6. 保护 PDF
 
-最后一步是[保护您的PDF](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以防止未经授权的更改。
+最后一步是[保护您的PDF](https://www.adobe.com/cn/acrobat/online/password-protect-pdf.html){target="_blank"}以防止未经授权的更改。
 
 +++查看有关如何保护您的PDF的详细信息
 

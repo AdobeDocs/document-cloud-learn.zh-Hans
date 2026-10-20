@@ -15,7 +15,7 @@ ht-degree: 10%
 
 # 使用Acrobat - Protect数字文档时可随处使用的5个提示
 
-[向您的PDF添加密码](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以防止复制、编辑或打印。
+[向您的PDF添加密码](https://www.adobe.com/cn/acrobat/online/password-protect-pdf.html){target="_blank"}以防止复制、编辑或打印。
 
 ## 提示#3 - Protect数字文档(1:23)
 

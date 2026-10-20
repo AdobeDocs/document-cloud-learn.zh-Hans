@@ -25,7 +25,7 @@ ht-degree: 4%
 
 # 将多个文件合并为单个PDF
 
-提供最佳客户体验需要以前所未有的速度创建内容。 了解如何无缝合并多种不同类型的文件（PDF、Word、Excel、PowerPoint、JPEG等） 合并为单个PDF。 [将文件合并为单个PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}允许您管理和控制发送给其他人的内容，从而创建更好的体验。
+提供最佳客户体验需要以前所未有的速度创建内容。 了解如何无缝合并多种不同类型的文件（PDF、Word、Excel、PowerPoint、JPEG等） 合并为单个PDF。 [将文件合并为单个PDF](https://www.adobe.com/cn/acrobat/online/merge-pdf.html){target="_blank"}允许您管理和控制发送给其他人的内容，从而创建更好的体验。
 
 >[!TIP]
 >

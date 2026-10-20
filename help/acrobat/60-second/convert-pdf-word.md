@@ -22,6 +22,6 @@ ht-degree: 14%
 
 # 将PDF转换为Word
 
-在此60秒的视频教程中，了解如何[将PDF文件转换为完全可编辑的Microsoft Word文档](https://www.adobe.com/acrobat/online/pdf-to-word.html){target="_blank"}。
+在此60秒的视频教程中，了解如何[将PDF文件转换为完全可编辑的Microsoft Word文档](https://www.adobe.com/cn/acrobat/online/pdf-to-word.html){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428843?captions=chi_hans&quality=12&learn=on&hidetitle=true)

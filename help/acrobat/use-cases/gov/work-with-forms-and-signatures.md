@@ -15,7 +15,7 @@ ht-degree: 7%
 
 # 5有关随时随地使用Acrobat的提示 — 使用表单和签名
 
-每个人都需要[填写表单](https://www.adobe.com/acrobat/online/sign-pdf.html)。 由于您并非始终有权访问打印机，因此请了解如何在填写表单时保持数字化。
+每个人都需要[填写表单](https://www.adobe.com/cn/acrobat/online/sign-pdf.html)。 由于您并非始终有权访问打印机，因此请了解如何在填写表单时保持数字化。
 
 ## 提示#4 — 使用表单和签名(7:03)
 

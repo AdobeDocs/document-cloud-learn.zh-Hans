@@ -40,7 +40,7 @@ ht-degree: 1%
 
 **第4步：**&#x200B;使用白色按钮拍照，然后点击&#x200B;**[!UICONTROL 使用照片]**。 点按右上角的&#x200B;**[!UICONTROL 完成]**。
 
-**步骤5：**&#x200B;在应用程序底部，点击&#x200B;**[!UICONTROL 裁切]**&#x200B;工具并使用参考线[裁切图像](https://www.adobe.com/acrobat/online/crop-pdf.html)。 完成后点击&#x200B;**[!UICONTROL 完成]**。
+**步骤5：**&#x200B;在应用程序底部，点击&#x200B;**[!UICONTROL 裁切]**&#x200B;工具并使用参考线[裁切图像](https://www.adobe.com/cn/acrobat/online/crop-pdf.html)。 完成后点击&#x200B;**[!UICONTROL 完成]**。
 
 ![本地文档图像](assets/localdoc.jpg)
 

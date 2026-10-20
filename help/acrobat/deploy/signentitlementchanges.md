@@ -29,7 +29,7 @@ ht-degree: 7%
 
 仅从2020年8月开始，将从ETLA（企业定期许可协议）中包含的所有Acrobat DC权利中取消配置[!DNL Adobe Sign Individual]（也称为Adobe Sign Pro），并将持续到2020年11月20日。 [!DNL Adobe Sign Individual]不提供企业级功能，应替换为Adobe Sign Enterprise企业版客户。 其中包括作为独立应用程序许可的Acrobat DC以及作为企业版Creative Cloud — 所有应用程序的一部分许可的Acrobat DC。
 
-可通过&#x200B;**Adobe Sign**&#x200B;工具或&#x200B;**Fill &amp; Sign**&#x200B;工具在Acrobat中访问[!DNL Adobe Sign Individual] （[请求签名](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}）。
+可通过&#x200B;**Adobe Sign**&#x200B;工具或&#x200B;**Fill &amp; Sign**&#x200B;工具在Acrobat中访问[!DNL Adobe Sign Individual] （[请求签名](https://www.adobe.com/cn/acrobat/online/request-signature.html){target="_blank"}）。
 
 在Acrobat DC![&#128279;](../assets/Deploy_SignEntitle1.png)中访问[!DNL Adobe Sign Individual]
 
@@ -83,7 +83,7 @@ Adobe Sign是业界领先的全球公认解决方案，用于捕获符合法律�
 
 * [登录 Adobe Document Cloud](https://helpx.adobe.com/cn/document-cloud/help/sign-in.html)
 * [管理文件（我的文件在哪里？）](https://helpx.adobe.com/cn/document-cloud/help/manage-files.html)
-* [使用[!UICONTROL Customization Wizard]进行配置](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [使用[!UICONTROL Customization Wizard]进行配置](https://www.adobe.com/cn/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [[!UICONTROL Admin Console]概述](https://helpx.adobe.com/cn/enterprise/using/admin-console.html)
 * [在[!UICONTROL Admin Console]上管理Adobe Sign](https://helpx.adobe.com/cn/enterprise/using/verify-domain-ownership.html)
 

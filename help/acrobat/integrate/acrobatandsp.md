@@ -25,7 +25,7 @@ ht-degree: 4%
 
 # 处理您的[!DNL SharePoint]文件
 
-使用[Adobe Acrobat for Acrobat 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)简化[!DNL SharePoint]和Microsoft的文档工作流程。 安全地将文件[!DNL Microsoft 365]转换为PDF，[将PDF文档](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}合并为一个文件，添加注释并重新排列页面 — 可直接从[!DNL SharePoint]在线完成。
+使用[Adobe Acrobat for Acrobat 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview)简化[!DNL SharePoint]和Microsoft的文档工作流程。 安全地将文件[!DNL Microsoft 365]转换为PDF，[将PDF文档](https://www.adobe.com/cn/acrobat/online/merge-pdf.html){target="_blank"}合并为一个文件，添加注释并重新排列页面 — 可直接从[!DNL SharePoint]在线完成。
 
 >[!NOTE]
 >

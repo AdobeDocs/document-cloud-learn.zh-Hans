@@ -25,7 +25,7 @@ ht-degree: 8%
 
 # 获取签名
 
-通过从任何地方收集具有法律约束力的[电子签名](https://www.adobe.com/acrobat/online/request-signature.html){target="_blank"}，让业务继续发展。
+通过从任何地方收集具有法律约束力的[电子签名](https://www.adobe.com/cn/acrobat/online/request-signature.html){target="_blank"}，让业务继续发展。
 
 >[!IMPORTANT]
 >

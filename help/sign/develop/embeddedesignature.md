@@ -41,7 +41,7 @@ ht-degree: 1%
 
 +++查看有关如何获取API凭据的详细信息
 
-* [Acrobat Sign开发人员帐户](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Acrobat Sign开发人员帐户](https://www.adobe.com/cn/acrobat/business/developer-form.html)
 * [入门代码](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS代码（或您选择的编辑器）](https://code.visualstudio.com)
 * Python 3.x
