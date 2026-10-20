@@ -55,11 +55,11 @@ ht-degree: 26%
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/cn/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe 信任中心" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
+    <a href="https://www.adobe.com/cn/trust/document-cloud-security.html" target="_blank"><strong>Adobe信任中心</strong></a>
     </div>
     <em>了解我们在Acrobat Sign的安全性、合法性和标准方面持续作出的努力</em>
     <br>

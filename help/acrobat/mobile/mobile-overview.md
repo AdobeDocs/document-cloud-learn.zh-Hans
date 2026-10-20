@@ -25,7 +25,7 @@ ht-degree: 6%
 
 # 移动设备概述
 
-在移动设备上创建、填写和签署PDF[&#128279;](https://www.adobe.com/acrobat/online/sign-pdf.html){target="_blank"}。
+在移动设备上创建、填写和签署PDF[&#128279;](https://www.adobe.com/cn/acrobat/online/sign-pdf.html){target="_blank"}。
 
 ## Acrobat Reader移动应用程序教程
 
@@ -87,14 +87,14 @@ ht-degree: 6%
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-下载[Adobe Acrobat Reader移动应用程序](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"}免费的全球标准，以可靠地查看、批注和签署PDF。
+下载[Adobe Acrobat Reader移动应用程序](https://www.adobe.com/cn/acrobat/mobile/acrobat-reader.html){target="_blank"}免费的全球标准，以可靠地查看、批注和签署PDF。
 
-[适用于iOS的Acrobat Reader移动指南](https://www.adobe.com/devnet-docs/acrobat/ios/cn/){target="_blank"}
-[适用于Android的Acrobat Reader移动版指南](https://www.adobe.com/devnet-docs/acrobat/android/cn/){target="_blank"}
+[适用于iOS的Acrobat Reader移动指南](https://www.adobe.com/cn/devnet-docs/acrobat/ios/cn/){target="_blank"}
+[适用于Android的Acrobat Reader移动版指南](https://www.adobe.com/cn/devnet-docs/acrobat/android/cn/){target="_blank"}
 
-下载[Adobe Scan移动应用程序](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"}以捕获任何纸质文档，并将其转换为包含可搜索文本的高质量PDF。
+下载[Adobe Scan移动应用程序](https://www.adobe.com/cn/acrobat/mobile/scanner-app.html){target="_blank"}以捕获任何纸质文档，并将其转换为包含可搜索文本的高质量PDF。
 
-[适用于iOS的Adobe Scan移动指南](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[适用于Android的Adobe Scan移动版指南](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[适用于iOS的Adobe Scan移动指南](https://www.adobe.com/cn/devnet-docs/adobescan/ios/en/){target="_blank"}
+[适用于Android的Adobe Scan移动版指南](https://www.adobe.com/cn/devnet-docs/adobescan/android/en/){target="_blank"}
 
-下载[Adobe Fill &amp; Sign移动应用程序](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}，只需用手指或手写笔，即可随时随地在任意设备上填写、签名和发送任何表单。
+下载[Adobe Fill &amp; Sign移动应用程序](https://www.adobe.com/cn/acrobat/mobile/fill-sign-pdfs.html){target="_blank"}，只需用手指或手写笔，即可随时随地在任意设备上填写、签名和发送任何表单。

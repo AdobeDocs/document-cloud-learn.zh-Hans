@@ -23,6 +23,6 @@ ht-degree: 12%
 
 # 创建可填写表单
 
-将在InDesign、Microsoft Word、Excel或其他应用程序中创建的扫描纸质表单或文档转换为[可填写的PDF表单](https://www.adobe.com/acrobat/online/sign-pdf.html)。
+将在InDesign、Microsoft Word、Excel或其他应用程序中创建的扫描纸质表单或文档转换为[可填写的PDF表单](https://www.adobe.com/cn/acrobat/online/sign-pdf.html)。
 
 >[!SLIDE](create-fillable-forms)

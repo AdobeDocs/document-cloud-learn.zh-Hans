@@ -31,7 +31,7 @@ ht-degree: 0%
 
 ## Microsoft
 
-了解团队中的每个人都如何能够直接在[Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html)中无缝使用PDF文件。 查看这个在Acrobat和Microsoft 365集成上专业策划的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-integrate-microsoft-365)。
+了解团队中的每个人都如何能够直接在[Microsoft 365](https://www.adobe.com/cn/documentcloud/integrations/microsoft-office-365.html)中无缝使用PDF文件。 查看这个在Acrobat和Microsoft 365集成上专业策划的[播放列表](https://experienceleague.adobe.com/zh-hans/playlists/acrobat-integrate-microsoft-365)。
 
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -266,4 +266,4 @@ ht-degree: 0%
 
 ## 产品包装盒
 
-了解Acrobat和[Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"}如何让组织中的每个人都更轻松地保持业务运转。
+了解Acrobat和[Box](https://www.adobe.com/cn/documentcloud/integrations/box.html){target="_blank"}如何让组织中的每个人都更轻松地保持业务运转。

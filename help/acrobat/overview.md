@@ -31,7 +31,7 @@ Adobe Acrobat是一款Adobe Document Cloud解决方案，通过转换、编辑�
 
 >[!NOTE]
 >
->功能访问权限取决于您的Acrobat计划。 使用[Acrobat计划比较](https://www.adobe.com/acrobat/pricing.html)确定您可以使用的功能。 某些功能正在分阶段推出，可能尚未向所有人提供。
+>功能访问权限取决于您的Acrobat计划。 使用[Acrobat计划比较](https://www.adobe.com/cn/acrobat/pricing.html)确定您可以使用的功能。 某些功能正在分阶段推出，可能尚未向所有人提供。
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

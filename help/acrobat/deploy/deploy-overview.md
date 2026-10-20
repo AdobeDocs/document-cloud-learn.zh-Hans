@@ -27,6 +27,6 @@ ht-degree: 5%
 
 * 了解在使用适用于团队或企业的®Creative Cloud™时，如何[部署Adobe Acrobat](https://helpx.adobe.com/cn/enterprise/using/deploying-acrobat.html){target="_blank"}。
 
-* 了解[适用于Acrobat产品的企业工具包](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}，以跨您的组织部署自定义产品、设置虚拟化安装以及创建企业PDF工作流。
+* 了解[适用于Acrobat产品的企业工具包](https://www.adobe.com/cn/devnet-docs/acrobatetk/index.html){target="_blank"}，以跨您的组织部署自定义产品、设置虚拟化安装以及创建企业PDF工作流。
 
 * 了解将于2020年8月至2020年11月20日开始的ETLA[&#128279;](signentitlementchanges.md){target="_blank"}（企业定期许可协议）中包含的Acrobat DC权利的重要更改。

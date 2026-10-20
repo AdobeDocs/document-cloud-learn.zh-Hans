@@ -26,7 +26,7 @@ ht-degree: 5%
 
 # Protect带密码的PDF文件
 
-了解如何[向您的PDF添加密码](https://www.adobe.com/acrobat/online/password-protect-pdf.html){target="_blank"}以保护其他人不打开或[编辑PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}。 保护您的PDF文件可防止未经授权的访问，保护敏感信息，维护文档完整性，并有助于遵守某些行业法规。
+了解如何[向您的PDF添加密码](https://www.adobe.com/cn/acrobat/online/password-protect-pdf.html){target="_blank"}以保护其他人不打开或[编辑PDF文件](https://www.adobe.com/cn/acrobat/online/pdf-editor.html){target="_blank"}。 保护您的PDF文件可防止未经授权的访问，保护敏感信息，维护文档完整性，并有助于遵守某些行业法规。
 
 **试用：**&#x200B;立即探索保护PDF[动手操作](https://w.adobedemo.com/s/-gNaDL){target="_blank"}。
 

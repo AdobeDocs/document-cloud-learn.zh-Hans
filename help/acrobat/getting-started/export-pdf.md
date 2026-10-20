@@ -23,7 +23,7 @@ ht-degree: 12%
 
 # 将PDF转换为其他文件格式
 
-了解如何将PDF文件转换为不同的文件格式，如[Microsoft Word](https://www.adobe.com/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)和[Excel](https://www.adobe.com/acrobat/online/pdf-to-excel.html)。 还包括将您的PDF转换为[Adobe Express](https://express.adobe.com)以添加品牌化设计元素。 当您将PDF转换为Microsoft Word等其他文件格式时，它会提高文档工作流程的效率，并在对长文档进行大量更改时节省大量时间。 本视频教程使用[新的Acrobat体验](new-experience.md)。
+了解如何将PDF文件转换为不同的文件格式，如[Microsoft Word](https://www.adobe.com/cn/acrobat/online/pdf-to-word.html)、[PowerPoint](https://www.adobe.com/cn/acrobat/online/pdf-to-ppt.html)和[Excel](https://www.adobe.com/cn/acrobat/online/pdf-to-excel.html)。 还包括将您的PDF转换为[Adobe Express](https://express.adobe.com)以添加品牌化设计元素。 当您将PDF转换为Microsoft Word等其他文件格式时，它会提高文档工作流程的效率，并在对长文档进行大量更改时节省大量时间。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
 >[!TIP]
 >

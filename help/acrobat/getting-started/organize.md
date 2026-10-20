@@ -25,7 +25,7 @@ ht-degree: 32%
 
 # 整理页面
 
-提供最佳客户体验需要以前所未有的速度创建内容。 学习如何以您喜欢的方式重新排列页面 — 只需几秒钟即可完成。 [插入](https://www.adobe.com/acrobat/online/add-pages-to-pdf.html){target="_blank"}、替换、[拆分](https://www.adobe.com/acrobat/online/split-pdf.html){target="_blank"}、[重新排序](https://www.adobe.com/cn/acrobat/online/rearrange-pdf.html){target="_blank"}、[旋转](https://www.adobe.com/cn/acrobat/online/rotate-pdf.html){target="_blank"}甚至[提取不连续的页面](https://www.adobe.com/acrobat/online/extract-pdf-pages.html){target="_blank"}以创建具有专业外观的PDF。 本视频教程使用[新的Acrobat体验](new-experience.md)。
+提供最佳客户体验需要以前所未有的速度创建内容。 学习如何以您喜欢的方式重新排列页面 — 只需几秒钟即可完成。 [插入](https://www.adobe.com/cn/acrobat/online/add-pages-to-pdf.html){target="_blank"}、替换、[拆分](https://www.adobe.com/cn/acrobat/online/split-pdf.html){target="_blank"}、[重新排序](https://www.adobe.com/cn/acrobat/online/rearrange-pdf.html){target="_blank"}、[旋转](https://www.adobe.com/cn/acrobat/online/rotate-pdf.html){target="_blank"}甚至[提取不连续的页面](https://www.adobe.com/cn/acrobat/online/extract-pdf-pages.html){target="_blank"}以创建具有专业外观的PDF。 本视频教程使用[新的Acrobat体验](new-experience.md)。
 
 >[!TIP]
 >
